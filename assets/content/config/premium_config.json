@@ -1,8 +1,7 @@
 {
 	"premiumCategories": [
 		"emergency",
-		"social",
-		"community"
+		"social"
 	],
 	"premiumSubcategories": [
 		"greet-online",
