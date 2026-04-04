@@ -1,13 +1,13 @@
 {
   "manifestVersion": 1,
-  "lastUpdated": "2026-04-04T22:15:36.862202Z",
+  "lastUpdated": "2026-04-04T22:19:20.737160Z",
   "content": {
     "config": {
       "premium": {
         "path": "assets/content/config/premium_config.json",
-        "version": 4,
-        "hash": "bbf6c5fb60413adc068583ed76f7ea2a41d8df997cb682f8daf362a1a9289bf5",
-        "size": 230
+        "version": 5,
+        "hash": "4f66e38253257138757313d642a9d6f75f4bcb3374a34f5324b349aebcb7dcea",
+        "size": 215
       }
     },
     "locales": {
