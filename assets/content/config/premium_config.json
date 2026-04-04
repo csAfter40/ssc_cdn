@@ -11,6 +11,7 @@
 	],
 	"premiumScripts": [
 		"talk-weath-1",
-		"talk-plans-1"
+		"talk-plans-1",
+		"greet-cas-1"
 	]
 }
