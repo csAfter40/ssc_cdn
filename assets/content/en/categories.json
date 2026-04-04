@@ -1,0 +1,86 @@
+[
+  {
+    "id": "greeting",
+    "title": "Greetings",
+    "icon": "👋",
+    "sortOrder": 1,
+    "isHidden": false
+  },
+  {
+    "id": "smalltalk",
+    "title": "Small Talk",
+    "icon": "💬",
+    "sortOrder": 2,
+    "isHidden": false
+  },
+  {
+    "id": "help",
+    "title": "Asking for Help",
+    "icon": "🙋",
+    "sortOrder": 3,
+    "isHidden": false
+  },
+  {
+    "id": "sayno",
+    "title": "Saying No",
+    "icon": "✋",
+    "sortOrder": 4,
+    "isHidden": false
+  },
+  {
+    "id": "phone",
+    "title": "Phone & Digital",
+    "icon": "📞",
+    "sortOrder": 5,
+    "isHidden": false
+  },
+  {
+    "id": "healthcare",
+    "title": "Healthcare",
+    "icon": "🏥",
+    "sortOrder": 6,
+    "isHidden": false
+  },
+  {
+    "id": "shopping",
+    "title": "Shopping & Services",
+    "icon": "🛒",
+    "sortOrder": 7,
+    "isHidden": false
+  },
+  {
+    "id": "workschool",
+    "title": "Work & School",
+    "icon": "🏫",
+    "sortOrder": 8,
+    "isHidden": false
+  },
+  {
+    "id": "selfadvoc",
+    "title": "Self-Advocacy",
+    "icon": "💪",
+    "sortOrder": 9,
+    "isHidden": false
+  },
+  {
+    "id": "emergency",
+    "title": "Emergencies",
+    "icon": "🚨",
+    "sortOrder": 10,
+    "isHidden": false
+  },
+  {
+    "id": "social",
+    "title": "Social Skills",
+    "icon": "🎭",
+    "sortOrder": 11,
+    "isHidden": false
+  },
+  {
+    "id": "community",
+    "title": "Community & Places",
+    "icon": "🏛️",
+    "sortOrder": 12,
+    "isHidden": false
+  }
+]

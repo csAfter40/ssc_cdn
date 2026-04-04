@@ -1,0 +1,93 @@
+[
+  {
+    "id": "greeting",
+    "title": "Selamlaşma",
+    "icon": "👋",
+    "sortOrder": 1,
+    "isHidden": false
+  },
+  {
+    "id": "smalltalk",
+    "title": "Küçük Sohbet",
+    "icon": "💬",
+    "sortOrder": 2,
+    "isHidden": false
+  },
+  {
+    "id": "help",
+    "title": "Yardım İsteme",
+    "icon": "🙋",
+    "sortOrder": 3,
+    "isHidden": false
+  },
+  {
+    "id": "sayno",
+    "title": "Hayır Deme",
+    "icon": "✋",
+    "sortOrder": 4,
+    "isHidden": false
+  },
+  {
+    "id": "phone",
+    "title": "Telefon ve Dijital",
+    "icon": "📞",
+    "sortOrder": 5,
+    "isHidden": false
+  },
+  {
+    "id": "healthcare",
+    "title": "Sağlık",
+    "icon": "🏥",
+    "sortOrder": 6,
+    "isHidden": false
+  },
+  {
+    "id": "shopping",
+    "title": "Alışveriş ve Hizmetler",
+    "icon": "🛒",
+    "sortOrder": 7,
+    "isHidden": false
+  },
+  {
+    "id": "workschool",
+    "title": "İş ve Okul",
+    "icon": "🏫",
+    "sortOrder": 8,
+    "isHidden": false
+  },
+  {
+    "id": "selfadvoc",
+    "title": "Kendini Savunma",
+    "icon": "💪",
+    "sortOrder": 9,
+    "isHidden": false
+  },
+  {
+    "id": "emergency",
+    "title": "Acil Durumlar",
+    "icon": "🚨",
+    "sortOrder": 10,
+    "isHidden": false
+  },
+  {
+    "id": "social",
+    "title": "Sosyal Beceriler",
+    "icon": "🎭",
+    "sortOrder": 11,
+    "isHidden": false
+  },
+  {
+    "id": "community",
+    "title": "Topluluk ve Mekanlar",
+    "icon": "🏛️",
+    "sortOrder": 12,
+    "isHidden": false
+  },
+  {
+    "id": "local_traditions",
+    "title": "Yerel Gelenekler",
+    "icon": "🏮",
+    "sortOrder": 13,
+    "isHidden": false
+  }
+]

@@ -1,0 +1,478 @@
+[
+  {
+    "id": "greet-casual",
+    "categoryId": "greeting",
+    "title": "Günlük Selamlaşmalar",
+    "icon": "😊",
+    "sortOrder": 1
+  },
+  {
+    "id": "greet-formal",
+    "categoryId": "greeting",
+    "title": "Resmi Tanışmalar",
+    "icon": "🤝",
+    "sortOrder": 2
+  },
+  {
+    "id": "greet-goodbye",
+    "categoryId": "greeting",
+    "title": "Veda Etme",
+    "icon": "👋",
+    "sortOrder": 3
+  },
+  {
+    "id": "greet-online",
+    "categoryId": "greeting",
+    "title": "Çevrimiçi / Görüntülü Aramalar",
+    "icon": "💻",
+    "sortOrder": 4
+  },
+  {
+    "id": "talk-weather",
+    "categoryId": "smalltalk",
+    "title": "Hava ve Genel",
+    "icon": "🌤️",
+    "sortOrder": 1
+  },
+  {
+    "id": "talk-plans",
+    "categoryId": "smalltalk",
+    "title": "Planlar ve Hobiler",
+    "icon": "📅",
+    "sortOrder": 2
+  },
+  {
+    "id": "talk-compliment",
+    "categoryId": "smalltalk",
+    "title": "İltifat Verme ve Alma",
+    "icon": "🌟",
+    "sortOrder": 3
+  },
+  {
+    "id": "talk-end",
+    "categoryId": "smalltalk",
+    "title": "Sohbeti Bitirme",
+    "icon": "🔚",
+    "sortOrder": 4
+  },
+  {
+    "id": "help-stores",
+    "categoryId": "help",
+    "title": "Mağazalarda",
+    "icon": "🏪",
+    "sortOrder": 1
+  },
+  {
+    "id": "help-school",
+    "categoryId": "help",
+    "title": "Okulda / İşte",
+    "icon": "🏫",
+    "sortOrder": 2
+  },
+  {
+    "id": "help-directions",
+    "categoryId": "help",
+    "title": "Yol Sorma",
+    "icon": "🗺️",
+    "sortOrder": 3
+  },
+  {
+    "id": "help-confused",
+    "categoryId": "help",
+    "title": "Kafan Karıştığında",
+    "icon": "😕",
+    "sortOrder": 4
+  },
+  {
+    "id": "help-bathroom",
+    "categoryId": "help",
+    "title": "Tuvalet Kullanma",
+    "icon": "🚻",
+    "sortOrder": 5
+  },
+  {
+    "id": "help-permission",
+    "categoryId": "help",
+    "title": "İzin İsteme",
+    "icon": "🤲",
+    "sortOrder": 6
+  },
+  {
+    "id": "sayno-invites",
+    "categoryId": "sayno",
+    "title": "Davetleri Reddetme",
+    "icon": "📨",
+    "sortOrder": 1
+  },
+  {
+    "id": "sayno-boundaries",
+    "categoryId": "sayno",
+    "title": "Sınır Koyma",
+    "icon": "🛡️",
+    "sortOrder": 2
+  },
+  {
+    "id": "sayno-pressure",
+    "categoryId": "sayno",
+    "title": "Baskıyla Başa Çıkma",
+    "icon": "😤",
+    "sortOrder": 3
+  },
+  {
+    "id": "sayno-touch",
+    "categoryId": "sayno",
+    "title": "Fiziksel Sınırlar",
+    "icon": "🤚",
+    "sortOrder": 4
+  },
+  {
+    "id": "phone-appt",
+    "categoryId": "phone",
+    "title": "Randevu Alma",
+    "icon": "🗓️",
+    "sortOrder": 1
+  },
+  {
+    "id": "phone-orders",
+    "categoryId": "phone",
+    "title": "Yemek Siparişi",
+    "icon": "🍕",
+    "sortOrder": 2
+  },
+  {
+    "id": "phone-voicemail",
+    "categoryId": "phone",
+    "title": "Sesli Mesaj",
+    "icon": "📱",
+    "sortOrder": 3
+  },
+  {
+    "id": "phone-customer",
+    "categoryId": "phone",
+    "title": "Müşteri Hizmetleri",
+    "icon": "🎧",
+    "sortOrder": 4
+  },
+  {
+    "id": "phone-email",
+    "categoryId": "phone",
+    "title": "E-posta ve Çevrimiçi Mesajlaşma",
+    "icon": "📧",
+    "sortOrder": 5
+  },
+  {
+    "id": "health-doctor",
+    "categoryId": "healthcare",
+    "title": "Doktor Ziyaretleri",
+    "icon": "👨‍⚕️",
+    "sortOrder": 1
+  },
+  {
+    "id": "health-dental",
+    "categoryId": "healthcare",
+    "title": "Diş Randevuları",
+    "icon": "🦷",
+    "sortOrder": 2
+  },
+  {
+    "id": "health-pharmacy",
+    "categoryId": "healthcare",
+    "title": "Eczane",
+    "icon": "💊",
+    "sortOrder": 3
+  },
+  {
+    "id": "health-symptoms",
+    "categoryId": "healthcare",
+    "title": "Semptomları Anlatma",
+    "icon": "🤒",
+    "sortOrder": 4
+  },
+  {
+    "id": "health-therapy",
+    "categoryId": "healthcare",
+    "title": "Terapi Seansları",
+    "icon": "🧠",
+    "sortOrder": 5
+  },
+  {
+    "id": "health-er",
+    "categoryId": "healthcare",
+    "title": "Acil Servis",
+    "icon": "🚑",
+    "sortOrder": 6
+  },
+  {
+    "id": "shop-grocery",
+    "categoryId": "shopping",
+    "title": "Market Alışverişi",
+    "icon": "🥦",
+    "sortOrder": 1
+  },
+  {
+    "id": "shop-restaurant",
+    "categoryId": "shopping",
+    "title": "Restoran ve Kafeler",
+    "icon": "☕",
+    "sortOrder": 2
+  },
+  {
+    "id": "shop-returns",
+    "categoryId": "shopping",
+    "title": "İade",
+    "icon": "↩️",
+    "sortOrder": 3
+  },
+  {
+    "id": "shop-haircut",
+    "categoryId": "shopping",
+    "title": "Kuaför ve Güzellik Salonu",
+    "icon": "✂️",
+    "sortOrder": 4
+  },
+  {
+    "id": "shop-transport",
+    "categoryId": "shopping",
+    "title": "Toplu Taşıma",
+    "icon": "🚌",
+    "sortOrder": 5
+  },
+  {
+    "id": "work-interview",
+    "categoryId": "workschool",
+    "title": "İş Görüşmeleri",
+    "icon": "💼",
+    "sortOrder": 1
+  },
+  {
+    "id": "work-daily",
+    "categoryId": "workschool",
+    "title": "İş Yeri Günlüğü",
+    "icon": "🖥️",
+    "sortOrder": 2
+  },
+  {
+    "id": "work-feedback",
+    "categoryId": "workschool",
+    "title": "Geri Bildirim Alma",
+    "icon": "📋",
+    "sortOrder": 3
+  },
+  {
+    "id": "work-meetings",
+    "categoryId": "workschool",
+    "title": "Toplantılar ve Gruplar",
+    "icon": "👥",
+    "sortOrder": 4
+  },
+  {
+    "id": "work-school",
+    "categoryId": "workschool",
+    "title": "Sınıf Durumları",
+    "icon": "📚",
+    "sortOrder": 5
+  },
+  {
+    "id": "work-reading",
+    "categoryId": "workschool",
+    "title": "Okuma Stratejileri",
+    "icon": "📖",
+    "sortOrder": 6
+  },
+  {
+    "id": "self-disclose",
+    "categoryId": "selfadvoc",
+    "title": "Otizm Açıklama",
+    "icon": "💬",
+    "sortOrder": 1
+  },
+  {
+    "id": "self-accomm",
+    "categoryId": "selfadvoc",
+    "title": "Düzenleme İsteme",
+    "icon": "🔧",
+    "sortOrder": 2
+  },
+  {
+    "id": "self-overwhelm",
+    "categoryId": "selfadvoc",
+    "title": "Bunaldığında",
+    "icon": "🌊",
+    "sortOrder": 3
+  },
+  {
+    "id": "self-feelings",
+    "categoryId": "selfadvoc",
+    "title": "Duyguları İfade Etme",
+    "icon": "❤️",
+    "sortOrder": 4
+  },
+  {
+    "id": "self-conflict",
+    "categoryId": "selfadvoc",
+    "title": "Çatışmayla Başa Çıkma",
+    "icon": "⚖️",
+    "sortOrder": 5
+  },
+  {
+    "id": "self-break",
+    "categoryId": "selfadvoc",
+    "title": "Mola İsteme",
+    "icon": "⏸️",
+    "sortOrder": 6
+  },
+  {
+    "id": "emerg-911",
+    "categoryId": "emergency",
+    "title": "Yardım Çağırma",
+    "icon": "🆘",
+    "sortOrder": 1
+  },
+  {
+    "id": "emerg-unsafe",
+    "categoryId": "emergency",
+    "title": "Kendini Güvende Hissetmeme",
+    "icon": "😟",
+    "sortOrder": 2
+  },
+  {
+    "id": "emerg-sensory",
+    "categoryId": "emergency",
+    "title": "Kamusal Alanda Duyusal Aşırı Yük",
+    "icon": "🔇",
+    "sortOrder": 3
+  },
+  {
+    "id": "emerg-lost",
+    "categoryId": "emergency",
+    "title": "Kaybolma",
+    "icon": "📍",
+    "sortOrder": 4
+  },
+  {
+    "id": "social-apology",
+    "categoryId": "social",
+    "title": "Özür ve Hatalar",
+    "icon": "🙏",
+    "sortOrder": 1
+  },
+  {
+    "id": "social-games",
+    "categoryId": "social",
+    "title": "Oyunlar ve Oyun",
+    "icon": "🎮",
+    "sortOrder": 2
+  },
+  {
+    "id": "social-manners",
+    "categoryId": "social",
+    "title": "Günlük Görgü Kuralları",
+    "icon": "🍽️",
+    "sortOrder": 3
+  },
+  {
+    "id": "social-gifts",
+    "categoryId": "social",
+    "title": "Hediye ve Kutlamalar",
+    "icon": "🎁",
+    "sortOrder": 4
+  },
+  {
+    "id": "social-peer",
+    "categoryId": "social",
+    "title": "Akran İlişkileri",
+    "icon": "🤝",
+    "sortOrder": 5
+  },
+  {
+    "id": "social-feelings",
+    "categoryId": "social",
+    "title": "Duygular ve Hisler",
+    "icon": "💛",
+    "sortOrder": 6
+  },
+  {
+    "id": "comm-library",
+    "categoryId": "community",
+    "title": "Kütüphane",
+    "icon": "📚",
+    "sortOrder": 1
+  },
+  {
+    "id": "comm-restaurant",
+    "categoryId": "community",
+    "title": "Restoran ve Dışarıda Yemek",
+    "icon": "🍽️",
+    "sortOrder": 2
+  },
+  {
+    "id": "comm-transport",
+    "categoryId": "community",
+    "title": "Otobüs, Tren ve Seyahat",
+    "icon": "🚆",
+    "sortOrder": 3
+  },
+  {
+    "id": "comm-leisure",
+    "categoryId": "community",
+    "title": "Park, Spor Salonu ve Sinema",
+    "icon": "🎬",
+    "sortOrder": 4
+  },
+  {
+    "id": "comm-services",
+    "categoryId": "community",
+    "title": "Banka ve PTT",
+    "icon": "🏦",
+    "sortOrder": 5
+  },
+  {
+    "id": "comm-cafe",
+    "categoryId": "community",
+    "title": "Kafeler",
+    "icon": "☕",
+    "sortOrder": 6
+  },
+  {
+    "id": "comm-supermarket",
+    "categoryId": "community",
+    "title": "Süpermarket ve Mağazalar",
+    "icon": "🛒",
+    "sortOrder": 7
+  },
+  {
+    "id": "comm-pool",
+    "categoryId": "community",
+    "title": "Yüzme Havuzu ve Spor Merkezi",
+    "icon": "🏊",
+    "sortOrder": 8
+  },
+  {
+    "id": "comm-events",
+    "categoryId": "community",
+    "title": "Etkinlikler ve Buluşmalar",
+    "icon": "🎉",
+    "sortOrder": 9
+  },
+  {
+    "id": "tr_dini_bayramlar",
+    "categoryId": "local_traditions",
+    "title": "Dini Bayramlar",
+    "icon": "🌙",
+    "sortOrder": 1
+  },
+  {
+    "id": "tr_milli_bayramlar",
+    "categoryId": "local_traditions",
+    "title": "Milli Bayramlar ve Anma Günleri",
+    "icon": "🇹🇷",
+    "sortOrder": 2
+  },
+  {
+    "id": "tr_yaslilara_saygi",
+    "categoryId": "local_traditions",
+    "title": "Yaşlılara Saygı",
+    "icon": "👴",
+    "sortOrder": 3
+  }
+]

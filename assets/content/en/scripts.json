@@ -1,0 +1,7837 @@
+[
+	{
+		"id": "greet-cas-1",
+		"title": "Meeting Someone New",
+		"category": "greeting",
+		"subcategoryId": "greet-casual",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Look at their face or nose area",
+				"emoji": "👀"
+			},
+			{
+				"text": "Smile slightly if it feels okay",
+				"emoji": "🙂"
+			},
+			{
+				"text": "Say \"Hi, I'm [your name]\"",
+				"emoji": "👋"
+			},
+			{
+				"text": "Wait for their response",
+				"emoji": "⏳"
+			},
+			{
+				"text": "Ask \"What's your name?\"",
+				"emoji": "❓"
+			},
+			{ "text": "Say \"Nice to meet you\"", "emoji": "😊" }
+		],
+		"isCustom": false
+	},
+	{
+		"id": "greet-cas-2",
+		"title": "Greeting a Neighbour",
+		"category": "greeting",
+		"subcategoryId": "greet-casual",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "If they make eye contact, give a small wave",
+				"emoji": "🙋"
+			},
+			{
+				"text": "Say \"Hey\" or \"Hi\" — short is fine",
+				"emoji": "👋"
+			},
+			{
+				"text": "If they stop to talk, say \"How's it going?\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Listen and respond briefly",
+				"emoji": "👂"
+			},
+			{
+				"text": "Say \"See you later\" to end naturally",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "greet-cas-3",
+		"title": "Greeting a Coworker",
+		"category": "greeting",
+		"subcategoryId": "greet-casual",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Make brief eye contact if comfortable",
+				"emoji": "👀"
+			},
+			{
+				"text": "Say \"Hey, good morning\"",
+				"emoji": "☀️"
+			},
+			{
+				"text": "If they ask how you are, say \"Good, thanks. You?\"",
+				"emoji": "🙂"
+			},
+			{
+				"text": "Listen to their response and nod",
+				"emoji": "👂"
+			},
+			{
+				"text": "Continue walking or start work — that's complete",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "greet-cas-4",
+		"title": "Seeing an Acquaintance in Public",
+		"category": "greeting",
+		"subcategoryId": "greet-casual",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "You don't have to stop — a nod or wave is okay",
+				"emoji": "💡"
+			},
+			{
+				"text": "If they approach, say \"Oh hey, how are you?\"",
+				"emoji": "👋"
+			},
+			{
+				"text": "Listen to their answer",
+				"emoji": "👂"
+			},
+			{
+				"text": "Share something brief if asked",
+				"emoji": "💬"
+			},
+			{
+				"text": "Say \"Good to see you\" and excuse yourself",
+				"emoji": "🚶"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "greet-for-1",
+		"title": "Formal Introduction",
+		"category": "greeting",
+		"subcategoryId": "greet-formal",
+		"difficulty": 2,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Stand up if you are seated",
+				"emoji": "🧍"
+			},
+			{
+				"text": "Extend your hand for a handshake",
+				"emoji": "🤝"
+			},
+			{
+				"text": "Say \"Hello, I'm [your name]. Nice to meet you.\"",
+				"emoji": "👋"
+			},
+			{
+				"text": "Wait for them to introduce themselves",
+				"emoji": "⏳"
+			},
+			{
+				"text": "Repeat their name: \"Nice to meet you, [name]\"",
+				"emoji": "🙂"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "greet-for-2",
+		"title": "Introducing Yourself at a New School",
+		"category": "greeting",
+		"subcategoryId": "greet-formal",
+		"difficulty": 2,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Find the right person — teacher or staff at the front desk",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Say \"Hi, I'm new here. My name is [your name].\"",
+				"emoji": "👋"
+			},
+			{
+				"text": "Hand over any paperwork if you have it",
+				"emoji": "📄"
+			},
+			{
+				"text": "Ask \"Can you tell me where to go first?\"",
+				"emoji": "❓"
+			},
+			{
+				"text": "Say \"Thank you\" and follow their directions",
+				"emoji": "🙏"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "greet-for-3",
+		"title": "Introducing Yourself in a Meeting",
+		"category": "greeting",
+		"subcategoryId": "greet-formal",
+		"difficulty": 2,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Wait for your turn to speak",
+				"emoji": "⏳"
+			},
+			{
+				"text": "Say \"Hi everyone, I'm [your name]\"",
+				"emoji": "👋"
+			},
+			{
+				"text": "Add one sentence: your role or why you're there",
+				"emoji": "💬"
+			},
+			{
+				"text": "You can add \"Happy to be here\" to sound warm",
+				"emoji": "🙂"
+			},
+			{
+				"text": "Stop talking — short introductions are best",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "greet-bye-1",
+		"title": "Leaving a Social Event",
+		"category": "greeting",
+		"subcategoryId": "greet-goodbye",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Find a natural pause in the conversation",
+				"emoji": "⏳"
+			},
+			{
+				"text": "Say \"I'm going to head off now\"",
+				"emoji": "🚶"
+			},
+			{
+				"text": "If the host is nearby, thank them: \"Thanks for having me\"",
+				"emoji": "🙏"
+			},
+			{
+				"text": "Say \"It was nice seeing you\" or \"Take care\"",
+				"emoji": "👋"
+			},
+			{
+				"text": "Leave — you don't need a long goodbye",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "greet-bye-2",
+		"title": "Ending a Chat with a Friend",
+		"category": "greeting",
+		"subcategoryId": "greet-goodbye",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Wait for a small pause",
+				"emoji": "⏳"
+			},
+			{
+				"text": "Say \"I should get going\"",
+				"emoji": "🚶"
+			},
+			{
+				"text": "Optionally say \"This was fun\" or \"Good talking to you\"",
+				"emoji": "😊"
+			},
+			{
+				"text": "Say \"See you later!\" or \"Bye!\"",
+				"emoji": "👋"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "greet-bye-3",
+		"title": "Leaving Work at the End of the Day",
+		"category": "greeting",
+		"subcategoryId": "greet-goodbye",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Pack up your things first",
+				"emoji": "🎒"
+			},
+			{
+				"text": "Walk past colleagues and say \"See you tomorrow\"",
+				"emoji": "👋"
+			},
+			{
+				"text": "Or just wave if they're busy",
+				"emoji": "🖐️"
+			},
+			{
+				"text": "You don't need to explain where you're going",
+				"emoji": "💡"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "greet-online-1",
+		"title": "Starting a Video Call",
+		"category": "greeting",
+		"subcategoryId": "greet-online",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Check your camera and mute status before joining",
+				"emoji": "🔍"
+			},
+			{
+				"text": "When you join, wave or say \"Hi everyone\"",
+				"emoji": "👋"
+			},
+			{
+				"text": "Keep yourself muted unless speaking",
+				"emoji": "🔇"
+			},
+			{
+				"text": "Look at the camera occasionally — it feels like eye contact",
+				"emoji": "📷"
+			},
+			{
+				"text": "Wait to be called on before speaking",
+				"emoji": "⏳"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "greet-online-2",
+		"title": "Starting a Chat Message",
+		"category": "greeting",
+		"subcategoryId": "greet-online",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Type their name or a greeting: \"Hey [name]\" or \"Hi!\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "State your reason in the same message if possible",
+				"emoji": "📝"
+			},
+			{
+				"text": "Example: \"Hey, I had a quick question about [topic]\"",
+				"emoji": "❓"
+			},
+			{
+				"text": "Wait for their reply before sending more messages",
+				"emoji": "⏳"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "talk-weath-1",
+		"title": "Weather Chat",
+		"category": "smalltalk",
+		"subcategoryId": "talk-weather",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Look outside or recall the weather",
+				"emoji": "🌤️"
+			},
+			{
+				"text": "Say \"Nice weather today, isn't it?\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Wait for their response",
+				"emoji": "⏳"
+			},
+			{
+				"text": "Add one comment like \"I hope it stays like this\"",
+				"emoji": "🙂"
+			},
+			{
+				"text": "Smile and let the conversation flow or end",
+				"emoji": "😊"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "talk-weath-2",
+		"title": "Chatting About the News",
+		"category": "smalltalk",
+		"subcategoryId": "talk-weather",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Think of a neutral, safe topic — not politics",
+				"emoji": "💡"
+			},
+			{
+				"text": "Say \"Did you hear about [general topic]?\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Listen to their opinion without interrupting",
+				"emoji": "👂"
+			},
+			{
+				"text": "React briefly: \"Yeah, interesting\" or \"I hadn't thought of that\"",
+				"emoji": "🤔"
+			},
+			{
+				"text": "You don't need to share a strong opinion",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "talk-plans-1",
+		"title": "Weekend Plans",
+		"category": "smalltalk",
+		"subcategoryId": "talk-plans",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Say \"Do you have plans this weekend?\"",
+				"emoji": "📅"
+			},
+			{
+				"text": "Listen to their answer fully before responding",
+				"emoji": "👂"
+			},
+			{
+				"text": "React with interest: \"Oh, that sounds fun!\"",
+				"emoji": "😊"
+			},
+			{
+				"text": "Share your own plans briefly if asked",
+				"emoji": "💬"
+			},
+			{
+				"text": "End with \"Well, enjoy your weekend!\"",
+				"emoji": "👍"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "talk-plans-2",
+		"title": "Talking About a Hobby",
+		"category": "smalltalk",
+		"subcategoryId": "talk-plans",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "If someone asks your interests, share one hobby simply",
+				"emoji": "💬"
+			},
+			{
+				"text": "Say \"I'm into [hobby]\" or \"I really like [activity]\"",
+				"emoji": "🎮"
+			},
+			{
+				"text": "Give one interesting detail — don't info-dump",
+				"emoji": "💡"
+			},
+			{
+				"text": "Ask \"What about you? Do you have any hobbies?\"",
+				"emoji": "❓"
+			},
+			{
+				"text": "Show interest in their answer, even if you don't share it",
+				"emoji": "😊"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "talk-comp-1",
+		"title": "Receiving a Compliment",
+		"category": "smalltalk",
+		"subcategoryId": "talk-compliment",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Pause — don't deflect or say something self-critical",
+				"emoji": "⏸️"
+			},
+			{
+				"text": "Say \"Thank you!\" or \"Thanks, that's kind of you\"",
+				"emoji": "😊"
+			},
+			{
+				"text": "You can add one sentence: \"I've been working on it\" etc.",
+				"emoji": "💬"
+			},
+			{
+				"text": "You don't need to return a compliment immediately",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "talk-comp-2",
+		"title": "Giving a Compliment",
+		"category": "smalltalk",
+		"subcategoryId": "talk-compliment",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Choose something specific and genuine",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Say it simply: \"I really like your [thing]\"",
+				"emoji": "🌟"
+			},
+			{
+				"text": "Or: \"You did a great job with [task]\"",
+				"emoji": "👍"
+			},
+			{
+				"text": "Don't add too much — keep it brief",
+				"emoji": "✅"
+			},
+			{
+				"text": "Continue the conversation naturally",
+				"emoji": "💬"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "talk-end-1",
+		"title": "Ending Small Talk Naturally",
+		"category": "smalltalk",
+		"subcategoryId": "talk-end",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Wait for a pause in the conversation",
+				"emoji": "⏳"
+			},
+			{
+				"text": "Say \"Anyway, I should get back to [task]\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Or: \"It was nice chatting with you\"",
+				"emoji": "😊"
+			},
+			{
+				"text": "Say \"See you around!\" and move away",
+				"emoji": "🚶"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "talk-end-2",
+		"title": "Excusing Yourself from a Group",
+		"category": "smalltalk",
+		"subcategoryId": "talk-end",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Find a moment when you're not mid-sentence",
+				"emoji": "⏳"
+			},
+			{
+				"text": "Say \"I'll leave you all to it\"",
+				"emoji": "🚶"
+			},
+			{
+				"text": "Or: \"I need to go take care of something\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Give a small wave and walk away",
+				"emoji": "👋"
+			},
+			{
+				"text": "You don't need to explain further",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "talk-end-3",
+		"title": "When a Conversation Goes On Too Long",
+		"category": "smalltalk",
+		"subcategoryId": "talk-end",
+		"difficulty": 3,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "It's okay to end a conversation — you're not being rude",
+				"emoji": "💡"
+			},
+			{
+				"text": "Look for a pause, then say \"I should really head off\"",
+				"emoji": "⏳"
+			},
+			{
+				"text": "If they keep talking, say \"I'll let you go — catch you later\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Stand up or start moving to signal you're leaving",
+				"emoji": "🧍"
+			},
+			{
+				"text": "Say goodbye and walk away — it's completely okay",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "help-store-1",
+		"title": "Finding an Item in a Store",
+		"category": "help",
+		"subcategoryId": "help-stores",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Find an employee — look for uniform or name tag",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Approach and say \"Excuse me\"",
+				"emoji": "🙋"
+			},
+			{
+				"text": "Wait for them to look at you",
+				"emoji": "⏳"
+			},
+			{
+				"text": "Ask \"Could you help me find [item]?\"",
+				"emoji": "❓"
+			},
+			{
+				"text": "Say \"Thank you\" when they help",
+				"emoji": "🙏"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "help-store-2",
+		"title": "Checking if Something Is in Stock",
+		"category": "help",
+		"subcategoryId": "help-stores",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Approach an employee calmly",
+				"emoji": "🚶"
+			},
+			{
+				"text": "Say \"Excuse me, do you have [item] in stock?\"",
+				"emoji": "❓"
+			},
+			{
+				"text": "Or show them a picture on your phone if easier",
+				"emoji": "📱"
+			},
+			{
+				"text": "Listen to their answer",
+				"emoji": "👂"
+			},
+			{
+				"text": "Say \"Thanks\" and move on",
+				"emoji": "🙏"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "help-store-3",
+		"title": "Asking for a Price Check",
+		"category": "help",
+		"subcategoryId": "help-stores",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Find an employee or the customer service desk",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Say \"Excuse me, how much is this?\"",
+				"emoji": "❓"
+			},
+			{
+				"text": "Show them the item or point to it",
+				"emoji": "👆"
+			},
+			{
+				"text": "Wait while they check",
+				"emoji": "⏳"
+			},
+			{
+				"text": "Say \"Thank you\" and decide whether to buy it",
+				"emoji": "🙏"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "help-sch-1",
+		"title": "Asking a Teacher for Help",
+		"category": "help",
+		"subcategoryId": "help-school",
+		"difficulty": 2,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Wait for an appropriate moment (not while they're teaching)",
+				"emoji": "⏳"
+			},
+			{
+				"text": "Raise your hand or approach after class",
+				"emoji": "✋"
+			},
+			{
+				"text": "Say \"Excuse me, could I ask a question?\"",
+				"emoji": "🙋"
+			},
+			{
+				"text": "Explain what you need help with clearly",
+				"emoji": "💬"
+			},
+			{
+				"text": "Thank them for their time",
+				"emoji": "🙏"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "help-sch-2",
+		"title": "Asking a Colleague for Help",
+		"category": "help",
+		"subcategoryId": "help-school",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Check if they look free or not in the middle of something",
+				"emoji": "👀"
+			},
+			{
+				"text": "Say \"Hey, do you have a moment?\"",
+				"emoji": "🙋"
+			},
+			{
+				"text": "Wait for their signal before asking",
+				"emoji": "⏳"
+			},
+			{
+				"text": "Explain briefly: \"I'm not sure how to [task] — can you show me?\"",
+				"emoji": "❓"
+			},
+			{
+				"text": "Thank them and let them get back to work",
+				"emoji": "🙏"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "help-dir-1",
+		"title": "Asking for Directions",
+		"category": "help",
+		"subcategoryId": "help-directions",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Approach someone who looks approachable and not in a hurry",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Say \"Excuse me, could you help me? I'm looking for [place]\"",
+				"emoji": "❓"
+			},
+			{
+				"text": "Listen carefully — you can ask them to repeat if needed",
+				"emoji": "👂"
+			},
+			{
+				"text": "Say \"Could you say that again, please?\" if confused",
+				"emoji": "🔄"
+			},
+			{
+				"text": "Thank them and follow the directions",
+				"emoji": "🙏"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "help-dir-2",
+		"title": "Using Your Phone for Directions",
+		"category": "help",
+		"subcategoryId": "help-directions",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Open your maps app before you start walking",
+				"emoji": "📱"
+			},
+			{
+				"text": "Type in the exact address or place name",
+				"emoji": "⌨️"
+			},
+			{
+				"text": "Choose walking, transit, or driving mode",
+				"emoji": "🚶"
+			},
+			{
+				"text": "Follow the turn-by-turn voice or visual directions",
+				"emoji": "🗺️"
+			},
+			{
+				"text": "If lost, stop and re-check the map before continuing",
+				"emoji": "⏸️"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "help-conf-1",
+		"title": "Asking Someone to Repeat Themselves",
+		"category": "help",
+		"subcategoryId": "help-confused",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "It's okay — this happens to everyone",
+				"emoji": "💡"
+			},
+			{
+				"text": "Say \"Sorry, could you say that again?\"",
+				"emoji": "🔄"
+			},
+			{
+				"text": "Or: \"I didn't quite catch that\"",
+				"emoji": "👂"
+			},
+			{
+				"text": "Listen again carefully",
+				"emoji": "👂"
+			},
+			{
+				"text": "If still confused, say \"I'm not sure I understand — could you explain differently?\"",
+				"emoji": "❓"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "help-conf-2",
+		"title": "Not Understanding Instructions",
+		"category": "help",
+		"subcategoryId": "help-confused",
+		"difficulty": 2,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Write down what you do understand first",
+				"emoji": "📝"
+			},
+			{
+				"text": "Identify the specific part that's unclear",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Say \"I want to make sure I do this right — can I ask a question?\"",
+				"emoji": "🙋"
+			},
+			{
+				"text": "Ask: \"When you said [X], did you mean [Y]?\"",
+				"emoji": "❓"
+			},
+			{
+				"text": "Repeat their clarification back to confirm",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "help-conf-3",
+		"title": "When You Miss a Social Cue",
+		"category": "help",
+		"subcategoryId": "help-confused",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Don't panic — it's okay to ask",
+				"emoji": "💡"
+			},
+			{
+				"text": "Say \"Sorry, I think I might have missed something there\"",
+				"emoji": "😅"
+			},
+			{
+				"text": "Ask \"What did you mean by that?\" or \"How are you feeling about it?\"",
+				"emoji": "❓"
+			},
+			{
+				"text": "Listen and don't overthink their answer",
+				"emoji": "👂"
+			},
+			{
+				"text": "Carry on — most people don't mind being asked",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "sayno-inv-1",
+		"title": "Declining an Invitation",
+		"category": "sayno",
+		"subcategoryId": "sayno-invites",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Listen to the full invitation first",
+				"emoji": "👂"
+			},
+			{
+				"text": "Say \"Thanks for inviting me\"",
+				"emoji": "🙏"
+			},
+			{
+				"text": "Say \"I can't make it this time\"",
+				"emoji": "😔"
+			},
+			{
+				"text": "You don't need to give a reason",
+				"emoji": "💡"
+			},
+			{
+				"text": "Optionally say \"Maybe next time?\" if you mean it",
+				"emoji": "🙂"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "sayno-inv-2",
+		"title": "Saying No to a Last-Minute Request",
+		"category": "sayno",
+		"subcategoryId": "sayno-invites",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Take a breath — you don't have to say yes",
+				"emoji": "🫁"
+			},
+			{
+				"text": "Say \"I appreciate you thinking of me, but I can't do that today\"",
+				"emoji": "✋"
+			},
+			{
+				"text": "If they push, say \"It doesn't work for me right now\"",
+				"emoji": "🛡️"
+			},
+			{
+				"text": "You don't owe a detailed explanation",
+				"emoji": "💡"
+			},
+			{
+				"text": "Stay kind but firm",
+				"emoji": "💪"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "sayno-bnd-1",
+		"title": "Setting a Personal Boundary",
+		"category": "sayno",
+		"subcategoryId": "sayno-boundaries",
+		"difficulty": 3,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Take a breath before speaking",
+				"emoji": "🫁"
+			},
+			{
+				"text": "Say \"I'm not comfortable with that\"",
+				"emoji": "✋"
+			},
+			{
+				"text": "You can say \"I need some space right now\"",
+				"emoji": "🛡️"
+			},
+			{
+				"text": "Stay calm — your boundary is valid",
+				"emoji": "💪"
+			},
+			{
+				"text": "Walk away if needed — that's okay",
+				"emoji": "🚶"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "sayno-bnd-2",
+		"title": "Asking for Quiet or Less Noise",
+		"category": "sayno",
+		"subcategoryId": "sayno-boundaries",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Approach the person calmly",
+				"emoji": "🚶"
+			},
+			{
+				"text": "Say \"Excuse me, would it be okay to lower the volume a bit?\"",
+				"emoji": "🔇"
+			},
+			{
+				"text": "Or: \"I'm finding it hard to focus with the noise — could we adjust?\"",
+				"emoji": "🙏"
+			},
+			{
+				"text": "If they say no, use headphones or move spaces if possible",
+				"emoji": "🎧"
+			},
+			{
+				"text": "It's okay to protect your senses",
+				"emoji": "💡"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "sayno-bnd-3",
+		"title": "Telling Someone They're Too Close",
+		"category": "sayno",
+		"subcategoryId": "sayno-boundaries",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "You are allowed to need more personal space",
+				"emoji": "💡"
+			},
+			{
+				"text": "Say \"Could you give me a little more space? Thanks.\"",
+				"emoji": "🤚"
+			},
+			{
+				"text": "Or step back yourself to create distance",
+				"emoji": "🚶"
+			},
+			{
+				"text": "You don't need to explain why",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "sayno-prs-1",
+		"title": "When Someone Keeps Asking",
+		"category": "sayno",
+		"subcategoryId": "sayno-pressure",
+		"difficulty": 3,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Take a breath — saying no twice is still saying no",
+				"emoji": "🫁"
+			},
+			{
+				"text": "Repeat your answer: \"Like I said, I'm not able to\"",
+				"emoji": "✋"
+			},
+			{
+				"text": "If they persist: \"My answer isn't going to change\"",
+				"emoji": "💪"
+			},
+			{
+				"text": "It's okay to say \"I don't want to discuss it further\"",
+				"emoji": "🛑"
+			},
+			{
+				"text": "End the interaction if needed",
+				"emoji": "🚶"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "sayno-prs-2",
+		"title": "Being Pressured to Do Something Uncomfortable",
+		"category": "sayno",
+		"subcategoryId": "sayno-pressure",
+		"difficulty": 3,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Trust your gut — discomfort is a signal",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Say \"That's not something I want to do\"",
+				"emoji": "✋"
+			},
+			{
+				"text": "If they keep pushing: \"I said no, and that's final\"",
+				"emoji": "💪"
+			},
+			{
+				"text": "If you feel unsafe, move away and tell a trusted person",
+				"emoji": "🆘"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "sayno-tch-1",
+		"title": "Saying No to a Hug",
+		"category": "sayno",
+		"subcategoryId": "sayno-touch",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "You never have to hug anyone if you don't want to",
+				"emoji": "💡"
+			},
+			{
+				"text": "Step back slightly or hold out your hand for a handshake",
+				"emoji": "🤝"
+			},
+			{
+				"text": "Say \"I'm not really a hugger, but it's great to see you\"",
+				"emoji": "🙂"
+			},
+			{
+				"text": "If they seem surprised, that's okay — your body is yours",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "sayno-tch-2",
+		"title": "When Someone Touches You Without Permission",
+		"category": "sayno",
+		"subcategoryId": "sayno-touch",
+		"difficulty": 3,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "You have every right to speak up",
+				"emoji": "💡"
+			},
+			{
+				"text": "Say clearly: \"Please don't touch me\"",
+				"emoji": "✋"
+			},
+			{
+				"text": "Move away to create distance",
+				"emoji": "🚶"
+			},
+			{
+				"text": "If it keeps happening, tell a trusted adult, staff member, or authority",
+				"emoji": "🆘"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "phone-app-1",
+		"title": "Making a Doctor's Appointment",
+		"category": "phone",
+		"subcategoryId": "phone-appt",
+		"difficulty": 2,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Write down your name, date of birth, and reason for visit first",
+				"emoji": "📝"
+			},
+			{
+				"text": "Dial the number and wait",
+				"emoji": "📞"
+			},
+			{
+				"text": "Say \"Hi, I'd like to book an appointment with Dr. [name]\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Give your details when asked",
+				"emoji": "🗓️"
+			},
+			{
+				"text": "Write down the date, time, and location they give you",
+				"emoji": "✏️"
+			},
+			{
+				"text": "Say \"Thank you, goodbye\"",
+				"emoji": "👋"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "phone-app-2",
+		"title": "Cancelling or Rescheduling an Appointment",
+		"category": "phone",
+		"subcategoryId": "phone-appt",
+		"difficulty": 2,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Call as early as possible — at least 24 hours ahead",
+				"emoji": "⏰"
+			},
+			{
+				"text": "Say \"Hi, I have an appointment on [date/time] and need to [cancel/reschedule]\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Give your name and date of birth if asked",
+				"emoji": "🗓️"
+			},
+			{
+				"text": "If rescheduling, have some alternative dates ready",
+				"emoji": "📅"
+			},
+			{
+				"text": "Confirm the new details and thank them",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "phone-ord-1",
+		"title": "Ordering Food Delivery by Phone",
+		"category": "phone",
+		"subcategoryId": "phone-orders",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Decide your order before calling",
+				"emoji": "📝"
+			},
+			{
+				"text": "Call and say \"Hi, I'd like to place an order for delivery\"",
+				"emoji": "📞"
+			},
+			{
+				"text": "State your items clearly, one by one",
+				"emoji": "🍕"
+			},
+			{
+				"text": "Give your address and phone number when asked",
+				"emoji": "🏠"
+			},
+			{
+				"text": "Confirm the total and wait time, then say \"Thank you\"",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "phone-vm-1",
+		"title": "Leaving a Voicemail",
+		"category": "phone",
+		"subcategoryId": "phone-voicemail",
+		"difficulty": 2,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Prepare what to say before calling",
+				"emoji": "📝"
+			},
+			{
+				"text": "When the beep sounds, start speaking clearly",
+				"emoji": "🔔"
+			},
+			{
+				"text": "Say: \"Hi, this is [your name] calling for [person/department]\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "State your reason in one or two sentences",
+				"emoji": "💬"
+			},
+			{
+				"text": "Leave your callback number, speaking slowly",
+				"emoji": "📞"
+			},
+			{
+				"text": "Say \"Thank you, goodbye\" and hang up",
+				"emoji": "👋"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "phone-vm-2",
+		"title": "Leaving a Voicemail for a Callback",
+		"category": "phone",
+		"subcategoryId": "phone-voicemail",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "After the beep: \"Hi, it's [your name] — just calling back\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Say the best time to reach you",
+				"emoji": "🕐"
+			},
+			{
+				"text": "Leave your number clearly and slowly",
+				"emoji": "📞"
+			},
+			{
+				"text": "Say \"Thanks, bye\"",
+				"emoji": "👋"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "phone-cust-1",
+		"title": "Calling Customer Support",
+		"category": "phone",
+		"subcategoryId": "phone-customer",
+		"difficulty": 2,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Write down your order number, account info, or issue before calling",
+				"emoji": "📝"
+			},
+			{
+				"text": "Navigate the automated menu — press the option closest to your issue",
+				"emoji": "⌨️"
+			},
+			{
+				"text": "When connected: \"Hi, I'm calling about [issue]\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Explain the problem in two to three sentences",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Ask \"Can you help me with that?\" or \"What are my options?\"",
+				"emoji": "❓"
+			},
+			{
+				"text": "Take notes on what they say",
+				"emoji": "📝"
+			},
+			{
+				"text": "Ask for a reference number before you hang up",
+				"emoji": "🔢"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "phone-cust-2",
+		"title": "Asking to Speak to a Manager",
+		"category": "phone",
+		"subcategoryId": "phone-customer",
+		"difficulty": 3,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Try to resolve the issue with the first person first",
+				"emoji": "🤝"
+			},
+			{
+				"text": "If they can't help, say \"I understand. Could I speak to a manager, please?\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Stay calm and polite — don't raise your voice",
+				"emoji": "🫁"
+			},
+			{
+				"text": "Repeat your issue clearly to the manager",
+				"emoji": "🔄"
+			},
+			{
+				"text": "Ask what they can do to resolve it",
+				"emoji": "❓"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "hlth-doc-1",
+		"title": "Checking In at a Doctor's Office",
+		"category": "healthcare",
+		"subcategoryId": "health-doctor",
+		"difficulty": 1,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Approach the reception desk",
+				"emoji": "🚶"
+			},
+			{
+				"text": "Say \"Hi, I have an appointment. My name is [your name]\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Give your date of birth if asked",
+				"emoji": "🎂"
+			},
+			{
+				"text": "Take any forms they give you and fill them in",
+				"emoji": "📋"
+			},
+			{
+				"text": "Find a seat and wait to be called",
+				"emoji": "🪑"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "hlth-doc-2",
+		"title": "Talking to Your Doctor About a Problem",
+		"category": "healthcare",
+		"subcategoryId": "health-doctor",
+		"difficulty": 2,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Write down your main concerns beforehand",
+				"emoji": "📝"
+			},
+			{
+				"text": "When the doctor asks, say your most important concern first",
+				"emoji": "💬"
+			},
+			{
+				"text": "Describe symptoms: where, how long, and how severe (1–10)",
+				"emoji": "🤒"
+			},
+			{
+				"text": "Ask questions if something isn't clear",
+				"emoji": "❓"
+			},
+			{
+				"text": "Ask \"What happens next?\" before you leave",
+				"emoji": "🗓️"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "hlth-doc-3",
+		"title": "Asking for a Referral or Test",
+		"category": "healthcare",
+		"subcategoryId": "health-doctor",
+		"difficulty": 2,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Prepare what you want to ask before your appointment",
+				"emoji": "📝"
+			},
+			{
+				"text": "Say \"I'd like to ask about getting a referral to [specialist]\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Explain why: \"I've been having [symptom] for [time]\"",
+				"emoji": "🔍"
+			},
+			{
+				"text": "If they say no, ask \"Can you explain why?\" — you can advocate for yourself",
+				"emoji": "❓"
+			},
+			{
+				"text": "Write down any next steps before leaving",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "hlth-dnt-1",
+		"title": "Your First Dental Visit",
+		"category": "healthcare",
+		"subcategoryId": "health-dental",
+		"difficulty": 2,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Tell the receptionist if it's your first visit",
+				"emoji": "💬"
+			},
+			{
+				"text": "You can tell them you're nervous — they're used to this",
+				"emoji": "💡"
+			},
+			{
+				"text": "In the chair, raise your hand if you need a break",
+				"emoji": "✋"
+			},
+			{
+				"text": "You are allowed to ask \"What are you doing now?\"",
+				"emoji": "❓"
+			},
+			{
+				"text": "After: ask what to do next and when to come back",
+				"emoji": "🗓️"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "hlth-dnt-2",
+		"title": "Telling the Dentist You're in Pain",
+		"category": "healthcare",
+		"subcategoryId": "health-dental",
+		"difficulty": 2,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Raise your hand during the exam to signal a pause",
+				"emoji": "✋"
+			},
+			{
+				"text": "Say \"That area is hurting — is that normal?\"",
+				"emoji": "🤒"
+			},
+			{
+				"text": "Point to the exact tooth or area if you can",
+				"emoji": "👆"
+			},
+			{
+				"text": "Ask \"Can you be gentler there?\" — that's totally okay",
+				"emoji": "🙏"
+			},
+			{
+				"text": "Ask about numbing options if the pain is too much",
+				"emoji": "💊"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "hlth-phm-1",
+		"title": "Picking Up a Prescription",
+		"category": "healthcare",
+		"subcategoryId": "health-pharmacy",
+		"difficulty": 1,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Go to the pharmacy counter (not the regular checkout)",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Say \"I'm here to pick up a prescription for [your name]\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Give your date of birth if asked",
+				"emoji": "🎂"
+			},
+			{
+				"text": "Pay if required and take the bag",
+				"emoji": "💳"
+			},
+			{
+				"text": "Ask \"Are there any special instructions?\" if unsure",
+				"emoji": "❓"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "hlth-phm-2",
+		"title": "Asking the Pharmacist a Question",
+		"category": "healthcare",
+		"subcategoryId": "health-pharmacy",
+		"difficulty": 2,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Wait for a free moment at the counter",
+				"emoji": "⏳"
+			},
+			{
+				"text": "Say \"Excuse me, I have a question about a medication\"",
+				"emoji": "💊"
+			},
+			{
+				"text": "Show the packet or name the medication",
+				"emoji": "📦"
+			},
+			{
+				"text": "Ask your question clearly: \"Is it okay to take this with [other medication]?\"",
+				"emoji": "❓"
+			},
+			{
+				"text": "Listen and ask for it to be repeated if needed",
+				"emoji": "👂"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "hlth-sym-1",
+		"title": "Describing Pain to a Doctor",
+		"category": "healthcare",
+		"subcategoryId": "health-symptoms",
+		"difficulty": 2,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Use a scale: \"My pain is about a [number] out of 10\"",
+				"emoji": "🔢"
+			},
+			{
+				"text": "Say where it is: \"It's in my [body part]\"",
+				"emoji": "📍"
+			},
+			{
+				"text": "Describe it: \"It feels sharp / dull / burning / throbbing\"",
+				"emoji": "🤒"
+			},
+			{
+				"text": "Say when it started and if anything makes it better or worse",
+				"emoji": "⏰"
+			},
+			{
+				"text": "Show them the affected area if you can",
+				"emoji": "👆"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "hlth-sym-2",
+		"title": "Talking About Mental Health Symptoms",
+		"category": "healthcare",
+		"subcategoryId": "health-symptoms",
+		"difficulty": 2,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "You don't have to share more than you're comfortable with",
+				"emoji": "💡"
+			},
+			{
+				"text": "Describe what you're experiencing: \"I've been feeling [anxious/low/overwhelmed] for [time]\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Say how it affects daily life: \"It's making it hard to [sleep/work/go out]\"",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Ask: \"What are my options for support?\"",
+				"emoji": "❓"
+			},
+			{
+				"text": "Take your time — the doctor is there to help",
+				"emoji": "🤝"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "hlth-thr-1",
+		"title": "Starting a Therapy Session",
+		"category": "healthcare",
+		"subcategoryId": "health-therapy",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "It's okay to feel nervous at first",
+				"emoji": "💡"
+			},
+			{
+				"text": "The therapist may ask \"What brings you here today?\"",
+				"emoji": "❓"
+			},
+			{
+				"text": "You can say \"I'm not sure where to start\" — that's fine",
+				"emoji": "💬"
+			},
+			{
+				"text": "Share one main thing you want help with",
+				"emoji": "🔍"
+			},
+			{
+				"text": "You can ask \"Is this confidential?\" if you're unsure",
+				"emoji": "🔒"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "hlth-thr-2",
+		"title": "Telling Your Therapist Something Is Not Helping",
+		"category": "healthcare",
+		"subcategoryId": "health-therapy",
+		"difficulty": 3,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Your feedback makes therapy more useful — speak up",
+				"emoji": "💡"
+			},
+			{
+				"text": "Say \"I've been thinking — I don't think [technique] is helping me\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Explain why if you can",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Ask \"Is there something else we could try?\"",
+				"emoji": "❓"
+			},
+			{
+				"text": "A good therapist will welcome this",
+				"emoji": "🤝"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "hlth-er-1",
+		"title": "Arriving at the Emergency Room",
+		"category": "healthcare",
+		"subcategoryId": "health-er",
+		"difficulty": 3,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Go to the triage desk and say \"I need to be seen\"",
+				"emoji": "🆘"
+			},
+			{
+				"text": "Describe your most urgent symptom in one sentence",
+				"emoji": "💬"
+			},
+			{
+				"text": "Give your name and date of birth",
+				"emoji": "📋"
+			},
+			{
+				"text": "Tell them about any allergies or current medications",
+				"emoji": "💊"
+			},
+			{
+				"text": "Wait in the waiting area until called — stay seated if possible",
+				"emoji": "🪑"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "shop-groc-1",
+		"title": "Getting Through a Grocery Shop",
+		"category": "shopping",
+		"subcategoryId": "shop-grocery",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Write a list before you go — organised by section",
+				"emoji": "📝"
+			},
+			{
+				"text": "Get a basket or trolley when you enter",
+				"emoji": "🛒"
+			},
+			{
+				"text": "Work through your list section by section",
+				"emoji": "✅"
+			},
+			{
+				"text": "If you can't find something, use the shelf labels or ask staff",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Choose a shorter queue — self-checkout is fine if it's easier",
+				"emoji": "🧾"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "shop-groc-2",
+		"title": "At the Checkout",
+		"category": "shopping",
+		"subcategoryId": "shop-grocery",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Place items on the belt when the person ahead is almost done",
+				"emoji": "🛒"
+			},
+			{
+				"text": "When asked \"Did you find everything?\", say \"Yes, thanks\" or mention anything you couldn't find",
+				"emoji": "💬"
+			},
+			{
+				"text": "Have your payment method ready",
+				"emoji": "💳"
+			},
+			{
+				"text": "Say \"Thanks\" and take your bags",
+				"emoji": "🙏"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "shop-rest-1",
+		"title": "Ordering at a Restaurant",
+		"category": "shopping",
+		"subcategoryId": "shop-restaurant",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Read the menu before the server comes if possible",
+				"emoji": "📋"
+			},
+			{
+				"text": "When they arrive: \"Hi, I'd like [item], please\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "If you have dietary needs, say them now: \"Does that have [allergen]?\"",
+				"emoji": "❓"
+			},
+			{
+				"text": "Order drinks and food at the same time if you can",
+				"emoji": "🍹"
+			},
+			{
+				"text": "Say \"Thank you\" when they take the order",
+				"emoji": "🙏"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "shop-rest-2",
+		"title": "Ordering Coffee or a Drink",
+		"category": "shopping",
+		"subcategoryId": "shop-restaurant",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Step up to the counter when it's your turn",
+				"emoji": "🚶"
+			},
+			{
+				"text": "Say your order clearly: \"Can I get a [drink size and type] please?\"",
+				"emoji": "☕"
+			},
+			{
+				"text": "If they ask your name, tell them",
+				"emoji": "💬"
+			},
+			{
+				"text": "Pay and step to the side to wait",
+				"emoji": "💳"
+			},
+			{
+				"text": "When called, take your drink and say \"Thanks\"",
+				"emoji": "🙏"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "shop-rest-3",
+		"title": "Sending Food Back",
+		"category": "shopping",
+		"subcategoryId": "shop-restaurant",
+		"difficulty": 3,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "You don't have to eat something wrong or that isn't safe",
+				"emoji": "💡"
+			},
+			{
+				"text": "Catch the server's attention with a small wave",
+				"emoji": "🙋"
+			},
+			{
+				"text": "Say \"Excuse me, I think there's been a mistake with my order\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Explain briefly: \"I ordered [X] but this seems to be [Y]\"",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Stay calm — mistakes happen and they will fix it",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "shop-ret-1",
+		"title": "Returning an Item to a Shop",
+		"category": "shopping",
+		"subcategoryId": "shop-returns",
+		"difficulty": 2,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Bring the item, receipt, and original packaging if possible",
+				"emoji": "📦"
+			},
+			{
+				"text": "Go to the customer service desk or returns counter",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Say \"Hi, I'd like to return this, please\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Explain briefly: \"It's damaged\" or \"It's not what I expected\"",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Ask \"Can I get a refund or exchange?\"",
+				"emoji": "❓"
+			},
+			{
+				"text": "Follow their process and keep any reference numbers",
+				"emoji": "🔢"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "shop-hair-1",
+		"title": "Getting a Haircut",
+		"category": "shopping",
+		"subcategoryId": "shop-haircut",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Bring a photo of the style you want — it's totally normal",
+				"emoji": "📱"
+			},
+			{
+				"text": "When asked, show the photo or describe: \"A little shorter on the sides\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "If they ask \"How much off?\", you can say \"Just a trim\" or show with fingers",
+				"emoji": "✂️"
+			},
+			{
+				"text": "During the cut: you don't have to talk — silence is fine",
+				"emoji": "😌"
+			},
+			{
+				"text": "When done, check the mirror and say \"Looks great, thank you\"",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "shop-hair-2",
+		"title": "Telling the Hairdresser You're Sensitive to Touch",
+		"category": "shopping",
+		"subcategoryId": "shop-haircut",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "It's okay to mention this before they start",
+				"emoji": "💡"
+			},
+			{
+				"text": "Say \"I just wanted to let you know I'm sensitive to touch around my head\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Ask: \"Could you please be gentle and let me know what you're doing?\"",
+				"emoji": "🙏"
+			},
+			{
+				"text": "They will appreciate knowing",
+				"emoji": "🤝"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "shop-bus-1",
+		"title": "Getting on a Bus",
+		"category": "shopping",
+		"subcategoryId": "shop-transport",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Check the bus number matches your route",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Wait for people to get off before boarding",
+				"emoji": "⏳"
+			},
+			{
+				"text": "Tap your card or show your ticket as you board",
+				"emoji": "💳"
+			},
+			{
+				"text": "Find a seat or hold a rail if standing",
+				"emoji": "🚌"
+			},
+			{
+				"text": "Press the stop button before your stop",
+				"emoji": "🔴"
+			},
+			{
+				"text": "Exit through the doors and let others out first",
+				"emoji": "🚪"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "shop-bus-2",
+		"title": "Asking for Help on Public Transport",
+		"category": "shopping",
+		"subcategoryId": "shop-transport",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "You can ask a fellow passenger or a staff member",
+				"emoji": "🙋"
+			},
+			{
+				"text": "Say \"Excuse me, does this bus/train go to [destination]?\"",
+				"emoji": "❓"
+			},
+			{
+				"text": "Or: \"Can you tell me when we get to [stop]?\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Thank them when they respond",
+				"emoji": "🙏"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "work-int-1",
+		"title": "Preparing for a Job Interview",
+		"category": "workschool",
+		"subcategoryId": "work-interview",
+		"difficulty": 2,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Research the company before the day — one or two key facts",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Prepare a brief answer to \"Tell me about yourself\" (30–60 seconds)",
+				"emoji": "📝"
+			},
+			{
+				"text": "Practise 2–3 examples of your strengths with evidence",
+				"emoji": "💪"
+			},
+			{
+				"text": "Prepare one question to ask them",
+				"emoji": "❓"
+			},
+			{
+				"text": "Arrive 5–10 minutes early and let reception know you're there",
+				"emoji": "⏰"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "work-int-2",
+		"title": "Answering \"Tell Me About Yourself\"",
+		"category": "workschool",
+		"subcategoryId": "work-interview",
+		"difficulty": 2,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Start with your background: \"I've been working in [field] for [X] years\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Mention one or two key skills relevant to the role",
+				"emoji": "💪"
+			},
+			{
+				"text": "Say why you're applying: \"I'm interested in this role because...\"",
+				"emoji": "🎯"
+			},
+			{
+				"text": "Keep it to about 60 seconds",
+				"emoji": "⏱️"
+			},
+			{
+				"text": "End by inviting them to ask more: \"Happy to go into more detail\"",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "work-int-3",
+		"title": "Disclosing Your Autism in an Interview",
+		"category": "workschool",
+		"subcategoryId": "work-interview",
+		"difficulty": 3,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Disclosure is your choice — you are not obligated to disclose",
+				"emoji": "💡"
+			},
+			{
+				"text": "If you choose to disclose, frame it positively: \"I'm autistic, which means I...\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Highlight your strengths: attention to detail, focus, reliability",
+				"emoji": "💪"
+			},
+			{
+				"text": "If you need accommodations, ask: \"I work best when [X] — is that possible here?\"",
+				"emoji": "❓"
+			},
+			{
+				"text": "This shows self-awareness, which is a professional asset",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "work-day-1",
+		"title": "Asking Your Manager for Clarification",
+		"category": "workschool",
+		"subcategoryId": "work-daily",
+		"difficulty": 2,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "It's always better to check than guess",
+				"emoji": "💡"
+			},
+			{
+				"text": "Say \"I want to make sure I'm on the right track — can I check something?\"",
+				"emoji": "🙋"
+			},
+			{
+				"text": "Ask: \"When you said [X], did you mean I should [Y]?\"",
+				"emoji": "❓"
+			},
+			{
+				"text": "Take notes on the answer",
+				"emoji": "📝"
+			},
+			{
+				"text": "Say \"Got it — thank you for clarifying\"",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "work-day-2",
+		"title": "Telling a Colleague You're Busy",
+		"category": "workschool",
+		"subcategoryId": "work-daily",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "You don't have to stop what you're doing immediately",
+				"emoji": "💡"
+			},
+			{
+				"text": "Say \"I'm in the middle of something right now — can I come back to you in [X] minutes?\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Or: \"I'm a bit tied up — can we talk after [time]?\"",
+				"emoji": "⏰"
+			},
+			{
+				"text": "Follow up when you said you would",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "work-day-3",
+		"title": "Calling in Sick",
+		"category": "workschool",
+		"subcategoryId": "work-daily",
+		"difficulty": 2,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Contact your manager before your shift starts — text or call",
+				"emoji": "📞"
+			},
+			{
+				"text": "Say: \"Hi, I'm not feeling well today and won't be able to come in\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "You don't need to explain your illness in detail",
+				"emoji": "💡"
+			},
+			{
+				"text": "Ask: \"Is there anything urgent I should hand over?\"",
+				"emoji": "❓"
+			},
+			{
+				"text": "Say when you expect to be back if you know",
+				"emoji": "📅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "work-fb-1",
+		"title": "Receiving Critical Feedback",
+		"category": "workschool",
+		"subcategoryId": "work-feedback",
+		"difficulty": 3,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Take a breath and don't respond immediately",
+				"emoji": "🫁"
+			},
+			{
+				"text": "Listen to the whole feedback before speaking",
+				"emoji": "👂"
+			},
+			{
+				"text": "Say \"Thank you for letting me know\" — even if it stings",
+				"emoji": "🙏"
+			},
+			{
+				"text": "Ask \"Can you give me an example?\" to understand better",
+				"emoji": "❓"
+			},
+			{
+				"text": "Ask \"What would you like me to do differently?\"",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Take notes and reflect on it later — not everything is an attack",
+				"emoji": "📝"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "work-fb-2",
+		"title": "Disagreeing with Feedback Professionally",
+		"category": "workschool",
+		"subcategoryId": "work-feedback",
+		"difficulty": 3,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Wait until they've finished — don't interrupt",
+				"emoji": "⏳"
+			},
+			{
+				"text": "Say \"I appreciate the feedback. Could I share my perspective?\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Use facts: \"My understanding was [X] because [reason]\"",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Avoid emotional language — stay calm and specific",
+				"emoji": "🫁"
+			},
+			{
+				"text": "End with: \"I want to find the best way forward for the team\"",
+				"emoji": "🤝"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "work-mtg-1",
+		"title": "Contributing to a Meeting",
+		"category": "workschool",
+		"subcategoryId": "work-meetings",
+		"difficulty": 3,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Prepare one or two points to share beforehand",
+				"emoji": "📝"
+			},
+			{
+				"text": "Wait for a pause before speaking",
+				"emoji": "⏳"
+			},
+			{
+				"text": "Say \"I'd like to add something, if that's okay\"",
+				"emoji": "🙋"
+			},
+			{
+				"text": "State your point clearly and briefly",
+				"emoji": "💬"
+			},
+			{
+				"text": "Stop after your point — you don't need to fill silence",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "work-mtg-2",
+		"title": "Asking a Question in a Meeting",
+		"category": "workschool",
+		"subcategoryId": "work-meetings",
+		"difficulty": 2,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Write down your question so you don't forget it",
+				"emoji": "📝"
+			},
+			{
+				"text": "Wait for a natural pause or raise your hand",
+				"emoji": "✋"
+			},
+			{
+				"text": "Say \"Can I ask a question about [topic]?\"",
+				"emoji": "❓"
+			},
+			{
+				"text": "Ask your question concisely",
+				"emoji": "💬"
+			},
+			{
+				"text": "Thank them for the answer",
+				"emoji": "🙏"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "work-cls-1",
+		"title": "Asking a Question in Class",
+		"category": "workschool",
+		"subcategoryId": "work-school",
+		"difficulty": 1,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Write your question down so you remember it",
+				"emoji": "📝"
+			},
+			{
+				"text": "Raise your hand and wait to be called on",
+				"emoji": "✋"
+			},
+			{
+				"text": "Ask your question clearly and briefly",
+				"emoji": "❓"
+			},
+			{
+				"text": "Listen to the answer fully",
+				"emoji": "👂"
+			},
+			{
+				"text": "Say \"Thank you\" or nod to acknowledge the answer",
+				"emoji": "🙏"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "work-cls-2",
+		"title": "Working in a Group",
+		"category": "workschool",
+		"subcategoryId": "work-school",
+		"difficulty": 3,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Find out what each person is doing at the start",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Say \"I'm happy to take on [specific task] — does that work?\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Do your part and update the group if you hit a problem",
+				"emoji": "✅"
+			},
+			{
+				"text": "If there's disagreement, say \"Can we hear both ideas?\"",
+				"emoji": "❓"
+			},
+			{
+				"text": "You don't have to socialize beyond the task — that's okay",
+				"emoji": "💡"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "self-dis-1",
+		"title": "Disclosing Autism to a New Friend",
+		"category": "selfadvoc",
+		"subcategoryId": "self-disclose",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Choose someone you trust and a private moment",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Say \"There's something I'd like to share with you\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "\"I'm autistic. It means [one or two things that affect you]\"",
+				"emoji": "🧠"
+			},
+			{
+				"text": "You can say \"I just thought you should know in case...\"",
+				"emoji": "💡"
+			},
+			{
+				"text": "Give them time to respond — it might take them a moment",
+				"emoji": "⏳"
+			},
+			{
+				"text": "You control when and how much to share — always",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "self-dis-2",
+		"title": "Disclosing Autism at Work",
+		"category": "selfadvoc",
+		"subcategoryId": "self-disclose",
+		"difficulty": 3,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "You are not legally required to disclose, but it may help you get support",
+				"emoji": "💡"
+			},
+			{
+				"text": "Request a private meeting with HR or your manager",
+				"emoji": "🗓️"
+			},
+			{
+				"text": "Say \"I wanted to let you know I'm autistic and may need some adjustments\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Come prepared with 2–3 specific adjustments that would help",
+				"emoji": "📝"
+			},
+			{
+				"text": "Ask about their process for implementing reasonable adjustments",
+				"emoji": "❓"
+			},
+			{
+				"text": "Follow up in writing (email) so there's a record",
+				"emoji": "✉️"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "self-dis-3",
+		"title": "Disclosing Autism to a Doctor",
+		"category": "selfadvoc",
+		"subcategoryId": "self-disclose",
+		"difficulty": 2,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Say early in the appointment: \"I'm autistic — just so you're aware\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "If helpful, add: \"I prefer very direct communication and written instructions\"",
+				"emoji": "📝"
+			},
+			{
+				"text": "Tell them if bright lights, loud sounds or touch are difficult for you",
+				"emoji": "🔇"
+			},
+			{
+				"text": "Ask \"Can you explain that without medical jargon?\" if needed",
+				"emoji": "❓"
+			},
+			{
+				"text": "You can bring a support person — that's always an option",
+				"emoji": "🤝"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "self-brk-1",
+		"title": "Asking for a Break at School",
+		"category": "selfadvoc",
+		"subcategoryId": "self-break",
+		"difficulty": 2,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Notice the signs you need a break: tension, difficulty concentrating",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Raise your hand or use a break card if your class has one",
+				"emoji": "✋"
+			},
+			{
+				"text": "Say quietly: \"Excuse me, I need to take a short break\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Use the break to regulate — walk, breathe, or use your sensory tools",
+				"emoji": "🫁"
+			},
+			{
+				"text": "Return when you feel ready",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "self-brk-2",
+		"title": "Asking for a Break at Work",
+		"category": "selfadvoc",
+		"subcategoryId": "self-break",
+		"difficulty": 2,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Notice when your focus or energy is dropping",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Say to a manager or colleague: \"I'm going to step away for 5 minutes\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Take the break in a quiet area — outside, kitchen, or bathroom",
+				"emoji": "🚶"
+			},
+			{
+				"text": "Short breaks actually improve productivity — you're not being lazy",
+				"emoji": "💡"
+			},
+			{
+				"text": "Return and let them know if needed: \"I'm back, ready to continue\"",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "self-brk-3",
+		"title": "Taking a Sensory Break in a Public Space",
+		"category": "selfadvoc",
+		"subcategoryId": "self-break",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "When you feel yourself reaching your limit, act early — don't wait",
+				"emoji": "💡"
+			},
+			{
+				"text": "Find a quiet spot: outside, a corner, a corridor, or bathroom",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Put on headphones, close your eyes, and breathe slowly",
+				"emoji": "🎧"
+			},
+			{
+				"text": "Give yourself as much time as you need",
+				"emoji": "⏳"
+			},
+			{
+				"text": "Return when you feel ready — or leave entirely if that's what you need",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "self-brk-4",
+		"title": "Asking for Extra Time to Complete a Task",
+		"category": "selfadvoc",
+		"subcategoryId": "self-break",
+		"difficulty": 2,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Ask as early as possible — not at the last minute",
+				"emoji": "⏰"
+			},
+			{
+				"text": "Say \"I want to make sure I do this properly — could I have until [new deadline]?\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "If relevant: \"I work better with a bit more processing time\"",
+				"emoji": "🔍"
+			},
+			{
+				"text": "You don't need to over-explain or apologise excessively",
+				"emoji": "💡"
+			},
+			{
+				"text": "When they agree, say \"Thank you — I'll have it ready by then\"",
+				"emoji": "🙏"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "self-acc-1",
+		"title": "Asking for Adjustments at Work",
+		"category": "selfadvoc",
+		"subcategoryId": "self-accomm",
+		"difficulty": 2,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Write down which accommodations would help you most",
+				"emoji": "📝"
+			},
+			{
+				"text": "Request a private meeting with your manager or HR",
+				"emoji": "🗓️"
+			},
+			{
+				"text": "Say \"I'd like to discuss some adjustments that would help me do my best work\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Be specific: \"Working with headphones\", \"Written instructions\", \"Flexible start time\"",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Ask \"Is that something we can explore?\"",
+				"emoji": "❓"
+			},
+			{
+				"text": "Follow up in writing after the meeting",
+				"emoji": "✉️"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "self-acc-2",
+		"title": "Asking for Extra Time on a Test",
+		"category": "selfadvoc",
+		"subcategoryId": "self-accomm",
+		"difficulty": 2,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Contact the school or university's disability or access office",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Say \"I'm autistic and would like to apply for exam accommodations\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Ask what documentation they need",
+				"emoji": "❓"
+			},
+			{
+				"text": "Provide any diagnosis letters or assessments they require",
+				"emoji": "📋"
+			},
+			{
+				"text": "Ask about the timeline so you can plan ahead",
+				"emoji": "⏰"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "self-acc-3",
+		"title": "Asking to Use Headphones in Class or Work",
+		"category": "selfadvoc",
+		"subcategoryId": "self-accomm",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Pick a calm moment to ask your teacher or manager",
+				"emoji": "⏳"
+			},
+			{
+				"text": "Say \"I focus much better with headphones. Would that be allowed?\"",
+				"emoji": "❓"
+			},
+			{
+				"text": "If they ask why, you can say \"Background noise is distracting for me\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "You don't have to over-explain your neurology",
+				"emoji": "💡"
+			},
+			{
+				"text": "Thank them for considering it",
+				"emoji": "🙏"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "self-ovr-1",
+		"title": "Asking for a Break",
+		"category": "selfadvoc",
+		"subcategoryId": "self-overwhelm",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Notice your signals early — don't push past your limit",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Say \"I need to step out for a moment\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Go to a quiet space — bathroom, outside, a quiet corner",
+				"emoji": "🚶"
+			},
+			{
+				"text": "Do something regulating: deep breaths, music, grounding exercise",
+				"emoji": "🫁"
+			},
+			{
+				"text": "Return when you're ready — there's no rush",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "self-ovr-2",
+		"title": "Leaving a Situation That's Too Much",
+		"category": "selfadvoc",
+		"subcategoryId": "self-overwhelm",
+		"difficulty": 3,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Your wellbeing comes first — it's okay to leave",
+				"emoji": "💡"
+			},
+			{
+				"text": "Find the host or a friend and say \"I'm not feeling great, I'm going to head off\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "You don't owe a detailed explanation",
+				"emoji": "✅"
+			},
+			{
+				"text": "Have an exit plan ready before you go to difficult events",
+				"emoji": "📝"
+			},
+			{
+				"text": "If driving: text someone you're leaving safely",
+				"emoji": "📱"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "self-ovr-3",
+		"title": "Communicating Sensory Needs",
+		"category": "selfadvoc",
+		"subcategoryId": "self-overwhelm",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Identify what's bothering you: lights, noise, touch, smell, crowds",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Say \"This environment is a bit much for me — would it be okay to [adjust]?\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "For example: \"Could we move to a quieter table?\" or \"Could we turn down the lights?\"",
+				"emoji": "🔇"
+			},
+			{
+				"text": "If they can't adjust, it's okay to use your own tools — headphones, sunglasses",
+				"emoji": "🎧"
+			},
+			{
+				"text": "Your sensory needs are valid",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "self-feel-1",
+		"title": "Telling Someone You're Upset",
+		"category": "selfadvoc",
+		"subcategoryId": "self-feelings",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Choose a calm moment — not the middle of a conflict",
+				"emoji": "⏳"
+			},
+			{
+				"text": "Say \"I want to tell you something — I've been feeling [upset/hurt]\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Use \"I\" statements: \"I felt [X] when [Y happened]\"",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Don't accuse — describe your experience",
+				"emoji": "💡"
+			},
+			{
+				"text": "Give them a chance to respond",
+				"emoji": "⏳"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "self-feel-2",
+		"title": "Saying You Need Time to Process",
+		"category": "selfadvoc",
+		"subcategoryId": "self-feelings",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "It's okay to not respond immediately to emotional situations",
+				"emoji": "💡"
+			},
+			{
+				"text": "Say \"I need a little time to think about this\"",
+				"emoji": "⏳"
+			},
+			{
+				"text": "Or: \"Can we come back to this later? I want to give it proper thought\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Set a rough time: \"Can we talk tomorrow?\"",
+				"emoji": "🗓️"
+			},
+			{
+				"text": "This is not avoidance — it's healthy self-management",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "self-feel-3",
+		"title": "Telling Someone You're Happy",
+		"category": "selfadvoc",
+		"subcategoryId": "self-feelings",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "You don't have to show emotions the \"expected\" way",
+				"emoji": "💡"
+			},
+			{
+				"text": "You can say \"I'm really happy about this\"",
+				"emoji": "😊"
+			},
+			{
+				"text": "Or describe what it means to you: \"This really matters to me\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Sharing positive feelings strengthens relationships",
+				"emoji": "💚"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "self-con-1",
+		"title": "Addressing a Misunderstanding",
+		"category": "selfadvoc",
+		"subcategoryId": "self-conflict",
+		"difficulty": 3,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Check your interpretation before reacting: \"Did they mean that literally?\"",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Ask: \"I want to check — when you said [X], did you mean [Y]?\"",
+				"emoji": "❓"
+			},
+			{
+				"text": "Listen to their answer without interrupting",
+				"emoji": "👂"
+			},
+			{
+				"text": "If it was a misunderstanding: \"Okay, that makes sense — thanks for clarifying\"",
+				"emoji": "✅"
+			},
+			{
+				"text": "If you still disagree, express it calmly",
+				"emoji": "🫁"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "self-con-2",
+		"title": "Telling Someone Their Behaviour Hurt You",
+		"category": "selfadvoc",
+		"subcategoryId": "self-conflict",
+		"difficulty": 3,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Wait until you're calm enough to speak",
+				"emoji": "🫁"
+			},
+			{
+				"text": "Say \"I wanted to talk about something — is now a good time?\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Use the formula: \"When [X happened], I felt [Y]\"",
+				"emoji": "📝"
+			},
+			{
+				"text": "Avoid words like \"always\" or \"never\" — they tend to escalate",
+				"emoji": "💡"
+			},
+			{
+				"text": "Ask \"Can we work out how to avoid this happening again?\"",
+				"emoji": "🤝"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "self-con-3",
+		"title": "Walking Away from a Heated Argument",
+		"category": "selfadvoc",
+		"subcategoryId": "self-conflict",
+		"difficulty": 3,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "It's smart to leave before it escalates further",
+				"emoji": "💡"
+			},
+			{
+				"text": "Say \"I'm too worked up right now — I need to take a break\"",
+				"emoji": "🚶"
+			},
+			{
+				"text": "Leave the room or space",
+				"emoji": "🚪"
+			},
+			{
+				"text": "Do something regulating: walk, breathe, move",
+				"emoji": "🫁"
+			},
+			{
+				"text": "Return to the conversation later when you're both calm",
+				"emoji": "🕐"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "emerg-911-1",
+		"title": "Calling 911 (or Local Emergency Line)",
+		"category": "emergency",
+		"subcategoryId": "emerg-911",
+		"difficulty": 3,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Stay as calm as you can — you can do this",
+				"emoji": "🫁"
+			},
+			{
+				"text": "Dial 911 (or your local emergency number)",
+				"emoji": "📞"
+			},
+			{
+				"text": "Say \"I need help\" and describe the emergency in one sentence",
+				"emoji": "🆘"
+			},
+			{
+				"text": "Give your exact location — address, landmark, or what you can see",
+				"emoji": "📍"
+			},
+			{
+				"text": "Answer their questions one at a time",
+				"emoji": "👂"
+			},
+			{
+				"text": "Do not hang up until they say it's okay",
+				"emoji": "📞"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "emerg-911-2",
+		"title": "Calling 911 If You Can't Speak",
+		"category": "emergency",
+		"subcategoryId": "emerg-911",
+		"difficulty": 3,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Dial 911 and stay on the line even if you can't speak",
+				"emoji": "📞"
+			},
+			{
+				"text": "Many services will send help when there is an open line",
+				"emoji": "💡"
+			},
+			{
+				"text": "If asked \"Press 1 for emergency\" — do so",
+				"emoji": "1️⃣"
+			},
+			{
+				"text": "Send your location via text to your local emergency text number if available",
+				"emoji": "📱"
+			},
+			{
+				"text": "Stay on the line or keep texting",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "emerg-uns-1",
+		"title": "Telling Someone You Feel Unsafe",
+		"category": "emergency",
+		"subcategoryId": "emerg-unsafe",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Find a trusted person nearby",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Approach them and say \"I need help\"",
+				"emoji": "🙋"
+			},
+			{
+				"text": "Say \"I don't feel safe right now\"",
+				"emoji": "😟"
+			},
+			{
+				"text": "Let them guide next steps",
+				"emoji": "🤝"
+			},
+			{
+				"text": "Stay with them until you feel safer",
+				"emoji": "💚"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "emerg-uns-2",
+		"title": "Getting Help if You're Being Bullied",
+		"category": "emergency",
+		"subcategoryId": "emerg-unsafe",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "You deserve to feel safe — speak up",
+				"emoji": "💡"
+			},
+			{
+				"text": "Tell a trusted adult, teacher, or manager: \"Someone is treating me badly and I need help\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Write down what happened, when, and who was involved",
+				"emoji": "📝"
+			},
+			{
+				"text": "If it continues, escalate to the next level of authority",
+				"emoji": "🔺"
+			},
+			{
+				"text": "You are not causing trouble by reporting this",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "emerg-sns-1",
+		"title": "Sensory Overload in a Public Place",
+		"category": "emergency",
+		"subcategoryId": "emerg-sensory",
+		"difficulty": 3,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Move away from the source of overload if you can",
+				"emoji": "🚶"
+			},
+			{
+				"text": "Find a wall, corner, or quiet exit",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Sit or crouch down if standing feels like too much",
+				"emoji": "🧎"
+			},
+			{
+				"text": "Cover your ears or put on headphones",
+				"emoji": "🎧"
+			},
+			{
+				"text": "Focus on slowing your breathing: breathe in 4 counts, out 6",
+				"emoji": "🫁"
+			},
+			{
+				"text": "Text a trusted person your location if you need support",
+				"emoji": "📱"
+			},
+			{
+				"text": "Wait until you feel ready to move — there's no timeline",
+				"emoji": "⏳"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "emerg-sns-2",
+		"title": "Asking a Stranger for Help During Overload",
+		"category": "emergency",
+		"subcategoryId": "emerg-sensory",
+		"difficulty": 3,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "You are allowed to ask for help — it's brave, not weak",
+				"emoji": "💡"
+			},
+			{
+				"text": "Approach someone calm-looking and say \"Excuse me, I'm not feeling well\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Say \"Can you help me get somewhere quieter?\"",
+				"emoji": "🙏"
+			},
+			{
+				"text": "Or show them a card or phone message explaining you're autistic and overwhelmed",
+				"emoji": "📱"
+			},
+			{
+				"text": "They can assist you or help find staff",
+				"emoji": "🤝"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "emerg-lst-1",
+		"title": "What to Do If You Get Lost",
+		"category": "emergency",
+		"subcategoryId": "emerg-lost",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Stop and stay where you are — don't keep wandering",
+				"emoji": "🛑"
+			},
+			{
+				"text": "Check your phone map for your current location",
+				"emoji": "📱"
+			},
+			{
+				"text": "Call or text someone who knows where you were meant to be",
+				"emoji": "📞"
+			},
+			{
+				"text": "If you need immediate help, approach a shop employee or security guard",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Say \"I'm lost and I need help getting to [destination]\"",
+				"emoji": "💬"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "emerg-lst-2",
+		"title": "Getting Lost in a Large Building",
+		"category": "emergency",
+		"subcategoryId": "emerg-lost",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Look for a directory map or signs on the walls",
+				"emoji": "🗺️"
+			},
+			{
+				"text": "Head toward reception, information desk, or security",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Say \"I'm looking for [room/floor/exit] — could you point me in the right direction?\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Follow signage step by step, not all at once",
+				"emoji": "🚶"
+			},
+			{
+				"text": "It's okay to ask twice if you forget",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "hlp-bthr-1",
+		"title": "Asking to Use the Bathroom at Someone's House",
+		"category": "help",
+		"subcategoryId": "help-bathroom",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "It's completely normal to ask — don't feel embarrassed",
+				"emoji": "💡"
+			},
+			{
+				"text": "Wait for a natural pause in conversation",
+				"emoji": "⏳"
+			},
+			{
+				"text": "Ask politely: \"Could I use your bathroom please?\"",
+				"emoji": "🙏"
+			},
+			{
+				"text": "Follow their directions to find it",
+				"emoji": "🚶"
+			},
+			{
+				"text": "When you return, you don't need to comment on it — just rejoin the conversation",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "hlp-bthr-2",
+		"title": "Asking to Use the Bathroom in a Restaurant, Café, or Shop",
+		"category": "help",
+		"subcategoryId": "help-bathroom",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Find a member of staff",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Say \"Excuse me — where is the bathroom please?\"",
+				"emoji": "🙋"
+			},
+			{
+				"text": "Follow their directions",
+				"emoji": "🚶"
+			},
+			{
+				"text": "In some cafés you may need a code for the lock — ask for that too",
+				"emoji": "💡"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "hlp-bthr-3",
+		"title": "Asking for a Bathroom Break During Class or a Meeting",
+		"category": "help",
+		"subcategoryId": "help-bathroom",
+		"difficulty": 1,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Wait for a natural pause if you can",
+				"emoji": "⏳"
+			},
+			{
+				"text": "Raise your hand or catch the teacher's/host's attention",
+				"emoji": "✋"
+			},
+			{
+				"text": "Say quietly: \"Could I please be excused for a moment?\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Leave and return as quickly as you can",
+				"emoji": "🚶"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "hlp-prm-1",
+		"title": "Asking Permission to Borrow Something",
+		"category": "help",
+		"subcategoryId": "help-permission",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Never take something without asking first",
+				"emoji": "💡"
+			},
+			{
+				"text": "Ask the owner directly: \"Is it okay if I borrow your [item]?\"",
+				"emoji": "❓"
+			},
+			{
+				"text": "If they say yes, take good care of it",
+				"emoji": "🤲"
+			},
+			{
+				"text": "Return it when you said you would, or earlier",
+				"emoji": "⏰"
+			},
+			{
+				"text": "Say \"Thank you\" when you give it back",
+				"emoji": "🙏"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "hlp-prm-2",
+		"title": "Asking an Adult for Permission",
+		"category": "help",
+		"subcategoryId": "help-permission",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Choose a calm moment when the adult isn't busy",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Say \"Can I please ask you something?\"",
+				"emoji": "🙋"
+			},
+			{
+				"text": "Make your request clearly: \"Is it okay if I [do/go/have]...?\"",
+				"emoji": "❓"
+			},
+			{
+				"text": "Wait for their answer without talking over them",
+				"emoji": "⏳"
+			},
+			{
+				"text": "If the answer is no, accept it calmly — you can ask why if needed",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "hlp-prm-3",
+		"title": "Asking Before Sharing Someone's Information",
+		"category": "help",
+		"subcategoryId": "help-permission",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Other people's personal details belong to them",
+				"emoji": "💡"
+			},
+			{
+				"text": "Before sharing their info, contact, or photo, ask: \"Is it okay if I share your [information] with [person]?\"",
+				"emoji": "❓"
+			},
+			{
+				"text": "Only share it if they say yes",
+				"emoji": "✅"
+			},
+			{
+				"text": "This applies to addresses, phone numbers, photos, and personal news",
+				"emoji": "🔒"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "work-rd-1",
+		"title": "Making Connections While Reading",
+		"category": "workschool",
+		"subcategoryId": "work-reading",
+		"difficulty": 2,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Pause when something in the text reminds you of something",
+				"emoji": "💡"
+			},
+			{
+				"text": "Ask yourself: \"Does this connect to my own life, another book, or the world?\"",
+				"emoji": "🌐"
+			},
+			{
+				"text": "Write your connection in the margin or a notebook",
+				"emoji": "✏️"
+			},
+			{
+				"text": "Example: \"This reminds me of [thing] because [reason]\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Connections help you remember and understand the text",
+				"emoji": "📖"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "work-rd-2",
+		"title": "Making Predictions While Reading",
+		"category": "workschool",
+		"subcategoryId": "work-reading",
+		"difficulty": 2,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Before you read, look at the title and any pictures — what do you think it will be about?",
+				"emoji": "🔍"
+			},
+			{
+				"text": "As you read, pause and ask \"What do I think will happen next?\"",
+				"emoji": "🤔"
+			},
+			{
+				"text": "Write your prediction down",
+				"emoji": "✏️"
+			},
+			{
+				"text": "Keep reading to see if you were right",
+				"emoji": "📖"
+			},
+			{
+				"text": "It doesn't matter if your prediction is wrong — the thinking is what helps",
+				"emoji": "💡"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "work-rd-3",
+		"title": "Asking Questions While Reading",
+		"category": "workschool",
+		"subcategoryId": "work-reading",
+		"difficulty": 2,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Good readers ask questions as they go",
+				"emoji": "💡"
+			},
+			{
+				"text": "When something is confusing, write \"I wonder...\" in the margin",
+				"emoji": "✏️"
+			},
+			{
+				"text": "Example: \"I wonder why the character did that\"",
+				"emoji": "🤔"
+			},
+			{
+				"text": "Keep reading to see if the text answers your question",
+				"emoji": "📖"
+			},
+			{
+				"text": "If not, look it up or ask your teacher",
+				"emoji": "❓"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "ph-eml-1",
+		"title": "Writing a Formal Email",
+		"category": "phone",
+		"subcategoryId": "phone-email",
+		"difficulty": 2,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Start with a clear subject line: \"Question about [topic]\"",
+				"emoji": "📧"
+			},
+			{
+				"text": "Open with \"Dear [name],\" or \"Hi [name],\"",
+				"emoji": "✉️"
+			},
+			{
+				"text": "State your purpose in the first sentence",
+				"emoji": "💬"
+			},
+			{
+				"text": "Keep it brief — 3–5 sentences is usually enough",
+				"emoji": "📝"
+			},
+			{
+				"text": "End with \"Kind regards,\" or \"Thanks,\" followed by your name",
+				"emoji": "🙏"
+			},
+			{
+				"text": "Read it once before sending to check for errors",
+				"emoji": "🔍"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "ph-eml-2",
+		"title": "Responding to an Important Text or Email",
+		"category": "phone",
+		"subcategoryId": "phone-email",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Read the message fully before replying",
+				"emoji": "👀"
+			},
+			{
+				"text": "Answer the actual question they asked — don't avoid it",
+				"emoji": "💬"
+			},
+			{
+				"text": "Keep it clear and direct",
+				"emoji": "📝"
+			},
+			{
+				"text": "If you need more time, reply: \"Thanks — I'll come back to you on this by [date]\"",
+				"emoji": "⏰"
+			},
+			{
+				"text": "Proofread before sending",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "ph-eml-3",
+		"title": "When You Receive an Unwanted or Upsetting Message",
+		"category": "phone",
+		"subcategoryId": "phone-email",
+		"difficulty": 3,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Step away from the screen before reacting",
+				"emoji": "📵"
+			},
+			{
+				"text": "Don't reply while you're still upset — it often escalates things",
+				"emoji": "🛑"
+			},
+			{
+				"text": "Screenshot or save the message if it could be needed as evidence",
+				"emoji": "📱"
+			},
+			{
+				"text": "Block, mute, or report if it's harassment",
+				"emoji": "🔒"
+			},
+			{
+				"text": "Talk to a trusted person before deciding what to do next",
+				"emoji": "🤝"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "greet-cas-5",
+		"title": "Answering the Door",
+		"category": "greeting",
+		"subcategoryId": "greet-casual",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Before opening, check who it is — look through a peephole or window",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Open the door and say \"Hi, can I help you?\" if it's an unfamiliar person",
+				"emoji": "💬"
+			},
+			{
+				"text": "For someone you know: \"Hey, come in!\" and step aside",
+				"emoji": "🚪"
+			},
+			{
+				"text": "If it's an unexpected salesperson: \"No thank you\" and close the door — that's fine",
+				"emoji": "✋"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "greet-cas-6",
+		"title": "Greeting Someone After a Long Time Apart",
+		"category": "greeting",
+		"subcategoryId": "greet-casual",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "It may feel awkward — that's completely normal",
+				"emoji": "💡"
+			},
+			{
+				"text": "Say \"It's so good to see you!\" or \"Wow, it's been a while!\"",
+				"emoji": "😊"
+			},
+			{
+				"text": "A hug or handshake is optional — follow their lead",
+				"emoji": "🤝"
+			},
+			{
+				"text": "Ask something simple: \"How have you been?\"",
+				"emoji": "❓"
+			},
+			{
+				"text": "Listen and let the conversation warm up naturally",
+				"emoji": "👂"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "greet-for-4",
+		"title": "Greeting a New Teacher or Instructor",
+		"category": "greeting",
+		"subcategoryId": "greet-formal",
+		"difficulty": 2,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Approach before class or during an appropriate moment",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Say \"Hi, I'm [your name] — this is my first time in your class\"",
+				"emoji": "👋"
+			},
+			{
+				"text": "Mention one relevant thing if helpful: \"I learn better with written instructions\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Thank them for their time",
+				"emoji": "🙏"
+			},
+			{
+				"text": "Keep it brief — you can ask more questions as the course progresses",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "talk-day-1",
+		"title": "Asking \"How Was Your Day?\"",
+		"category": "smalltalk",
+		"subcategoryId": "talk-weather",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Wait for a natural moment — when you first see them or during a lull",
+				"emoji": "⏳"
+			},
+			{
+				"text": "Ask \"How was your day?\" and mean it",
+				"emoji": "💬"
+			},
+			{
+				"text": "Listen to their answer — don't scroll your phone",
+				"emoji": "👂"
+			},
+			{
+				"text": "React briefly: \"That sounds tough\" or \"That's great!\"",
+				"emoji": "😊"
+			},
+			{
+				"text": "They will likely ask you back — share one highlight or lowlight",
+				"emoji": "💡"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "talk-plans-3",
+		"title": "Asking About Someone's Weekend",
+		"category": "smalltalk",
+		"subcategoryId": "talk-plans",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "On Friday or Monday, this is a very common thing to ask",
+				"emoji": "💡"
+			},
+			{
+				"text": "Say \"Any plans this weekend?\" or \"How was your weekend?\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Listen to their answer and show interest",
+				"emoji": "👂"
+			},
+			{
+				"text": "Share something brief about your own weekend if asked",
+				"emoji": "🗓️"
+			},
+			{
+				"text": "Keep it light — this kind of small talk keeps relationships warm",
+				"emoji": "😊"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "talk-end-4",
+		"title": "Getting Out of an Awkward Silence",
+		"category": "smalltalk",
+		"subcategoryId": "talk-end",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Silences happen — they're less awkward than they feel",
+				"emoji": "💡"
+			},
+			{
+				"text": "Try a light topic: \"Have you been watching anything good lately?\"",
+				"emoji": "📺"
+			},
+			{
+				"text": "Or mention something in your environment: \"I've been meaning to try this place\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "If nothing works, it's fine to say \"I should get going — good talking to you\"",
+				"emoji": "🚶"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "work-cls-3",
+		"title": "When You Don't Finish Schoolwork on Time",
+		"category": "workschool",
+		"subcategoryId": "work-school",
+		"difficulty": 2,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Tell the teacher before the deadline — not after",
+				"emoji": "⏰"
+			},
+			{
+				"text": "Say \"I'm sorry, I haven't finished my work — could I have more time?\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Give a brief, honest reason if you have one",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Accept whatever they decide calmly",
+				"emoji": "🫁"
+			},
+			{
+				"text": "Complete it as soon as you can and don't leave it again",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "work-cls-4",
+		"title": "Disagreeing with a Classmate Respectfully",
+		"category": "workschool",
+		"subcategoryId": "work-school",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Wait until they've finished speaking",
+				"emoji": "⏳"
+			},
+			{
+				"text": "Say \"I see it a bit differently — can I share my view?\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Use \"I think...\" rather than \"You're wrong\"",
+				"emoji": "💡"
+			},
+			{
+				"text": "Explain your reasoning briefly",
+				"emoji": "🔍"
+			},
+			{
+				"text": "It's okay if you don't agree in the end — both views can exist",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "work-day-4",
+		"title": "Dealing with an Unexpected Change at Work",
+		"category": "workschool",
+		"subcategoryId": "work-daily",
+		"difficulty": 3,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Take a breath when you hear about the change",
+				"emoji": "🫁"
+			},
+			{
+				"text": "Don't react out loud straight away — write down your initial reaction if needed",
+				"emoji": "✏️"
+			},
+			{
+				"text": "Ask for the information you need: \"What does this mean for my role day-to-day?\"",
+				"emoji": "❓"
+			},
+			{
+				"text": "Focus on what you can control",
+				"emoji": "💪"
+			},
+			{
+				"text": "Talk to a trusted person about how it's affecting you",
+				"emoji": "🤝"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "work-mtg-3",
+		"title": "Handling a Fire Drill or Unexpected Alarm",
+		"category": "workschool",
+		"subcategoryId": "work-meetings",
+		"difficulty": 2,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Alarms are loud and sudden — try to stay calm",
+				"emoji": "🫁"
+			},
+			{
+				"text": "Stop what you're doing and follow other people out",
+				"emoji": "🚶"
+			},
+			{
+				"text": "Use the nearest fire exit — do not use the lift",
+				"emoji": "🚪"
+			},
+			{
+				"text": "Go to the assembly point and stay with your group",
+				"emoji": "📍"
+			},
+			{
+				"text": "Wait for the all-clear before returning inside",
+				"emoji": "⏳"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "self-acm-3",
+		"title": "Explaining Your Communication Style to Someone New",
+		"category": "selfadvoc",
+		"subcategoryId": "self-accomm",
+		"difficulty": 3,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Choose the right moment — not when things are rushed or tense",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Say \"I want to let you know how I communicate best\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Share what helps: \"I prefer direct language\" or \"I need a moment to process before I respond\"",
+				"emoji": "💡"
+			},
+			{
+				"text": "You can add: \"I'm not being rude — this is just how I work best\"",
+				"emoji": "🙂"
+			},
+			{
+				"text": "Thank them for listening: \"I really appreciate you knowing this\"",
+				"emoji": "🙏"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "self-acm-4",
+		"title": "Asking Someone to Speak More Slowly or Clearly",
+		"category": "selfadvoc",
+		"subcategoryId": "self-accomm",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "You have every right to ask for communication that works for you",
+				"emoji": "💡"
+			},
+			{
+				"text": "Say \"Could you slow down a little? I want to make sure I understand\"",
+				"emoji": "🙏"
+			},
+			{
+				"text": "Or: \"Could you say that again more slowly?\"",
+				"emoji": "🔄"
+			},
+			{
+				"text": "If they speak too quietly: \"Sorry — could you speak up a bit?\"",
+				"emoji": "🔊"
+			},
+			{
+				"text": "Most people won't mind — it shows you're listening carefully",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "self-ovr-4",
+		"title": "Coping When Your Plans Change Unexpectedly",
+		"category": "selfadvoc",
+		"subcategoryId": "self-overwhelm",
+		"difficulty": 3,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Unexpected changes can feel very difficult — that reaction is valid",
+				"emoji": "💡"
+			},
+			{
+				"text": "Take a slow breath before reacting",
+				"emoji": "🫁"
+			},
+			{
+				"text": "Say \"I need a moment to adjust to this\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Write down the new plan to make it concrete",
+				"emoji": "📝"
+			},
+			{
+				"text": "Identify one thing that's still the same as before",
+				"emoji": "🔍"
+			},
+			{
+				"text": "With time, the new plan will feel more familiar",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "self-con-4",
+		"title": "Recovering After a Social Mistake",
+		"category": "selfadvoc",
+		"subcategoryId": "self-conflict",
+		"difficulty": 3,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Everyone makes social mistakes — autistic or not",
+				"emoji": "💡"
+			},
+			{
+				"text": "Don't replay it obsessively — notice the thought and let it pass",
+				"emoji": "🫁"
+			},
+			{
+				"text": "If it affected someone, a brief apology is often enough: \"I'm sorry if that came out wrong\"",
+				"emoji": "🙏"
+			},
+			{
+				"text": "Remember: most people think about themselves, not your mistake, five minutes later",
+				"emoji": "😊"
+			},
+			{
+				"text": "Ask yourself: \"What would I tell a friend in this situation?\" — then say it to yourself",
+				"emoji": "❤️"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "shop-groc-3",
+		"title": "Trying on Clothes in a Store",
+		"category": "shopping",
+		"subcategoryId": "shop-grocery",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Bring the items you want to the fitting room area",
+				"emoji": "👗"
+			},
+			{
+				"text": "Ask the attendant \"Can I use a changing room, please?\"",
+				"emoji": "🙋"
+			},
+			{
+				"text": "They may count your items and give you a tag",
+				"emoji": "🔢"
+			},
+			{
+				"text": "Try the items and keep everything else on a hanger",
+				"emoji": "✅"
+			},
+			{
+				"text": "Return unwanted items to the attendant — don't leave them in the room",
+				"emoji": "🙏"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "shop-ret-2",
+		"title": "When a Sales Associate Approaches You",
+		"category": "shopping",
+		"subcategoryId": "shop-returns",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "They'll often say \"Can I help you find anything?\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "If you want help: \"Yes — I'm looking for [item]\"",
+				"emoji": "✅"
+			},
+			{
+				"text": "If you're just browsing, say \"No thanks, just looking\" — that's fine",
+				"emoji": "✋"
+			},
+			{
+				"text": "You don't need to explain yourself further",
+				"emoji": "💡"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "shop-hair-3",
+		"title": "When Something Breaks Quickly After Buying It",
+		"category": "shopping",
+		"subcategoryId": "shop-haircut",
+		"difficulty": 2,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Keep your receipt — it's your proof of purchase",
+				"emoji": "🧾"
+			},
+			{
+				"text": "Return to the store and explain calmly: \"I bought this [X] days ago and it's already stopped working\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Ask \"Am I entitled to a replacement or refund?\"",
+				"emoji": "❓"
+			},
+			{
+				"text": "In most countries, consumer law protects you for faulty goods",
+				"emoji": "💡"
+			},
+			{
+				"text": "If they refuse, ask to speak to a manager or contact consumer advice",
+				"emoji": "🔺"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "hlth-doc-4",
+		"title": "Preparing a Health Appointment as an Autistic Person",
+		"category": "healthcare",
+		"subcategoryId": "health-doctor",
+		"difficulty": 2,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Write down your symptoms, concerns, and any questions in advance",
+				"emoji": "📝"
+			},
+			{
+				"text": "You can bring a support person or ask them to join by phone",
+				"emoji": "🤝"
+			},
+			{
+				"text": "Tell the doctor at the start: \"I'm autistic — I may need information repeated or written down\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Don't minimise symptoms — describe them as clearly as you can",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Ask for a written summary of the appointment or next steps",
+				"emoji": "📋"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "hlth-phm-3",
+		"title": "Buying Over-the-Counter Medication",
+		"category": "healthcare",
+		"subcategoryId": "health-pharmacy",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Find the appropriate aisle, or ask staff to point you to it",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Read labels carefully for dosage and age suitability",
+				"emoji": "💊"
+			},
+			{
+				"text": "If unsure, ask the pharmacist: \"Is this appropriate for [condition]?\"",
+				"emoji": "❓"
+			},
+			{
+				"text": "Tell them of any other medications you take: \"I also take [medication] — is this safe?\"",
+				"emoji": "💡"
+			},
+			{
+				"text": "Take only the recommended amount",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "hlth-thr-3",
+		"title": "Telling a Professional About Masking or Camouflaging",
+		"category": "healthcare",
+		"subcategoryId": "health-therapy",
+		"difficulty": 3,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Masking — hiding autistic traits — is exhausting and valid to talk about",
+				"emoji": "💡"
+			},
+			{
+				"text": "Say \"I want to tell you about something called masking\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Explain: \"I often hide how I'm actually feeling or what I need to fit in\"",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Tell them the impact: \"It leaves me exhausted and I'm not always honest about my difficulties\"",
+				"emoji": "🌊"
+			},
+			{
+				"text": "Ask: \"Can we work on strategies so I don't have to do this as much?\"",
+				"emoji": "❓"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "sayno-inv-3",
+		"title": "Saying No to an Offer of Food or Drink",
+		"category": "sayno",
+		"subcategoryId": "sayno-invites",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "It's always okay to decline food or drink",
+				"emoji": "💡"
+			},
+			{
+				"text": "Say \"No thank you — I'm fine for now\"",
+				"emoji": "✋"
+			},
+			{
+				"text": "If they ask why, you don't need to give a detailed reason: \"I'm just not hungry, thanks\"",
+				"emoji": "🙂"
+			},
+			{
+				"text": "Don't feel pressured to eat or drink to be polite — your body is yours",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "sayno-prs-3",
+		"title": "When You Feel Manipulated or Guilted",
+		"category": "sayno",
+		"subcategoryId": "sayno-pressure",
+		"difficulty": 3,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Notice the signs: someone making you feel bad for having a boundary",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Stay calm and don't be drawn into justifying yourself",
+				"emoji": "🫁"
+			},
+			{
+				"text": "Say \"I hear that you're upset, but my answer is still no\"",
+				"emoji": "✋"
+			},
+			{
+				"text": "You don't owe anyone an explanation for a decision about your own life",
+				"emoji": "💡"
+			},
+			{
+				"text": "Walk away if the pressure continues",
+				"emoji": "🚶"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "emerg-sns-3",
+		"title": "Creating a Personal Safety Plan",
+		"category": "emergency",
+		"subcategoryId": "emerg-sensory",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Write down your early warning signs — what does overwhelm feel like for you?",
+				"emoji": "📝"
+			},
+			{
+				"text": "List 3 things that help you regulate: headphones, walking, breathing, cold water",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Identify 2 safe people you can contact when struggling",
+				"emoji": "🤝"
+			},
+			{
+				"text": "Write down your go-to exit strategies for different places",
+				"emoji": "🚪"
+			},
+			{
+				"text": "Keep this plan somewhere accessible — phone, wallet, or bag",
+				"emoji": "📱"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "emerg-uns-3",
+		"title": "Reporting a Problem to a Staff Member",
+		"category": "emergency",
+		"subcategoryId": "emerg-unsafe",
+		"difficulty": 2,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Find someone in a uniform or with an ID badge",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Say \"Excuse me — I need to report something\"",
+				"emoji": "🙋"
+			},
+			{
+				"text": "Describe the problem clearly: what happened, where, and when",
+				"emoji": "💬"
+			},
+			{
+				"text": "Give as much detail as you can without adding opinion",
+				"emoji": "📝"
+			},
+			{
+				"text": "Ask \"What happens next?\" so you know what to expect",
+				"emoji": "❓"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "help-sch-3",
+		"title": "Asking Your Teacher for Help After Class",
+		"category": "help",
+		"subcategoryId": "help-school",
+		"difficulty": 2,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Wait until other students have left or there's a quiet moment",
+				"emoji": "⏳"
+			},
+			{
+				"text": "Say \"Excuse me — do you have a moment? I had a question about [topic]\"",
+				"emoji": "🙋"
+			},
+			{
+				"text": "Explain specifically what you don't understand",
+				"emoji": "❓"
+			},
+			{
+				"text": "Listen carefully and take notes",
+				"emoji": "📝"
+			},
+			{
+				"text": "Thank them: \"That makes a lot more sense now — thank you\"",
+				"emoji": "🙏"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "help-conf-4",
+		"title": "When You Don't Understand Sarcasm or a Joke",
+		"category": "help",
+		"subcategoryId": "help-confused",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "It's okay to ask — not everyone understands every type of humour",
+				"emoji": "💡"
+			},
+			{
+				"text": "Say \"Sorry — were you joking there, or do you mean that literally?\"",
+				"emoji": "❓"
+			},
+			{
+				"text": "Or: \"I'm not sure if I got that — can you explain?\"",
+				"emoji": "😅"
+			},
+			{
+				"text": "Most people find this endearing rather than awkward",
+				"emoji": "🙂"
+			},
+			{
+				"text": "Once you know, you can decide how to respond",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "soc-feel-9",
+		"title": "When You Feel Anxious in a New Environment",
+		"category": "social",
+		"subcategoryId": "social-feelings",
+		"difficulty": 3,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "New places can feel uncertain — take it slowly",
+				"emoji": "💡"
+			},
+			{
+				"text": "Find one familiar or predictable thing to anchor to",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Breathe slowly and move at your own pace",
+				"emoji": "🫁"
+			},
+			{
+				"text": "Give yourself permission to leave if you need to",
+				"emoji": "🚪"
+			},
+			{
+				"text": "Each time you return, it will feel more familiar",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "soc-feel-10",
+		"title": "When Someone Asks \"Are You Okay?\" and You're Not",
+		"category": "social",
+		"subcategoryId": "social-feelings",
+		"difficulty": 3,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "You don't have to say \"fine\" if you're not",
+				"emoji": "💡"
+			},
+			{
+				"text": "You can say \"Not really, but I'm managing\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Or: \"I'm having a bit of a hard time at the moment\"",
+				"emoji": "🌊"
+			},
+			{
+				"text": "If you want to talk: \"Would you have a moment to listen?\"",
+				"emoji": "❓"
+			},
+			{
+				"text": "If not: \"I'd rather not get into it right now, but thanks for asking\"",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "soc-peer-9",
+		"title": "Asking to Sit with Someone at Lunch",
+		"category": "social",
+		"subcategoryId": "social-peer",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Look for someone who has space next to them",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Approach and ask \"Is anyone sitting here?\"",
+				"emoji": "🙋"
+			},
+			{
+				"text": "If they say yes: \"Do you mind if I sit here?\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Sit down and you don't have to talk — eating quietly next to someone is fine",
+				"emoji": "💡"
+			},
+			{
+				"text": "If they start talking, respond briefly and warmly",
+				"emoji": "😊"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "soc-peer-10",
+		"title": "Saying Something Accidentally Hurtful",
+		"category": "social",
+		"subcategoryId": "social-peer",
+		"difficulty": 3,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "If you notice they seem upset or the conversation went quiet — check in",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Say \"I'm sorry — I think what I said might have come across badly\"",
+				"emoji": "🙏"
+			},
+			{
+				"text": "Clarify what you meant: \"I didn't mean it that way — I meant [X]\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Listen to how they took it without getting defensive",
+				"emoji": "👂"
+			},
+			{
+				"text": "Thank them for telling you: \"I'm glad I know — I'll be more careful\"",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "comm-evt-5",
+		"title": "Moving to a New Area",
+		"category": "community",
+		"subcategoryId": "comm-events",
+		"difficulty": 3,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Give yourself time to adjust — it's completely normal to find change hard",
+				"emoji": "💡"
+			},
+			{
+				"text": "Explore the area in small steps: the nearest shop, park, transport stop",
+				"emoji": "🗺️"
+			},
+			{
+				"text": "Find the routines that anchor you: a regular coffee spot, a walking route",
+				"emoji": "☕"
+			},
+			{
+				"text": "Introduce yourself to immediate neighbours when you're ready: \"Hi, I've just moved in next door\"",
+				"emoji": "👋"
+			},
+			{
+				"text": "Look for a local group or club connected to your interests",
+				"emoji": "🔍"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "comm-evt-6",
+		"title": "Attending a Religious or Cultural Service",
+		"category": "community",
+		"subcategoryId": "comm-events",
+		"difficulty": 2,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Research what to expect and any dress code in advance",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Arrive a few minutes early and find a seat near an exit if that helps",
+				"emoji": "⏰"
+			},
+			{
+				"text": "Follow the lead of others: stand, sit, and move when they do",
+				"emoji": "💡"
+			},
+			{
+				"text": "If you're unsure of something, it's fine to stay seated quietly",
+				"emoji": "🪑"
+			},
+			{
+				"text": "At the end, a simple \"Thank you\" to a greeter is always appreciated",
+				"emoji": "🙏"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "phone-app-3",
+		"title": "Reminding Someone About an Appointment or Event",
+		"category": "phone",
+		"subcategoryId": "phone-appt",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Send a brief message a day or two beforehand",
+				"emoji": "💬"
+			},
+			{
+				"text": "Say \"Just a reminder about [event] on [day] at [time]\"",
+				"emoji": "🗓️"
+			},
+			{
+				"text": "Include the location if helpful",
+				"emoji": "📍"
+			},
+			{
+				"text": "Ask \"Does that still work for you?\"",
+				"emoji": "❓"
+			},
+			{
+				"text": "A short, friendly reminder is helpful — not annoying",
+				"emoji": "💡"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "ph-eml-4",
+		"title": "Sending an Apology by Text or Email",
+		"category": "phone",
+		"subcategoryId": "phone-email",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Sometimes a written apology is easier to express clearly",
+				"emoji": "💡"
+			},
+			{
+				"text": "Start with \"I wanted to apologise for [what happened]\"",
+				"emoji": "🙏"
+			},
+			{
+				"text": "Keep it brief and genuine — don't over-explain",
+				"emoji": "📝"
+			},
+			{
+				"text": "Don't add \"but\" — it undoes the apology",
+				"emoji": "🛑"
+			},
+			{
+				"text": "End with \"I hope we're okay\" or \"Let me know if you want to talk\"",
+				"emoji": "💬"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "hlth-sym-3",
+		"title": "Asking About Side Effects of a Medication",
+		"category": "healthcare",
+		"subcategoryId": "health-symptoms",
+		"difficulty": 2,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "You have the right to know about what you're taking",
+				"emoji": "💡"
+			},
+			{
+				"text": "Ask the pharmacist or doctor: \"What side effects should I know about?\"",
+				"emoji": "❓"
+			},
+			{
+				"text": "Ask: \"When should I be concerned and contact you?\"",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Write down the answers or ask for a leaflet",
+				"emoji": "📝"
+			},
+			{
+				"text": "If you notice something unusual, report it — don't just stop the medication",
+				"emoji": "⚠️"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "hlth-doc-5",
+		"title": "Getting a Second Opinion",
+		"category": "healthcare",
+		"subcategoryId": "health-doctor",
+		"difficulty": 3,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "You always have the right to seek a second medical opinion",
+				"emoji": "💡"
+			},
+			{
+				"text": "Ask your current doctor: \"Is it possible to get a second opinion on this?\"",
+				"emoji": "❓"
+			},
+			{
+				"text": "Or contact another clinic and say \"I'd like a second opinion on [condition]\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Request copies of your records and test results",
+				"emoji": "📋"
+			},
+			{
+				"text": "This isn't disrespectful — it's a normal part of healthcare",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "sayno-bnd-4",
+		"title": "Setting Limits on Personal Questions",
+		"category": "sayno",
+		"subcategoryId": "sayno-boundaries",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Some topics are private and you don't have to discuss them",
+				"emoji": "💡"
+			},
+			{
+				"text": "Say \"That's a bit personal — I'd rather not get into it\"",
+				"emoji": "✋"
+			},
+			{
+				"text": "Or: \"I prefer to keep that private\"",
+				"emoji": "🛡️"
+			},
+			{
+				"text": "You don't need to apologise for having privacy",
+				"emoji": "✅"
+			},
+			{
+				"text": "Change the subject: \"Anyway, how about you — what's new with you?\"",
+				"emoji": "💬"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "sayno-tch-3",
+		"title": "Telling Someone About Your Sensory Needs",
+		"category": "sayno",
+		"subcategoryId": "sayno-touch",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Your sensory needs are valid and worth communicating",
+				"emoji": "💡"
+			},
+			{
+				"text": "Pick a calm moment — not in the middle of a social situation",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Say \"I want to let you know that I'm sensitive to [loud sounds / touch / smells, etc.]\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Tell them what helps: \"If [thing] is happening, I may need to step away\"",
+				"emoji": "💡"
+			},
+			{
+				"text": "Thank them for understanding: \"I appreciate you knowing this about me\"",
+				"emoji": "🙏"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "work-int-4",
+		"title": "Following Up After a Job Application",
+		"category": "workschool",
+		"subcategoryId": "work-interview",
+		"difficulty": 2,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Wait at least a week after the deadline before following up",
+				"emoji": "⏳"
+			},
+			{
+				"text": "Send a brief email: \"Hi, I'm writing to follow up on my application for [role]\"",
+				"emoji": "📧"
+			},
+			{
+				"text": "Say \"I remain very interested and wanted to check on the timeline\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Keep it short — 3–4 sentences maximum",
+				"emoji": "📝"
+			},
+			{
+				"text": "Sign off professionally: \"Thank you for your time — [your name]\"",
+				"emoji": "🙏"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "work-fb-3",
+		"title": "Asking Your Manager for Regular Check-Ins",
+		"category": "workschool",
+		"subcategoryId": "work-feedback",
+		"difficulty": 2,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Regular feedback helps you know you're on track",
+				"emoji": "💡"
+			},
+			{
+				"text": "Say \"I work best when I have regular feedback — could we schedule a brief weekly check-in?\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Suggest a format: \"Even 10 minutes would help me stay aligned with priorities\"",
+				"emoji": "📅"
+			},
+			{
+				"text": "Most good managers will welcome this — it shows initiative",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "work-cls-5",
+		"title": "Asking for Written Instructions",
+		"category": "workschool",
+		"subcategoryId": "work-school",
+		"difficulty": 1,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Many people process written information better — you're not alone",
+				"emoji": "💡"
+			},
+			{
+				"text": "Say \"Could I have those instructions in writing too? It helps me make sure I get everything right\"",
+				"emoji": "🙏"
+			},
+			{
+				"text": "Or: \"Could you email that to me so I can refer back to it?\"",
+				"emoji": "📧"
+			},
+			{
+				"text": "This is a reasonable request and most teachers and managers will agree",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "self-dis-4",
+		"title": "Telling a New Friend You Are Autistic",
+		"category": "selfadvoc",
+		"subcategoryId": "self-disclose",
+		"difficulty": 3,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Disclosure is your choice — there's no right or wrong time",
+				"emoji": "💡"
+			},
+			{
+				"text": "Choose someone you feel comfortable with and a calm setting",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Say \"There's something I'd like to share — I'm autistic\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "You can explain what that means for you: \"For me it means [X]\"",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Answer any questions honestly and calmly",
+				"emoji": "❓"
+			},
+			{
+				"text": "A good friend will appreciate your trust and want to understand",
+				"emoji": "❤️"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "self-dis-5",
+		"title": "Explaining Stimming to Someone",
+		"category": "selfadvoc",
+		"subcategoryId": "self-disclose",
+		"difficulty": 3,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Stimming is a natural and valid way to self-regulate",
+				"emoji": "💡"
+			},
+			{
+				"text": "If someone comments, say calmly: \"This is something I do to help manage my senses\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Or: \"It helps me focus and stay calm\"",
+				"emoji": "🔍"
+			},
+			{
+				"text": "You don't owe anyone a detailed explanation",
+				"emoji": "✅"
+			},
+			{
+				"text": "If they're respectful and curious, you can share more if you choose",
+				"emoji": "🙂"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "self-feel-5",
+		"title": "When You're Overwhelmed by Social Expectations",
+		"category": "selfadvoc",
+		"subcategoryId": "self-feelings",
+		"difficulty": 3,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Social rules can feel confusing and exhausting — that's valid",
+				"emoji": "💡"
+			},
+			{
+				"text": "Remind yourself: you don't have to do everything perfectly",
+				"emoji": "🫁"
+			},
+			{
+				"text": "Focus on one interaction at a time, not all the rules at once",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Give yourself recovery time after intense social events — it's not weakness",
+				"emoji": "❤️"
+			},
+			{
+				"text": "Talk to a therapist or trusted person about what's hardest",
+				"emoji": "🤝"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "soc-man-8",
+		"title": "Respecting Personal Space",
+		"category": "social",
+		"subcategoryId": "social-manners",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Personal space is an arm's length around each person",
+				"emoji": "💡"
+			},
+			{
+				"text": "When talking to someone, stay at a comfortable distance — about arm's length",
+				"emoji": "↔️"
+			},
+			{
+				"text": "If they step back, don't step closer",
+				"emoji": "🚶"
+			},
+			{
+				"text": "If someone is too close to you, step back or say \"Could you give me a little more space?\"",
+				"emoji": "🤚"
+			},
+			{
+				"text": "Online: personal space means not messaging someone repeatedly before they reply",
+				"emoji": "📱"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "soc-gm-8",
+		"title": "Sharing Toys or Equipment",
+		"category": "social",
+		"subcategoryId": "social-games",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "If something belongs to everyone, take turns using it",
+				"emoji": "🔄"
+			},
+			{
+				"text": "Ask before picking something up that belongs to another person",
+				"emoji": "❓"
+			},
+			{
+				"text": "If someone asks to use yours, you can share or say \"I'm using it right now — you can have a go when I'm done\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Sharing doesn't mean giving something away forever",
+				"emoji": "💡"
+			},
+			{
+				"text": "Return borrowed things in good condition",
+				"emoji": "🙏"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "comm-lei-7",
+		"title": "Using a Public Toilet",
+		"category": "community",
+		"subcategoryId": "comm-leisure",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Use the cubicle for privacy — lock the door",
+				"emoji": "🔒"
+			},
+			{
+				"text": "Flush when done",
+				"emoji": "✅"
+			},
+			{
+				"text": "Wash your hands with soap for at least 20 seconds",
+				"emoji": "🧼"
+			},
+			{
+				"text": "Dry your hands and dispose of paper towels in the bin",
+				"emoji": "🗑️"
+			},
+			{
+				"text": "Leave the space as you found it for the next person",
+				"emoji": "🚻"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "hlp-bthr-4",
+		"title": "Knowing Where to Find Bathrooms in Different Places",
+		"category": "help",
+		"subcategoryId": "help-bathroom",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "In a shop or restaurant: look for signs or ask staff",
+				"emoji": "🔍"
+			},
+			{
+				"text": "In a library, museum or cinema: look for signs near the entrance",
+				"emoji": "📋"
+			},
+			{
+				"text": "On a bus or train: ask the driver/guard",
+				"emoji": "🚌"
+			},
+			{
+				"text": "In an airport: they are very well signed throughout",
+				"emoji": "🛫"
+			},
+			{
+				"text": "It's okay to ask — everyone needs the bathroom",
+				"emoji": "💡"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "soc-apo-7",
+		"title": "Saying Sorry Without Over-Apologising",
+		"category": "social",
+		"subcategoryId": "social-apology",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "One clear apology is usually enough — repeating it can make things more awkward",
+				"emoji": "💡"
+			},
+			{
+				"text": "Say \"I'm sorry for [specific thing]\" once and clearly",
+				"emoji": "🙏"
+			},
+			{
+				"text": "Don't say \"I'm so, so sorry, I'm terrible\" — it shifts the focus to you",
+				"emoji": "🛑"
+			},
+			{
+				"text": "After apologising, move forward — don't keep bringing it up",
+				"emoji": "🚶"
+			},
+			{
+				"text": "Showing change through your actions is more powerful than repeated words",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "comm-trn-6",
+		"title": "Using Ride-Share Apps (Uber, Lyft, etc.)",
+		"category": "community",
+		"subcategoryId": "comm-transport",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Book the ride in the app — confirm the destination before requesting",
+				"emoji": "📱"
+			},
+			{
+				"text": "Wait at the pickup spot shown in the app",
+				"emoji": "📍"
+			},
+			{
+				"text": "Check the driver's name, car, and plate number match the app",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Greet briefly: \"Hi\" is enough — you don't have to chat",
+				"emoji": "👋"
+			},
+			{
+				"text": "Rate the driver after the trip if prompted",
+				"emoji": "⭐"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "work-day-5",
+		"title": "Starting and Ending a Work Shift",
+		"category": "workschool",
+		"subcategoryId": "work-daily",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Arrive a few minutes early and sign in if required",
+				"emoji": "⏰"
+			},
+			{
+				"text": "Say a brief \"Good morning\" to your team",
+				"emoji": "☀️"
+			},
+			{
+				"text": "Check for any messages or updates before starting your tasks",
+				"emoji": "📋"
+			},
+			{
+				"text": "At the end of your shift, complete any handover and log out",
+				"emoji": "🖥️"
+			},
+			{
+				"text": "Say \"See you tomorrow\" or \"Goodbye\" to those nearby",
+				"emoji": "👋"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "soc-apo-1",
+		"title": "How to Say Sorry to a Friend",
+		"category": "social",
+		"subcategoryId": "social-apology",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Think about what you did that hurt them",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Choose a calm moment — not when you're still upset",
+				"emoji": "🫁"
+			},
+			{
+				"text": "Say \"I'm sorry for [what you did]\"",
+				"emoji": "🙏"
+			},
+			{
+				"text": "Don't add \"but\" — a real apology doesn't have conditions",
+				"emoji": "💡"
+			},
+			{
+				"text": "Ask \"Are you okay?\" and listen to what they say",
+				"emoji": "👂"
+			},
+			{
+				"text": "Give them space if they need time",
+				"emoji": "❤️"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "soc-apo-2",
+		"title": "Apologizing When You Hurt Someone by Accident",
+		"category": "social",
+		"subcategoryId": "social-apology",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Even accidents can hurt feelings — apologizing still matters",
+				"emoji": "💡"
+			},
+			{
+				"text": "Say \"I'm sorry — I didn't mean to do that\"",
+				"emoji": "🙏"
+			},
+			{
+				"text": "Ask \"Are you okay?\"",
+				"emoji": "❓"
+			},
+			{
+				"text": "Listen to their answer and don't rush to defend yourself",
+				"emoji": "👂"
+			},
+			{
+				"text": "Offer to help if you can fix the situation",
+				"emoji": "🤝"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "soc-apo-3",
+		"title": "What to Do When You Make a Mistake",
+		"category": "social",
+		"subcategoryId": "social-apology",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Everyone makes mistakes — they don't make you a bad person",
+				"emoji": "💡"
+			},
+			{
+				"text": "Take a breath and notice what went wrong",
+				"emoji": "🫁"
+			},
+			{
+				"text": "Say \"I made a mistake. I need to fix it.\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Do what you can to put it right",
+				"emoji": "🔧"
+			},
+			{
+				"text": "Learn from it and let it go — you don't have to dwell on it",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "soc-apo-4",
+		"title": "When You Break or Lose Someone's Belonging",
+		"category": "social",
+		"subcategoryId": "social-apology",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Tell them as soon as possible — the longer you wait, the harder it gets",
+				"emoji": "⏰"
+			},
+			{
+				"text": "Say \"I'm really sorry — I broke/lost your [item]\"",
+				"emoji": "🙏"
+			},
+			{
+				"text": "Be honest about what happened",
+				"emoji": "💬"
+			},
+			{
+				"text": "Offer to replace or repair it if you can",
+				"emoji": "🔧"
+			},
+			{
+				"text": "Accept their feelings — they may be upset and that's fair",
+				"emoji": "❤️"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "soc-apo-5",
+		"title": "Accepting an Apology from Someone Else",
+		"category": "social",
+		"subcategoryId": "social-apology",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Take a moment before you respond",
+				"emoji": "⏳"
+			},
+			{
+				"text": "If you're ready to forgive, say \"Thank you for apologizing\" or \"It's okay\"",
+				"emoji": "🙂"
+			},
+			{
+				"text": "If you're not ready, it's okay to say \"I need a bit more time\"",
+				"emoji": "💡"
+			},
+			{
+				"text": "You don't have to pretend the hurt didn't happen",
+				"emoji": "❤️"
+			},
+			{
+				"text": "Forgiveness is a process — it doesn't have to be immediate",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "soc-apo-6",
+		"title": "Apologizing at School or Work",
+		"category": "social",
+		"subcategoryId": "social-apology",
+		"difficulty": 2,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Find a private or quiet moment to apologize",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Say \"I want to apologize for [what happened]\"",
+				"emoji": "🙏"
+			},
+			{
+				"text": "Be specific and brief — don't over-explain",
+				"emoji": "💬"
+			},
+			{
+				"text": "Say \"It won't happen again\"",
+				"emoji": "✅"
+			},
+			{
+				"text": "If appropriate: \"What can I do to make it right?\"",
+				"emoji": "🤝"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "soc-gm-1",
+		"title": "Losing a Game Gracefully",
+		"category": "social",
+		"subcategoryId": "social-games",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Losing feels hard — that's normal, it's okay to feel it",
+				"emoji": "💡"
+			},
+			{
+				"text": "Take a slow breath before you react",
+				"emoji": "🫁"
+			},
+			{
+				"text": "Say \"Good game\" or \"Well played\" to the winner",
+				"emoji": "👍"
+			},
+			{
+				"text": "Try not to talk about what went wrong right away",
+				"emoji": "🛑"
+			},
+			{
+				"text": "If you want a rematch, ask calmly: \"Want to play again?\"",
+				"emoji": "😊"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "soc-gm-2",
+		"title": "Winning Without Gloating",
+		"category": "social",
+		"subcategoryId": "social-games",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Winning feels good — it's fine to be happy inside",
+				"emoji": "💡"
+			},
+			{
+				"text": "Say \"Good game\" instead of announcing you won loudly",
+				"emoji": "🤝"
+			},
+			{
+				"text": "Don't replay winning moments or explain how the other person lost",
+				"emoji": "🛑"
+			},
+			{
+				"text": "Ask if they want to play again",
+				"emoji": "🎮"
+			},
+			{
+				"text": "Being a fair winner makes people want to play with you again",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "soc-gm-3",
+		"title": "Playing at the Playground",
+		"category": "social",
+		"subcategoryId": "social-games",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Look around to see who else is there and what they're doing",
+				"emoji": "👀"
+			},
+			{
+				"text": "Wait your turn for equipment — others are there too",
+				"emoji": "⏳"
+			},
+			{
+				"text": "If you want to join a game, ask: \"Can I play too?\"",
+				"emoji": "🙋"
+			},
+			{
+				"text": "Be gentle and don't push — everyone has the right to feel safe",
+				"emoji": "🤚"
+			},
+			{
+				"text": "If someone is being unkind, walk away and tell an adult",
+				"emoji": "🆘"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "soc-gm-4",
+		"title": "Asking to Join a Game Already in Progress",
+		"category": "social",
+		"subcategoryId": "social-games",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Watch the game for a moment to understand the rules",
+				"emoji": "👀"
+			},
+			{
+				"text": "Wait for a natural pause in the action",
+				"emoji": "⏳"
+			},
+			{
+				"text": "Say \"That looks fun — can I join in?\"",
+				"emoji": "😊"
+			},
+			{
+				"text": "Accept the answer — if it's no, that's okay. Try again another time.",
+				"emoji": "💡"
+			},
+			{
+				"text": "If yes, ask about any rules you're not sure about",
+				"emoji": "❓"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "soc-gm-5",
+		"title": "Taking Turns While Playing",
+		"category": "social",
+		"subcategoryId": "social-games",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Wait for the other person to finish their turn",
+				"emoji": "⏳"
+			},
+			{
+				"text": "Keep track of whose turn it is — you can say it out loud: \"My turn, then yours\"",
+				"emoji": "🔄"
+			},
+			{
+				"text": "If you forget, ask calmly: \"Whose turn is it?\"",
+				"emoji": "❓"
+			},
+			{
+				"text": "Cheer for the other player sometimes — it feels good for both of you",
+				"emoji": "👏"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "soc-gm-6",
+		"title": "When a Game Gets Frustrating",
+		"category": "social",
+		"subcategoryId": "social-games",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Notice the feeling in your body — is it getting too intense?",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Take a deep breath and pause for a moment",
+				"emoji": "🫁"
+			},
+			{
+				"text": "You can say \"I need a second\" — short breaks are okay",
+				"emoji": "⏸️"
+			},
+			{
+				"text": "Ask yourself: \"Is it worth staying upset?\" — usually the answer is no",
+				"emoji": "💡"
+			},
+			{
+				"text": "If you need to stop playing, say \"I want to take a break from this game\"",
+				"emoji": "🚶"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "soc-gm-7",
+		"title": "When Someone Doesn't Follow the Rules",
+		"category": "social",
+		"subcategoryId": "social-games",
+		"difficulty": 3,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Stay calm — getting angry usually makes things worse",
+				"emoji": "🫁"
+			},
+			{
+				"text": "Say \"I think the rule is [X] — can we check?\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Suggest looking up the rules together if you're unsure",
+				"emoji": "📖"
+			},
+			{
+				"text": "If they keep bending rules, you can say \"It's not as fun when rules aren't followed\"",
+				"emoji": "💡"
+			},
+			{
+				"text": "You can choose not to play — it's okay to stop a game",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "soc-man-1",
+		"title": "Table Manners at Home",
+		"category": "social",
+		"subcategoryId": "social-manners",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Sit down at the table when it's time to eat",
+				"emoji": "🪑"
+			},
+			{
+				"text": "Wait until everyone is served before starting if that's the custom",
+				"emoji": "⏳"
+			},
+			{
+				"text": "Chew with your mouth closed and don't talk while swallowing",
+				"emoji": "🤐"
+			},
+			{
+				"text": "Say \"Please\" when asking for something and \"Thank you\" when you receive it",
+				"emoji": "🙏"
+			},
+			{
+				"text": "If you don't like something, you can say \"No thank you\"",
+				"emoji": "✋"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "soc-man-2",
+		"title": "Table Manners at a Restaurant",
+		"category": "social",
+		"subcategoryId": "social-manners",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Use an indoor voice — restaurants are shared spaces",
+				"emoji": "🔇"
+			},
+			{
+				"text": "Keep your phone down unless needed",
+				"emoji": "📵"
+			},
+			{
+				"text": "Use utensils rather than fingers when expected",
+				"emoji": "🍴"
+			},
+			{
+				"text": "Say \"Excuse me\" to get a waiter's attention — don't click or shout",
+				"emoji": "🙋"
+			},
+			{
+				"text": "Wait for everyone to be served before eating, if you can",
+				"emoji": "⏳"
+			},
+			{
+				"text": "Say \"Thank you\" when plates are cleared or drinks are refilled",
+				"emoji": "🙏"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "soc-man-3",
+		"title": "Sneezing or Coughing in Public",
+		"category": "social",
+		"subcategoryId": "social-manners",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Cover your mouth and nose with your elbow or a tissue",
+				"emoji": "🤧"
+			},
+			{
+				"text": "Turn away from people if you can",
+				"emoji": "🔄"
+			},
+			{
+				"text": "Say \"Excuse me\" after you sneeze or cough",
+				"emoji": "🙂"
+			},
+			{
+				"text": "Dispose of the tissue and wash or sanitise your hands",
+				"emoji": "🧼"
+			},
+			{
+				"text": "If you're unwell, wear a mask or give people extra space",
+				"emoji": "😷"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "soc-man-4",
+		"title": "When Your Body Makes an Embarrassing Noise",
+		"category": "social",
+		"subcategoryId": "social-manners",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Bodies sometimes make noises — it happens to everyone",
+				"emoji": "💡"
+			},
+			{
+				"text": "Say \"Excuse me\" quietly",
+				"emoji": "🙂"
+			},
+			{
+				"text": "Don't bring a lot of attention to it",
+				"emoji": "🤐"
+			},
+			{
+				"text": "If someone makes a big deal about it, you can say \"It happens to everyone\"",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "soc-man-5",
+		"title": "Waiting Your Turn in a Queue",
+		"category": "social",
+		"subcategoryId": "social-manners",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Find the back of the line and join there",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Keep a body-width of space between you and the person ahead",
+				"emoji": "↔️"
+			},
+			{
+				"text": "Wait patiently — everyone is waiting too",
+				"emoji": "⏳"
+			},
+			{
+				"text": "If someone cuts in front, you can say \"Excuse me, I was next\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Be ready when it's your turn so the queue moves faster for everyone",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "soc-man-6",
+		"title": "Holding a Door Open for Someone",
+		"category": "social",
+		"subcategoryId": "social-manners",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "If someone is close behind you at a door, hold it open briefly",
+				"emoji": "🚪"
+			},
+			{
+				"text": "You don't have to hold it for very long — just enough so it doesn't close on them",
+				"emoji": "💡"
+			},
+			{
+				"text": "They will usually say \"Thank you\"",
+				"emoji": "🙏"
+			},
+			{
+				"text": "Nod or say \"No problem\" or just smile",
+				"emoji": "🙂"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "soc-man-7",
+		"title": "Good Manners as a Guest at Someone's Home",
+		"category": "social",
+		"subcategoryId": "social-manners",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Take off your shoes at the door unless told otherwise",
+				"emoji": "👟"
+			},
+			{
+				"text": "Say \"Thank you for having me\" when you arrive",
+				"emoji": "🙏"
+			},
+			{
+				"text": "Ask before touching or using things that aren't yours",
+				"emoji": "❓"
+			},
+			{
+				"text": "Help tidy up after meals if you can",
+				"emoji": "🍽️"
+			},
+			{
+				"text": "Before you leave, say \"Thank you — I had a really nice time\"",
+				"emoji": "😊"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "soc-gft-1",
+		"title": "Receiving a Gift You Don't Like",
+		"category": "social",
+		"subcategoryId": "social-gifts",
+		"difficulty": 3,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "The person put effort into thinking of you — that matters",
+				"emoji": "💡"
+			},
+			{
+				"text": "Smile and say \"Thank you, that's really kind of you\"",
+				"emoji": "🙂"
+			},
+			{
+				"text": "Find something true and positive to say: \"I love the colour\" or \"That was thoughtful\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "You don't have to lie about loving it, but you don't need to say you dislike it either",
+				"emoji": "✅"
+			},
+			{
+				"text": "Keep your reaction brief — then move the conversation on",
+				"emoji": "🚶"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "soc-gft-2",
+		"title": "Receiving a Gift You Love",
+		"category": "social",
+		"subcategoryId": "social-gifts",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "It's wonderful to show genuine excitement!",
+				"emoji": "🎉"
+			},
+			{
+				"text": "Say \"Thank you so much — I love this!\"",
+				"emoji": "🎁"
+			},
+			{
+				"text": "Tell them specifically why you like it if you can",
+				"emoji": "💬"
+			},
+			{
+				"text": "Giving a hug or high-five is optional — whatever feels natural for you",
+				"emoji": "🤗"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "soc-gft-3",
+		"title": "Giving Someone a Gift",
+		"category": "social",
+		"subcategoryId": "social-gifts",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Hand the gift over and say \"This is for you\"",
+				"emoji": "🎁"
+			},
+			{
+				"text": "You can add \"I thought you might like it\" or \"Happy birthday!\"",
+				"emoji": "🎂"
+			},
+			{
+				"text": "Wait while they open it — watch their reaction without staring",
+				"emoji": "👀"
+			},
+			{
+				"text": "If they thank you, say \"I'm glad you like it\" or \"You're welcome\"",
+				"emoji": "🙂"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "soc-gft-4",
+		"title": "Trick-or-Treating",
+		"category": "social",
+		"subcategoryId": "social-gifts",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Go with a trusted adult or group — safety first",
+				"emoji": "🛡️"
+			},
+			{
+				"text": "Knock or ring the doorbell and wait",
+				"emoji": "🔔"
+			},
+			{
+				"text": "When the door opens, say \"Trick or treat!\"",
+				"emoji": "🎃"
+			},
+			{
+				"text": "Hold out your bag or bucket when they offer sweets",
+				"emoji": "🍬"
+			},
+			{
+				"text": "Say \"Thank you!\" and move on — don't linger or ask for more",
+				"emoji": "🙏"
+			},
+			{
+				"text": "If no one answers, that's fine — just go to the next house",
+				"emoji": "🚶"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "soc-gft-5",
+		"title": "Going to a Birthday Party",
+		"category": "social",
+		"subcategoryId": "social-gifts",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Arrive close to the start time — not too early or very late",
+				"emoji": "⏰"
+			},
+			{
+				"text": "Say \"Happy birthday!\" to the birthday person when you see them",
+				"emoji": "🎂"
+			},
+			{
+				"text": "Give the gift and let them open it in their own time",
+				"emoji": "🎁"
+			},
+			{
+				"text": "Try to join in at least one activity — even briefly is okay",
+				"emoji": "🎉"
+			},
+			{
+				"text": "If it feels overwhelming, it's okay to take a quiet break",
+				"emoji": "🫁"
+			},
+			{
+				"text": "Before you leave, thank the host: \"Thanks for inviting me\"",
+				"emoji": "🙏"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "soc-gft-6",
+		"title": "When a Holiday Celebration Feels Overwhelming",
+		"category": "social",
+		"subcategoryId": "social-gifts",
+		"difficulty": 3,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Big gatherings can be loud and unpredictable — plan for it",
+				"emoji": "💡"
+			},
+			{
+				"text": "Find a quiet spot to retreat to if you need a break",
+				"emoji": "🔍"
+			},
+			{
+				"text": "It's okay to say \"I'm going to get some air\" and step outside briefly",
+				"emoji": "🚶"
+			},
+			{
+				"text": "Have a signal with a trusted person if you need to leave early",
+				"emoji": "🤝"
+			},
+			{
+				"text": "You don't have to stay the whole time",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "soc-peer-1",
+		"title": "Asking Someone to Be Your Friend",
+		"category": "social",
+		"subcategoryId": "social-peer",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Find someone you've talked to a few times or have things in common with",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Ask \"Do you want to hang out sometime?\"",
+				"emoji": "🙋"
+			},
+			{
+				"text": "Suggest something specific: \"We could play [game] or walk to [place]\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "If they say yes — great! Make a plan",
+				"emoji": "🎉"
+			},
+			{
+				"text": "If they say no or seem unsure, that's okay — not everyone will connect with you, and that's normal",
+				"emoji": "💡"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "soc-peer-2",
+		"title": "Inviting Someone to Do Something Together",
+		"category": "social",
+		"subcategoryId": "social-peer",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Think of an activity you'd both enjoy",
+				"emoji": "🤔"
+			},
+			{
+				"text": "Say \"I was thinking of [activity] — would you want to come?\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Give them a specific time: \"Maybe Saturday afternoon?\"",
+				"emoji": "📅"
+			},
+			{
+				"text": "Accept their answer without pressure",
+				"emoji": "✅"
+			},
+			{
+				"text": "If they say yes, confirm the details before the day",
+				"emoji": "📝"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "soc-peer-3",
+		"title": "When Someone Is Teasing You",
+		"category": "social",
+		"subcategoryId": "social-peer",
+		"difficulty": 3,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Notice the difference: friendly teasing vs. mean teasing",
+				"emoji": "🔍"
+			},
+			{
+				"text": "If it bothers you, say calmly: \"I don't like being teased about that\"",
+				"emoji": "✋"
+			},
+			{
+				"text": "If they continue, walk away — you don't have to stay",
+				"emoji": "🚶"
+			},
+			{
+				"text": "Tell a trusted adult or friend if it keeps happening",
+				"emoji": "🆘"
+			},
+			{
+				"text": "Teasing that upsets you regularly is bullying and you deserve help",
+				"emoji": "💪"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "soc-peer-4",
+		"title": "When You See Someone Being Bullied",
+		"category": "social",
+		"subcategoryId": "social-peer",
+		"difficulty": 3,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Don't join in or ignore it — both make things worse",
+				"emoji": "💡"
+			},
+			{
+				"text": "If it's safe: stand next to the person being bullied",
+				"emoji": "🤝"
+			},
+			{
+				"text": "Say to the bully: \"That's not cool — stop it\"",
+				"emoji": "✋"
+			},
+			{
+				"text": "Tell a trusted adult what happened",
+				"emoji": "🆘"
+			},
+			{
+				"text": "Later, check in with the person: \"Are you okay? I saw what happened\"",
+				"emoji": "❤️"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "soc-peer-5",
+		"title": "Helping a Friend Who Is Upset",
+		"category": "social",
+		"subcategoryId": "social-peer",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Notice when a friend seems sad, quiet, or different than usual",
+				"emoji": "👀"
+			},
+			{
+				"text": "Ask gently: \"Are you okay? You seem a bit quiet today\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Listen without trying to fix it or give advice straight away",
+				"emoji": "👂"
+			},
+			{
+				"text": "You can say \"That sounds really hard. I'm here for you\"",
+				"emoji": "❤️"
+			},
+			{
+				"text": "Ask \"Is there anything I can do to help?\"",
+				"emoji": "🤝"
+			},
+			{
+				"text": "If you're worried about their safety, tell a trusted adult",
+				"emoji": "🆘"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "soc-peer-6",
+		"title": "When a Friendship Feels One-Sided",
+		"category": "social",
+		"subcategoryId": "social-peer",
+		"difficulty": 3,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "If you always make the effort and they don't, notice that pattern",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Find a calm moment and say \"I feel like I'm always the one reaching out\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Ask \"Is everything okay between us?\"",
+				"emoji": "❓"
+			},
+			{
+				"text": "Listen to their response — they might not have realised",
+				"emoji": "👂"
+			},
+			{
+				"text": "Good friendships work both ways — it's okay to say that",
+				"emoji": "💡"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "soc-peer-7",
+		"title": "Handling Peer Pressure",
+		"category": "social",
+		"subcategoryId": "social-peer",
+		"difficulty": 3,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "You have the right to say no to anything that makes you uncomfortable",
+				"emoji": "💡"
+			},
+			{
+				"text": "Say \"No thanks, that's not for me\"",
+				"emoji": "✋"
+			},
+			{
+				"text": "If they push back, say \"I said no — please respect that\"",
+				"emoji": "💪"
+			},
+			{
+				"text": "Real friends won't pressure you",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Walk away and, if needed, tell a trusted person what happened",
+				"emoji": "🚶"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "soc-peer-8",
+		"title": "When Someone Is Mean to You Online",
+		"category": "social",
+		"subcategoryId": "social-peer",
+		"difficulty": 3,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Don't respond right away — step away from the screen first",
+				"emoji": "📵"
+			},
+			{
+				"text": "Screenshot or save the message as evidence",
+				"emoji": "📱"
+			},
+			{
+				"text": "Block or mute the person if you need to",
+				"emoji": "🛑"
+			},
+			{
+				"text": "Tell a trusted adult — online unkindness is still real unkindness",
+				"emoji": "🆘"
+			},
+			{
+				"text": "You don't have to figure this out alone",
+				"emoji": "🤝"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "soc-feel-1",
+		"title": "When You Feel Frustrated or Angry",
+		"category": "social",
+		"subcategoryId": "social-feelings",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Notice the feeling in your body — tight chest, hot face, clenched hands",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Take a slow breath in for 4 counts, out for 6",
+				"emoji": "🫁"
+			},
+			{
+				"text": "Walk away from the situation if you can",
+				"emoji": "🚶"
+			},
+			{
+				"text": "Do something physical — walk, jump, squeeze something",
+				"emoji": "💪"
+			},
+			{
+				"text": "When calmer, think about what happened and how to handle it",
+				"emoji": "💬"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "soc-feel-2",
+		"title": "When You Feel Nervous or Anxious Before an Event",
+		"category": "social",
+		"subcategoryId": "social-feelings",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Feeling nervous is normal — your brain is trying to prepare you",
+				"emoji": "💡"
+			},
+			{
+				"text": "Breathe slowly — in through the nose, out through the mouth",
+				"emoji": "🫁"
+			},
+			{
+				"text": "Think of one thing you're looking forward to, even something small",
+				"emoji": "🌟"
+			},
+			{
+				"text": "Remember: you have managed difficult situations before",
+				"emoji": "💪"
+			},
+			{
+				"text": "If it helps, tell someone you trust: \"I'm feeling nervous about [event]\"",
+				"emoji": "💬"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "soc-feel-3",
+		"title": "When You Don't Like Something",
+		"category": "social",
+		"subcategoryId": "social-feelings",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "It's okay not to like something — you don't have to pretend",
+				"emoji": "💡"
+			},
+			{
+				"text": "In a public or group setting, stay quiet if possible — not every opinion needs to be shared aloud",
+				"emoji": "🤐"
+			},
+			{
+				"text": "If asked, you can say \"It's not really my thing, but I can see why others enjoy it\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "If it's something that directly affects you, it's okay to speak up politely",
+				"emoji": "✋"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "soc-feel-4",
+		"title": "Sharing Excitement About Something You Love",
+		"category": "social",
+		"subcategoryId": "social-feelings",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "It's wonderful to share things you're passionate about",
+				"emoji": "🌟"
+			},
+			{
+				"text": "Share the most interesting part first — not the full background",
+				"emoji": "💬"
+			},
+			{
+				"text": "Watch their reactions: are they engaged or looking away?",
+				"emoji": "👀"
+			},
+			{
+				"text": "Ask them a question about it to invite them in",
+				"emoji": "❓"
+			},
+			{
+				"text": "If they're not interested, that's okay — not everyone shares our interests",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "soc-feel-5",
+		"title": "When You Feel Left Out",
+		"category": "social",
+		"subcategoryId": "social-feelings",
+		"difficulty": 3,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "It's painful to feel left out — that feeling is valid",
+				"emoji": "💡"
+			},
+			{
+				"text": "Take a moment before reacting — don't assume it was intentional",
+				"emoji": "🫁"
+			},
+			{
+				"text": "You can ask calmly: \"I noticed I wasn't included — was there a reason?\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "If it keeps happening, talk to a trusted person about how you feel",
+				"emoji": "❤️"
+			},
+			{
+				"text": "Remember: one group isn't the only source of connection",
+				"emoji": "🌟"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "soc-feel-6",
+		"title": "When You Feel Disappointed",
+		"category": "social",
+		"subcategoryId": "social-feelings",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Disappointment means you cared — that's not a weakness",
+				"emoji": "💡"
+			},
+			{
+				"text": "Take a breath and name the feeling: \"I'm disappointed because [X]\"",
+				"emoji": "🫁"
+			},
+			{
+				"text": "Don't make big decisions while feeling it strongly",
+				"emoji": "⏸️"
+			},
+			{
+				"text": "Talk to someone you trust about how you feel",
+				"emoji": "💬"
+			},
+			{
+				"text": "With time, a different path or opportunity will appear",
+				"emoji": "🌟"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "soc-feel-7",
+		"title": "When Everything Feels Like Too Much",
+		"category": "social",
+		"subcategoryId": "social-feelings",
+		"difficulty": 3,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Stop what you're doing — you need a pause",
+				"emoji": "🛑"
+			},
+			{
+				"text": "Find a quiet, safe place if you can",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Breathe slowly and deeply until your heart rate settles",
+				"emoji": "🫁"
+			},
+			{
+				"text": "Do something grounding: name 5 things you can see, 4 you can touch",
+				"emoji": "🌿"
+			},
+			{
+				"text": "When ready, decide on ONE small next step — just one",
+				"emoji": "✅"
+			},
+			{
+				"text": "Talk to someone you trust about how you're feeling",
+				"emoji": "❤️"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "soc-feel-8",
+		"title": "When You Feel Misunderstood",
+		"category": "social",
+		"subcategoryId": "social-feelings",
+		"difficulty": 3,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Take a breath before reacting",
+				"emoji": "🫁"
+			},
+			{
+				"text": "Say \"I don't think I explained myself clearly — can I try again?\"",
+				"emoji": "🔄"
+			},
+			{
+				"text": "Use different words or an example to explain what you meant",
+				"emoji": "💬"
+			},
+			{
+				"text": "Check: \"Does that make more sense?\"",
+				"emoji": "❓"
+			},
+			{
+				"text": "If they still don't understand, it's okay to say \"That's okay — maybe we can talk about it more another time\"",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "comm-lib-1",
+		"title": "Visiting the Library",
+		"category": "community",
+		"subcategoryId": "comm-library",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Use a quiet, indoor voice — this is a quiet shared space",
+				"emoji": "🔇"
+			},
+			{
+				"text": "Books are organised by genre or author — ask staff if you're unsure",
+				"emoji": "📚"
+			},
+			{
+				"text": "Handle books carefully and return them to where you got them",
+				"emoji": "🤲"
+			},
+			{
+				"text": "If you want to borrow a book, take it to the self-serve machine or desk",
+				"emoji": "🖥️"
+			},
+			{
+				"text": "Keep your library card with you",
+				"emoji": "💳"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "comm-lib-2",
+		"title": "Asking a Librarian for Help",
+		"category": "community",
+		"subcategoryId": "comm-library",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Find a librarian — they're usually at the desk or shelving books",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Say \"Excuse me, could you help me find something?\"",
+				"emoji": "🙋"
+			},
+			{
+				"text": "Describe what you're looking for: title, author, or topic",
+				"emoji": "💬"
+			},
+			{
+				"text": "Thank them and follow their directions",
+				"emoji": "🙏"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "comm-lib-3",
+		"title": "Returning a Borrowed Book",
+		"category": "community",
+		"subcategoryId": "comm-library",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Check the due date — returning on time avoids fines",
+				"emoji": "📅"
+			},
+			{
+				"text": "Use the book return slot or bring it to the desk",
+				"emoji": "📬"
+			},
+			{
+				"text": "If you have a fine, pay it calmly at the desk: \"I have an overdue fine — can I pay it?\"",
+				"emoji": "💳"
+			},
+			{
+				"text": "Ask for a receipt if you want proof the book was returned",
+				"emoji": "🧾"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "comm-lib-4",
+		"title": "Using a Library Computer or Study Area",
+		"category": "community",
+		"subcategoryId": "comm-library",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Check if you need to book the computer or if it's walk-in",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Log in with your library card number if prompted",
+				"emoji": "💳"
+			},
+			{
+				"text": "Keep your volume down — headphones are best for audio",
+				"emoji": "🎧"
+			},
+			{
+				"text": "Log out and clear the session when you're done",
+				"emoji": "🖥️"
+			},
+			{
+				"text": "Leave the area tidy for the next person",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "comm-rest-1",
+		"title": "Making a Restaurant Reservation",
+		"category": "community",
+		"subcategoryId": "comm-restaurant",
+		"difficulty": 2,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Have the date, time, and number of people ready before you call",
+				"emoji": "📝"
+			},
+			{
+				"text": "Say \"Hi, I'd like to make a reservation for [number] people on [date] at [time]\"",
+				"emoji": "📞"
+			},
+			{
+				"text": "If you have dietary needs, mention them now: \"One person is vegetarian\"",
+				"emoji": "🥗"
+			},
+			{
+				"text": "Give your name and phone number",
+				"emoji": "💬"
+			},
+			{
+				"text": "Confirm the booking details before hanging up",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "comm-rest-2",
+		"title": "Arriving and Being Seated at a Restaurant",
+		"category": "community",
+		"subcategoryId": "comm-restaurant",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Wait at the entrance for a staff member to greet you",
+				"emoji": "⏳"
+			},
+			{
+				"text": "Say \"Hi, I have a reservation under [your name]\" or \"Table for [number], please\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Follow them to your table",
+				"emoji": "🚶"
+			},
+			{
+				"text": "If the table isn't comfortable (too loud, cold, etc.) it's okay to ask: \"Is it possible to sit somewhere quieter?\"",
+				"emoji": "❓"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "comm-rest-3",
+		"title": "Asking About Allergens or Dietary Needs",
+		"category": "community",
+		"subcategoryId": "comm-restaurant",
+		"difficulty": 2,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Mention your allergy or dietary need clearly and calmly",
+				"emoji": "💡"
+			},
+			{
+				"text": "Say \"I have a [allergy/dietary need] — can you tell me which dishes are suitable?\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Ask \"Is this dish prepared near [allergen]?\" if needed",
+				"emoji": "❓"
+			},
+			{
+				"text": "Confirm with the server before ordering: \"You've noted the [allergy], right?\"",
+				"emoji": "✅"
+			},
+			{
+				"text": "Don't feel embarrassed — your safety is the priority",
+				"emoji": "💪"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "comm-rest-4",
+		"title": "Paying the Bill at a Restaurant",
+		"category": "community",
+		"subcategoryId": "comm-restaurant",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "When ready to pay, catch the server's eye or say \"Excuse me — could we get the bill?\"",
+				"emoji": "🙋"
+			},
+			{
+				"text": "Check the bill matches what you ordered",
+				"emoji": "🧾"
+			},
+			{
+				"text": "If something is wrong, say \"I think there's an error — I didn't order [X]\"",
+				"emoji": "❓"
+			},
+			{
+				"text": "Pay by card or cash — tap or insert when prompted",
+				"emoji": "💳"
+			},
+			{
+				"text": "A tip of 10–15% is customary in many places, but always optional",
+				"emoji": "💡"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "comm-rest-5",
+		"title": "When Your Food Takes Too Long",
+		"category": "community",
+		"subcategoryId": "comm-restaurant",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Give it a reasonable time — kitchens can be busy",
+				"emoji": "⏳"
+			},
+			{
+				"text": "After 20–30 minutes, catch the server's attention with a wave or \"Excuse me\"",
+				"emoji": "🙋"
+			},
+			{
+				"text": "Say \"We've been waiting a while — could you check on our order?\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Stay calm and polite — making a scene rarely helps",
+				"emoji": "🫁"
+			},
+			{
+				"text": "They will usually apologise and give you an update",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "comm-rest-6",
+		"title": "Splitting a Bill with Others",
+		"category": "community",
+		"subcategoryId": "comm-restaurant",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Decide before ordering whether you're splitting equally or paying for your own",
+				"emoji": "💡"
+			},
+			{
+				"text": "When the bill arrives, divide the total by the number of people if splitting equally",
+				"emoji": "🔢"
+			},
+			{
+				"text": "Or add up what you personally ordered",
+				"emoji": "📱"
+			},
+			{
+				"text": "Pay your share and include a portion of any tip",
+				"emoji": "💳"
+			},
+			{
+				"text": "If anyone is short, cover them quietly and sort it out later",
+				"emoji": "🤝"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "comm-rest-7",
+		"title": "Eating Out with Specific Sensory Needs",
+		"category": "community",
+		"subcategoryId": "comm-restaurant",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Choose restaurants in advance — look up the menu and noise level online",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Book a table in a quieter area if possible, e.g. \"away from the kitchen\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "It's okay to bring ear defenders or sensory tools",
+				"emoji": "🎧"
+			},
+			{
+				"text": "You can ask the server: \"Could you bring [dish] without [ingredient]?\"",
+				"emoji": "❓"
+			},
+			{
+				"text": "Have a plan: know where the exit is and where you can take a quiet break",
+				"emoji": "🚪"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "comm-trn-1",
+		"title": "Planning a Journey on Public Transport",
+		"category": "community",
+		"subcategoryId": "comm-transport",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Use Google Maps, Citymapper or a local app to plan your route",
+				"emoji": "📱"
+			},
+			{
+				"text": "Check the departure time and leave early enough",
+				"emoji": "⏰"
+			},
+			{
+				"text": "Know your destination stop and the number of stops if helpful",
+				"emoji": "📍"
+			},
+			{
+				"text": "Charge your phone and download the route offline if you might lose signal",
+				"emoji": "🔋"
+			},
+			{
+				"text": "Have a backup plan: who to call if something goes wrong",
+				"emoji": "📞"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "comm-trn-2",
+		"title": "Buying a Bus or Train Ticket",
+		"category": "community",
+		"subcategoryId": "comm-transport",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Find the ticket machine or buy online before you go",
+				"emoji": "🖥️"
+			},
+			{
+				"text": "Select your destination, journey type, and number of tickets",
+				"emoji": "🎫"
+			},
+			{
+				"text": "Pay by card or cash",
+				"emoji": "💳"
+			},
+			{
+				"text": "Keep the ticket until you exit — some systems check on the way out too",
+				"emoji": "✅"
+			},
+			{
+				"text": "If confused at the machine, ask a staff member nearby",
+				"emoji": "🙋"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "comm-trn-3",
+		"title": "Using a Train Station for the First Time",
+		"category": "community",
+		"subcategoryId": "comm-transport",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Find the departures board — it shows platform numbers and times",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Head to your platform with plenty of time",
+				"emoji": "🚶"
+			},
+			{
+				"text": "Check the sign on the train confirms your destination",
+				"emoji": "📋"
+			},
+			{
+				"text": "Board when the doors open and find a seat",
+				"emoji": "🚆"
+			},
+			{
+				"text": "If unsure, ask a guard or fellow passenger: \"Is this the train to [city]?\"",
+				"emoji": "❓"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "comm-trn-4",
+		"title": "When Your Bus or Train Is Delayed",
+		"category": "community",
+		"subcategoryId": "comm-transport",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Check the app or departures board for an update",
+				"emoji": "📱"
+			},
+			{
+				"text": "Wait in a safe, comfortable spot",
+				"emoji": "🪑"
+			},
+			{
+				"text": "If you're meeting someone, text them: \"My train is delayed — I'll be [time] late\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "If the delay is very long, ask staff about alternatives",
+				"emoji": "🙋"
+			},
+			{
+				"text": "Stay calm — delays are frustrating but usually resolve",
+				"emoji": "🫁"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "comm-trn-5",
+		"title": "Travelling on an Aeroplane",
+		"category": "community",
+		"subcategoryId": "comm-transport",
+		"difficulty": 3,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Arrive at the airport at least 2 hours before departure",
+				"emoji": "⏰"
+			},
+			{
+				"text": "Check in online in advance to save time",
+				"emoji": "📱"
+			},
+			{
+				"text": "Follow the security signs: remove shoes, put liquids in a bag",
+				"emoji": "🧳"
+			},
+			{
+				"text": "Find your departure gate from the screens",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Board when your zone or row is called",
+				"emoji": "🛫"
+			},
+			{
+				"text": "Follow crew instructions and let them know if you need any support",
+				"emoji": "🙋"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "comm-lei-1",
+		"title": "Going to the Park",
+		"category": "community",
+		"subcategoryId": "comm-leisure",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Parks are shared spaces — be mindful of others",
+				"emoji": "💡"
+			},
+			{
+				"text": "Pick up after yourself and your dog if you have one",
+				"emoji": "🐶"
+			},
+			{
+				"text": "Give people space — sit at a distance from others unless the park is full",
+				"emoji": "↔️"
+			},
+			{
+				"text": "If you want to use a bench someone is near, it's fine to sit — a nod is enough",
+				"emoji": "🙂"
+			},
+			{
+				"text": "Enjoy the outdoors at your own pace",
+				"emoji": "🌿"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "comm-lei-2",
+		"title": "Joining a Fitness Class for the First Time",
+		"category": "community",
+		"subcategoryId": "comm-leisure",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Arrive 5 minutes early to set up and let the instructor know you're new",
+				"emoji": "⏰"
+			},
+			{
+				"text": "Say \"Hi, it's my first time — any advice?\"",
+				"emoji": "🙋"
+			},
+			{
+				"text": "Pick a spot where you can see the instructor clearly",
+				"emoji": "🔍"
+			},
+			{
+				"text": "It's okay to go at your own pace and modify moves",
+				"emoji": "💡"
+			},
+			{
+				"text": "You don't need to chat to others — focus on the class",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "comm-lei-3",
+		"title": "Using a Gym for the First Time",
+		"category": "community",
+		"subcategoryId": "comm-leisure",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Ask for an induction when you join — most gyms offer one",
+				"emoji": "🙋"
+			},
+			{
+				"text": "Wipe down equipment after use with the provided spray and cloth",
+				"emoji": "🧼"
+			},
+			{
+				"text": "Put weights back where you found them",
+				"emoji": "🏋️"
+			},
+			{
+				"text": "Don't use equipment you haven't been shown — ask staff first",
+				"emoji": "💡"
+			},
+			{
+				"text": "Headphones make it easier to exercise without small talk",
+				"emoji": "🎧"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "comm-lei-4",
+		"title": "Going to the Cinema",
+		"category": "community",
+		"subcategoryId": "comm-leisure",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Book your ticket in advance to choose your seat",
+				"emoji": "🎟️"
+			},
+			{
+				"text": "Arrive a few minutes early — ads play before the film",
+				"emoji": "⏰"
+			},
+			{
+				"text": "Turn your phone on silent before the film starts",
+				"emoji": "📵"
+			},
+			{
+				"text": "Eat quietly and avoid loud crunching during quiet scenes if possible",
+				"emoji": "🍿"
+			},
+			{
+				"text": "Stay seated until the credits end if you want to avoid the crowd",
+				"emoji": "💡"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "comm-lei-5",
+		"title": "Visiting a Museum or Gallery",
+		"category": "community",
+		"subcategoryId": "comm-leisure",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Many museums are free — check online before you go",
+				"emoji": "📱"
+			},
+			{
+				"text": "Use an indoor voice and don't touch exhibits unless signs say you can",
+				"emoji": "🤫"
+			},
+			{
+				"text": "Take a map at the entrance to plan your route",
+				"emoji": "🗺️"
+			},
+			{
+				"text": "Take breaks — it's fine to sit down or step outside",
+				"emoji": "🪑"
+			},
+			{
+				"text": "If it gets overwhelming, you can always leave and come back another day",
+				"emoji": "🚪"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "comm-lei-6",
+		"title": "Attending a Community Event or Festival",
+		"category": "community",
+		"subcategoryId": "comm-leisure",
+		"difficulty": 3,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Look up the event in advance — what's there, how loud, how crowded",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Bring ear defenders, sunglasses, or anything that helps your senses",
+				"emoji": "🎧"
+			},
+			{
+				"text": "Have a plan: know where the exits and quiet areas are",
+				"emoji": "🗺️"
+			},
+			{
+				"text": "Go with someone you trust if possible",
+				"emoji": "🤝"
+			},
+			{
+				"text": "It's always okay to leave early",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "comm-bnk-1",
+		"title": "Using an ATM",
+		"category": "community",
+		"subcategoryId": "comm-services",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Use an ATM in a well-lit, public place",
+				"emoji": "💡"
+			},
+			{
+				"text": "Insert your card chip-first and enter your PIN (shield the keypad)",
+				"emoji": "🔒"
+			},
+			{
+				"text": "Select \"Withdraw cash\" and choose the amount",
+				"emoji": "💵"
+			},
+			{
+				"text": "Take your card first, then the cash and receipt",
+				"emoji": "💳"
+			},
+			{
+				"text": "Put everything away before walking away",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "comm-bnk-2",
+		"title": "Visiting the Bank",
+		"category": "community",
+		"subcategoryId": "comm-services",
+		"difficulty": 2,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Bring ID and any relevant documents",
+				"emoji": "📋"
+			},
+			{
+				"text": "Take a number ticket if there's a queue system",
+				"emoji": "🔢"
+			},
+			{
+				"text": "When called, go to the counter and say \"I'd like to [task]\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Answer their security questions clearly",
+				"emoji": "🔒"
+			},
+			{
+				"text": "Ask for clarification if you don't understand something",
+				"emoji": "❓"
+			},
+			{
+				"text": "Take any paperwork or receipts they give you",
+				"emoji": "📄"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "comm-bnk-3",
+		"title": "Sending a Package at the Post Office",
+		"category": "community",
+		"subcategoryId": "comm-services",
+		"difficulty": 2,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Pack and seal your item before you arrive",
+				"emoji": "📦"
+			},
+			{
+				"text": "Write the address clearly on the outside or use a printed label",
+				"emoji": "✏️"
+			},
+			{
+				"text": "At the counter, say \"I'd like to send this please\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Choose standard, tracked, or express — staff can advise",
+				"emoji": "📬"
+			},
+			{
+				"text": "Pay and keep your tracking receipt",
+				"emoji": "🧾"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "comm-bnk-4",
+		"title": "Collecting a Parcel from the Post Office",
+		"category": "community",
+		"subcategoryId": "comm-services",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Bring your collection card or notification and photo ID",
+				"emoji": "📋"
+			},
+			{
+				"text": "Go to the counter and say \"I'm here to collect a parcel\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Show your ID and sign if asked",
+				"emoji": "✏️"
+			},
+			{
+				"text": "Check the parcel is undamaged before you leave",
+				"emoji": "🔍"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "comm-caf-1",
+		"title": "Ordering at a Café Counter",
+		"category": "community",
+		"subcategoryId": "comm-cafe",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Scan the menu before stepping up to the counter",
+				"emoji": "📋"
+			},
+			{
+				"text": "When it's your turn, say your order clearly: \"Can I have a [drink] and [food] please?\"",
+				"emoji": "☕"
+			},
+			{
+				"text": "Mention customisations: \"Oat milk, please\" or \"No ice\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Give your name if asked and move aside to wait",
+				"emoji": "⏳"
+			},
+			{
+				"text": "Collect your order when your name is called and say \"Thank you\"",
+				"emoji": "🙏"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "comm-caf-2",
+		"title": "Asking About Allergens in a Café",
+		"category": "community",
+		"subcategoryId": "comm-cafe",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "You have the right to ask about ingredients — don't hesitate",
+				"emoji": "💡"
+			},
+			{
+				"text": "Say \"I have a [allergy] — could you check if [item] contains it?\"",
+				"emoji": "❓"
+			},
+			{
+				"text": "If they're unsure, ask \"Is there someone who would know?\"",
+				"emoji": "🙋"
+			},
+			{
+				"text": "If they can't confirm it's safe, choose something else",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "comm-caf-3",
+		"title": "Staying to Work or Study in a Café",
+		"category": "community",
+		"subcategoryId": "comm-cafe",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Buy something when you sit down — it's polite if you're staying long",
+				"emoji": "💡"
+			},
+			{
+				"text": "Use headphones and keep your voice down if on calls",
+				"emoji": "🎧"
+			},
+			{
+				"text": "Don't spread across multiple seats during busy periods",
+				"emoji": "🪑"
+			},
+			{
+				"text": "Buy another item if you plan to stay more than an hour",
+				"emoji": "☕"
+			},
+			{
+				"text": "Tidy your space when you leave",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "comm-caf-4",
+		"title": "When Your Café Order Is Wrong",
+		"category": "community",
+		"subcategoryId": "comm-cafe",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Go back to the counter calmly",
+				"emoji": "🚶"
+			},
+			{
+				"text": "Say \"Excuse me, I think my order might be wrong\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "Describe what you got vs what you ordered",
+				"emoji": "🔍"
+			},
+			{
+				"text": "They will usually fix it without fuss",
+				"emoji": "😊"
+			},
+			{
+				"text": "Say \"Thank you\" when they bring the correct order",
+				"emoji": "🙏"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "comm-sup-1",
+		"title": "Using the Self-Checkout",
+		"category": "community",
+		"subcategoryId": "comm-supermarket",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Wait for a free machine and go when it's clear",
+				"emoji": "⏳"
+			},
+			{
+				"text": "Scan each item — place it in the bag after scanning",
+				"emoji": "🔍"
+			},
+			{
+				"text": "If an item doesn't scan, try again or call for assistance",
+				"emoji": "🙋"
+			},
+			{
+				"text": "Select \"Finish & Pay\" when done and pay by card or cash",
+				"emoji": "💳"
+			},
+			{
+				"text": "Take your receipt and bags",
+				"emoji": "🛍️"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "comm-sup-2",
+		"title": "When the Store Is Very Crowded",
+		"category": "community",
+		"subcategoryId": "comm-supermarket",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Shop at quieter times if possible: early morning or late evening",
+				"emoji": "💡"
+			},
+			{
+				"text": "Use a list so you can move through quickly",
+				"emoji": "📝"
+			},
+			{
+				"text": "Breathe slowly if you start to feel overwhelmed",
+				"emoji": "🫁"
+			},
+			{
+				"text": "If it's too much, leave your basket and step outside for fresh air",
+				"emoji": "🚪"
+			},
+			{
+				"text": "You can always come back later — you don't have to push through",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "comm-sup-3",
+		"title": "Asking for Help at the Deli or Bakery Counter",
+		"category": "community",
+		"subcategoryId": "comm-supermarket",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Wait to be served — take a number if there's a system",
+				"emoji": "🔢"
+			},
+			{
+				"text": "Say what you'd like clearly: \"Could I have 200g of [item] please?\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "If you're unsure about quantities, it's fine to say \"About this much\" and show with your hands",
+				"emoji": "🤲"
+			},
+			{
+				"text": "Check the amount when they show you, before they wrap it",
+				"emoji": "✅"
+			},
+			{
+				"text": "Say \"Thank you\" when they hand it over",
+				"emoji": "🙏"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "comm-sup-4",
+		"title": "When an Item Scans at the Wrong Price",
+		"category": "community",
+		"subcategoryId": "comm-supermarket",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Stay calm — pricing errors do happen",
+				"emoji": "💡"
+			},
+			{
+				"text": "Say to the cashier \"I think this item was priced differently on the shelf\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "They may need to call a colleague to check",
+				"emoji": "⏳"
+			},
+			{
+				"text": "Show the shelf photo or describe where you found it",
+				"emoji": "📱"
+			},
+			{
+				"text": "In most places, the shelf price is the one they'll honour",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "comm-pool-1",
+		"title": "Arriving at a Swimming Pool",
+		"category": "community",
+		"subcategoryId": "comm-pool",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Pay at reception and show your membership if you have one",
+				"emoji": "💳"
+			},
+			{
+				"text": "Find the changing rooms — there are usually separate rooms or mixed family changing",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Use a locker for your belongings and take the key with you",
+				"emoji": "🔑"
+			},
+			{
+				"text": "Shower briefly before entering the pool — it's usually required",
+				"emoji": "🚿"
+			},
+			{
+				"text": "Read any lane signs: \"slow\", \"medium\", \"fast\" — pick the right one",
+				"emoji": "🏊"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "comm-pool-2",
+		"title": "Following Pool Rules",
+		"category": "community",
+		"subcategoryId": "comm-pool",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "No running on the poolside — the floor is slippery",
+				"emoji": "🚫"
+			},
+			{
+				"text": "Swim on the left side of your lane — let faster swimmers pass",
+				"emoji": "🔄"
+			},
+			{
+				"text": "Wait at the end of the lane if someone is doing a tumble turn",
+				"emoji": "⏳"
+			},
+			{
+				"text": "Don't splash others deliberately",
+				"emoji": "💡"
+			},
+			{
+				"text": "Follow the lifeguard's instructions immediately",
+				"emoji": "🆘"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "comm-pool-3",
+		"title": "Using a Changing Room",
+		"category": "community",
+		"subcategoryId": "comm-pool",
+		"difficulty": 1,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Use a private cubicle if available and that feels more comfortable",
+				"emoji": "💡"
+			},
+			{
+				"text": "Keep your belongings in your locker or bag — don't spread out",
+				"emoji": "🎒"
+			},
+			{
+				"text": "Allow space for others — don't block sinks or exits",
+				"emoji": "↔️"
+			},
+			{
+				"text": "Leave the space tidy and free of wet towels on the floor",
+				"emoji": "✅"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "comm-evt-1",
+		"title": "Visiting a Friend's Home for the First Time",
+		"category": "community",
+		"subcategoryId": "comm-events",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Arrive at the agreed time — not too early",
+				"emoji": "⏰"
+			},
+			{
+				"text": "Say \"Thanks for inviting me\" when you arrive",
+				"emoji": "🙏"
+			},
+			{
+				"text": "Follow their lead — remove shoes if they do, sit where offered",
+				"emoji": "💡"
+			},
+			{
+				"text": "Ask before exploring or using things: \"Is it okay if I use the bathroom?\"",
+				"emoji": "❓"
+			},
+			{
+				"text": "When you leave, say \"I really enjoyed this — thanks for having me\"",
+				"emoji": "😊"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "comm-evt-2",
+		"title": "Attending a Wedding or Formal Event",
+		"category": "community",
+		"subcategoryId": "comm-events",
+		"difficulty": 3,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Check the dress code and plan your outfit in advance",
+				"emoji": "👔"
+			},
+			{
+				"text": "Arrive on time — formal events often run to a strict schedule",
+				"emoji": "⏰"
+			},
+			{
+				"text": "Turn your phone fully silent",
+				"emoji": "📵"
+			},
+			{
+				"text": "Follow the schedule: sit where directed, stand when others do",
+				"emoji": "🙍"
+			},
+			{
+				"text": "At a reception, you don't need to talk to everyone — small interactions are enough",
+				"emoji": "💡"
+			},
+			{
+				"text": "Before leaving, congratulate the main people: \"Congratulations — it was beautiful\"",
+				"emoji": "🙏"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "comm-evt-3",
+		"title": "First Day at a New Job",
+		"category": "community",
+		"subcategoryId": "comm-events",
+		"difficulty": 3,
+		"tone": "formal",
+		"steps": [
+			{
+				"text": "Arrive on time and go to the reception or main entrance",
+				"emoji": "⏰"
+			},
+			{
+				"text": "Say \"Hi, I'm [your name] — it's my first day\"",
+				"emoji": "👋"
+			},
+			{
+				"text": "Observe and listen more than you speak on the first day",
+				"emoji": "👀"
+			},
+			{
+				"text": "Write down names, processes, and important information",
+				"emoji": "📝"
+			},
+			{
+				"text": "Ask one or two questions — not too many at once",
+				"emoji": "❓"
+			},
+			{
+				"text": "At the end, say \"Thanks everyone — I'm looking forward to getting started\"",
+				"emoji": "😊"
+			}
+		],
+		"isCustom": false
+	},
+	{
+		"id": "comm-evt-4",
+		"title": "Talking to Someone at a Party When You Don't Know Many People",
+		"category": "community",
+		"subcategoryId": "comm-events",
+		"difficulty": 3,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "Find someone who looks friendly and is also standing alone",
+				"emoji": "🔍"
+			},
+			{
+				"text": "Approach and say \"Hi, I'm [your name] — how do you know [host]?\"",
+				"emoji": "👋"
+			},
+			{
+				"text": "Listen to their answer and ask a follow-up question",
+				"emoji": "👂"
+			},
+			{
+				"text": "Share a little about yourself too",
+				"emoji": "💬"
+			},
+			{
+				"text": "If it goes quiet, it's okay to say \"I'll go grab a drink — nice to meet you\"",
+				"emoji": "🚶"
+			}
+		],
+		"isCustom": false
+	}
+]

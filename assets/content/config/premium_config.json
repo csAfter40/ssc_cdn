@@ -1,0 +1,16 @@
+{
+	"premiumCategories": [
+		"emergency",
+		"social",
+		"community"
+	],
+	"premiumSubcategories": [
+		"greet-online",
+		"greet-goodbye",
+		"health-er"
+	],
+	"premiumScripts": [
+		"talk-weath-1",
+		"talk-plans-1"
+	]
+}

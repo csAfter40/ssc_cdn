@@ -1,0 +1,78 @@
+[
+  { "id": "greet-casual",    "categoryId": "greeting",   "title": "Casual Greetings",              "icon": "😊", "sortOrder": 1 },
+  { "id": "greet-formal",    "categoryId": "greeting",   "title": "Formal Introductions",          "icon": "🤝", "sortOrder": 2 },
+  { "id": "greet-goodbye",   "categoryId": "greeting",   "title": "Saying Goodbye",                "icon": "👋", "sortOrder": 3 },
+  { "id": "greet-online",    "categoryId": "greeting",   "title": "Online / Video Calls",          "icon": "💻", "sortOrder": 4 },
+
+  { "id": "talk-weather",    "categoryId": "smalltalk",  "title": "Weather & General",             "icon": "🌤️", "sortOrder": 1 },
+  { "id": "talk-plans",      "categoryId": "smalltalk",  "title": "Plans & Hobbies",               "icon": "📅", "sortOrder": 2 },
+  { "id": "talk-compliment", "categoryId": "smalltalk",  "title": "Giving & Receiving Compliments","icon": "🌟", "sortOrder": 3 },
+  { "id": "talk-end",        "categoryId": "smalltalk",  "title": "Ending Conversations",          "icon": "🔚", "sortOrder": 4 },
+
+  { "id": "help-stores",     "categoryId": "help",       "title": "At Stores",                     "icon": "🏪", "sortOrder": 1 },
+  { "id": "help-school",     "categoryId": "help",       "title": "At School / Work",              "icon": "🏫", "sortOrder": 2 },
+  { "id": "help-directions", "categoryId": "help",       "title": "Asking for Directions",         "icon": "🗺️", "sortOrder": 3 },
+  { "id": "help-confused",   "categoryId": "help",       "title": "When Confused",                 "icon": "😕", "sortOrder": 4 },
+  { "id": "help-bathroom",   "categoryId": "help",       "title": "Using the Bathroom",            "icon": "🚻", "sortOrder": 5 },
+  { "id": "help-permission", "categoryId": "help",       "title": "Asking for Permission",         "icon": "🤲", "sortOrder": 6 },
+
+  { "id": "sayno-invites",   "categoryId": "sayno",      "title": "Declining Invites",             "icon": "📨", "sortOrder": 1 },
+  { "id": "sayno-boundaries","categoryId": "sayno",      "title": "Setting Boundaries",            "icon": "🛡️", "sortOrder": 2 },
+  { "id": "sayno-pressure",  "categoryId": "sayno",      "title": "Handling Pressure",             "icon": "😤", "sortOrder": 3 },
+  { "id": "sayno-touch",     "categoryId": "sayno",      "title": "Physical Boundaries",           "icon": "🤚", "sortOrder": 4 },
+
+  { "id": "phone-appt",      "categoryId": "phone",      "title": "Making Appointments",           "icon": "🗓️", "sortOrder": 1 },
+  { "id": "phone-orders",    "categoryId": "phone",      "title": "Ordering Food",                 "icon": "🍕", "sortOrder": 2 },
+  { "id": "phone-voicemail", "categoryId": "phone",      "title": "Voicemails",                    "icon": "📱", "sortOrder": 3 },
+  { "id": "phone-customer",  "categoryId": "phone",      "title": "Customer Service",              "icon": "🎧", "sortOrder": 4 },
+  { "id": "phone-email",     "categoryId": "phone",      "title": "Email & Online Messaging",      "icon": "📧", "sortOrder": 5 },
+
+  { "id": "health-doctor",   "categoryId": "healthcare", "title": "Doctor Visits",                 "icon": "👨‍⚕️","sortOrder": 1 },
+  { "id": "health-dental",   "categoryId": "healthcare", "title": "Dental Appointments",           "icon": "🦷", "sortOrder": 2 },
+  { "id": "health-pharmacy", "categoryId": "healthcare", "title": "Pharmacy",                      "icon": "💊", "sortOrder": 3 },
+  { "id": "health-symptoms", "categoryId": "healthcare", "title": "Describing Symptoms",           "icon": "🤒", "sortOrder": 4 },
+  { "id": "health-therapy",  "categoryId": "healthcare", "title": "Therapy Sessions",              "icon": "🧠", "sortOrder": 5 },
+  { "id": "health-er",       "categoryId": "healthcare", "title": "Emergency Room",                "icon": "🚑", "sortOrder": 6 },
+
+  { "id": "shop-grocery",    "categoryId": "shopping",   "title": "Grocery Shopping",              "icon": "🥦", "sortOrder": 1 },
+  { "id": "shop-restaurant", "categoryId": "shopping",   "title": "Restaurants & Cafés",           "icon": "☕", "sortOrder": 2 },
+  { "id": "shop-returns",    "categoryId": "shopping",   "title": "Returning Items",               "icon": "↩️", "sortOrder": 3 },
+  { "id": "shop-haircut",    "categoryId": "shopping",   "title": "Haircuts & Salons",             "icon": "✂️", "sortOrder": 4 },
+  { "id": "shop-transport",  "categoryId": "shopping",   "title": "Public Transport",              "icon": "🚌", "sortOrder": 5 },
+
+  { "id": "work-interview",  "categoryId": "workschool", "title": "Job Interviews",                "icon": "💼", "sortOrder": 1 },
+  { "id": "work-daily",      "categoryId": "workschool", "title": "Workplace Daily",               "icon": "🖥️", "sortOrder": 2 },
+  { "id": "work-feedback",   "categoryId": "workschool", "title": "Receiving Feedback",            "icon": "📋", "sortOrder": 3 },
+  { "id": "work-meetings",   "categoryId": "workschool", "title": "Meetings & Groups",             "icon": "👥", "sortOrder": 4 },
+  { "id": "work-school",     "categoryId": "workschool", "title": "Classroom Situations",          "icon": "📚", "sortOrder": 5 },
+  { "id": "work-reading",    "categoryId": "workschool", "title": "Reading Strategies",            "icon": "📖", "sortOrder": 6 },
+
+  { "id": "self-disclose",   "categoryId": "selfadvoc",  "title": "Disclosing Autism",             "icon": "💬", "sortOrder": 1 },
+  { "id": "self-accomm",     "categoryId": "selfadvoc",  "title": "Asking for Adjustments",        "icon": "🔧", "sortOrder": 2 },
+  { "id": "self-overwhelm",  "categoryId": "selfadvoc",  "title": "When Overwhelmed",              "icon": "🌊", "sortOrder": 3 },
+  { "id": "self-feelings",   "categoryId": "selfadvoc",  "title": "Expressing Feelings",           "icon": "❤️", "sortOrder": 4 },
+  { "id": "self-conflict",   "categoryId": "selfadvoc",  "title": "Handling Conflict",             "icon": "⚖️", "sortOrder": 5 },
+  { "id": "self-break",      "categoryId": "selfadvoc",  "title": "Asking for a Break",            "icon": "⏸️", "sortOrder": 6 },
+
+  { "id": "emerg-911",       "categoryId": "emergency",  "title": "Calling for Help",              "icon": "🆘", "sortOrder": 1 },
+  { "id": "emerg-unsafe",    "categoryId": "emergency",  "title": "Feeling Unsafe",                "icon": "😟", "sortOrder": 2 },
+  { "id": "emerg-sensory",   "categoryId": "emergency",  "title": "Sensory Overload in Public",    "icon": "🔇", "sortOrder": 3 },
+  { "id": "emerg-lost",      "categoryId": "emergency",  "title": "Getting Lost",                  "icon": "📍", "sortOrder": 4 },
+
+  { "id": "social-apology",  "categoryId": "social",     "title": "Apologies & Mistakes",          "icon": "🙏", "sortOrder": 1 },
+  { "id": "social-games",    "categoryId": "social",     "title": "Games & Play",                  "icon": "🎮", "sortOrder": 2 },
+  { "id": "social-manners",  "categoryId": "social",     "title": "Everyday Manners",              "icon": "🍽️", "sortOrder": 3 },
+  { "id": "social-gifts",    "categoryId": "social",     "title": "Gifts & Celebrations",          "icon": "🎁", "sortOrder": 4 },
+  { "id": "social-peer",     "categoryId": "social",     "title": "Peer Relationships",            "icon": "🤝", "sortOrder": 5 },
+  { "id": "social-feelings", "categoryId": "social",     "title": "Feelings & Emotions",           "icon": "💛", "sortOrder": 6 },
+
+  { "id": "comm-library",    "categoryId": "community",  "title": "Library",                       "icon": "📚", "sortOrder": 1 },
+  { "id": "comm-restaurant", "categoryId": "community",  "title": "Restaurant & Dining Out",       "icon": "🍽️", "sortOrder": 2 },
+  { "id": "comm-transport",  "categoryId": "community",  "title": "Bus, Train & Travel",           "icon": "🚆", "sortOrder": 3 },
+  { "id": "comm-leisure",    "categoryId": "community",  "title": "Parks, Gym & Cinema",           "icon": "🎬", "sortOrder": 4 },
+  { "id": "comm-services",   "categoryId": "community",  "title": "Bank & Post Office",            "icon": "🏦", "sortOrder": 5 },
+  { "id": "comm-cafe",       "categoryId": "community",  "title": "Cafés & Coffee Shops",          "icon": "☕", "sortOrder": 6 },
+  { "id": "comm-supermarket","categoryId": "community",  "title": "Supermarket & Shops",           "icon": "🛒", "sortOrder": 7 },
+  { "id": "comm-pool",       "categoryId": "community",  "title": "Swimming Pool & Leisure Centre","icon": "🏊", "sortOrder": 8 },
+  { "id": "comm-events",     "categoryId": "community",  "title": "Events & Gatherings",           "icon": "🎉", "sortOrder": 9 }
+]
