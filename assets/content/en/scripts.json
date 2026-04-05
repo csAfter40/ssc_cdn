@@ -7833,5 +7833,28 @@
 			}
 		],
 		"isCustom": false
+	},
+	{
+		"id": "comm-evt-5",
+		"title": "Splitting a Bill at a Restaurant",
+		"category": "community",
+		"subcategoryId": "comm-restaurant",
+		"difficulty": 2,
+		"tone": "casual",
+		"steps": [
+			{
+				"text": "When the bill comes, say \"Shall we split it?\" or \"Can we have separate bills?\"",
+				"emoji": "💬"
+			},
+			{
+				"text": "If splitting, divide the total by the number of people or by what you ordered",
+				"emoji": "➗"
+			},
+			{
+				"text": "Pay your share by card or cash",
+				"emoji": "💳"
+			}
+		],
+		"isCustom": false
 	}
 ]
