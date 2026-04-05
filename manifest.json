@@ -1,6 +1,6 @@
 {
   "manifestVersion": 1,
-  "lastUpdated": "2026-04-04T22:19:20.737160Z",
+  "lastUpdated": "2026-04-05T05:05:27.771199Z",
   "content": {
     "config": {
       "premium": {
@@ -56,11 +56,16 @@
   "images": {
     "scriptimages": {
       "basePath": "assets/images/script_images/",
-      "version": 2,
+      "version": 3,
       "files": {
         "work-cls-1_1.svg": {
           "hash": "8e53c6287fcea7ad52c0b02e63b273b36f58e5abd75f132aaf75892843dea117",
           "size": 57934,
+          "version": 1
+        },
+        "work-day-1_2.svg": {
+          "hash": "0e0249ed8550aeb084b331347d96a2adc4802e842e6ffeb862c0052bd03c0f7e",
+          "size": 139255,
           "version": 1
         },
         "work-cls-1_5.svg": {
@@ -68,15 +73,35 @@
           "size": 76934,
           "version": 2
         },
+        "work-day-1_3.svg": {
+          "hash": "d7948564c17633f293c23eb3e1f71316ef8c15115810e2e3317c115c839de493",
+          "size": 101374,
+          "version": 1
+        },
         "work-cls-1_3.svg": {
           "hash": "7c0bfaf79ea63e255c293b563ee9f3dd528b1ad16e7b40c0e537afe32f4c6eba",
           "size": 59261,
           "version": 2
         },
+        "work-day-1_4.svg": {
+          "hash": "1e9a990949449434d6df56196f394a082fdf1c2ad594b214132021a70e292b0e",
+          "size": 74897,
+          "version": 1
+        },
+        "work-day-1_5.svg": {
+          "hash": "161d2a14b216c31d8bd82022d91b647bf546e41296c0fe61eea78cf7dc20e9d7",
+          "size": 136710,
+          "version": 1
+        },
         "work-cls-1_2.svg": {
           "hash": "4b0647a149a18e194fc238af4373c394d85527fd901aee569d3b21f46e644d8a",
           "size": 73950,
           "version": 2
+        },
+        "work-day-1_1.svg": {
+          "hash": "ed4022f5be6536dcab2609c74085789e4a5de9cbda29d4dfd2f4bca7affa6677",
+          "size": 39408,
+          "version": 1
         },
         "work-cls-1_4.svg": {
           "hash": "081a4a1767b1dd0d7cc9d97c8d916d3e278083a07e66d1d20314967750e9b3f6",
