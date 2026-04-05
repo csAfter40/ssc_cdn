@@ -1,6 +1,6 @@
 {
   "manifestVersion": 1,
-  "lastUpdated": "2026-04-05T15:38:19.860327Z",
+  "lastUpdated": "2026-04-05T15:48:41.305607Z",
   "content": {
     "config": {
       "premium": {
@@ -112,7 +112,7 @@
     },
     "categoryimages": {
       "basePath": "assets/images/category_images/",
-      "version": 3,
+      "version": 4,
       "files": {
         "workschool.svg": {
           "hash": "3719eededf63784c0ae48fe006889cd7d8fe14c8b565b0939dc193316950c117",
@@ -245,9 +245,9 @@
           "version": 1
         },
         "comm-test.svg": {
-          "hash": "d0a850354129bcb224b4ee25fab87fd5afff96ed07069f913a16c3f5b1c67921",
-          "size": 2064,
-          "version": 1
+          "hash": "2cd997699c8977ad299950ee570a4d3a537bec0f80f3c791ae0db4aa5c66f68f",
+          "size": 4025,
+          "version": 2
         },
         "comm-supermarket.svg": {
           "hash": "df51fe0448ac0f3349e8291f7490c2a530b85bf4fa44174bfd71643c858e01e1",
