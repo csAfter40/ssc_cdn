@@ -1,6 +1,6 @@
 {
   "manifestVersion": 1,
-  "lastUpdated": "2026-04-05T05:05:27.771199Z",
+  "lastUpdated": "2026-04-05T08:07:00.943123Z",
   "content": {
     "config": {
       "premium": {
@@ -40,9 +40,9 @@
         },
         "subcategories": {
           "path": "assets/content/en/subcategories.json",
-          "version": 2,
-          "hash": "a6cd1441ce2990c9fa0be46baac3082969003cf37bbf6a1f063bf21159c706d7",
-          "size": 8698
+          "version": 3,
+          "hash": "4fdd4bacd63392fd38b4a1e8b047f08912b19059fd457331205a818f88506e38",
+          "size": 8832
         },
         "scripts": {
           "path": "assets/content/en/scripts.json",
@@ -112,7 +112,7 @@
     },
     "categoryimages": {
       "basePath": "assets/images/category_images/",
-      "version": 2,
+      "version": 3,
       "files": {
         "workschool.svg": {
           "hash": "3719eededf63784c0ae48fe006889cd7d8fe14c8b565b0939dc193316950c117",
@@ -242,6 +242,11 @@
         "self-feelings.svg": {
           "hash": "0a7586d27e18e314aec5ecc88b75a75a31c8632b4e773311e0d983287c9ceb8c",
           "size": 22430,
+          "version": 1
+        },
+        "comm-test.svg": {
+          "hash": "d0a850354129bcb224b4ee25fab87fd5afff96ed07069f913a16c3f5b1c67921",
+          "size": 2064,
           "version": 1
         },
         "comm-supermarket.svg": {
