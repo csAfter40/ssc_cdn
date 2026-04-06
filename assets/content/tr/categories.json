@@ -7,11 +7,11 @@
     "isHidden": false
   },
   {
-    "id": "smalltalk",
-    "title": "Küçük Sohbet",
-    "icon": "💬",
-    "sortOrder": 2,
-    "isHidden": false
+		"id": "smalltalk",
+		"title": "Havadan Sudan Sohbet",
+		"icon": "💬",
+		"sortOrder": 2,
+		"isHidden": false
   },
   {
     "id": "help",
