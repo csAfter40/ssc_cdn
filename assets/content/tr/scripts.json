@@ -5820,7 +5820,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Ağzını ve burnunu dirseğin ya da bir mendille kapat",
+				"text": "Ağzını ve burnunu kolunla ya da bir mendille kapat",
 				"emoji": "🤧"
 			},
 			{
@@ -5851,7 +5851,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Vücut bazen sesler çıkarır — bu herkese olur",
+				"text": "Vücut bazen sesler çıkarır, bu herkese olur",
 				"emoji": "💡"
 			},
 			{
@@ -5863,7 +5863,7 @@
 				"emoji": "🤐"
 			},
 			{
-				"text": "Biri abartırsa de ki: \"Bu herkese olur\"",
+				"text": "Biri abartırsa de ki: \"Bu herkese olabilir\"",
 				"emoji": "✅"
 			}
 		],
@@ -5886,7 +5886,7 @@
 				"emoji": "↔️"
 			},
 			{
-				"text": "Sabırla bekle — herkes bekliyor",
+				"text": "Sabırla bekle, herkes senin gibi bekliyor",
 				"emoji": "⏳"
 			},
 			{
@@ -5894,7 +5894,7 @@
 				"emoji": "💬"
 			},
 			{
-				"text": "Sıran geldiğinde hazır ol — bu kuyruğu herkes için hızlandırır",
+				"text": "Sıran geldiğinde hazır ol, bu kuyruğun ilerlemesini herkes için hızlandırır",
 				"emoji": "✅"
 			}
 		],
@@ -5913,7 +5913,7 @@
 				"emoji": "🚪"
 			},
 			{
-				"text": "Çok uzun tutmak zorunda değilsin — kapının üstlerine kapanmaması yeterli",
+				"text": "Çok uzun tutmak zorunda değilsin, kapının üstlerine kapanmaması yeterli",
 				"emoji": "💡"
 			},
 			{
@@ -5936,23 +5936,23 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Kapıda ayakkabılarını çıkar — aksini söylemezlerse",
+				"text": "Kapıda ayakkabılarını çıkar, aksini söylemezlerse",
 				"emoji": "👟"
 			},
 			{
-				"text": "Geldiğinde \"Beni davet ettiğin için teşekkürler\" de",
+				"text": "\"Hoş geldiniz\" denirse \"Hoş bulduk\" diye cevapla",
 				"emoji": "🙏"
 			},
 			{
-				"text": "Seninki olmayan şeylere dokunmadan ya da kullanmadan önce sor",
+				"text": "Senin olmayan şeylere dokunmadan ya da kullanmadan önce sor",
 				"emoji": "❓"
 			},
 			{
-				"text": "Yemekten sonra yardımla toplamayı teklif et",
+				"text": "Yemekten sonra masanın toplanmasına yardım etmeyi teklif et",
 				"emoji": "🍽️"
 			},
 			{
-				"text": "Gitmeden önce de ki: \"Teşekkürler — çok güzel vakit geçirdim\"",
+				"text": "Ayrılmadan önce \"Teşekkürler, çok güzel vakit geçirdim\" de",
 				"emoji": "😊"
 			}
 		],
@@ -5967,15 +5967,15 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Kişi seni düşünmeye zaman ayırdı — bu önemlidir",
+				"text": "Karşındaki kişi seni düşünerek zaman ayırdı, bu önemlidir",
 				"emoji": "💡"
 			},
 			{
-				"text": "Gülümse ve de ki: \"Teşekkürler, çok düşünceli olmuş\"",
+				"text": "Gülümse ve şöyle de: \"Teşekkürler, çok düşüncelisin\"",
 				"emoji": "🙂"
 			},
 			{
-				"text": "Gerçek ve olumlu bir şey söyle: \"Rengini çok sevdim\" ya da \"Çok anlamlı\"",
+				"text": "Hediye ile ilgili sevdiğin bir şey söyle: \"Rengini çok sevdim\" ya da \"Çok anlamlı\"",
 				"emoji": "💬"
 			},
 			{
@@ -5983,7 +5983,7 @@
 				"emoji": "✅"
 			},
 			{
-				"text": "Tepkini kısa tut — sonra konuyu değiştir",
+				"text": "Tepkini kısa tut, sonra konuyu değiştir",
 				"emoji": "🚶"
 			}
 		],
@@ -5998,19 +5998,19 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Gerçek sevinç göstermek harika!",
+				"text": "İçinden geldiği gibi sevinç göstermek her zaman güzeldir",
 				"emoji": "🎉"
 			},
 			{
-				"text": "De ki: \"Çok teşekkürler — bunu çok sevdim!\"",
+				"text": "\"Çok teşekkür ederim, bunu gerçekten çok beğendim!\" diyebilirsin",
 				"emoji": "🎁"
 			},
 			{
-				"text": "Yapabilirsen neden beğendiğini söyle",
+				"text": "İstersen neden beğendiğini de anlatabilirsin",
 				"emoji": "💬"
 			},
 			{
-				"text": "Sarılmak ya da çakıştırmak opsiyonel — sana doğal gelen ne ise onu yap",
+				"text": "Sarılmak ya da el sıkışmak tamamen sana kalmış, kendine doğal gelen ne ise onu yapabilirsin",
 				"emoji": "🤗"
 			}
 		],
@@ -6025,55 +6025,20 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Hediyeyi uzat ve de ki: \"Bu senin için\"",
+				"text": "Hediyeyi uzatarak \"Bu senin için\" diyebilirsin",
 				"emoji": "🎁"
 			},
 			{
-				"text": "Ekleyebilirsin: \"Beğeneceğini düşündüm\" ya da \"İyi günler!\"",
+				"text": "İstersen \"Beğeneceğini düşündüm\" diye de ekleyebilirsin",
 				"emoji": "🎂"
 			},
 			{
-				"text": "Açarlarken bekle — tepkilerini bakarak fark et ama dikizleme",
+				"text": "Hediyeyi açarken sabırla bekle, tepkilerini gözlemle ama çok dikkatli bakma",
 				"emoji": "👀"
 			},
 			{
-				"text": "Teşekkür ederlerse de ki: \"Beğendiğine sevindim\" ya da \"Rica ederim\"",
+				"text": "Teşekkür ederlerse \"Beğendiğine sevindim\" ya da \"Rica ederim\" diyebilirsin",
 				"emoji": "🙂"
-			}
-		],
-		"isCustom": false
-	},
-	{
-		"id": "soc-gft-4",
-		"title": "Cadılar Bayramı'nda Kapı Kapı Dolaşmak",
-		"category": "social",
-		"subcategoryId": "social-gifts",
-		"difficulty": 1,
-		"tone": "casual",
-		"steps": [
-			{
-				"text": "Güvendiğin bir yetişkinle ya da grupla git — güvenlik önce",
-				"emoji": "🛡️"
-			},
-			{
-				"text": "Kapıyı çal ya da zili bas ve bekle",
-				"emoji": "🔔"
-			},
-			{
-				"text": "Kapı açıldığında de ki: \"İşkence mi yoksa şeker mi!\"",
-				"emoji": "🎃"
-			},
-			{
-				"text": "Şeker teklif ettiklerinde torbanı ya da kovasını uzat",
-				"emoji": "🍬"
-			},
-			{
-				"text": "\"Teşekkürler!\" de ve devam et — beklemeden ya da daha fazla istemeden",
-				"emoji": "🙏"
-			},
-			{
-				"text": "Kimse açmazsa tamam — sadece bir sonraki kapıya git",
-				"emoji": "🚶"
 			}
 		],
 		"isCustom": false
@@ -6087,27 +6052,27 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Başlama saatine yakın gel — çok erken ya da çok geç olmamaya çalış",
+				"text": "Başlama saatine yakın gitmeye çalış, çok erken ya da çok geç kalmamaya dikkat et",
 				"emoji": "⏰"
 			},
 			{
-				"text": "Doğum günü kutlanan kişiyi gördüğünde \"İyi günler!\" de",
+				"text": "Doğum günü kutlanan kişiyi gördüğünde \"Doğum günün kutlu olsun!\" diyebilirsin.",
 				"emoji": "🎂"
 			},
 			{
-				"text": "Hediyeyi ver ve kendi zamanında açmasına izin ver",
+				"text": "Hediyeyi ver, \"Bu senin için\" diyebilirsin",
 				"emoji": "🎁"
 			},
 			{
-				"text": "En az bir aktiviteye katılmaya çalış — kısa bile olsa tamam",
+				"text": "Partide en az bir etkinliğe katılmaya çalış, kısa süre bile olsa yeterli.",
 				"emoji": "🎉"
 			},
 			{
-				"text": "Bunaltıcı geliyorsa, sessiz bir mola vermek tamam",
+				"text": "Her şey bunaltıcı gelmeye başlarsa, kısa bir mola vermen tamamen normal",
 				"emoji": "🫁"
 			},
 			{
-				"text": "Gitmeden önce ev sahibine teşekkür et: \"Davet ettiğin için teşekkürler\"",
+				"text": "Ayrılmadan önce ev sahibine \"Davet ettiğin için çok teşekkürler\" diyebilirsin",
 				"emoji": "🙏"
 			}
 		],
@@ -6122,7 +6087,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Büyük toplantılar gürültülü ve beklenmedik olabilir — buna hazırlıklı ol",
+				"text": "Büyük toplantılar gürültülü ve beklenmedik olabilir, buna hazırlıklı ol",
 				"emoji": "💡"
 			},
 			{
@@ -6130,7 +6095,7 @@
 				"emoji": "🔍"
 			},
 			{
-				"text": "\"Biraz hava almaya çıkıyorum\" deyip kısaca dışarı çıkmak tamam",
+				"text": "\"Biraz hava almaya çıkıyorum\" deyip kısaca dışarı çıkabilirsin",
 				"emoji": "🚶"
 			},
 			{
@@ -6138,8 +6103,8 @@
 				"emoji": "🤝"
 			},
 			{
-				"text": "Tüm kutlama boyunca kalmak zorunda değilsin",
-				"emoji": "✅"
+				"text": "Çok uzun süre kalmak zorunda değilsin",
+				"emoji": "🚶"
 			}
 		],
 		"isCustom": false
@@ -6153,23 +6118,23 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Birkaç kez konuştuğun ya da ortak yönleriniz olan birini bul",
+				"text": "Daha önce birkaç kez konuştuğun ya da seninle ortak ilgi alanları olan birini bul",
 				"emoji": "🔍"
 			},
 			{
-				"text": "Sor: \"Bir ara takılmak ister misin?\"",
+				"text": "\"Bir gün buluşup vakit geçirmek ister misin?\" diye sorabilirsin",
 				"emoji": "🙋"
 			},
 			{
-				"text": "Belirli bir şey öner: \"[Oyun] oynayabiliriz ya da [yere] gidebiliriz\"",
+				"text": "Somut bir şey öner: \"[Oyun] oynayabiliriz ya da [yere] gidebiliriz\" gibi",
 				"emoji": "💬"
 			},
 			{
-				"text": "Evet derlerse — harika! Plan yap",
+				"text": "Evet derlerse harika! Birlikte plan yapabilirsiniz",
 				"emoji": "🎉"
 			},
 			{
-				"text": "Hayır derlerse ya da emin görünmüyorlarsa tamam — herkes birbirine uymaz ve bu normaldir",
+				"text": "Hayır derlerse ya da kararsız görünürlerse üzülme, herkes birbirine uymak zorunda değil, bu çok normal",
 				"emoji": "💡"
 			}
 		],
@@ -6188,11 +6153,11 @@
 				"emoji": "🤔"
 			},
 			{
-				"text": "De ki: \"[Aktivite] yapmayı düşünüyordum — gelmek ister misin?\"",
+				"text": "De ki: \"[Aktivite] yapmayı düşünüyordum, gelmek ister misin?\"",
 				"emoji": "💬"
 			},
 			{
-				"text": "Belirli bir zaman ver: \"Belki cumartesi öğleden sonra?\"",
+				"text": "Belirli bir zaman ver: \"Cumartesi öğleden sonra senin için uygun mu?\"",
 				"emoji": "📅"
 			},
 			{
@@ -6200,7 +6165,7 @@
 				"emoji": "✅"
 			},
 			{
-				"text": "Evet derlerse, gün gelmeden ayrıntıları onayla",
+				"text": "Evet derlerse, aktivite günü gelmeden önce ayrıntıları onayla",
 				"emoji": "📝"
 			}
 		],
@@ -6208,30 +6173,30 @@
 	},
 	{
 		"id": "soc-peer-3",
-		"title": "Biri Seni Takıldığında",
+		"title": "Biri Sana Alaycı Şaka Yaptığında",
 		"category": "social",
 		"subcategoryId": "social-peer",
 		"difficulty": 3,
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Farkı fark et: dostane takılmak ile kötü niyetli takılmak",
+				"text": "Şunu ayırt etmeye çalış: Arkadaşça bir şakalaşma mı, yoksa seni inciten bir alay mı?",
 				"emoji": "🔍"
 			},
 			{
-				"text": "Seni rahatsız ediyorsa sakin bir şekilde de ki: \"Bu konuda takılmandan hoşlanmıyorum\"",
+				"text": "Rahatsız hissediyorsan sakin bir şekilde \"Böyle konuşulmasından hoşlanmıyorum\" diyebilirsin",
 				"emoji": "✋"
 			},
 			{
-				"text": "Devam ederlerse uzaklaş — kalmak zorunda değilsin",
+				"text": "Devam ederlerse oradan uzaklaşabilirsin, orada kalmak zorunda değilsin",
 				"emoji": "🚶"
 			},
 			{
-				"text": "Devam ediyorsa güvendiğin bir yetişkine ya da arkadaşa söyle",
+				"text": "Yine de durmazlarsa güvendiğin bir yetişkine ya da arkadaşına anlat",
 				"emoji": "🆘"
 			},
 			{
-				"text": "Seni sürekli üzen takılma zorbalıktır ve yardım almayı hak ediyorsun",
+				"text": "Seni sürekli üzen davranışlar zorbalıktır ve yardım istemeyi hak ediyorsun",
 				"emoji": "💪"
 			}
 		],
@@ -6246,23 +6211,23 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Katılma ya da görmezden gelme — ikisi de durumu kötüleştirir",
+				"text": "Zorbalığa katılmak da görmezden gelmek de durumu daha kötü hale getirir",
 				"emoji": "💡"
 			},
 			{
-				"text": "Güvenliyse: zorbalığa uğrayan kişinin yanında dur",
+				"text": "Güvende hissediyorsan zorbalığa uğrayan kişinin yanına geç ve yanında olduğunu göster",
 				"emoji": "🤝"
 			},
 			{
-				"text": "Zorbalık yapana de ki: \"Bu doğru değil — bırak\"",
+				"text": "Zorbalık yapan kişiye \"Bu doğru değil, lütfen bu yaptığın şeyi bırak\" diyebilirsin",
 				"emoji": "✋"
 			},
 			{
-				"text": "Ne olduğunu güvendiğin bir yetişkine söyle",
+				"text": "Yaşananları güvendiğin bir yetişkine anlat",
 				"emoji": "🆘"
 			},
 			{
-				"text": "Sonra kişiyi bir ara: \"İyi misin? Ne olduğunu gördüm\"",
+				"text": "Daha sonra o kişiye \"İyi misin? Orada olanları gördüm\" diyerek ulaşabilirsin",
 				"emoji": "❤️"
 			}
 		],
@@ -6277,27 +6242,27 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Arkadaşın üzgün, sessiz ya da her zamankinden farklı göründüğünde fark et",
+				"text": "Arkadaşın üzgün, sessiz ya da her zamankinden farklı göründüğünde bunu fark etmeye çalış",
 				"emoji": "👀"
 			},
 			{
-				"text": "Nazikçe sor: \"İyi misin? Bugün biraz sessiz görünüyorsun\"",
+				"text": "Nazikçe \"İyi misin? Bugün biraz sessiz görünüyorsun\" diye sorabilirsin",
 				"emoji": "💬"
 			},
 			{
-				"text": "Hemen tavsiye vermeye ya da düzeltmeye çalışmadan dinle",
+				"text": "Hemen tavsiye vermeden ya da çözüm bulmaya çalışmadan sadece onu dinle",
 				"emoji": "👂"
 			},
 			{
-				"text": "De ki: \"Bu gerçekten zor görünüyor. Buradayım\"",
+				"text": "\"Bu gerçekten zor bir durum. Buradayım\" diyebilirsin",
 				"emoji": "❤️"
 			},
 			{
-				"text": "Sor: \"Yardım etmek için yapabileceğim bir şey var mı?\"",
+				"text": "\"Sana yardımcı olabileceğim bir şey var mı?\" diye sorabilirsin",
 				"emoji": "🤝"
 			},
 			{
-				"text": "Güvenliğinden endişeleniyorsan güvendiğin bir yetişkine söyle",
+				"text": "Arkadaşının güvenliğinden endişeleniyorsan güvendiğin bir yetişkine anlat",
 				"emoji": "🆘"
 			}
 		],
@@ -6343,24 +6308,24 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Seni rahatsız eden her şeyi hayır deme hakkına sahipsin",
-				"emoji": "💡"
-			},
-			{
-				"text": "De ki: \"Hayır teşekkürler, bu benim için değil\"",
-				"emoji": "✋"
-			},
-			{
-				"text": "Baskı yaparlarsa de ki: \"Hayır dedim — lütfen buna saygı göster\"",
-				"emoji": "💪"
-			},
-			{
-				"text": "Gerçek arkadaşlar seni zorlamaz",
+				"text": "Her zaman sen çaba gösterip karşı taraf göstermiyorsa, bu durumun farkına varmaya çalış",
 				"emoji": "🔍"
 			},
 			{
-				"text": "Uzaklaş ve gerekirse güvendiğin birine ne olduğunu anlat",
-				"emoji": "🚶"
+				"text": "Sakin bir an bulup \"Hep ben ulaşmak zorunda kalıyorum gibi hissediyorum\" diyebilirsin",
+				"emoji": "💬"
+			},
+			{
+				"text": "\"Aramızda her şey yolunda mı?\" diye sorabilirsin",
+				"emoji": "❓"
+			},
+			{
+				"text": "Cevabını sabırla dinle, o bu durumun farkında bile olmayabilir",
+				"emoji": "👂"
+			},
+			{
+				"text": "İyi arkadaşlıklar iki taraflı olur, bunu dile getirmek tamamen doğaldır",
+				"emoji": "💡"
 			}
 		],
 		"isCustom": false
@@ -6374,23 +6339,23 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Hemen yanıt verme — önce ekrandan uzaklaş",
+				"text": "Hemen yanıt verme, önce ekrandan uzaklaş ve biraz nefes al",
 				"emoji": "📵"
 			},
 			{
-				"text": "Mesajı ekran görüntüsü ya da kayıt olarak sakla",
+				"text": "O mesajı ekran görüntüsü alarak ya da kaydederek sakla",
 				"emoji": "📱"
 			},
 			{
-				"text": "Gerekiyorsa kişiyi engelle ya da sustur",
+				"text": "Gerekirse o kişiyi engelleyebilir ya da sessize alabilirsin",
 				"emoji": "🛑"
 			},
 			{
-				"text": "Güvendiğin bir yetişkine söyle — çevrimiçi kabalık da gerçek bir kabalıktır",
+				"text": "Güvendiğin bir yetişkine anlat, çevrimiçi kötü davranış da gerçek bir kötü davranıştır",
 				"emoji": "🆘"
 			},
 			{
-				"text": "Bunu tek başına çözmek zorunda değilsin",
+				"text": "Bunu tek başına çözmen gerekmiyor, yardım istemeye hakkın var",
 				"emoji": "🤝"
 			}
 		],
@@ -6405,23 +6370,23 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Vücudundaki hissi fark et — göğüste sıkışma, yüzde kızarma, kasılan eller",
+				"text": "Vücudundaki hislere dikkat et; göğsünde sıkışma, yüzünde kızarma ya da yumruklarını sıkmak gibi",
 				"emoji": "🔍"
 			},
 			{
-				"text": "4 sayarak nefes al, 6 sayarak ver",
+				"text": "4 sayarak yavaşça nefes al, 6 sayarak nefes ver",
 				"emoji": "🫁"
 			},
 			{
-				"text": "Mümkünse o durumdan uzaklaş",
+				"text": "Mümkünse o ortamdan bir süre uzaklaş",
 				"emoji": "🚶"
 			},
 			{
-				"text": "Fiziksel bir şey yap — yürü, zıpla, bir şeyi sık",
+				"text": "Bedenini harekete geçir, kısa bir yürüyüş yap, elinde lastik bir top sık",
 				"emoji": "💪"
 			},
 			{
-				"text": "Sakinleştikten sonra ne olduğunu ve nasıl üstesinden geleceğini düşün",
+				"text": "Sakinleştikten sonra ne olduğunu ve bir dahaki seferde nasıl başa çıkabileceğini düşün",
 				"emoji": "💬"
 			}
 		],
@@ -6436,23 +6401,23 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Gerginlik normal — beynin seni hazırlamaya çalışıyor",
+				"text": "Gergin hissetmen çok normal, beynin seni hazırlamaya çalışıyor",
 				"emoji": "💡"
 			},
 			{
-				"text": "Yavaşça nefes al — burundan içeri, ağızdan dışarı",
+				"text": "Yavaşça nefes al; burnundan içeri çek, ağzından dışarı ver",
 				"emoji": "🫁"
 			},
 			{
-				"text": "Küçük de olsa beklediğin bir şeyi düşün",
+				"text": "Bu etkinlikte, küçük de olsa, seni heyecanlandıran bir şey olup olmadığını düşün",
 				"emoji": "🌟"
 			},
 			{
-				"text": "Hatırla: daha önce de zor durumların üstesinden geldin",
+				"text": "Şunu unutma: daha önce de zor durumların üstesinden gelmeyi başardın",
 				"emoji": "💪"
 			},
 			{
-				"text": "Yardımcı oluyorsa, güvendiğin birine söyle: \"[Etkinlik] için gerginim\"",
+				"text": "İyi hissettirecekse güvendiğin birine \"[Etkinlik] için biraz gerginim\" diyebilirsin",
 				"emoji": "💬"
 			}
 		],
@@ -6467,19 +6432,19 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Bir şeyden hoşlanmamak tamam — yapmacık davranmak zorunda değilsin",
+				"text": "Bir şeyden hoşlanmamak tamamen normal, her şeyi seviyormuş gibi davranmak zorunda değilsin",
 				"emoji": "💡"
 			},
 			{
-				"text": "Ortak bir ya da grup ortamındaysan mümkünse sessiz kal — her görüşün sesli paylaşılması gerekmez",
+				"text": "Ortak bir alanda ya da grup ortamındaysan, her düşünceni yüksek sesle paylaşmak zorunda değilsin",
 				"emoji": "🤐"
 			},
 			{
-				"text": "Sorulursa de ki: \"Tam benim tarzım değil ama başkalarının neden beğendiğini anlayabiliyorum\"",
+				"text": "Görüşün sorulursa \"Tam benim tarzım değil ama başkalarının neden beğendiğini anlayabiliyorum\" diyebilirsin",
 				"emoji": "💬"
 			},
 			{
-				"text": "Seni doğrudan etkileyen bir şeyse, kibarca dile getirmek tamam",
+				"text": "Seni doğrudan etkileyen bir durum söz konusuysa, bunu kibarca dile getirmek tamamen uygundur",
 				"emoji": "✋"
 			}
 		],
@@ -6494,23 +6459,23 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Tutkulu olduğun şeyleri paylaşmak harika",
+				"text": "Tutkuyla bağlı olduğun şeyleri başkalarıyla paylaşmak çok güzel bir şey",
 				"emoji": "🌟"
 			},
 			{
-				"text": "Önce en ilgi çekici kısmı paylaş — tüm arka planı değil",
+				"text": "Seni en çok heyecanlandıran kısmı anlat, her şeyi baştan sona açıklamak zorunda değilsin",
 				"emoji": "💬"
 			},
 			{
-				"text": "Tepkilerini izle: ilgileniyor mu, yoksa başka yere mi bakıyor?",
+				"text": "Karşındaki kişinin tepkisine dikkat et: seni dinliyor mu, yoksa dikkati dağılıyor mu?",
 				"emoji": "👀"
 			},
 			{
-				"text": "Onları da dahil etmek için bir soru sor",
+				"text": "Konuşmaya onu da katmak için bir soru sor",
 				"emoji": "❓"
 			},
 			{
-				"text": "İlgilenmiyorlarsa tamam — herkes aynı ilgi alanlarını paylaşmaz",
+				"text": "İlgilenmiyorsa üzülme, herkesin ilgi alanları farklı olabilir",
 				"emoji": "✅"
 			}
 		],
@@ -6525,23 +6490,23 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Dışlanmış hissetmek acıtır — bu duygu geçerlidir",
+				"text": "Dışlanmış hissetmek çok zor olabilir, bu duyguyu yaşaman son derece normal",
 				"emoji": "💡"
 			},
 			{
-				"text": "Tepki vermeden önce bir an bekle — kasıtlı olduğunu varsayma",
+				"text": "Hemen tepki vermek yerine bir an dur, belki kasıtlı değildir",
 				"emoji": "🫁"
 			},
 			{
-				"text": "Sakin bir şekilde sorabilirsin: \"Dahil edilmediğimi fark ettim — bir nedeni var mı?\"",
+				"text": "Uygun bir anda şunu sorabilirsin: \"Gruba dahil edilmediğimi fark ettim, bir sebebi var mı?\"",
 				"emoji": "💬"
 			},
 			{
-				"text": "Devam ediyorsa, nasıl hissettiğini güvendiğin biriyle konuş",
+				"text": "Bu durum sürüyorsa, içinden geçenleri güvendiğin biriyle paylaş",
 				"emoji": "❤️"
 			},
 			{
-				"text": "Unutma: tek bağlantı kaynağı o grup değil",
+				"text": "Aklında tut: seni değerli hissettirecek başka insanlar ve ortamlar da var",
 				"emoji": "🌟"
 			}
 		],
@@ -6556,23 +6521,23 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Hayal kırıklığı önemsediğin anlamına gelir — bu bir zayıflık değil",
+				"text": "Hayal kırıklığı yaşaman, bir şeyleri gerçekten önemsediğini gösterir, bu bir zayıflık değildir",
 				"emoji": "💡"
 			},
 			{
-				"text": "Nefes al ve duyguyu adlandır: \"[X] yüzünden hayal kırıklığı yaşıyorum\"",
+				"text": "Derin bir nefes al ve ne hissettiğini kendi kendine söyle: \"[X] yüzünden hayal kırıklığı yaşıyorum\"",
 				"emoji": "🫁"
 			},
 			{
-				"text": "Bu duyguyu yoğun hissederken önemli kararlar alma",
+				"text": "Bu duygu içindeyken önemli kararlar almaktan kaçın, önce sakinleş",
 				"emoji": "⏸️"
 			},
 			{
-				"text": "Nasıl hissettiğini güvendiğin biriyle paylaş",
+				"text": "Hissettiklerini güvendiğin biriyle paylaşmak içini rahatlatabilir",
 				"emoji": "💬"
 			},
 			{
-				"text": "Zamanla farklı bir yol ya da fırsat ortaya çıkacak",
+				"text": "Zamanla yeni bir yol ya da beklenmedik bir fırsat karşına çıkabilir",
 				"emoji": "🌟"
 			}
 		],
@@ -6587,23 +6552,23 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Yaptığın şeyi bırak — bir duraksama gerekiyor",
+				"text": "Ne yapıyorsan dur, şu an bir mola vermen gerekiyor",
 				"emoji": "🛑"
 			},
 			{
-				"text": "Mümkünse sakin ve güvenli bir yer bul",
+				"text": "Mümkünse sakin ve kendini güvende hissedeceğin bir köşe bul",
 				"emoji": "🔍"
 			},
 			{
-				"text": "Kalp atışın sakinleşene kadar yavaş ve derin nefes al",
+				"text": "Kendini biraz daha sakin hissedene kadar yavaş ve derin nefes al",
 				"emoji": "🫁"
 			},
 			{
-				"text": "Bir şeylere tutun: görebildiğin 5 şeyi, dokunabildiğin 4 şeyi say",
+				"text": "Şu an etrafında görebildiğin 5 şeyi, ardından dokunabildiğin 4 şeyi say",
 				"emoji": "🌿"
 			},
 			{
-				"text": "Hazır olduğunda SADECE bir küçük sonraki adım belirle",
+				"text": "Hazır hissettiğinde yalnızca sıradaki tek bir adımı düşün, sadece bir adım",
 				"emoji": "✅"
 			},
 			{
@@ -6622,23 +6587,23 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Tepki vermeden önce bir nefes al",
+				"text": "Hemen karşılık vermek yerine bir an dur ve derin bir nefes al",
 				"emoji": "🫁"
 			},
 			{
-				"text": "De ki: \"Sanırım kendimi net ifade edemedim — bir daha deneyebilir miyim?\"",
+				"text": "Şunu söyleyebilirsin: \"Sanırım kendimi yeterince açıklayamadım, bir daha anlatmayı deneyebilir miyim?\"",
 				"emoji": "🔄"
 			},
 			{
-				"text": "Ne demek istediğini açıklamak için farklı kelimeler ya da bir örnek kullan",
+				"text": "Ne demek istediğini aktarmak için farklı kelimeler ya da somut bir örnek kullan",
 				"emoji": "💬"
 			},
 			{
-				"text": "Sor: \"Şimdi daha mantıklı geldi mi?\"",
+				"text": "Ardından sor: \"Şimdi daha iyi anlaşıldı mı?\"",
 				"emoji": "❓"
 			},
 			{
-				"text": "Hâlâ anlamıyorlarsa de ki: \"Tamam — belki başka bir zaman konuşabiliriz\"",
+				"text": "Yine de anlaşılamazsa bunu söyleyebilirsin: \"Sorun değil, bunu başka bir zamana bırakalım\"",
 				"emoji": "✅"
 			}
 		],
