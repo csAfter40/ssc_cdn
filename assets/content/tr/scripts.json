@@ -6618,23 +6618,23 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Alçak ve içe dönük bir ses tonu kullan — burası sessiz, ortak bir alan",
+				"text": "Sesini alçak tut, kütüphane herkesin kullandığı sessiz bir ortamdır",
 				"emoji": "🔇"
 			},
 			{
-				"text": "Kitaplar türe ya da yazara göre düzenlenir — emin değilsen personele sor",
+				"text": "Kitaplar genellikle türe ya da yazara göre sıralanır, bulamazsan görevlilerden yardım isteyebilirsin",
 				"emoji": "📚"
 			},
 			{
-				"text": "Kitaplara nazikçe davran ve aldığın yere geri koy",
+				"text": "Kitaplara nazikçe davran ve incelediğin kitabı aldığın yere geri koy",
 				"emoji": "🤲"
 			},
 			{
-				"text": "Bir kitabı ödünç almak istiyorsan self-servis makinesine ya da tezgaha götür",
+				"text": "Ödünç almak istediğin kitabı kütüphane görevlisine götür",
 				"emoji": "🖥️"
 			},
 			{
-				"text": "Kütüphane kartını yanında bulundur",
+				"text": "Kütüphane kartını yanında getirmeyi unutma.",
 				"emoji": "💳"
 			}
 		],
@@ -6649,19 +6649,19 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Bir görevli bul — genellikle tezgahta ya da kitap raflıyor olurlar",
+				"text": "Bir görevli bul, genellikle danışma masasında ya da rafların arasında olurlar",
 				"emoji": "🔍"
 			},
 			{
-				"text": "De ki: \"Affedersiniz, bir şey bulmama yardımcı olabilir misiniz?\"",
+				"text": "Şunu söyleyebilirsin: \"Affedersiniz, bir kitabı bulmama yardımcı olabilir misiniz?\"",
 				"emoji": "🙋"
 			},
 			{
-				"text": "Aradığını anlat: başlık, yazar ya da konu",
+				"text": "Ne aradığını anlat: kitabın adını, yazarını ya da konusunu paylaşabilirsin",
 				"emoji": "💬"
 			},
 			{
-				"text": "Teşekkür et ve yönlendirmeyi takip et",
+				"text": "Teşekkür et ve görevlinin tarif ettiği yönde ilerle",
 				"emoji": "🙏"
 			}
 		],
@@ -6676,20 +6676,20 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Son iade tarihini kontrol et — zamanında iade etmek ceza ödemeyi önler",
-				"emoji": "📅"
+			"text": "Son iade tarihini kontrol et, kitabı zamanında iade etmezsen gecikme cezası ödemen gerekebilir",
+			"emoji": "📅"
 			},
 			{
-				"text": "Kitap iade kutusunu ya da tezgahı kullan",
-				"emoji": "📬"
+			"text": "Kitabı iade kutusuna bırak ya da doğrudan görevliye teslim et",
+			"emoji": "📬"
 			},
 			{
-				"text": "Cezanız varsa, tezgahta sakin bir şekilde öde: \"Gecikme cezam var — ödeyebilir miyim?\"",
-				"emoji": "💳"
+			"text": "Gecikme cezası varsa görevliye sakin bir şekilde şunu söyle: \"Gecikme cezam var, ödeyebilir miyim?\"",
+			"emoji": "💳"
 			},
 			{
-				"text": "Kitabın teslim alındığının kanıtı olarak makbuz iste",
-				"emoji": "🧾"
+			"text": "Kitabın teslim alındığına dair makbuz veya onay istemeyi unutma",
+			"emoji": "🧾"
 			}
 		],
 		"isCustom": false
@@ -6703,24 +6703,24 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Bilgisayarı ayırtman gerekip gerekmediğini ya da geliş sırasına göre mi kullanıldığını öğren",
-				"emoji": "🔍"
+			"text": "Bilgisayarı önceden rezerve etmen gerekip gerekmediğini ya da sırayla mı kullanıldığını görevliye sor",
+			"emoji": "🔍"
 			},
 			{
-				"text": "İstenirse kütüphane kartı numaranla giriş yap",
-				"emoji": "💳"
+			"text": "Gerekiyorsa kütüphane kart numaranla sisteme giriş yap",
+			"emoji": "💳"
 			},
 			{
-				"text": "Sesini kıs — ses için kulaklık en iyi seçenek",
-				"emoji": "🎧"
+			"text": "Kütüphanede sessizliğe dikkat et, ses dinlemek için mutlaka kulaklık kullan",
+			"emoji": "🎧"
 			},
 			{
-				"text": "Bittiğinde oturumu kapat ve temizle",
-				"emoji": "🖥️"
+			"text": "İşin bittiğinde hesabından çıkış yap ve masayı düzenli bırak",
+			"emoji": "🖥️"
 			},
 			{
-				"text": "Alanı bir sonraki kişi için temiz bırak",
-				"emoji": "✅"
+			"text": "Çalışma alanını bir sonraki kişi için temiz ve derli toplu bırak",
+			"emoji": "✅"
 			}
 		],
 		"isCustom": false
@@ -6734,24 +6734,24 @@
 		"tone": "formal",
 		"steps": [
 			{
-				"text": "Aramadan önce tarih, saat ve kişi sayısını hazırla",
-				"emoji": "📝"
+			"text": "Aramadan önce rezervasyon tarihini, saatini ve kaç kişi olduğunu not al",
+			"emoji": "📝"
 			},
 			{
-				"text": "De ki: \"Merhaba, [tarih] saat [saat] için [sayı] kişilik rezervasyon yaptırmak istiyorum\"",
-				"emoji": "📞"
+			"text": "Şunu söyle: \"Merhaba, [tarih] tarihinde saat [saat]'te [sayı] kişilik bir masa ayırtmak istiyorum.\"",
+			"emoji": "📞"
 			},
 			{
-				"text": "Beslenme ihtiyaçların varsa şimdi belirt: \"Bir kişi vejetaryen\"",
-				"emoji": "🥗"
+			"text": "Özel beslenme gereksinimlerin varsa bunu da belirt: \"Bir kişinin yumurtaya alerjisi var.\"",
+			"emoji": "🥗"
 			},
 			{
-				"text": "Adını ve telefon numaranı ver",
-				"emoji": "💬"
+			"text": "Rezervasyonun adına kayıt edilmesi için adını ve telefon numaranı söyle",
+			"emoji": "💬"
 			},
 			{
-				"text": "Kapatmadan önce rezervasyon ayrıntılarını onayla",
-				"emoji": "✅"
+			"text": "Telefonu kapatmadan önce tarih, saat ve kişi sayısını tekrar onaylat",
+			"emoji": "✅"
 			}
 		],
 		"isCustom": false
@@ -6765,51 +6765,51 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Sizi karşılaması için girişte bir personeli bekle",
-				"emoji": "⏳"
+			"text": "Girişte seni karşılaması için bir görevliyi bekle",
+			"emoji": "⏳"
 			},
 			{
-				"text": "De ki: \"Merhaba, [adın] adına rezervasyonum var\" ya da \"[Sayı] kişilik masa lütfen\"",
-				"emoji": "💬"
+			"text": "Şunu söyle: \"Merhaba, [adın] adına rezervasyonum var.\" ya da \"[Sayı] kişilik bir masa istiyorum.\"",
+			"emoji": "💬"
 			},
 			{
-				"text": "Masaya kadar onları takip et",
-				"emoji": "🚶"
+			"text": "Görevliyi masaya kadar takip et.",
+			"emoji": "🚶"
 			},
 			{
-				"text": "Masa uygun değilse (çok gürültülü, soğuk vb.) sormak tamam: \"Biraz daha sessiz bir yere oturmak mümkün mü?\"",
-				"emoji": "❓"
+			"text": "Masa sana uygun değilse (çok gürültülü, soğuk vb.) bunu kibarca belirtebilirsin: \"Biraz daha sessiz bir masaya geçebilir miyiz?\"",
+			"emoji": "❓"
 			}
 		],
 		"isCustom": false
 	},
 	{
 		"id": "comm-rest-3",
-		"title": "Alerjenler ya da Beslenme İhtiyaçları Hakkında Sormak",
+		"title": "Alerjenler ya da Beslenme İhtiyaçları Hakkında Bilgi Vermek",
 		"category": "community",
 		"subcategoryId": "comm-restaurant",
 		"difficulty": 2,
 		"tone": "formal",
 		"steps": [
 			{
-				"text": "Alerjini ya da beslenme ihtiyacını açıkça ve sakin bir şekilde belirt",
-				"emoji": "💡"
+			"text": "Alerjini ya da özel beslenme ihtiyacını garsona açık ve sakin bir şekilde anlat",
+			"emoji": "💡"
 			},
 			{
-				"text": "De ki: \"[Alerji/beslenme ihtiyacım] var — hangi yemekler uygun?\"",
-				"emoji": "💬"
+			"text": "Şunu söyle: \"[Alerji/beslenme ihtiyacım] var, bana uygun yemekler hangileri?\"",
+			"emoji": "💬"
 			},
 			{
-				"text": "Gerekirse sor: \"Bu yemek [alerjen] ile birlikte mi hazırlanıyor?\"",
-				"emoji": "❓"
+			"text": "Gerekirse şunu da sorabilirsin: \"Bu yemek [alerjen] içeriyor mu ya da onunla aynı ortamda mı hazırlanıyor?\"",
+			"emoji": "❓"
 			},
 			{
-				"text": "Sipariş vermeden önce garsonla onayla: \"[Alerjiyi] not ettiniz, değil mi?\"",
-				"emoji": "✅"
+			"text": "Sipariş vermeden önce garsonla teyit et: \"[Alerjimi] not aldınız, değil mi?\"",
+			"emoji": "✅"
 			},
 			{
-				"text": "Utanma — güvenliğin öncelik",
-				"emoji": "💪"
+			"text": "Çekinme, sağlığın her şeyden önce gelir",
+			"emoji": "💪"
 			}
 		],
 		"isCustom": false
@@ -6823,55 +6823,55 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Ödemeye hazır olduğunda garsona bakışla işaret et ya da de ki: \"Affedersiniz — hesabı alabilir miyiz?\"",
-				"emoji": "🙋"
+			"text": "Ödemeye hazır olduğunda elini kaldırarak garsonu çağır ve şunu söyle: \"Affedersiniz, hesabı alabilir miyiz?\"",
+			"emoji": "🙋"
 			},
 			{
-				"text": "Hesabın sipariş ettiklerinle uyuşup uyuşmadığını kontrol et",
-				"emoji": "🧾"
+			"text": "Hesabın sipariş ettiklerinle uyuşup uyuşmadığını kontrol et",
+			"emoji": "🧾"
 			},
 			{
-				"text": "Bir şey yanlışsa de ki: \"Sanırım bir hata var — [X]'i sipariş etmedim\"",
-				"emoji": "❓"
+			"text": "Yanlış bir şey varsa şunu söyle: \"Sanırım bir hata var, [X]'i sipariş etmemiştim.\"",
+			"emoji": "❓"
 			},
 			{
-				"text": "Kart ya da nakit ile öde",
-				"emoji": "💳"
+			"text": "Hesabı kart ya da nakit ile öde",
+			"emoji": "💳"
 			},
 			{
-				"text": "Bahşiş pek çok yerde %10-15 oranında alışkanlık hâline gelmiştir, ancak zorunlu değildir",
-				"emoji": "💡"
+			"text": "Zorunlu olmasa da pek çok restoranda hesabın %10-15'i kadar bahşiş bırakmak yaygın bir uygulamadır",
+			"emoji": "💡"
 			}
 		],
 		"isCustom": false
 	},
 	{
 		"id": "comm-rest-5",
-		"title": "Yemeğin Çok Uzun Sürdüğünde",
+		"title": "Yemeğin Gelmesi Çok Uzun Sürdüğünde",
 		"category": "community",
 		"subcategoryId": "comm-restaurant",
 		"difficulty": 2,
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Makul bir süre bekle — mutfak yoğun olabilir",
-				"emoji": "⏳"
+			"text": "Biraz bekle, mutfak yoğun olabilir.",
+			"emoji": "⏳"
 			},
 			{
-				"text": "20-30 dakika sonra garsonun dikkatini el sallayarak ya da \"Affedersiniz\" diyerek çek",
-				"emoji": "🙋"
+			"text": "20-30 dakika geçtiyse garsona el sallayarak ya da \"Affedersiniz\" diyerek seslen",
+			"emoji": "🙋"
 			},
 			{
-				"text": "De ki: \"Bir süredir bekliyoruz — siparişimizi kontrol edebilir misiniz?\"",
-				"emoji": "💬"
+			"text": "Şunu söyle: \"Yemeklerimiz henüz gelmedi, siparişimizi kontrol edebilir misiniz?\"",
+			"emoji": "💬"
 			},
 			{
-				"text": "Sakin ve kibar kal — sahne yapmak nadiren yardımcı olur",
-				"emoji": "🫁"
+			"text": "Sakin ve kibar kalmaya çalış, sert tepkiler genellikle işe yaramaz",
+			"emoji": "🫁"
 			},
 			{
-				"text": "Genellikle özür diler ve bilgi verirler",
-				"emoji": "✅"
+			"text": "Garson çoğunlukla özür dileyerek seni bilgilendirecektir",
+			"emoji": "✅"
 			}
 		],
 		"isCustom": false
@@ -6885,55 +6885,55 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Sipariş vermeden önce eşit mi bölüşeceğinizi mi yoksa kendi siparişini mi ödeyeceğini mi karara bağlayın",
-				"emoji": "💡"
+			"text": "Sipariş vermeden önce hesabı eşit mi paylaşacağınızı yoksa herkesin kendi siparişini mi ödeyeceğini konuşup kararlaştırın",
+			"emoji": "💡"
 			},
 			{
-				"text": "Hesap geldiğinde eşit bölüşecekseniz toplamı kişi sayısına böl",
-				"emoji": "🔢"
+			"text": "Eşit bölüşecekseniz hesap geldiğinde toplam tutarı kişi sayısına böl",
+			"emoji": "🔢"
 			},
 			{
-				"text": "Ya da kendi sipariş ettiğini topla",
-				"emoji": "📱"
+			"text": "Herkes kendi siparişini ödeyecekse yalnızca kendi aldıklarının toplamını hesapla",
+			"emoji": "📱"
 			},
 			{
-				"text": "Kendi payını öde ve varsa bahşişin bir bölümünü dahil et",
-				"emoji": "💳"
+			"text": "Kendi payını öde; varsa bahşişten de üstüne düşen miktarı ekle",
+			"emoji": "💳"
 			},
 			{
-				"text": "Birinin parası yetmiyorsa sessizce karşıla ve sonra halledin",
-				"emoji": "🤝"
+			"text": "Birinin parası yetmiyorsa o an için farkı sen karşıla, aramızda sonra halledersiniz",
+			"emoji": "🤝"
 			}
 		],
 		"isCustom": false
 	},
 	{
 		"id": "comm-rest-7",
-		"title": "Özel Duyusal İhtiyaçlarınla Dışarıda Yemek Yemek",
+		"title": "Duyusal Farklılıklarla Dışarıda Yemek Yemek",
 		"category": "community",
 		"subcategoryId": "comm-restaurant",
 		"difficulty": 2,
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Restoranları önceden araştır — menüye ve gürültü seviyesine çevrimiçi bak",
-				"emoji": "🔍"
+			"text": "Restoranı önceden araştır, menüye ve ortamın gürültü seviyesine çevrimiçi göz at",
+			"emoji": "🔍"
 			},
 			{
-				"text": "Mümkünse daha sessiz bir alan için rezervasyon yaptır, örn. \"Mutfaktan uzak bir yer\"",
-				"emoji": "💬"
+			"text": "Mümkünse daha sakin bir masa için rezervasyon sırasında ricada bulun: \"Mutfaktan uzak, sessiz bir yer tercih ederiz.\"",
+			"emoji": "💬"
 			},
 			{
-				"text": "Kulak koruyucu ya da duyusal araçlar getirmek tamam",
-				"emoji": "🎧"
+			"text": "Kulak tıkacı veya kulaklık gibi duyusal yardımcılar yanında olsun, bunları kullanmak tamamen normaldir",
+			"emoji": "🎧"
 			},
 			{
-				"text": "Garsona sorabilirsin: \"[Yemeği] [malzeme] olmadan getirebilir misiniz?\"",
-				"emoji": "❓"
+			"text": "Yemekle ilgili özel bir isteğin varsa garsona çekinmeden sorabilirsin: \"[Yemeği] [malzeme] olmadan hazırlayabilir misiniz?\"",
+			"emoji": "❓"
 			},
 			{
-				"text": "Plan yap: çıkışın nerede olduğunu ve sessiz mola verebileceğin yeri önceden öğren",
-				"emoji": "🚪"
+			"text": "Önceden bir plan yap: çıkışın nerede olduğunu ve gerekirse kısa bir mola verebileceğin sessiz bir köşeyi belirle",
+			"emoji": "🚪"
 			}
 		],
 		"isCustom": false
@@ -6947,31 +6947,31 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Güzergahı planlamak için Google Maps, Moovit ya da yerel bir uygulama kullan",
-				"emoji": "📱"
+			"text": "Güzergahını planlamak için Google Maps ya da benzer bir ulaşım uygulaması kullan",
+			"emoji": "📱"
 			},
 			{
-				"text": "Kalkış saatini kontrol et ve yeterince erken çık",
-				"emoji": "⏰"
+			"text": "Kalkış saatini önceden kontrol et ve yeterince erken yola çık",
+			"emoji": "⏰"
 			},
 			{
-				"text": "Hedef durağını ve yardımcı oluyorsa durak sayısını bil",
-				"emoji": "📍"
+			"text": "İneceğin durağı ve kaç durak sonra ineceğini önceden öğren",
+			"emoji": "📍"
 			},
 			{
-				"text": "Telefonunu şarj et ve sinyal kaybedebilirsen güzergahı çevrimdışı indir",
-				"emoji": "🔋"
+			"text": "Telefonunun şarjını tam doldur; sinyal kaybedebileceğin bir güzergahsa haritayı çevrimdışı olarak indir",
+			"emoji": "🔋"
 			},
 			{
-				"text": "Yedek plan yap: bir şeyler ters giderse kimi arayacağını bil",
-				"emoji": "📞"
+			"text": "Bir aksilik çıkarsa ne yapacağını düşün: kimi arayabileceğini ya da nereye başvurabileceğini önceden belirle",
+			"emoji": "📞"
 			}
 		],
 		"isCustom": false
 	},
 	{
 		"id": "comm-trn-2",
-		"title": "Otobüs ya da Tren Bileti Almak",
+		"title": "Otobüs veya Tren Bileti Almak",
 		"category": "community",
 		"subcategoryId": "comm-transport",
 		"difficulty": 1,
@@ -6990,11 +6990,11 @@
 				"emoji": "💳"
 			},
 			{
-				"text": "Çıkana kadar bileti sakla — bazı sistemler çıkışta da kontrol eder",
+				"text": "Çıkana kadar bileti sakla, metro gibi bazı sistemler çıkışta da kontrol edebilir",
 				"emoji": "✅"
 			},
 			{
-				"text": "Makinede karıştırırsan yakındaki personele sor",
+				"text": "Makinede ne yapman gerektiğini bilemiyorsan yakındaki personele sor",
 				"emoji": "🙋"
 			}
 		],
@@ -7009,55 +7009,55 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Kalkışlar panosunu bul — peron numaraları ve saatler orada gösterilir",
-				"emoji": "🔍"
+			"text": "İstasyon panosunu bul, peron numaraları ve saatler orada yazar",
+			"emoji": "🔍"
 			},
 			{
-				"text": "Perona yeterli zamanla git",
-				"emoji": "🚶"
+			"text": "Perona erken git, acele etmek zorunda kalma",
+			"emoji": "🚶"
 			},
 			{
-				"text": "Trende hedef istasyonunu doğrulayan tabelayı kontrol et",
-				"emoji": "📋"
+			"text": "Trende varış istasyonunu gösteren tabelayı kontrol et",
+			"emoji": "📋"
 			},
 			{
-				"text": "Kapılar açılınca bin ve bir yer bul",
-				"emoji": "🚆"
+			"text": "Kapılar açılınca trene bin ve boş bir yer bul, ya da varsa biletinde belirtilen koltuğa otur",
+			"emoji": "🚆"
 			},
 			{
-				"text": "Emin değilsen bir görevliye ya da yolcuya sor: \"Bu tren [şehre] gidiyor mu?\"",
-				"emoji": "❓"
+			"text": "Doğru trene bindiğinden emin değilsen bir görevliye ya da yolcuya sor: \"Bu tren [şehre] gidiyor mu?\"",
+			"emoji": "❓"
 			}
 		],
 		"isCustom": false
 	},
 	{
 		"id": "comm-trn-4",
-		"title": "Otobüs ya da Treni Geciktiğinde",
+		"title": "Otobüs ya da Tren Geciktiğinde",
 		"category": "community",
 		"subcategoryId": "comm-transport",
 		"difficulty": 2,
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Güncelleme için uygulamayı ya da kalkış panosunu kontrol et",
-				"emoji": "📱"
+			"text": "Güncel bilgi için uygulamayı ya da çizelgeyi kontrol et",
+			"emoji": "📱"
 			},
 			{
-				"text": "Güvenli ve rahat bir yerde bekle",
-				"emoji": "🪑"
+			"text": "Güvenli ve rahat bir yerde bekle",
+			"emoji": "🪑"
 			},
 			{
-				"text": "Biriyle buluşuyorsan mesaj at: \"Trenim gecikmeli — [süre] geç kalacağım\"",
-				"emoji": "💬"
+			"text": "Biriyle buluşacaksan mesaj at: \"Otobüsüm gecikti, [süre] dakika geç kalacağım\"",
+			"emoji": "💬"
 			},
 			{
-				"text": "Gecikme çok uzunsa personele alternatifler hakkında sor",
-				"emoji": "🙋"
+			"text": "Gecikme çok uzun sürerse bir görevliye başka seçenekleri sor",
+			"emoji": "🙋"
 			},
 			{
-				"text": "Sakin kal — gecikmeler sinir bozucu ama genellikle çözülür",
-				"emoji": "🫁"
+			"text": "Sakin olmaya çalış, gecikmeler can sıkıcı olabilir ama genellikle çözülür",
+			"emoji": "🫁"
 			}
 		],
 		"isCustom": false
@@ -7071,28 +7071,28 @@
 		"tone": "formal",
 		"steps": [
 			{
-				"text": "Havalimanına kalıştan en az 2 saat önce ulaş",
-				"emoji": "⏰"
+			"text": "Havalimanına kalkıştan en az 2 saat önce ulaş",
+			"emoji": "⏰"
 			},
 			{
-				"text": "Check-in işlemini önceden çevrimiçi tamamla",
-				"emoji": "📱"
+			"text": "Check-in işlemini önceden internet üzerinden tamamlamak sana zaman kazandırır",
+			"emoji": "📱"
 			},
 			{
-				"text": "Güvenlik işaretlerini takip et: ayakkabılarını çıkar, sıvıları torbaya koy",
-				"emoji": "🧳"
+			"text": "Güvenlik kontrolünde yönlendirmeleri takip et: ayakkabılarını çıkar, sıvıları şeffaf torbaya koy",
+			"emoji": "🧳"
 			},
 			{
-				"text": "Ekranlarda kalkış kapını bul",
-				"emoji": "🔍"
+			"text": "Ekranlarda uçuşunun kalkış kapısını bul",
+			"emoji": "🔍"
 			},
 			{
-				"text": "Sıran ya da sıranın gelen bölümü çağrılınca bin",
-				"emoji": "🛫"
+			"text": "Biniş sırası geldiğinde ya da kendi grubun çağrıldığında uçağa geç",
+			"emoji": "🛫"
 			},
 			{
-				"text": "Ekip talimatlarını takip et ve desteğe ihtiyaç duyarsan bildir",
-				"emoji": "🙋"
+			"text": "Kabin ekibinin talimatlarını uygula; yardıma ihtiyaç duyarsan ekibe bildir",
+			"emoji": "🙋"
 			}
 		],
 		"isCustom": false
@@ -7106,24 +7106,24 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Parklar ortak alanlardır — başkalarına karşı dikkatli ol",
-				"emoji": "💡"
+			"text": "Parklar herkese açık alanlardır, çevrendeki insanlara karşı saygılı ol",
+			"emoji": "💡"
 			},
 			{
-				"text": "Çöpünü topla ve varsa köpeğinin pisliğini de topla",
-				"emoji": "🐶"
+			"text": "Çöpünü çöpe at; köpeğin varsa pisliğini temizle",
+			"emoji": "🐶"
 			},
 			{
-				"text": "İnsanlardan uzak dur — park dolmadıkça diğerlerinden bir mesafede otur",
-				"emoji": "↔️"
+			"text": "Park kalabalık değilse başkalarına biraz mesafeli otur",
+			"emoji": "↔️"
 			},
 			{
-				"text": "Bir banka yakın oturmak istiyorsan tamam — hafifçe başını sallamak yeterli",
-				"emoji": "🙂"
+			"text": "Birine yakın oturacaksan hafifçe gülümsemek ya da başını sallamak yeterli",
+			"emoji": "🙂"
 			},
 			{
-				"text": "Dışarıda kendi hızında vakit geçir",
-				"emoji": "🌿"
+			"text": "Dışarıda kendi temponla, rahatça vakit geçir",
+			"emoji": "🌿"
 			}
 		],
 		"isCustom": false
@@ -7137,55 +7137,55 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Kurulumu yapmak ve eğitmene yeni olduğunu söylemek için 5 dakika erken gel",
-				"emoji": "⏰"
+			"text": "Hazırlanmak ve eğitmene yeni olduğunu söylemek için 5 dakika erken gel",
+			"emoji": "⏰"
 			},
 			{
-				"text": "De ki: \"Merhaba, ilk dersim — tavsiyeniz var mı?\"",
-				"emoji": "🙋"
+			"text": "Şunu söyleyebilirsin: \"Merhaba, bu benim ilk dersim, yardımcı olur musunuz?\"",
+			"emoji": "🙋"
 			},
 			{
-				"text": "Eğitmeni iyi görebileceğin bir yer seç",
-				"emoji": "🔍"
+			"text": "Eğitmeni rahatça görebileceğin bir yere geç",
+			"emoji": "🔍"
 			},
 			{
-				"text": "Kendi hızında gitmek ve hareketleri modifiye etmek tamam",
-				"emoji": "💡"
+			"text": "Kendi hızında ilerlemek ve hareketleri kolaylaştırarak yapman tamamen normal",
+			"emoji": "💡"
 			},
 			{
-				"text": "Diğerleriyle sohbet etmek zorunda değilsin — derse odaklan",
-				"emoji": "✅"
+			"text": "Diğerleriyle konuşmak zorunda değilsin, derse odaklanman yeterli",
+			"emoji": "✅"
 			}
 		],
 		"isCustom": false
 	},
 	{
 		"id": "comm-lei-3",
-		"title": "İlk Kez Spor Salonu Kullanmak",
+		"title": "İlk Kez Vücut Geliştirme Salonuna Gitmek",
 		"category": "community",
 		"subcategoryId": "comm-leisure",
 		"difficulty": 2,
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Katılırken bir tanışma/oryantasyon turu iste — çoğu spor salonu sunar",
-				"emoji": "🙋"
+			"text": "Üye olurken bir tanıtım turu isteyebilirsin, çoğu spor salonunda sana yardımcı olacak bir görevli bulunur",
+			"emoji": "🙋"
 			},
 			{
-				"text": "Kullandıktan sonra ekipmanı sağlanan sprey ve bezle temizle",
-				"emoji": "🧼"
+			"text": "Bir ekipmanı kullandıktan sonra salonun sağladığı sprey ve bezle temizle",
+			"emoji": "🧼"
 			},
 			{
-				"text": "Ağırlıkları aldığın yere geri koy",
-				"emoji": "🏋️"
+			"text": "Ağırlıkları kullandıktan sonra yerlerine geri koy",
+			"emoji": "🏋️"
 			},
 			{
-				"text": "Kullanmayı bilmediğin ekipmanları kullanma — önce personele sor",
-				"emoji": "💡"
+			"text": "Nasıl kullanılacağını bilmediğin aletlere dokunma, önce bir görevliye sor",
+			"emoji": "💡"
 			},
 			{
-				"text": "Kulaklık, küçük sohbetler olmadan egzersiz yapmayı kolaylaştırır",
-				"emoji": "🎧"
+			"text": "Kulaklık takman, sohbete girmeden rahatça egzersiz yapmanı sağlar",
+			"emoji": "🎧"
 			}
 		],
 		"isCustom": false
@@ -7199,24 +7199,24 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Yer seçmek için bileti önceden al",
-				"emoji": "🎟️"
+			"text": "İstediğin yeri seçebilmek için bileti önceden al",
+			"emoji": "🎟️"
 			},
 			{
-				"text": "Birkaç dakika erken gel — film başlamadan önce reklamlar çalışır",
-				"emoji": "⏰"
+			"text": "Birkaç dakika erken gel, film başlamadan önce reklamlar oynar",
+			"emoji": "⏰"
 			},
 			{
-				"text": "Film başlamadan önce telefonunu sessize al",
-				"emoji": "📵"
+			"text": "Film başlamadan telefonunu sessize al",
+			"emoji": "📵"
 			},
 			{
-				"text": "Sakin sahnelerde mümkünse çiğnemeye dikkat et",
-				"emoji": "🍿"
+			"text": "Sessiz sahnelerde yiyecekleri daha sessiz yemeye çalış",
+			"emoji": "🍿"
 			},
 			{
-				"text": "Kalabalıktan kaçınmak istiyorsan jenerik bitene kadar otur",
-				"emoji": "💡"
+			"text": "Film bittikten sonra kalabalıktan kaçınmak istiyorsan jenerik bitene kadar yerinde kal",
+			"emoji": "💡"
 			}
 		],
 		"isCustom": false
@@ -7230,24 +7230,24 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Pek çok müze ücretsizdir — gitmeden önce çevrimiçi kontrol et",
-				"emoji": "📱"
+			"text": "Bazı müzeler ücretsiz olabilir, gitmeden önce internetten kontrol et",
+			"emoji": "📱"
 			},
 			{
-				"text": "Alçak sesle konuş ve işaret yoksa eserlere dokunma",
-				"emoji": "🤫"
+			"text": "Alçak sesle konuş ve izin verilmiyorsa eserlere dokunma",
+			"emoji": "🤫"
 			},
 			{
-				"text": "Girişte bir harita al ve güzergahını planla",
-				"emoji": "🗺️"
+			"text": "Girişten bir harita al ve nereleri gezmek istediğini planla",
+			"emoji": "🗺️"
 			},
 			{
-				"text": "Molalar ver — oturmak ya da dışarı çıkmak tamam",
-				"emoji": "🪑"
+			"text": "Ara sıra mola ver, oturmak ya da dışarı çıkmak tamamen normal",
+			"emoji": "🪑"
 			},
 			{
-				"text": "Çok yorucu gelirse, başka bir günde tekrar gelebilirsin",
-				"emoji": "🚪"
+			"text": "Çok yorucu gelirse erken ayrılabilirsin, başka bir gün tekrar gelip devam edebilirsin",
+			"emoji": "🚪"
 			}
 		],
 		"isCustom": false
@@ -7261,55 +7261,55 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Etkinliği önceden araştır — ne var, ne kadar gürültülü, ne kadar kalabalık",
-				"emoji": "🔍"
+			"text": "Etkinliği önceden araştır, neler var, ne kadar gürültülü ve kalabalık olabilir",
+			"emoji": "🔍"
 			},
 			{
-				"text": "Kulak koruyucu, güneş gözlüğü ya da duyularına yardımcı olan şeyleri getir",
-				"emoji": "🎧"
+			"text": "Kulak tıkacı, güneş gözlüğü ya da duyularını rahatlatacak şeyler getir",
+			"emoji": "🎧"
 			},
 			{
-				"text": "Plan yap: çıkışların ve sessiz alanların nerede olduğunu öğren",
-				"emoji": "🗺️"
+			"text": "Önceden bir plan yap: çıkışların ve sessiz köşelerin nerede olduğunu öğren",
+			"emoji": "🗺️"
 			},
 			{
-				"text": "Mümkünse güvendiğin biriyle git",
-				"emoji": "🤝"
+			"text": "Mümkünse güvendiğin biriyle git",
+			"emoji": "🤝"
 			},
 			{
-				"text": "Erken ayrılmak her zaman tamam",
-				"emoji": "✅"
+			"text": "İstediğin zaman erkenden ayrılabilirsin, bu tamamen normaldir",
+			"emoji": "✅"
 			}
 		],
 		"isCustom": false
 	},
 	{
 		"id": "comm-bnk-1",
-		"title": "ATM Kullanmak",
+		"title": "ATM'den Para Çekmek",
 		"category": "community",
 		"subcategoryId": "comm-services",
 		"difficulty": 1,
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "İyi aydınlatılmış, halka açık bir yerdeki ATM'yi kullan",
-				"emoji": "💡"
+			"text": "Güvenlik açısında iyi aydınlatılmış ve kalabalık bir yerdeki ATM'yi tercih et",
+			"emoji": "💡"
 			},
 			{
-				"text": "Kartını çip tarafı önde tak ve PIN'ini gir (klavyeyi elle kapat)",
-				"emoji": "🔒"
+			"text": "Kartını makine üzerindeki resimde gösterildiği şekilde tak ve PIN'ini gir, girerken klavyeyi elinle kapat",
+			"emoji": "🔒"
 			},
 			{
-				"text": "\"Para çek\" seçeneğini seç ve miktarı belirle",
-				"emoji": "💵"
+			"text": "\"Para çek\" seçeneğini seç ve çekmek istediğin miktarı gir",
+			"emoji": "💵"
 			},
 			{
-				"text": "Önce kartını al, sonra parayı ve makbuzu al",
-				"emoji": "💳"
+			"text": "Önce kartını, ardından parayı ve makbuzu al",
+			"emoji": "💳"
 			},
 			{
-				"text": "Uzaklaşmadan önce her şeyi kaldır",
-				"emoji": "✅"
+			"text": "ATM'den ayrılmadan önce kart, para ve makbuzun yanında olduğundan emin ol",
+			"emoji": "✅"
 			}
 		],
 		"isCustom": false
@@ -7323,28 +7323,28 @@
 		"tone": "formal",
 		"steps": [
 			{
-				"text": "Kimlik ve gerekli belgelerini getir",
-				"emoji": "📋"
+			"text": "Kimliğini ve gerekli belgelerini yanına al",
+			"emoji": "📋"
 			},
 			{
-				"text": "Sıra sistemi varsa bir numara al",
-				"emoji": "🔢"
+			"text": "Sıra sistemi varsa gişeden bir numara al",
+			"emoji": "🔢"
 			},
 			{
-				"text": "Sıran geldiğinde tezgaha git ve de ki: \"[İşlem] yapmak istiyorum\"",
-				"emoji": "💬"
+			"text": "Sıran geldiğinde görevliye git ve şunu söyle: \"[İşlem] yapmak istiyorum\"",
+			"emoji": "💬"
 			},
 			{
-				"text": "Güvenlik sorularını açıkça yanıtla",
-				"emoji": "🔒"
+			"text": "Kimlik doğrulama sorularını açık ve net bir şekilde yanıtla",
+			"emoji": "🔒"
 			},
 			{
-				"text": "Bir şeyi anlamadığında açıklama iste",
-				"emoji": "❓"
+			"text": "Anlamadığın bir şey olursa görevliden tekrar açıklamasını iste",
+			"emoji": "❓"
 			},
 			{
-				"text": "Verdikleri evrakları ya da makbuzları al",
-				"emoji": "📄"
+			"text": "İşlem sonunda sana verilen evrak ve makbuzları almayı unutma",
+			"emoji": "📄"
 			}
 		],
 		"isCustom": false
@@ -7358,24 +7358,24 @@
 		"tone": "formal",
 		"steps": [
 			{
-				"text": "Eşyanı gitmeden önce paketleyip mühürle",
-				"emoji": "📦"
+			"text": "Göndermek istediğin eşyayı gitmeden önce paketleyip ağzını kapat",
+			"emoji": "📦"
 			},
 			{
-				"text": "Adresi dışına okunaklı yaz ya da baskılı etiket kullan",
-				"emoji": "✏️"
+			"text": "Alıcının adresini pakete okunaklı yaz ya da yazıcıdan çıkardığın etiket kullan",
+			"emoji": "✏️"
 			},
 			{
-				"text": "Tezgahta de ki: \"Bunu göndermek istiyorum lütfen\"",
-				"emoji": "💬"
+			"text": "Görevliye şunu söyle: \"Bu paketi göndermek istiyorum\"",
+			"emoji": "💬"
 			},
 			{
-				"text": "Normal, takipli ya da hızlandırılmış seçeneklerden birini seç — personel yardımcı olabilir",
-				"emoji": "📬"
+			"text": "Normal, takipli veya hızlı gönderim seçeneklerinden birini seç, görevli seçim yapmana yardımcı olabilir",
+			"emoji": "📬"
 			},
 			{
-				"text": "Ödeme yap ve takip makbuzunu sakla",
-				"emoji": "🧾"
+			"text": "Ödemeyi yaptıktan sonra takip numaralı makbuzu sakla",
+			"emoji": "🧾"
 			}
 		],
 		"isCustom": false
@@ -7389,20 +7389,20 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Teslim kartını ya da bildirim mesajını ve fotoğraflı kimliğini getir",
-				"emoji": "📋"
+			"text": "Teslim bildirim kartını ya da mesajını ve fotoğraflı kimliğini yanına al",
+			"emoji": "📋"
 			},
 			{
-				"text": "Tezgaha git ve de ki: \"Bir paket teslim almaya geldim\"",
-				"emoji": "💬"
+			"text": "Görevliye git ve şunu söyle: \"Bir paket teslim almaya geldim\"",
+			"emoji": "💬"
 			},
 			{
-				"text": "Kimliğini göster ve istenirse imzala",
-				"emoji": "✏️"
+			"text": "Kimliğini göster ve gerekirse imzala",
+			"emoji": "✏️"
 			},
 			{
-				"text": "Gitmeden önce paketin hasarsız olduğunu kontrol et",
-				"emoji": "🔍"
+			"text": "Postaneden ayrılmadan önce paketin hasarsız olduğunu kontrol et",
+			"emoji": "🔍"
 			}
 		],
 		"isCustom": false
