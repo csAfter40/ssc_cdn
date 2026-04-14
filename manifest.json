@@ -1,6 +1,6 @@
 {
   "manifestVersion": 1,
-  "lastUpdated": "2026-04-13T20:53:44.457658Z",
+  "lastUpdated": "2026-04-14T05:20:05.342397Z",
   "content": {
     "config": {
       "premium": {
@@ -26,9 +26,9 @@
         },
         "scripts": {
           "path": "assets/content/en/scripts.json",
-          "version": 4,
-          "hash": "60bfd7ddf43a0066f29b6859e9d578eddc5f6afcf145b521308d6b4d1a225c75",
-          "size": 181011
+          "version": 5,
+          "hash": "e77ffa8583827551b75c7657068e77530cd3d5d8577ce09baddec3dfc4ff7ec3",
+          "size": 180167
         }
       },
       "tr": {
