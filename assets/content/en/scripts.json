@@ -27,7 +27,10 @@
 				"text": "Ask \"What's your name?\"",
 				"emoji": "❓"
 			},
-			{ "text": "Say \"Nice to meet you\"", "emoji": "😊" }
+			{
+				"text": "Say \"Nice to meet you\"",
+				"emoji": "😊"
+			}
 		],
 		"isCustom": false
 	},
@@ -44,7 +47,7 @@
 				"emoji": "🙋"
 			},
 			{
-				"text": "Say \"Hey\" or \"Hi\" — short is fine",
+				"text": "Say \"Hey\" or \"Hi\" (short is fine)",
 				"emoji": "👋"
 			},
 			{
@@ -87,7 +90,7 @@
 				"emoji": "👂"
 			},
 			{
-				"text": "Continue walking or start work — that's complete",
+				"text": "Continue walking or start work; that's complete",
 				"emoji": "✅"
 			}
 		],
@@ -102,7 +105,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "You don't have to stop — a nod or wave is okay",
+				"text": "You don't have to stop; a nod or wave is okay",
 				"emoji": "💡"
 			},
 			{
@@ -164,7 +167,7 @@
 		"tone": "formal",
 		"steps": [
 			{
-				"text": "Find the right person — teacher or staff at the front desk",
+				"text": "Find the right person: a teacher or staff member at the front desk",
 				"emoji": "🔍"
 			},
 			{
@@ -211,7 +214,7 @@
 				"emoji": "🙂"
 			},
 			{
-				"text": "Stop talking — short introductions are best",
+				"text": "Stop talking; short introductions are best",
 				"emoji": "✅"
 			}
 		],
@@ -242,7 +245,7 @@
 				"emoji": "👋"
 			},
 			{
-				"text": "Leave — you don't need a long goodbye",
+				"text": "Leave; you don't need a long goodbye",
 				"emoji": "✅"
 			}
 		],
@@ -323,7 +326,7 @@
 				"emoji": "🔇"
 			},
 			{
-				"text": "Look at the camera occasionally — it feels like eye contact",
+				"text": "Look at the camera occasionally; it feels like eye contact",
 				"emoji": "📷"
 			},
 			{
@@ -400,7 +403,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Think of a neutral, safe topic — not politics",
+				"text": "Think of a neutral, safe topic, not politics",
 				"emoji": "💡"
 			},
 			{
@@ -470,7 +473,7 @@
 				"emoji": "🎮"
 			},
 			{
-				"text": "Give one interesting detail — don't info-dump",
+				"text": "Give one interesting detail; don't info-dump",
 				"emoji": "💡"
 			},
 			{
@@ -493,7 +496,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Pause — don't deflect or say something self-critical",
+				"text": "Pause; don't deflect or say something self-critical",
 				"emoji": "⏸️"
 			},
 			{
@@ -532,7 +535,7 @@
 				"emoji": "👍"
 			},
 			{
-				"text": "Don't add too much — keep it brief",
+				"text": "Don't add too much; keep it brief",
 				"emoji": "✅"
 			},
 			{
@@ -609,7 +612,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "It's okay to end a conversation — you're not being rude",
+				"text": "It's okay to end a conversation; you're not being rude",
 				"emoji": "💡"
 			},
 			{
@@ -617,7 +620,7 @@
 				"emoji": "⏳"
 			},
 			{
-				"text": "If they keep talking, say \"I'll let you go — catch you later\"",
+				"text": "If they keep talking, say \"I'll let you go; catch you later\"",
 				"emoji": "💬"
 			},
 			{
@@ -625,7 +628,7 @@
 				"emoji": "🧍"
 			},
 			{
-				"text": "Say goodbye and walk away — it's completely okay",
+				"text": "Say goodbye and walk away; it's completely okay",
 				"emoji": "✅"
 			}
 		],
@@ -640,7 +643,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Find an employee — look for uniform or name tag",
+				"text": "Find an employee: look for a uniform or name tag",
 				"emoji": "🔍"
 			},
 			{
@@ -776,7 +779,7 @@
 				"emoji": "⏳"
 			},
 			{
-				"text": "Explain briefly: \"I'm not sure how to [task] — can you show me?\"",
+				"text": "Explain briefly: \"I'm not sure how to [task]; can you show me?\"",
 				"emoji": "❓"
 			},
 			{
@@ -803,7 +806,7 @@
 				"emoji": "❓"
 			},
 			{
-				"text": "Listen carefully — you can ask them to repeat if needed",
+				"text": "Listen carefully; you can ask them to repeat if needed",
 				"emoji": "👂"
 			},
 			{
@@ -857,7 +860,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "It's okay — this happens to everyone",
+				"text": "It's okay; this happens to everyone",
 				"emoji": "💡"
 			},
 			{
@@ -873,7 +876,7 @@
 				"emoji": "👂"
 			},
 			{
-				"text": "If still confused, say \"I'm not sure I understand — could you explain differently?\"",
+				"text": "If still confused, say \"I'm not sure I understand; could you explain differently?\"",
 				"emoji": "❓"
 			}
 		],
@@ -896,7 +899,7 @@
 				"emoji": "🔍"
 			},
 			{
-				"text": "Say \"I want to make sure I do this right — can I ask a question?\"",
+				"text": "Say \"I want to make sure I do this right; can I ask a question?\"",
 				"emoji": "🙋"
 			},
 			{
@@ -919,7 +922,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Don't panic — it's okay to ask",
+				"text": "Don't panic; it's okay to ask",
 				"emoji": "💡"
 			},
 			{
@@ -935,7 +938,7 @@
 				"emoji": "👂"
 			},
 			{
-				"text": "Carry on — most people don't mind being asked",
+				"text": "Carry on; most people don't mind being asked",
 				"emoji": "✅"
 			}
 		],
@@ -981,7 +984,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Take a breath — you don't have to say yes",
+				"text": "Take a breath; you don't have to say yes",
 				"emoji": "🫁"
 			},
 			{
@@ -1024,11 +1027,11 @@
 				"emoji": "🛡️"
 			},
 			{
-				"text": "Stay calm — your boundary is valid",
+				"text": "Stay calm; your boundary is valid",
 				"emoji": "💪"
 			},
 			{
-				"text": "Walk away if needed — that's okay",
+				"text": "Walk away if needed; that's okay",
 				"emoji": "🚶"
 			}
 		],
@@ -1051,7 +1054,7 @@
 				"emoji": "🔇"
 			},
 			{
-				"text": "Or: \"I'm finding it hard to focus with the noise — could we adjust?\"",
+				"text": "Or: \"I'm finding it hard to focus with the noise; could we adjust?\"",
 				"emoji": "🙏"
 			},
 			{
@@ -1101,7 +1104,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Take a breath — saying no twice is still saying no",
+				"text": "Take a breath; saying no twice is still saying no",
 				"emoji": "🫁"
 			},
 			{
@@ -1132,7 +1135,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Trust your gut — discomfort is a signal",
+				"text": "Trust your gut; discomfort is a signal",
 				"emoji": "🔍"
 			},
 			{
@@ -1171,7 +1174,7 @@
 				"emoji": "🙂"
 			},
 			{
-				"text": "If they seem surprised, that's okay — your body is yours",
+				"text": "If they seem surprised, that's okay; your body is yours",
 				"emoji": "✅"
 			}
 		],
@@ -1248,7 +1251,7 @@
 		"tone": "formal",
 		"steps": [
 			{
-				"text": "Call as early as possible — at least 24 hours ahead",
+				"text": "Call as early as possible, at least 24 hours ahead",
 				"emoji": "⏰"
 			},
 			{
@@ -1345,7 +1348,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "After the beep: \"Hi, it's [your name] — just calling back\"",
+				"text": "After the beep: \"Hi, it's [your name]; just calling back\"",
 				"emoji": "💬"
 			},
 			{
@@ -1376,7 +1379,7 @@
 				"emoji": "📝"
 			},
 			{
-				"text": "Navigate the automated menu — press the option closest to your issue",
+				"text": "Navigate the automated menu: press the option closest to your issue",
 				"emoji": "⌨️"
 			},
 			{
@@ -1419,7 +1422,7 @@
 				"emoji": "💬"
 			},
 			{
-				"text": "Stay calm and polite — don't raise your voice",
+				"text": "Stay calm and polite; don't raise your voice",
 				"emoji": "🫁"
 			},
 			{
@@ -1516,7 +1519,7 @@
 				"emoji": "🔍"
 			},
 			{
-				"text": "If they say no, ask \"Can you explain why?\" — you can advocate for yourself",
+				"text": "If they say no, ask \"Can you explain why?\"; you can advocate for yourself",
 				"emoji": "❓"
 			},
 			{
@@ -1539,7 +1542,7 @@
 				"emoji": "💬"
 			},
 			{
-				"text": "You can tell them you're nervous — they're used to this",
+				"text": "You can tell them you're nervous; they're used to this",
 				"emoji": "💡"
 			},
 			{
@@ -1570,7 +1573,7 @@
 				"emoji": "✋"
 			},
 			{
-				"text": "Say \"That area is hurting — is that normal?\"",
+				"text": "Say \"That area is hurting; is that normal?\"",
 				"emoji": "🤒"
 			},
 			{
@@ -1578,7 +1581,7 @@
 				"emoji": "👆"
 			},
 			{
-				"text": "Ask \"Can you be gentler there?\" — that's totally okay",
+				"text": "Ask \"Can you be gentler there?\"; that's totally okay",
 				"emoji": "🙏"
 			},
 			{
@@ -1706,7 +1709,7 @@
 				"emoji": "❓"
 			},
 			{
-				"text": "Take your time — the doctor is there to help",
+				"text": "Take your time; the doctor is there to help",
 				"emoji": "🤝"
 			}
 		],
@@ -1729,7 +1732,7 @@
 				"emoji": "❓"
 			},
 			{
-				"text": "You can say \"I'm not sure where to start\" — that's fine",
+				"text": "You can say \"I'm not sure where to start\"; that's fine",
 				"emoji": "💬"
 			},
 			{
@@ -1752,11 +1755,11 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Your feedback makes therapy more useful — speak up",
+				"text": "Your feedback makes therapy more useful; speak up",
 				"emoji": "💡"
 			},
 			{
-				"text": "Say \"I've been thinking — I don't think [technique] is helping me\"",
+				"text": "Say \"I've been thinking, and I don't think [technique] is helping me\"",
 				"emoji": "💬"
 			},
 			{
@@ -1799,7 +1802,7 @@
 				"emoji": "💊"
 			},
 			{
-				"text": "Wait in the waiting area until called — stay seated if possible",
+				"text": "Wait in the waiting area until called; stay seated if possible",
 				"emoji": "🪑"
 			}
 		],
@@ -1814,7 +1817,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Write a list before you go — organised by section",
+				"text": "Write a list before you go, organised by section",
 				"emoji": "📝"
 			},
 			{
@@ -1830,7 +1833,7 @@
 				"emoji": "🔍"
 			},
 			{
-				"text": "Choose a shorter queue — self-checkout is fine if it's easier",
+				"text": "Choose a shorter queue; self-checkout is fine if it's easier",
 				"emoji": "🧾"
 			}
 		],
@@ -1950,7 +1953,7 @@
 				"emoji": "🔍"
 			},
 			{
-				"text": "Stay calm — mistakes happen and they will fix it",
+				"text": "Stay calm; mistakes happen and they will fix it",
 				"emoji": "✅"
 			}
 		],
@@ -2000,7 +2003,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Bring a photo of the style you want — it's totally normal",
+				"text": "Bring a photo of the style you want; it's totally normal",
 				"emoji": "📱"
 			},
 			{
@@ -2012,7 +2015,7 @@
 				"emoji": "✂️"
 			},
 			{
-				"text": "During the cut: you don't have to talk — silence is fine",
+				"text": "During the cut: you don't have to talk; silence is fine",
 				"emoji": "😌"
 			},
 			{
@@ -2120,7 +2123,7 @@
 		"tone": "formal",
 		"steps": [
 			{
-				"text": "Research the company before the day — one or two key facts",
+				"text": "Research the company before the day, focusing on one or two key facts",
 				"emoji": "🔍"
 			},
 			{
@@ -2182,7 +2185,7 @@
 		"tone": "formal",
 		"steps": [
 			{
-				"text": "Disclosure is your choice — you are not obligated to disclose",
+				"text": "Disclosure is your choice; you are not obligated to disclose",
 				"emoji": "💡"
 			},
 			{
@@ -2194,7 +2197,7 @@
 				"emoji": "💪"
 			},
 			{
-				"text": "If you need accommodations, ask: \"I work best when [X] — is that possible here?\"",
+				"text": "If you need accommodations, ask: \"I work best when [X]; is that possible here?\"",
 				"emoji": "❓"
 			},
 			{
@@ -2217,7 +2220,7 @@
 				"emoji": "💡"
 			},
 			{
-				"text": "Say \"I want to make sure I'm on the right track — can I check something?\"",
+				"text": "Say \"I want to make sure I'm on the right track; can I check something?\"",
 				"emoji": "🙋"
 			},
 			{
@@ -2229,7 +2232,7 @@
 				"emoji": "📝"
 			},
 			{
-				"text": "Say \"Got it — thank you for clarifying\"",
+				"text": "Say \"Got it. Thank you for clarifying.\"",
 				"emoji": "✅"
 			}
 		],
@@ -2248,11 +2251,11 @@
 				"emoji": "💡"
 			},
 			{
-				"text": "Say \"I'm in the middle of something right now — can I come back to you in [X] minutes?\"",
+				"text": "Say \"I'm in the middle of something right now; can I come back to you in [X] minutes?\"",
 				"emoji": "💬"
 			},
 			{
-				"text": "Or: \"I'm a bit tied up — can we talk after [time]?\"",
+				"text": "Or: \"I'm a bit tied up; can we talk after [time]?\"",
 				"emoji": "⏰"
 			},
 			{
@@ -2271,7 +2274,7 @@
 		"tone": "formal",
 		"steps": [
 			{
-				"text": "Contact your manager before your shift starts — text or call",
+				"text": "Contact your manager before your shift starts: by text or call",
 				"emoji": "📞"
 			},
 			{
@@ -2310,7 +2313,7 @@
 				"emoji": "👂"
 			},
 			{
-				"text": "Say \"Thank you for letting me know\" — even if it stings",
+				"text": "Say \"Thank you for letting me know,\" even if it stings",
 				"emoji": "🙏"
 			},
 			{
@@ -2322,7 +2325,7 @@
 				"emoji": "🔍"
 			},
 			{
-				"text": "Take notes and reflect on it later — not everything is an attack",
+				"text": "Take notes and reflect on it later; not everything is an attack",
 				"emoji": "📝"
 			}
 		],
@@ -2337,7 +2340,7 @@
 		"tone": "formal",
 		"steps": [
 			{
-				"text": "Wait until they've finished — don't interrupt",
+				"text": "Wait until they've finished; don't interrupt",
 				"emoji": "⏳"
 			},
 			{
@@ -2349,7 +2352,7 @@
 				"emoji": "🔍"
 			},
 			{
-				"text": "Avoid emotional language — stay calm and specific",
+				"text": "Avoid emotional language; stay calm and specific",
 				"emoji": "🫁"
 			},
 			{
@@ -2384,7 +2387,7 @@
 				"emoji": "💬"
 			},
 			{
-				"text": "Stop after your point — you don't need to fill silence",
+				"text": "Stop after your point; you don't need to fill silence",
 				"emoji": "✅"
 			}
 		],
@@ -2465,7 +2468,7 @@
 				"emoji": "🔍"
 			},
 			{
-				"text": "Say \"I'm happy to take on [specific task] — does that work?\"",
+				"text": "Say \"I'm happy to take on [specific task]; does that work?\"",
 				"emoji": "💬"
 			},
 			{
@@ -2477,7 +2480,7 @@
 				"emoji": "❓"
 			},
 			{
-				"text": "You don't have to socialize beyond the task — that's okay",
+				"text": "You don't have to socialize beyond the task; that's okay",
 				"emoji": "💡"
 			}
 		],
@@ -2508,11 +2511,11 @@
 				"emoji": "💡"
 			},
 			{
-				"text": "Give them time to respond — it might take them a moment",
+				"text": "Give them time to respond; it might take them a moment",
 				"emoji": "⏳"
 			},
 			{
-				"text": "You control when and how much to share — always",
+				"text": "You always control when and how much to share",
 				"emoji": "✅"
 			}
 		],
@@ -2562,7 +2565,7 @@
 		"tone": "formal",
 		"steps": [
 			{
-				"text": "Say early in the appointment: \"I'm autistic — just so you're aware\"",
+				"text": "Say early in the appointment: \"I'm autistic, just so you're aware\"",
 				"emoji": "💬"
 			},
 			{
@@ -2578,7 +2581,7 @@
 				"emoji": "❓"
 			},
 			{
-				"text": "You can bring a support person — that's always an option",
+				"text": "You can bring a support person; that's always an option",
 				"emoji": "🤝"
 			}
 		],
@@ -2605,7 +2608,7 @@
 				"emoji": "💬"
 			},
 			{
-				"text": "Use the break to regulate — walk, breathe, or use your sensory tools",
+				"text": "Use the break to regulate: walk, breathe, or use your sensory tools",
 				"emoji": "🫁"
 			},
 			{
@@ -2632,11 +2635,11 @@
 				"emoji": "💬"
 			},
 			{
-				"text": "Take the break in a quiet area — outside, kitchen, or bathroom",
+				"text": "Take the break in a quiet area: outside, the kitchen, or the bathroom",
 				"emoji": "🚶"
 			},
 			{
-				"text": "Short breaks actually improve productivity — you're not being lazy",
+				"text": "Short breaks actually improve productivity; you're not being lazy",
 				"emoji": "💡"
 			},
 			{
@@ -2655,7 +2658,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "When you feel yourself reaching your limit, act early — don't wait",
+				"text": "When you feel yourself reaching your limit, act early; don't wait",
 				"emoji": "💡"
 			},
 			{
@@ -2671,7 +2674,7 @@
 				"emoji": "⏳"
 			},
 			{
-				"text": "Return when you feel ready — or leave entirely if that's what you need",
+				"text": "Return when you feel ready, or leave entirely if that's what you need",
 				"emoji": "✅"
 			}
 		],
@@ -2686,11 +2689,11 @@
 		"tone": "formal",
 		"steps": [
 			{
-				"text": "Ask as early as possible — not at the last minute",
+				"text": "Ask as early as possible, not at the last minute",
 				"emoji": "⏰"
 			},
 			{
-				"text": "Say \"I want to make sure I do this properly — could I have until [new deadline]?\"",
+				"text": "Say \"I want to make sure I do this properly; could I have until [new deadline]?\"",
 				"emoji": "💬"
 			},
 			{
@@ -2702,7 +2705,7 @@
 				"emoji": "💡"
 			},
 			{
-				"text": "When they agree, say \"Thank you — I'll have it ready by then\"",
+				"text": "When they agree, say \"Thank you; I'll have it ready by then\"",
 				"emoji": "🙏"
 			}
 		],
@@ -2814,7 +2817,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Notice your signals early — don't push past your limit",
+				"text": "Notice your signals early; don't push past your limit",
 				"emoji": "🔍"
 			},
 			{
@@ -2822,7 +2825,7 @@
 				"emoji": "💬"
 			},
 			{
-				"text": "Go to a quiet space — bathroom, outside, a quiet corner",
+				"text": "Go to a quiet space: the bathroom, outside, or a quiet corner",
 				"emoji": "🚶"
 			},
 			{
@@ -2830,7 +2833,7 @@
 				"emoji": "🫁"
 			},
 			{
-				"text": "Return when you're ready — there's no rush",
+				"text": "Return when you're ready; there's no rush",
 				"emoji": "✅"
 			}
 		],
@@ -2845,7 +2848,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Your wellbeing comes first — it's okay to leave",
+				"text": "Your wellbeing comes first; it's okay to leave",
 				"emoji": "💡"
 			},
 			{
@@ -2880,7 +2883,7 @@
 				"emoji": "🔍"
 			},
 			{
-				"text": "Say \"This environment is a bit much for me — would it be okay to [adjust]?\"",
+				"text": "Say \"This environment is a bit much for me; would it be okay to [adjust]?\"",
 				"emoji": "💬"
 			},
 			{
@@ -2888,7 +2891,7 @@
 				"emoji": "🔇"
 			},
 			{
-				"text": "If they can't adjust, it's okay to use your own tools — headphones, sunglasses",
+				"text": "If they can't adjust, it's okay to use your own tools: headphones or sunglasses",
 				"emoji": "🎧"
 			},
 			{
@@ -2907,11 +2910,11 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Choose a calm moment — not the middle of a conflict",
+				"text": "Choose a calm moment, not the middle of a conflict",
 				"emoji": "⏳"
 			},
 			{
-				"text": "Say \"I want to tell you something — I've been feeling [upset/hurt]\"",
+				"text": "Say \"I want to tell you something: I've been feeling [upset/hurt]\"",
 				"emoji": "💬"
 			},
 			{
@@ -2919,7 +2922,7 @@
 				"emoji": "🔍"
 			},
 			{
-				"text": "Don't accuse — describe your experience",
+				"text": "Don't accuse; describe your experience",
 				"emoji": "💡"
 			},
 			{
@@ -2954,7 +2957,7 @@
 				"emoji": "🗓️"
 			},
 			{
-				"text": "This is not avoidance — it's healthy self-management",
+				"text": "This is not avoidance; it's healthy self-management",
 				"emoji": "✅"
 			}
 		],
@@ -3000,7 +3003,7 @@
 				"emoji": "🔍"
 			},
 			{
-				"text": "Ask: \"I want to check — when you said [X], did you mean [Y]?\"",
+				"text": "Ask: \"I want to check: when you said [X], did you mean [Y]?\"",
 				"emoji": "❓"
 			},
 			{
@@ -3008,7 +3011,7 @@
 				"emoji": "👂"
 			},
 			{
-				"text": "If it was a misunderstanding: \"Okay, that makes sense — thanks for clarifying\"",
+				"text": "If it was a misunderstanding: \"Okay, that makes sense; thanks for clarifying\"",
 				"emoji": "✅"
 			},
 			{
@@ -3031,7 +3034,7 @@
 				"emoji": "🫁"
 			},
 			{
-				"text": "Say \"I wanted to talk about something — is now a good time?\"",
+				"text": "Say \"I wanted to talk about something; is now a good time?\"",
 				"emoji": "💬"
 			},
 			{
@@ -3039,7 +3042,7 @@
 				"emoji": "📝"
 			},
 			{
-				"text": "Avoid words like \"always\" or \"never\" — they tend to escalate",
+				"text": "Avoid words like \"always\" or \"never\"; they tend to escalate",
 				"emoji": "💡"
 			},
 			{
@@ -3062,7 +3065,7 @@
 				"emoji": "💡"
 			},
 			{
-				"text": "Say \"I'm too worked up right now — I need to take a break\"",
+				"text": "Say \"I'm too worked up right now; I need to take a break\"",
 				"emoji": "🚶"
 			},
 			{
@@ -3089,7 +3092,7 @@
 		"tone": "formal",
 		"steps": [
 			{
-				"text": "Stay as calm as you can — you can do this",
+				"text": "Stay as calm as you can; you can do this",
 				"emoji": "🫁"
 			},
 			{
@@ -3101,7 +3104,7 @@
 				"emoji": "🆘"
 			},
 			{
-				"text": "Give your exact location — address, landmark, or what you can see",
+				"text": "Give your exact location: an address, a landmark, or what you can see",
 				"emoji": "📍"
 			},
 			{
@@ -3132,7 +3135,7 @@
 				"emoji": "💡"
 			},
 			{
-				"text": "If asked \"Press 1 for emergency\" — do so",
+				"text": "If asked \"Press 1 for emergency\", do so",
 				"emoji": "1️⃣"
 			},
 			{
@@ -3186,7 +3189,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "You deserve to feel safe — speak up",
+				"text": "You deserve to feel safe; speak up",
 				"emoji": "💡"
 			},
 			{
@@ -3241,7 +3244,7 @@
 				"emoji": "📱"
 			},
 			{
-				"text": "Wait until you feel ready to move — there's no timeline",
+				"text": "Wait until you feel ready to move; there's no timeline",
 				"emoji": "⏳"
 			}
 		],
@@ -3256,7 +3259,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "You are allowed to ask for help — it's brave, not weak",
+				"text": "You are allowed to ask for help; it's brave, not weak",
 				"emoji": "💡"
 			},
 			{
@@ -3287,7 +3290,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Stop and stay where you are — don't keep wandering",
+				"text": "Stop and stay where you are; don't keep wandering",
 				"emoji": "🛑"
 			},
 			{
@@ -3326,7 +3329,7 @@
 				"emoji": "🔍"
 			},
 			{
-				"text": "Say \"I'm looking for [room/floor/exit] — could you point me in the right direction?\"",
+				"text": "Say \"I'm looking for [room/floor/exit]; could you point me in the right direction?\"",
 				"emoji": "💬"
 			},
 			{
@@ -3349,7 +3352,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "It's completely normal to ask — don't feel embarrassed",
+				"text": "It's completely normal to ask; don't feel embarrassed",
 				"emoji": "💡"
 			},
 			{
@@ -3365,7 +3368,7 @@
 				"emoji": "🚶"
 			},
 			{
-				"text": "When you return, you don't need to comment on it — just rejoin the conversation",
+				"text": "When you return, you don't need to comment on it; just rejoin the conversation",
 				"emoji": "✅"
 			}
 		],
@@ -3384,7 +3387,7 @@
 				"emoji": "🔍"
 			},
 			{
-				"text": "Say \"Excuse me — where is the bathroom please?\"",
+				"text": "Say \"Excuse me, where is the bathroom please?\"",
 				"emoji": "🙋"
 			},
 			{
@@ -3392,7 +3395,7 @@
 				"emoji": "🚶"
 			},
 			{
-				"text": "In some cafés you may need a code for the lock — ask for that too",
+				"text": "In some cafés you may need a code for the lock; ask for that too",
 				"emoji": "💡"
 			}
 		],
@@ -3481,7 +3484,7 @@
 				"emoji": "⏳"
 			},
 			{
-				"text": "If the answer is no, accept it calmly — you can ask why if needed",
+				"text": "If the answer is no, accept it calmly; you can ask why if needed",
 				"emoji": "✅"
 			}
 		],
@@ -3554,7 +3557,7 @@
 		"tone": "formal",
 		"steps": [
 			{
-				"text": "Before you read, look at the title and any pictures — what do you think it will be about?",
+				"text": "Before you read, look at the title and any pictures; what do you think it will be about?",
 				"emoji": "🔍"
 			},
 			{
@@ -3570,7 +3573,7 @@
 				"emoji": "📖"
 			},
 			{
-				"text": "It doesn't matter if your prediction is wrong — the thinking is what helps",
+				"text": "It doesn't matter if your prediction is wrong; the thinking is what helps",
 				"emoji": "💡"
 			}
 		],
@@ -3628,7 +3631,7 @@
 				"emoji": "💬"
 			},
 			{
-				"text": "Keep it brief — 3–5 sentences is usually enough",
+				"text": "Keep it brief; 3–5 sentences is usually enough",
 				"emoji": "📝"
 			},
 			{
@@ -3655,7 +3658,7 @@
 				"emoji": "👀"
 			},
 			{
-				"text": "Answer the actual question they asked — don't avoid it",
+				"text": "Answer the actual question they asked; don't avoid it",
 				"emoji": "💬"
 			},
 			{
@@ -3663,7 +3666,7 @@
 				"emoji": "📝"
 			},
 			{
-				"text": "If you need more time, reply: \"Thanks — I'll come back to you on this by [date]\"",
+				"text": "If you need more time, reply: \"Thanks; I'll come back to you on this by [date]\"",
 				"emoji": "⏰"
 			},
 			{
@@ -3686,7 +3689,7 @@
 				"emoji": "📵"
 			},
 			{
-				"text": "Don't reply while you're still upset — it often escalates things",
+				"text": "Don't reply while you're still upset; it often escalates things",
 				"emoji": "🛑"
 			},
 			{
@@ -3713,7 +3716,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Before opening, check who it is — look through a peephole or window",
+				"text": "Before opening, check who it is: look through a peephole or window",
 				"emoji": "🔍"
 			},
 			{
@@ -3725,7 +3728,7 @@
 				"emoji": "🚪"
 			},
 			{
-				"text": "If it's an unexpected salesperson: \"No thank you\" and close the door — that's fine",
+				"text": "If it's an unexpected salesperson: \"No thank you\" and close the door; that's fine",
 				"emoji": "✋"
 			}
 		],
@@ -3740,7 +3743,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "It may feel awkward — that's completely normal",
+				"text": "It may feel awkward; that's completely normal",
 				"emoji": "💡"
 			},
 			{
@@ -3748,7 +3751,7 @@
 				"emoji": "😊"
 			},
 			{
-				"text": "A hug or handshake is optional — follow their lead",
+				"text": "A hug or handshake is optional; follow their lead",
 				"emoji": "🤝"
 			},
 			{
@@ -3775,7 +3778,7 @@
 				"emoji": "🔍"
 			},
 			{
-				"text": "Say \"Hi, I'm [your name] — this is my first time in your class\"",
+				"text": "Say \"Hi, I'm [your name]; this is my first time in your class\"",
 				"emoji": "👋"
 			},
 			{
@@ -3787,7 +3790,7 @@
 				"emoji": "🙏"
 			},
 			{
-				"text": "Keep it brief — you can ask more questions as the course progresses",
+				"text": "Keep it brief; you can ask more questions as the course progresses",
 				"emoji": "✅"
 			}
 		],
@@ -3802,7 +3805,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Wait for a natural moment — when you first see them or during a lull",
+				"text": "Wait for a natural moment, such as when you first see them or during a lull",
 				"emoji": "⏳"
 			},
 			{
@@ -3810,7 +3813,7 @@
 				"emoji": "💬"
 			},
 			{
-				"text": "Listen to their answer — don't scroll your phone",
+				"text": "Listen to their answer; don't scroll your phone",
 				"emoji": "👂"
 			},
 			{
@@ -3818,7 +3821,7 @@
 				"emoji": "😊"
 			},
 			{
-				"text": "They will likely ask you back — share one highlight or lowlight",
+				"text": "They will likely ask you back; share one highlight or lowlight",
 				"emoji": "💡"
 			}
 		],
@@ -3849,7 +3852,7 @@
 				"emoji": "🗓️"
 			},
 			{
-				"text": "Keep it light — this kind of small talk keeps relationships warm",
+				"text": "Keep it light; this kind of small talk keeps relationships warm",
 				"emoji": "😊"
 			}
 		],
@@ -3864,7 +3867,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Silences happen — they're less awkward than they feel",
+				"text": "Silences happen; they're less awkward than they feel",
 				"emoji": "💡"
 			},
 			{
@@ -3876,7 +3879,7 @@
 				"emoji": "💬"
 			},
 			{
-				"text": "If nothing works, it's fine to say \"I should get going — good talking to you\"",
+				"text": "If nothing works, it's fine to say \"I should get going; good talking to you\"",
 				"emoji": "🚶"
 			}
 		],
@@ -3891,11 +3894,11 @@
 		"tone": "formal",
 		"steps": [
 			{
-				"text": "Tell the teacher before the deadline — not after",
+				"text": "Tell the teacher before the deadline, not after",
 				"emoji": "⏰"
 			},
 			{
-				"text": "Say \"I'm sorry, I haven't finished my work — could I have more time?\"",
+				"text": "Say \"I'm sorry, I haven't finished my work; could I have more time?\"",
 				"emoji": "💬"
 			},
 			{
@@ -3926,7 +3929,7 @@
 				"emoji": "⏳"
 			},
 			{
-				"text": "Say \"I see it a bit differently — can I share my view?\"",
+				"text": "Say \"I see it a bit differently; can I share my view?\"",
 				"emoji": "💬"
 			},
 			{
@@ -3938,7 +3941,7 @@
 				"emoji": "🔍"
 			},
 			{
-				"text": "It's okay if you don't agree in the end — both views can exist",
+				"text": "It's okay if you don't agree in the end; both views can exist",
 				"emoji": "✅"
 			}
 		],
@@ -3957,7 +3960,7 @@
 				"emoji": "🫁"
 			},
 			{
-				"text": "Don't react out loud straight away — write down your initial reaction if needed",
+				"text": "Don't react out loud straight away; write down your initial reaction if needed",
 				"emoji": "✏️"
 			},
 			{
@@ -3984,7 +3987,7 @@
 		"tone": "formal",
 		"steps": [
 			{
-				"text": "Alarms are loud and sudden — try to stay calm",
+				"text": "Alarms are loud and sudden; try to stay calm",
 				"emoji": "🫁"
 			},
 			{
@@ -3992,7 +3995,7 @@
 				"emoji": "🚶"
 			},
 			{
-				"text": "Use the nearest fire exit — do not use the lift",
+				"text": "Use the nearest fire exit; do not use the lift",
 				"emoji": "🚪"
 			},
 			{
@@ -4015,7 +4018,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Choose the right moment — not when things are rushed or tense",
+				"text": "Choose the right moment, not when things are rushed or tense",
 				"emoji": "🔍"
 			},
 			{
@@ -4027,7 +4030,7 @@
 				"emoji": "💡"
 			},
 			{
-				"text": "You can add: \"I'm not being rude — this is just how I work best\"",
+				"text": "You can add: \"I'm not being rude; this is just how I work best\"",
 				"emoji": "🙂"
 			},
 			{
@@ -4058,11 +4061,11 @@
 				"emoji": "🔄"
 			},
 			{
-				"text": "If they speak too quietly: \"Sorry — could you speak up a bit?\"",
+				"text": "If they speak too quietly: \"Sorry, could you speak up a bit?\"",
 				"emoji": "🔊"
 			},
 			{
-				"text": "Most people won't mind — it shows you're listening carefully",
+				"text": "Most people won't mind; it shows you're listening carefully",
 				"emoji": "✅"
 			}
 		],
@@ -4077,7 +4080,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Unexpected changes can feel very difficult — that reaction is valid",
+				"text": "Unexpected changes can feel very difficult; that reaction is valid",
 				"emoji": "💡"
 			},
 			{
@@ -4112,11 +4115,11 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Everyone makes social mistakes — autistic or not",
+				"text": "Everyone makes social mistakes, autistic or not",
 				"emoji": "💡"
 			},
 			{
-				"text": "Don't replay it obsessively — notice the thought and let it pass",
+				"text": "Don't replay it obsessively; notice the thought and let it pass",
 				"emoji": "🫁"
 			},
 			{
@@ -4128,7 +4131,7 @@
 				"emoji": "😊"
 			},
 			{
-				"text": "Ask yourself: \"What would I tell a friend in this situation?\" — then say it to yourself",
+				"text": "Ask yourself: \"What would I tell a friend in this situation?\" Then say it to yourself.",
 				"emoji": "❤️"
 			}
 		],
@@ -4159,7 +4162,7 @@
 				"emoji": "✅"
 			},
 			{
-				"text": "Return unwanted items to the attendant — don't leave them in the room",
+				"text": "Return unwanted items to the attendant; don't leave them in the room",
 				"emoji": "🙏"
 			}
 		],
@@ -4178,11 +4181,11 @@
 				"emoji": "💬"
 			},
 			{
-				"text": "If you want help: \"Yes — I'm looking for [item]\"",
+				"text": "If you want help: \"Yes, I'm looking for [item]\"",
 				"emoji": "✅"
 			},
 			{
-				"text": "If you're just browsing, say \"No thanks, just looking\" — that's fine",
+				"text": "If you're just browsing, say \"No thanks, just looking\"; that's fine",
 				"emoji": "✋"
 			},
 			{
@@ -4201,7 +4204,7 @@
 		"tone": "formal",
 		"steps": [
 			{
-				"text": "Keep your receipt — it's your proof of purchase",
+				"text": "Keep your receipt; it's your proof of purchase",
 				"emoji": "🧾"
 			},
 			{
@@ -4240,11 +4243,11 @@
 				"emoji": "🤝"
 			},
 			{
-				"text": "Tell the doctor at the start: \"I'm autistic — I may need information repeated or written down\"",
+				"text": "Tell the doctor at the start: \"I'm autistic; I may need information repeated or written down\"",
 				"emoji": "💬"
 			},
 			{
-				"text": "Don't minimise symptoms — describe them as clearly as you can",
+				"text": "Don't minimise symptoms; describe them as clearly as you can",
 				"emoji": "🔍"
 			},
 			{
@@ -4275,7 +4278,7 @@
 				"emoji": "❓"
 			},
 			{
-				"text": "Tell them of any other medications you take: \"I also take [medication] — is this safe?\"",
+				"text": "Tell them of any other medications you take: \"I also take [medication]; is this safe?\"",
 				"emoji": "💡"
 			},
 			{
@@ -4294,7 +4297,7 @@
 		"tone": "formal",
 		"steps": [
 			{
-				"text": "Masking — hiding autistic traits — is exhausting and valid to talk about",
+				"text": "Masking (hiding autistic traits) is exhausting and valid to talk about",
 				"emoji": "💡"
 			},
 			{
@@ -4329,7 +4332,7 @@
 				"emoji": "💡"
 			},
 			{
-				"text": "Say \"No thank you — I'm fine for now\"",
+				"text": "Say \"No thank you; I'm fine for now\"",
 				"emoji": "✋"
 			},
 			{
@@ -4337,7 +4340,7 @@
 				"emoji": "🙂"
 			},
 			{
-				"text": "Don't feel pressured to eat or drink to be polite — your body is yours",
+				"text": "Don't feel pressured to eat or drink to be polite; your body is yours",
 				"emoji": "✅"
 			}
 		],
@@ -4383,7 +4386,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Write down your early warning signs — what does overwhelm feel like for you?",
+				"text": "Write down your early warning signs: what does overwhelm feel like for you?",
 				"emoji": "📝"
 			},
 			{
@@ -4399,7 +4402,7 @@
 				"emoji": "🚪"
 			},
 			{
-				"text": "Keep this plan somewhere accessible — phone, wallet, or bag",
+				"text": "Keep this plan somewhere accessible: your phone, wallet, or bag",
 				"emoji": "📱"
 			}
 		],
@@ -4418,7 +4421,7 @@
 				"emoji": "🔍"
 			},
 			{
-				"text": "Say \"Excuse me — I need to report something\"",
+				"text": "Say \"Excuse me; I need to report something\"",
 				"emoji": "🙋"
 			},
 			{
@@ -4449,7 +4452,7 @@
 				"emoji": "⏳"
 			},
 			{
-				"text": "Say \"Excuse me — do you have a moment? I had a question about [topic]\"",
+				"text": "Say \"Excuse me, do you have a moment? I had a question about [topic]\"",
 				"emoji": "🙋"
 			},
 			{
@@ -4461,7 +4464,7 @@
 				"emoji": "📝"
 			},
 			{
-				"text": "Thank them: \"That makes a lot more sense now — thank you\"",
+				"text": "Thank them: \"That makes a lot more sense now; thank you\"",
 				"emoji": "🙏"
 			}
 		],
@@ -4476,15 +4479,15 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "It's okay to ask — not everyone understands every type of humour",
+				"text": "It's okay to ask; not everyone understands every type of humour",
 				"emoji": "💡"
 			},
 			{
-				"text": "Say \"Sorry — were you joking there, or do you mean that literally?\"",
+				"text": "Say \"Sorry, were you joking there, or do you mean that literally?\"",
 				"emoji": "❓"
 			},
 			{
-				"text": "Or: \"I'm not sure if I got that — can you explain?\"",
+				"text": "Or: \"I'm not sure if I got that; can you explain?\"",
 				"emoji": "😅"
 			},
 			{
@@ -4507,7 +4510,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "New places can feel uncertain — take it slowly",
+				"text": "New places can feel uncertain; take it slowly",
 				"emoji": "💡"
 			},
 			{
@@ -4581,7 +4584,7 @@
 				"emoji": "💬"
 			},
 			{
-				"text": "Sit down and you don't have to talk — eating quietly next to someone is fine",
+				"text": "Sit down and you don't have to talk; eating quietly next to someone is fine",
 				"emoji": "💡"
 			},
 			{
@@ -4600,15 +4603,15 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "If you notice they seem upset or the conversation went quiet — check in",
+				"text": "If you notice they seem upset or the conversation went quiet, check in",
 				"emoji": "🔍"
 			},
 			{
-				"text": "Say \"I'm sorry — I think what I said might have come across badly\"",
+				"text": "Say \"I'm sorry; I think what I said might have come across badly\"",
 				"emoji": "🙏"
 			},
 			{
-				"text": "Clarify what you meant: \"I didn't mean it that way — I meant [X]\"",
+				"text": "Clarify what you meant: \"I didn't mean it that way; I meant [X]\"",
 				"emoji": "💬"
 			},
 			{
@@ -4616,7 +4619,7 @@
 				"emoji": "👂"
 			},
 			{
-				"text": "Thank them for telling you: \"I'm glad I know — I'll be more careful\"",
+				"text": "Thank them for telling you: \"I'm glad I know; I'll be more careful\"",
 				"emoji": "✅"
 			}
 		],
@@ -4631,7 +4634,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Give yourself time to adjust — it's completely normal to find change hard",
+				"text": "Give yourself time to adjust; it's completely normal to find change hard",
 				"emoji": "💡"
 			},
 			{
@@ -4709,7 +4712,7 @@
 				"emoji": "❓"
 			},
 			{
-				"text": "A short, friendly reminder is helpful — not annoying",
+				"text": "A short, friendly reminder is helpful, not annoying",
 				"emoji": "💡"
 			}
 		],
@@ -4732,11 +4735,11 @@
 				"emoji": "🙏"
 			},
 			{
-				"text": "Keep it brief and genuine — don't over-explain",
+				"text": "Keep it brief and genuine; don't over-explain",
 				"emoji": "📝"
 			},
 			{
-				"text": "Don't add \"but\" — it undoes the apology",
+				"text": "Don't add \"but\"; it undoes the apology",
 				"emoji": "🛑"
 			},
 			{
@@ -4771,7 +4774,7 @@
 				"emoji": "📝"
 			},
 			{
-				"text": "If you notice something unusual, report it — don't just stop the medication",
+				"text": "If you notice something unusual, report it; don't just stop the medication",
 				"emoji": "⚠️"
 			}
 		],
@@ -4802,7 +4805,7 @@
 				"emoji": "📋"
 			},
 			{
-				"text": "This isn't disrespectful — it's a normal part of healthcare",
+				"text": "This isn't disrespectful; it's a normal part of healthcare",
 				"emoji": "✅"
 			}
 		],
@@ -4821,7 +4824,7 @@
 				"emoji": "💡"
 			},
 			{
-				"text": "Say \"That's a bit personal — I'd rather not get into it\"",
+				"text": "Say \"That's a bit personal; I'd rather not get into it\"",
 				"emoji": "✋"
 			},
 			{
@@ -4833,7 +4836,7 @@
 				"emoji": "✅"
 			},
 			{
-				"text": "Change the subject: \"Anyway, how about you — what's new with you?\"",
+				"text": "Change the subject: \"Anyway, how about you? What's new with you?\"",
 				"emoji": "💬"
 			}
 		],
@@ -4852,7 +4855,7 @@
 				"emoji": "💡"
 			},
 			{
-				"text": "Pick a calm moment — not in the middle of a social situation",
+				"text": "Pick a calm moment, not in the middle of a social situation",
 				"emoji": "🔍"
 			},
 			{
@@ -4891,11 +4894,11 @@
 				"emoji": "💬"
 			},
 			{
-				"text": "Keep it short — 3–4 sentences maximum",
+				"text": "Keep it short; 3–4 sentences maximum",
 				"emoji": "📝"
 			},
 			{
-				"text": "Sign off professionally: \"Thank you for your time — [your name]\"",
+				"text": "Sign off professionally: \"Thank you for your time, [your name]\"",
 				"emoji": "🙏"
 			}
 		],
@@ -4914,7 +4917,7 @@
 				"emoji": "💡"
 			},
 			{
-				"text": "Say \"I work best when I have regular feedback — could we schedule a brief weekly check-in?\"",
+				"text": "Say \"I work best when I have regular feedback; could we schedule a brief weekly check-in?\"",
 				"emoji": "💬"
 			},
 			{
@@ -4922,7 +4925,7 @@
 				"emoji": "📅"
 			},
 			{
-				"text": "Most good managers will welcome this — it shows initiative",
+				"text": "Most good managers will welcome this; it shows initiative",
 				"emoji": "✅"
 			}
 		],
@@ -4937,7 +4940,7 @@
 		"tone": "formal",
 		"steps": [
 			{
-				"text": "Many people process written information better — you're not alone",
+				"text": "Many people process written information better; you're not alone",
 				"emoji": "💡"
 			},
 			{
@@ -4964,7 +4967,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Disclosure is your choice — there's no right or wrong time",
+				"text": "Disclosure is your choice; there's no right or wrong time",
 				"emoji": "💡"
 			},
 			{
@@ -4972,7 +4975,7 @@
 				"emoji": "🔍"
 			},
 			{
-				"text": "Say \"There's something I'd like to share — I'm autistic\"",
+				"text": "Say \"There's something I'd like to share: I'm autistic\"",
 				"emoji": "💬"
 			},
 			{
@@ -5030,7 +5033,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Social rules can feel confusing and exhausting — that's valid",
+				"text": "Social rules can feel confusing and exhausting; that's valid",
 				"emoji": "💡"
 			},
 			{
@@ -5042,7 +5045,7 @@
 				"emoji": "🔍"
 			},
 			{
-				"text": "Give yourself recovery time after intense social events — it's not weakness",
+				"text": "Give yourself recovery time after intense social events; it's not weakness",
 				"emoji": "❤️"
 			},
 			{
@@ -5065,7 +5068,7 @@
 				"emoji": "💡"
 			},
 			{
-				"text": "When talking to someone, stay at a comfortable distance — about arm's length",
+				"text": "When talking to someone, stay at a comfortable distance, about arm's length",
 				"emoji": "↔️"
 			},
 			{
@@ -5100,7 +5103,7 @@
 				"emoji": "❓"
 			},
 			{
-				"text": "If someone asks to use yours, you can share or say \"I'm using it right now — you can have a go when I'm done\"",
+				"text": "If someone asks to use yours, you can share or say \"I'm using it right now; you can have a go when I'm done\"",
 				"emoji": "💬"
 			},
 			{
@@ -5123,7 +5126,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Use the cubicle for privacy — lock the door",
+				"text": "Use the cubicle for privacy; lock the door",
 				"emoji": "🔒"
 			},
 			{
@@ -5170,7 +5173,7 @@
 				"emoji": "🛫"
 			},
 			{
-				"text": "It's okay to ask — everyone needs the bathroom",
+				"text": "It's okay to ask; everyone needs the bathroom",
 				"emoji": "💡"
 			}
 		],
@@ -5185,7 +5188,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "One clear apology is usually enough — repeating it can make things more awkward",
+				"text": "One clear apology is usually enough; repeating it can make things more awkward",
 				"emoji": "💡"
 			},
 			{
@@ -5193,11 +5196,11 @@
 				"emoji": "🙏"
 			},
 			{
-				"text": "Don't say \"I'm so, so sorry, I'm terrible\" — it shifts the focus to you",
+				"text": "Don't say \"I'm so, so sorry, I'm terrible\"; it shifts the focus to you",
 				"emoji": "🛑"
 			},
 			{
-				"text": "After apologising, move forward — don't keep bringing it up",
+				"text": "After apologising, move forward; don't keep bringing it up",
 				"emoji": "🚶"
 			},
 			{
@@ -5216,7 +5219,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Book the ride in the app — confirm the destination before requesting",
+				"text": "Book the ride in the app; confirm the destination before requesting",
 				"emoji": "📱"
 			},
 			{
@@ -5228,7 +5231,7 @@
 				"emoji": "🔍"
 			},
 			{
-				"text": "Greet briefly: \"Hi\" is enough — you don't have to chat",
+				"text": "Greet briefly: \"Hi\" is enough; you don't have to chat",
 				"emoji": "👋"
 			},
 			{
@@ -5282,7 +5285,7 @@
 				"emoji": "🔍"
 			},
 			{
-				"text": "Choose a calm moment — not when you're still upset",
+				"text": "Choose a calm moment, not when you're still upset",
 				"emoji": "🫁"
 			},
 			{
@@ -5290,7 +5293,7 @@
 				"emoji": "🙏"
 			},
 			{
-				"text": "Don't add \"but\" — a real apology doesn't have conditions",
+				"text": "Don't add \"but\"; a real apology doesn't have conditions",
 				"emoji": "💡"
 			},
 			{
@@ -5313,11 +5316,11 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Even accidents can hurt feelings — apologizing still matters",
+				"text": "Even accidents can hurt feelings; apologizing still matters",
 				"emoji": "💡"
 			},
 			{
-				"text": "Say \"I'm sorry — I didn't mean to do that\"",
+				"text": "Say \"I'm sorry; I didn't mean to do that\"",
 				"emoji": "🙏"
 			},
 			{
@@ -5344,7 +5347,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Everyone makes mistakes — they don't make you a bad person",
+				"text": "Everyone makes mistakes; they don't make you a bad person",
 				"emoji": "💡"
 			},
 			{
@@ -5360,7 +5363,7 @@
 				"emoji": "🔧"
 			},
 			{
-				"text": "Learn from it and let it go — you don't have to dwell on it",
+				"text": "Learn from it and let it go; you don't have to dwell on it",
 				"emoji": "✅"
 			}
 		],
@@ -5375,11 +5378,11 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Tell them as soon as possible — the longer you wait, the harder it gets",
+				"text": "Tell them as soon as possible; the longer you wait, the harder it gets",
 				"emoji": "⏰"
 			},
 			{
-				"text": "Say \"I'm really sorry — I broke/lost your [item]\"",
+				"text": "Say \"I'm really sorry; I broke/lost your [item]\"",
 				"emoji": "🙏"
 			},
 			{
@@ -5391,7 +5394,7 @@
 				"emoji": "🔧"
 			},
 			{
-				"text": "Accept their feelings — they may be upset and that's fair",
+				"text": "Accept their feelings; they may be upset and that's fair",
 				"emoji": "❤️"
 			}
 		],
@@ -5422,7 +5425,7 @@
 				"emoji": "❤️"
 			},
 			{
-				"text": "Forgiveness is a process — it doesn't have to be immediate",
+				"text": "Forgiveness is a process; it doesn't have to be immediate",
 				"emoji": "✅"
 			}
 		],
@@ -5445,7 +5448,7 @@
 				"emoji": "🙏"
 			},
 			{
-				"text": "Be specific and brief — don't over-explain",
+				"text": "Be specific and brief; don't over-explain",
 				"emoji": "💬"
 			},
 			{
@@ -5468,7 +5471,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Losing feels hard — that's normal, it's okay to feel it",
+				"text": "Losing feels hard; that's normal, it's okay to feel it",
 				"emoji": "💡"
 			},
 			{
@@ -5499,7 +5502,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Winning feels good — it's fine to be happy inside",
+				"text": "Winning feels good; it's fine to be happy inside",
 				"emoji": "💡"
 			},
 			{
@@ -5534,7 +5537,7 @@
 				"emoji": "👀"
 			},
 			{
-				"text": "Wait your turn for equipment — others are there too",
+				"text": "Wait your turn for equipment; others are there too",
 				"emoji": "⏳"
 			},
 			{
@@ -5542,7 +5545,7 @@
 				"emoji": "🙋"
 			},
 			{
-				"text": "Be gentle and don't push — everyone has the right to feel safe",
+				"text": "Be gentle and don't push; everyone has the right to feel safe",
 				"emoji": "🤚"
 			},
 			{
@@ -5569,11 +5572,11 @@
 				"emoji": "⏳"
 			},
 			{
-				"text": "Say \"That looks fun — can I join in?\"",
+				"text": "Say \"That looks fun; can I join in?\"",
 				"emoji": "😊"
 			},
 			{
-				"text": "Accept the answer — if it's no, that's okay. Try again another time.",
+				"text": "Accept the answer; if it's no, that's okay. Try again another time.",
 				"emoji": "💡"
 			},
 			{
@@ -5596,7 +5599,7 @@
 				"emoji": "⏳"
 			},
 			{
-				"text": "Keep track of whose turn it is — you can say it out loud: \"My turn, then yours\"",
+				"text": "Keep track of whose turn it is; you can say it out loud: \"My turn, then yours\"",
 				"emoji": "🔄"
 			},
 			{
@@ -5604,7 +5607,7 @@
 				"emoji": "❓"
 			},
 			{
-				"text": "Cheer for the other player sometimes — it feels good for both of you",
+				"text": "Cheer for the other player sometimes; it feels good for both of you",
 				"emoji": "👏"
 			}
 		],
@@ -5619,7 +5622,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Notice the feeling in your body — is it getting too intense?",
+				"text": "Notice the feeling in your body; is it getting too intense?",
 				"emoji": "🔍"
 			},
 			{
@@ -5627,11 +5630,11 @@
 				"emoji": "🫁"
 			},
 			{
-				"text": "You can say \"I need a second\" — short breaks are okay",
+				"text": "You can say \"I need a second\"; short breaks are okay",
 				"emoji": "⏸️"
 			},
 			{
-				"text": "Ask yourself: \"Is it worth staying upset?\" — usually the answer is no",
+				"text": "Ask yourself: \"Is it worth staying upset?\" Usually the answer is no.",
 				"emoji": "💡"
 			},
 			{
@@ -5650,11 +5653,11 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Stay calm — getting angry usually makes things worse",
+				"text": "Stay calm; getting angry usually makes things worse",
 				"emoji": "🫁"
 			},
 			{
-				"text": "Say \"I think the rule is [X] — can we check?\"",
+				"text": "Say \"I think the rule is [X]; can we check?\"",
 				"emoji": "💬"
 			},
 			{
@@ -5666,7 +5669,7 @@
 				"emoji": "💡"
 			},
 			{
-				"text": "You can choose not to play — it's okay to stop a game",
+				"text": "You can choose not to play; it's okay to stop a game",
 				"emoji": "✅"
 			}
 		],
@@ -5712,7 +5715,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Use an indoor voice — restaurants are shared spaces",
+				"text": "Use an indoor voice; restaurants are shared spaces",
 				"emoji": "🔇"
 			},
 			{
@@ -5724,7 +5727,7 @@
 				"emoji": "🍴"
 			},
 			{
-				"text": "Say \"Excuse me\" to get a waiter's attention — don't click or shout",
+				"text": "Say \"Excuse me\" to get a waiter's attention; don't click or shout",
 				"emoji": "🙋"
 			},
 			{
@@ -5778,7 +5781,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Bodies sometimes make noises — it happens to everyone",
+				"text": "Bodies sometimes make noises; it happens to everyone",
 				"emoji": "💡"
 			},
 			{
@@ -5813,7 +5816,7 @@
 				"emoji": "↔️"
 			},
 			{
-				"text": "Wait patiently — everyone is waiting too",
+				"text": "Wait patiently; everyone is waiting too",
 				"emoji": "⏳"
 			},
 			{
@@ -5840,7 +5843,7 @@
 				"emoji": "🚪"
 			},
 			{
-				"text": "You don't have to hold it for very long — just enough so it doesn't close on them",
+				"text": "You don't have to hold it for very long; just enough so it doesn't close on them",
 				"emoji": "💡"
 			},
 			{
@@ -5879,7 +5882,7 @@
 				"emoji": "🍽️"
 			},
 			{
-				"text": "Before you leave, say \"Thank you — I had a really nice time\"",
+				"text": "Before you leave, say \"Thank you; I had a really nice time\"",
 				"emoji": "😊"
 			}
 		],
@@ -5894,7 +5897,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "The person put effort into thinking of you — that matters",
+				"text": "The person put effort into thinking of you; that matters",
 				"emoji": "💡"
 			},
 			{
@@ -5910,7 +5913,7 @@
 				"emoji": "✅"
 			},
 			{
-				"text": "Keep your reaction brief — then move the conversation on",
+				"text": "Keep your reaction brief, then move the conversation on",
 				"emoji": "🚶"
 			}
 		],
@@ -5929,7 +5932,7 @@
 				"emoji": "🎉"
 			},
 			{
-				"text": "Say \"Thank you so much — I love this!\"",
+				"text": "Say \"Thank you so much! I love this!\"",
 				"emoji": "🎁"
 			},
 			{
@@ -5937,7 +5940,7 @@
 				"emoji": "💬"
 			},
 			{
-				"text": "Giving a hug or high-five is optional — whatever feels natural for you",
+				"text": "Giving a hug or high-five is optional; go with whatever feels natural for you",
 				"emoji": "🤗"
 			}
 		],
@@ -5960,7 +5963,7 @@
 				"emoji": "🎂"
 			},
 			{
-				"text": "Wait while they open it — watch their reaction without staring",
+				"text": "Wait while they open it; watch their reaction without staring",
 				"emoji": "👀"
 			},
 			{
@@ -5979,7 +5982,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Go with a trusted adult or group — safety first",
+				"text": "Go with a trusted adult or group; safety first",
 				"emoji": "🛡️"
 			},
 			{
@@ -5995,11 +5998,11 @@
 				"emoji": "🍬"
 			},
 			{
-				"text": "Say \"Thank you!\" and move on — don't linger or ask for more",
+				"text": "Say \"Thank you!\" and move on; don't linger or ask for more",
 				"emoji": "🙏"
 			},
 			{
-				"text": "If no one answers, that's fine — just go to the next house",
+				"text": "If no one answers, that's fine; just go to the next house",
 				"emoji": "🚶"
 			}
 		],
@@ -6014,7 +6017,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Arrive close to the start time — not too early or very late",
+				"text": "Arrive close to the start time, not too early or very late",
 				"emoji": "⏰"
 			},
 			{
@@ -6026,7 +6029,7 @@
 				"emoji": "🎁"
 			},
 			{
-				"text": "Try to join in at least one activity — even briefly is okay",
+				"text": "Try to join in at least one activity; even briefly is okay",
 				"emoji": "🎉"
 			},
 			{
@@ -6049,7 +6052,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Big gatherings can be loud and unpredictable — plan for it",
+				"text": "Big gatherings can be loud and unpredictable; plan for it",
 				"emoji": "💡"
 			},
 			{
@@ -6092,11 +6095,11 @@
 				"emoji": "💬"
 			},
 			{
-				"text": "If they say yes — great! Make a plan",
+				"text": "If they say yes, great! Make a plan",
 				"emoji": "🎉"
 			},
 			{
-				"text": "If they say no or seem unsure, that's okay — not everyone will connect with you, and that's normal",
+				"text": "If they say no or seem unsure, that's okay; not everyone will connect with you, and that's normal",
 				"emoji": "💡"
 			}
 		],
@@ -6115,7 +6118,7 @@
 				"emoji": "🤔"
 			},
 			{
-				"text": "Say \"I was thinking of [activity] — would you want to come?\"",
+				"text": "Say \"I was thinking of [activity]; would you want to come?\"",
 				"emoji": "💬"
 			},
 			{
@@ -6150,7 +6153,7 @@
 				"emoji": "✋"
 			},
 			{
-				"text": "If they continue, walk away — you don't have to stay",
+				"text": "If they continue, walk away; you don't have to stay",
 				"emoji": "🚶"
 			},
 			{
@@ -6173,7 +6176,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Don't join in or ignore it — both make things worse",
+				"text": "Don't join in or ignore it; both make things worse",
 				"emoji": "💡"
 			},
 			{
@@ -6181,7 +6184,7 @@
 				"emoji": "🤝"
 			},
 			{
-				"text": "Say to the bully: \"That's not cool — stop it\"",
+				"text": "Say to the bully: \"That's not cool; stop it\"",
 				"emoji": "✋"
 			},
 			{
@@ -6251,11 +6254,11 @@
 				"emoji": "❓"
 			},
 			{
-				"text": "Listen to their response — they might not have realised",
+				"text": "Listen to their response; they might not have realised",
 				"emoji": "👂"
 			},
 			{
-				"text": "Good friendships work both ways — it's okay to say that",
+				"text": "Good friendships work both ways; it's okay to say that",
 				"emoji": "💡"
 			}
 		],
@@ -6278,7 +6281,7 @@
 				"emoji": "✋"
 			},
 			{
-				"text": "If they push back, say \"I said no — please respect that\"",
+				"text": "If they push back, say \"I said no; please respect that\"",
 				"emoji": "💪"
 			},
 			{
@@ -6301,7 +6304,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Don't respond right away — step away from the screen first",
+				"text": "Don't respond right away; step away from the screen first",
 				"emoji": "📵"
 			},
 			{
@@ -6313,7 +6316,7 @@
 				"emoji": "🛑"
 			},
 			{
-				"text": "Tell a trusted adult — online unkindness is still real unkindness",
+				"text": "Tell a trusted adult; online unkindness is still real unkindness",
 				"emoji": "🆘"
 			},
 			{
@@ -6332,7 +6335,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Notice the feeling in your body — tight chest, hot face, clenched hands",
+				"text": "Notice the feeling in your body: a tight chest, hot face, or clenched hands",
 				"emoji": "🔍"
 			},
 			{
@@ -6344,7 +6347,7 @@
 				"emoji": "🚶"
 			},
 			{
-				"text": "Do something physical — walk, jump, squeeze something",
+				"text": "Do something physical: walk, jump, or squeeze something",
 				"emoji": "💪"
 			},
 			{
@@ -6363,11 +6366,11 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Feeling nervous is normal — your brain is trying to prepare you",
+				"text": "Feeling nervous is normal; your brain is trying to prepare you",
 				"emoji": "💡"
 			},
 			{
-				"text": "Breathe slowly — in through the nose, out through the mouth",
+				"text": "Breathe slowly: in through the nose, out through the mouth",
 				"emoji": "🫁"
 			},
 			{
@@ -6394,11 +6397,11 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "It's okay not to like something — you don't have to pretend",
+				"text": "It's okay not to like something; you don't have to pretend",
 				"emoji": "💡"
 			},
 			{
-				"text": "In a public or group setting, stay quiet if possible — not every opinion needs to be shared aloud",
+				"text": "In a public or group setting, stay quiet if possible; not every opinion needs to be shared aloud",
 				"emoji": "🤐"
 			},
 			{
@@ -6425,7 +6428,7 @@
 				"emoji": "🌟"
 			},
 			{
-				"text": "Share the most interesting part first — not the full background",
+				"text": "Share the most interesting part first, not the full background",
 				"emoji": "💬"
 			},
 			{
@@ -6437,7 +6440,7 @@
 				"emoji": "❓"
 			},
 			{
-				"text": "If they're not interested, that's okay — not everyone shares our interests",
+				"text": "If they're not interested, that's okay; not everyone shares our interests",
 				"emoji": "✅"
 			}
 		],
@@ -6452,15 +6455,15 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "It's painful to feel left out — that feeling is valid",
+				"text": "It's painful to feel left out; that feeling is valid",
 				"emoji": "💡"
 			},
 			{
-				"text": "Take a moment before reacting — don't assume it was intentional",
+				"text": "Take a moment before reacting; don't assume it was intentional",
 				"emoji": "🫁"
 			},
 			{
-				"text": "You can ask calmly: \"I noticed I wasn't included — was there a reason?\"",
+				"text": "You can ask calmly: \"I noticed I wasn't included; was there a reason?\"",
 				"emoji": "💬"
 			},
 			{
@@ -6483,7 +6486,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Disappointment means you cared — that's not a weakness",
+				"text": "Disappointment means you cared; that's not a weakness",
 				"emoji": "💡"
 			},
 			{
@@ -6514,7 +6517,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Stop what you're doing — you need a pause",
+				"text": "Stop what you're doing; you need a pause",
 				"emoji": "🛑"
 			},
 			{
@@ -6530,7 +6533,7 @@
 				"emoji": "🌿"
 			},
 			{
-				"text": "When ready, decide on ONE small next step — just one",
+				"text": "When ready, decide on ONE small next step, just one",
 				"emoji": "✅"
 			},
 			{
@@ -6553,7 +6556,7 @@
 				"emoji": "🫁"
 			},
 			{
-				"text": "Say \"I don't think I explained myself clearly — can I try again?\"",
+				"text": "Say \"I don't think I explained myself clearly; can I try again?\"",
 				"emoji": "🔄"
 			},
 			{
@@ -6565,7 +6568,7 @@
 				"emoji": "❓"
 			},
 			{
-				"text": "If they still don't understand, it's okay to say \"That's okay — maybe we can talk about it more another time\"",
+				"text": "If they still don't understand, it's okay to say \"That's okay; maybe we can talk about it more another time\"",
 				"emoji": "✅"
 			}
 		],
@@ -6580,11 +6583,11 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Use a quiet, indoor voice — this is a quiet shared space",
+				"text": "Use a quiet, indoor voice; this is a quiet shared space",
 				"emoji": "🔇"
 			},
 			{
-				"text": "Books are organised by genre or author — ask staff if you're unsure",
+				"text": "Books are organised by genre or author; ask staff if you're unsure",
 				"emoji": "📚"
 			},
 			{
@@ -6611,7 +6614,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Find a librarian — they're usually at the desk or shelving books",
+				"text": "Find a librarian; they're usually at the desk or shelving books",
 				"emoji": "🔍"
 			},
 			{
@@ -6638,7 +6641,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Check the due date — returning on time avoids fines",
+				"text": "Check the due date; returning on time avoids fines",
 				"emoji": "📅"
 			},
 			{
@@ -6646,7 +6649,7 @@
 				"emoji": "📬"
 			},
 			{
-				"text": "If you have a fine, pay it calmly at the desk: \"I have an overdue fine — can I pay it?\"",
+				"text": "If you have a fine, pay it calmly at the desk: \"I have an overdue fine; can I pay it?\"",
 				"emoji": "💳"
 			},
 			{
@@ -6673,7 +6676,7 @@
 				"emoji": "💳"
 			},
 			{
-				"text": "Keep your volume down — headphones are best for audio",
+				"text": "Keep your volume down; headphones are best for audio",
 				"emoji": "🎧"
 			},
 			{
@@ -6758,7 +6761,7 @@
 				"emoji": "💡"
 			},
 			{
-				"text": "Say \"I have a [allergy/dietary need] — can you tell me which dishes are suitable?\"",
+				"text": "Say \"I have a [allergy/dietary need]; can you tell me which dishes are suitable?\"",
 				"emoji": "💬"
 			},
 			{
@@ -6770,7 +6773,7 @@
 				"emoji": "✅"
 			},
 			{
-				"text": "Don't feel embarrassed — your safety is the priority",
+				"text": "Don't feel embarrassed; your safety is the priority",
 				"emoji": "💪"
 			}
 		],
@@ -6785,7 +6788,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "When ready to pay, catch the server's eye or say \"Excuse me — could we get the bill?\"",
+				"text": "When ready to pay, catch the server's eye or say \"Excuse me; could we get the bill?\"",
 				"emoji": "🙋"
 			},
 			{
@@ -6793,11 +6796,11 @@
 				"emoji": "🧾"
 			},
 			{
-				"text": "If something is wrong, say \"I think there's an error — I didn't order [X]\"",
+				"text": "If something is wrong, say \"I think there's an error; I didn't order [X]\"",
 				"emoji": "❓"
 			},
 			{
-				"text": "Pay by card or cash — tap or insert when prompted",
+				"text": "Pay by card or cash; tap or insert when prompted",
 				"emoji": "💳"
 			},
 			{
@@ -6816,7 +6819,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Give it a reasonable time — kitchens can be busy",
+				"text": "Give it a reasonable time; kitchens can be busy",
 				"emoji": "⏳"
 			},
 			{
@@ -6824,11 +6827,11 @@
 				"emoji": "🙋"
 			},
 			{
-				"text": "Say \"We've been waiting a while — could you check on our order?\"",
+				"text": "Say \"We've been waiting a while; could you check on our order?\"",
 				"emoji": "💬"
 			},
 			{
-				"text": "Stay calm and polite — making a scene rarely helps",
+				"text": "Stay calm and polite; making a scene rarely helps",
 				"emoji": "🫁"
 			},
 			{
@@ -6878,7 +6881,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Choose restaurants in advance — look up the menu and noise level online",
+				"text": "Choose restaurants in advance; look up the menu and noise level online",
 				"emoji": "🔍"
 			},
 			{
@@ -6952,7 +6955,7 @@
 				"emoji": "💳"
 			},
 			{
-				"text": "Keep the ticket until you exit — some systems check on the way out too",
+				"text": "Keep the ticket until you exit; some systems check on the way out too",
 				"emoji": "✅"
 			},
 			{
@@ -6971,7 +6974,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Find the departures board — it shows platform numbers and times",
+				"text": "Find the departures board; it shows platform numbers and times",
 				"emoji": "🔍"
 			},
 			{
@@ -7010,7 +7013,7 @@
 				"emoji": "🪑"
 			},
 			{
-				"text": "If you're meeting someone, text them: \"My train is delayed — I'll be [time] late\"",
+				"text": "If you're meeting someone, text them: \"My train is delayed; I'll be [time] late\"",
 				"emoji": "💬"
 			},
 			{
@@ -7018,7 +7021,7 @@
 				"emoji": "🙋"
 			},
 			{
-				"text": "Stay calm — delays are frustrating but usually resolve",
+				"text": "Stay calm; delays are frustrating but usually resolve",
 				"emoji": "🫁"
 			}
 		],
@@ -7068,7 +7071,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Parks are shared spaces — be mindful of others",
+				"text": "Parks are shared spaces; be mindful of others",
 				"emoji": "💡"
 			},
 			{
@@ -7076,11 +7079,11 @@
 				"emoji": "🐶"
 			},
 			{
-				"text": "Give people space — sit at a distance from others unless the park is full",
+				"text": "Give people space; sit at a distance from others unless the park is full",
 				"emoji": "↔️"
 			},
 			{
-				"text": "If you want to use a bench someone is near, it's fine to sit — a nod is enough",
+				"text": "If you want to use a bench someone is near, it's fine to sit; a nod is enough",
 				"emoji": "🙂"
 			},
 			{
@@ -7103,7 +7106,7 @@
 				"emoji": "⏰"
 			},
 			{
-				"text": "Say \"Hi, it's my first time — any advice?\"",
+				"text": "Say \"Hi, it's my first time; any advice?\"",
 				"emoji": "🙋"
 			},
 			{
@@ -7115,7 +7118,7 @@
 				"emoji": "💡"
 			},
 			{
-				"text": "You don't need to chat to others — focus on the class",
+				"text": "You don't need to chat to others; focus on the class",
 				"emoji": "✅"
 			}
 		],
@@ -7130,7 +7133,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Ask for an induction when you join — most gyms offer one",
+				"text": "Ask for an induction when you join; most gyms offer one",
 				"emoji": "🙋"
 			},
 			{
@@ -7142,7 +7145,7 @@
 				"emoji": "🏋️"
 			},
 			{
-				"text": "Don't use equipment you haven't been shown — ask staff first",
+				"text": "Don't use equipment you haven't been shown; ask staff first",
 				"emoji": "💡"
 			},
 			{
@@ -7165,7 +7168,7 @@
 				"emoji": "🎟️"
 			},
 			{
-				"text": "Arrive a few minutes early — ads play before the film",
+				"text": "Arrive a few minutes early; ads play before the film",
 				"emoji": "⏰"
 			},
 			{
@@ -7192,7 +7195,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Many museums are free — check online before you go",
+				"text": "Many museums are free; check online before you go",
 				"emoji": "📱"
 			},
 			{
@@ -7204,7 +7207,7 @@
 				"emoji": "🗺️"
 			},
 			{
-				"text": "Take breaks — it's fine to sit down or step outside",
+				"text": "Take breaks; it's fine to sit down or step outside",
 				"emoji": "🪑"
 			},
 			{
@@ -7223,7 +7226,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Look up the event in advance — what's there, how loud, how crowded",
+				"text": "Look up the event in advance: what's there, how loud, how crowded",
 				"emoji": "🔍"
 			},
 			{
@@ -7332,7 +7335,7 @@
 				"emoji": "💬"
 			},
 			{
-				"text": "Choose standard, tracked, or express — staff can advise",
+				"text": "Choose standard, tracked, or express; staff can advise",
 				"emoji": "📬"
 			},
 			{
@@ -7409,11 +7412,11 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "You have the right to ask about ingredients — don't hesitate",
+				"text": "You have the right to ask about ingredients; don't hesitate",
 				"emoji": "💡"
 			},
 			{
-				"text": "Say \"I have a [allergy] — could you check if [item] contains it?\"",
+				"text": "Say \"I have a [allergy]; could you check if [item] contains it?\"",
 				"emoji": "❓"
 			},
 			{
@@ -7436,7 +7439,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Buy something when you sit down — it's polite if you're staying long",
+				"text": "Buy something when you sit down; it's polite if you're staying long",
 				"emoji": "💡"
 			},
 			{
@@ -7502,7 +7505,7 @@
 				"emoji": "⏳"
 			},
 			{
-				"text": "Scan each item — place it in the bag after scanning",
+				"text": "Scan each item; place it in the bag after scanning",
 				"emoji": "🔍"
 			},
 			{
@@ -7545,7 +7548,7 @@
 				"emoji": "🚪"
 			},
 			{
-				"text": "You can always come back later — you don't have to push through",
+				"text": "You can always come back later; you don't have to push through",
 				"emoji": "✅"
 			}
 		],
@@ -7560,7 +7563,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Wait to be served — take a number if there's a system",
+				"text": "Wait to be served; take a number if there's a system",
 				"emoji": "🔢"
 			},
 			{
@@ -7591,7 +7594,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Stay calm — pricing errors do happen",
+				"text": "Stay calm; pricing errors do happen",
 				"emoji": "💡"
 			},
 			{
@@ -7626,7 +7629,7 @@
 				"emoji": "💳"
 			},
 			{
-				"text": "Find the changing rooms — there are usually separate rooms or mixed family changing",
+				"text": "Find the changing rooms; there are usually separate rooms or mixed family changing",
 				"emoji": "🔍"
 			},
 			{
@@ -7634,11 +7637,11 @@
 				"emoji": "🔑"
 			},
 			{
-				"text": "Shower briefly before entering the pool — it's usually required",
+				"text": "Shower briefly before entering the pool; it's usually required",
 				"emoji": "🚿"
 			},
 			{
-				"text": "Read any lane signs: \"slow\", \"medium\", \"fast\" — pick the right one",
+				"text": "Read any lane signs: \"slow\", \"medium\", \"fast\"; pick the right one",
 				"emoji": "🏊"
 			}
 		],
@@ -7653,11 +7656,11 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "No running on the poolside — the floor is slippery",
+				"text": "No running on the poolside; the floor is slippery",
 				"emoji": "🚫"
 			},
 			{
-				"text": "Swim on the left side of your lane — let faster swimmers pass",
+				"text": "Swim on the left side of your lane; let faster swimmers pass",
 				"emoji": "🔄"
 			},
 			{
@@ -7688,11 +7691,11 @@
 				"emoji": "💡"
 			},
 			{
-				"text": "Keep your belongings in your locker or bag — don't spread out",
+				"text": "Keep your belongings in your locker or bag; don't spread out",
 				"emoji": "🎒"
 			},
 			{
-				"text": "Allow space for others — don't block sinks or exits",
+				"text": "Allow space for others; don't block sinks or exits",
 				"emoji": "↔️"
 			},
 			{
@@ -7711,7 +7714,7 @@
 		"tone": "casual",
 		"steps": [
 			{
-				"text": "Arrive at the agreed time — not too early",
+				"text": "Arrive at the agreed time, not too early",
 				"emoji": "⏰"
 			},
 			{
@@ -7719,7 +7722,7 @@
 				"emoji": "🙏"
 			},
 			{
-				"text": "Follow their lead — remove shoes if they do, sit where offered",
+				"text": "Follow their lead; remove shoes if they do, sit where offered",
 				"emoji": "💡"
 			},
 			{
@@ -7727,7 +7730,7 @@
 				"emoji": "❓"
 			},
 			{
-				"text": "When you leave, say \"I really enjoyed this — thanks for having me\"",
+				"text": "When you leave, say \"I really enjoyed this; thanks for having me\"",
 				"emoji": "😊"
 			}
 		],
@@ -7746,7 +7749,7 @@
 				"emoji": "👔"
 			},
 			{
-				"text": "Arrive on time — formal events often run to a strict schedule",
+				"text": "Arrive on time; formal events often run to a strict schedule",
 				"emoji": "⏰"
 			},
 			{
@@ -7758,11 +7761,11 @@
 				"emoji": "🙍"
 			},
 			{
-				"text": "At a reception, you don't need to talk to everyone — small interactions are enough",
+				"text": "At a reception, you don't need to talk to everyone; small interactions are enough",
 				"emoji": "💡"
 			},
 			{
-				"text": "Before leaving, congratulate the main people: \"Congratulations — it was beautiful\"",
+				"text": "Before leaving, congratulate the main people: \"Congratulations; it was beautiful\"",
 				"emoji": "🙏"
 			}
 		],
@@ -7781,7 +7784,7 @@
 				"emoji": "⏰"
 			},
 			{
-				"text": "Say \"Hi, I'm [your name] — it's my first day\"",
+				"text": "Say \"Hi, I'm [your name]; it's my first day\"",
 				"emoji": "👋"
 			},
 			{
@@ -7793,11 +7796,11 @@
 				"emoji": "📝"
 			},
 			{
-				"text": "Ask one or two questions — not too many at once",
+				"text": "Ask one or two questions, not too many at once",
 				"emoji": "❓"
 			},
 			{
-				"text": "At the end, say \"Thanks everyone — I'm looking forward to getting started\"",
+				"text": "At the end, say \"Thanks everyone; I'm looking forward to getting started\"",
 				"emoji": "😊"
 			}
 		],
@@ -7816,7 +7819,7 @@
 				"emoji": "🔍"
 			},
 			{
-				"text": "Approach and say \"Hi, I'm [your name] — how do you know [host]?\"",
+				"text": "Approach and say \"Hi, I'm [your name]; how do you know [host]?\"",
 				"emoji": "👋"
 			},
 			{
@@ -7828,7 +7831,7 @@
 				"emoji": "💬"
 			},
 			{
-				"text": "If it goes quiet, it's okay to say \"I'll go grab a drink — nice to meet you\"",
+				"text": "If it goes quiet, it's okay to say \"I'll go grab a drink; nice to meet you\"",
 				"emoji": "🚶"
 			}
 		],
