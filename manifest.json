@@ -1,6 +1,6 @@
 {
   "manifestVersion": 1,
-  "lastUpdated": "2026-04-14T05:20:05.342397Z",
+  "lastUpdated": "2026-04-22T21:23:08.392842Z",
   "content": {
     "config": {
       "premium": {
@@ -26,9 +26,9 @@
         },
         "scripts": {
           "path": "assets/content/en/scripts.json",
-          "version": 5,
-          "hash": "e77ffa8583827551b75c7657068e77530cd3d5d8577ce09baddec3dfc4ff7ec3",
-          "size": 180167
+          "version": 6,
+          "hash": "65f431a0a8671c0801811c7b7d040e6adb85ce0742921309ffc9e17d991013b1",
+          "size": 204464
         }
       },
       "tr": {
@@ -46,9 +46,9 @@
         },
         "scripts": {
           "path": "assets/content/tr/scripts.json",
-          "version": 7,
-          "hash": "ac3a98c4bf36e9a88af10dd051a654f54e4b98f7e44a1af1891e2c5d85024f60",
-          "size": 204579
+          "version": 8,
+          "hash": "8ee51ef41aae962dcb6bad62e56f1ca72f8daf8f3ac62f2ec5ce16ae96e87799",
+          "size": 230718
         }
       }
     }
