@@ -9,27 +9,33 @@
 		"steps": [
 			{
 				"text": "Look at their face or nose area",
-				"emoji": "👀"
+				"emoji": "👀",
+				"image": null
 			},
 			{
 				"text": "Smile slightly if it feels okay",
-				"emoji": "🙂"
+				"emoji": "🙂",
+				"image": null
 			},
 			{
 				"text": "Say \"Hi, I'm [your name]\"",
-				"emoji": "👋"
+				"emoji": "👋",
+				"image": null
 			},
 			{
 				"text": "Wait for their response",
-				"emoji": "⏳"
+				"emoji": "⏳",
+				"image": null
 			},
 			{
 				"text": "Ask \"What's your name?\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "Say \"Nice to meet you\"",
-				"emoji": "😊"
+				"emoji": "😊",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -44,23 +50,28 @@
 		"steps": [
 			{
 				"text": "If they make eye contact, give a small wave",
-				"emoji": "🙋"
+				"emoji": "🙋",
+				"image": null
 			},
 			{
 				"text": "Say \"Hey\" or \"Hi\" (short is fine)",
-				"emoji": "👋"
+				"emoji": "👋",
+				"image": null
 			},
 			{
 				"text": "If they stop to talk, say \"How's it going?\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Listen and respond briefly",
-				"emoji": "👂"
+				"emoji": "👂",
+				"image": null
 			},
 			{
 				"text": "Say \"See you later\" to end naturally",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -75,23 +86,28 @@
 		"steps": [
 			{
 				"text": "Make brief eye contact if comfortable",
-				"emoji": "👀"
+				"emoji": "👀",
+				"image": null
 			},
 			{
 				"text": "Say \"Hey, good morning\"",
-				"emoji": "☀️"
+				"emoji": "☀️",
+				"image": null
 			},
 			{
 				"text": "If they ask how you are, say \"Good, thanks. You?\"",
-				"emoji": "🙂"
+				"emoji": "🙂",
+				"image": null
 			},
 			{
 				"text": "Listen to their response and nod",
-				"emoji": "👂"
+				"emoji": "👂",
+				"image": null
 			},
 			{
 				"text": "Continue walking or start work; that's complete",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -106,23 +122,28 @@
 		"steps": [
 			{
 				"text": "You don't have to stop; a nod or wave is okay",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "If they approach, say \"Oh hey, how are you?\"",
-				"emoji": "👋"
+				"emoji": "👋",
+				"image": null
 			},
 			{
 				"text": "Listen to their answer",
-				"emoji": "👂"
+				"emoji": "👂",
+				"image": null
 			},
 			{
 				"text": "Share something brief if asked",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Say \"Good to see you\" and excuse yourself",
-				"emoji": "🚶"
+				"emoji": "🚶",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -137,23 +158,28 @@
 		"steps": [
 			{
 				"text": "Stand up if you are seated",
-				"emoji": "🧍"
+				"emoji": "🧍",
+				"image": null
 			},
 			{
 				"text": "Extend your hand for a handshake",
-				"emoji": "🤝"
+				"emoji": "🤝",
+				"image": null
 			},
 			{
 				"text": "Say \"Hello, I'm [your name]. Nice to meet you.\"",
-				"emoji": "👋"
+				"emoji": "👋",
+				"image": null
 			},
 			{
 				"text": "Wait for them to introduce themselves",
-				"emoji": "⏳"
+				"emoji": "⏳",
+				"image": null
 			},
 			{
 				"text": "Repeat their name: \"Nice to meet you, [name]\"",
-				"emoji": "🙂"
+				"emoji": "🙂",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -168,23 +194,28 @@
 		"steps": [
 			{
 				"text": "Find the right person: a teacher or staff member at the front desk",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Say \"Hi, I'm new here. My name is [your name].\"",
-				"emoji": "👋"
+				"emoji": "👋",
+				"image": null
 			},
 			{
 				"text": "Hand over any paperwork if you have it",
-				"emoji": "📄"
+				"emoji": "📄",
+				"image": null
 			},
 			{
 				"text": "Ask \"Can you tell me where to go first?\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "Say \"Thank you\" and follow their directions",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -199,23 +230,28 @@
 		"steps": [
 			{
 				"text": "Wait for your turn to speak",
-				"emoji": "⏳"
+				"emoji": "⏳",
+				"image": null
 			},
 			{
 				"text": "Say \"Hi everyone, I'm [your name]\"",
-				"emoji": "👋"
+				"emoji": "👋",
+				"image": null
 			},
 			{
 				"text": "Add one sentence: your role or why you're there",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "You can add \"Happy to be here\" to sound warm",
-				"emoji": "🙂"
+				"emoji": "🙂",
+				"image": null
 			},
 			{
 				"text": "Stop talking; short introductions are best",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -230,23 +266,28 @@
 		"steps": [
 			{
 				"text": "Find a natural pause in the conversation",
-				"emoji": "⏳"
+				"emoji": "⏳",
+				"image": null
 			},
 			{
 				"text": "Say \"I'm going to head off now\"",
-				"emoji": "🚶"
+				"emoji": "🚶",
+				"image": null
 			},
 			{
 				"text": "If the host is nearby, thank them: \"Thanks for having me\"",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			},
 			{
 				"text": "Say \"It was nice seeing you\" or \"Take care\"",
-				"emoji": "👋"
+				"emoji": "👋",
+				"image": null
 			},
 			{
 				"text": "Leave; you don't need a long goodbye",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -261,19 +302,23 @@
 		"steps": [
 			{
 				"text": "Wait for a small pause",
-				"emoji": "⏳"
+				"emoji": "⏳",
+				"image": null
 			},
 			{
 				"text": "Say \"I should get going\"",
-				"emoji": "🚶"
+				"emoji": "🚶",
+				"image": null
 			},
 			{
 				"text": "Optionally say \"This was fun\" or \"Good talking to you\"",
-				"emoji": "😊"
+				"emoji": "😊",
+				"image": null
 			},
 			{
 				"text": "Say \"See you later!\" or \"Bye!\"",
-				"emoji": "👋"
+				"emoji": "👋",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -288,19 +333,23 @@
 		"steps": [
 			{
 				"text": "Pack up your things first",
-				"emoji": "🎒"
+				"emoji": "🎒",
+				"image": null
 			},
 			{
 				"text": "Walk past colleagues and say \"See you tomorrow\"",
-				"emoji": "👋"
+				"emoji": "👋",
+				"image": null
 			},
 			{
 				"text": "Or just wave if they're busy",
-				"emoji": "🖐️"
+				"emoji": "🖐️",
+				"image": null
 			},
 			{
 				"text": "You don't need to explain where you're going",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -315,23 +364,28 @@
 		"steps": [
 			{
 				"text": "Check your camera and mute status before joining",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "When you join, wave or say \"Hi everyone\"",
-				"emoji": "👋"
+				"emoji": "👋",
+				"image": null
 			},
 			{
 				"text": "Keep yourself muted unless speaking",
-				"emoji": "🔇"
+				"emoji": "🔇",
+				"image": null
 			},
 			{
 				"text": "Look at the camera occasionally; it feels like eye contact",
-				"emoji": "📷"
+				"emoji": "📷",
+				"image": null
 			},
 			{
 				"text": "Wait to be called on before speaking",
-				"emoji": "⏳"
+				"emoji": "⏳",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -346,19 +400,23 @@
 		"steps": [
 			{
 				"text": "Type their name or a greeting: \"Hey [name]\" or \"Hi!\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "State your reason in the same message if possible",
-				"emoji": "📝"
+				"emoji": "📝",
+				"image": null
 			},
 			{
 				"text": "Example: \"Hey, I had a quick question about [topic]\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "Wait for their reply before sending more messages",
-				"emoji": "⏳"
+				"emoji": "⏳",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -373,23 +431,28 @@
 		"steps": [
 			{
 				"text": "Look outside or recall the weather",
-				"emoji": "🌤️"
+				"emoji": "🌤️",
+				"image": null
 			},
 			{
 				"text": "Say \"Nice weather today, isn't it?\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Wait for their response",
-				"emoji": "⏳"
+				"emoji": "⏳",
+				"image": null
 			},
 			{
 				"text": "Add one comment like \"I hope it stays like this\"",
-				"emoji": "🙂"
+				"emoji": "🙂",
+				"image": null
 			},
 			{
 				"text": "Smile and let the conversation flow or end",
-				"emoji": "😊"
+				"emoji": "😊",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -404,23 +467,28 @@
 		"steps": [
 			{
 				"text": "Think of a neutral, safe topic, not politics",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Say \"Did you hear about [general topic]?\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Listen to their opinion without interrupting",
-				"emoji": "👂"
+				"emoji": "👂",
+				"image": null
 			},
 			{
 				"text": "React briefly: \"Yeah, interesting\" or \"I hadn't thought of that\"",
-				"emoji": "🤔"
+				"emoji": "🤔",
+				"image": null
 			},
 			{
 				"text": "You don't need to share a strong opinion",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -435,23 +503,28 @@
 		"steps": [
 			{
 				"text": "Say \"Do you have plans this weekend?\"",
-				"emoji": "📅"
+				"emoji": "📅",
+				"image": null
 			},
 			{
 				"text": "Listen to their answer fully before responding",
-				"emoji": "👂"
+				"emoji": "👂",
+				"image": null
 			},
 			{
 				"text": "React with interest: \"Oh, that sounds fun!\"",
-				"emoji": "😊"
+				"emoji": "😊",
+				"image": null
 			},
 			{
 				"text": "Share your own plans briefly if asked",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "End with \"Well, enjoy your weekend!\"",
-				"emoji": "👍"
+				"emoji": "👍",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -466,23 +539,28 @@
 		"steps": [
 			{
 				"text": "If someone asks your interests, share one hobby simply",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Say \"I'm into [hobby]\" or \"I really like [activity]\"",
-				"emoji": "🎮"
+				"emoji": "🎮",
+				"image": null
 			},
 			{
 				"text": "Give one interesting detail; don't info-dump",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Ask \"What about you? Do you have any hobbies?\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "Show interest in their answer, even if you don't share it",
-				"emoji": "😊"
+				"emoji": "😊",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -497,19 +575,23 @@
 		"steps": [
 			{
 				"text": "Pause; don't deflect or say something self-critical",
-				"emoji": "⏸️"
+				"emoji": "⏸️",
+				"image": null
 			},
 			{
 				"text": "Say \"Thank you!\" or \"Thanks, that's kind of you\"",
-				"emoji": "😊"
+				"emoji": "😊",
+				"image": null
 			},
 			{
 				"text": "You can add one sentence: \"I've been working on it\" etc.",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "You don't need to return a compliment immediately",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -524,23 +606,28 @@
 		"steps": [
 			{
 				"text": "Choose something specific and genuine",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Say it simply: \"I really like your [thing]\"",
-				"emoji": "🌟"
+				"emoji": "🌟",
+				"image": null
 			},
 			{
 				"text": "Or: \"You did a great job with [task]\"",
-				"emoji": "👍"
+				"emoji": "👍",
+				"image": null
 			},
 			{
 				"text": "Don't add too much; keep it brief",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			},
 			{
 				"text": "Continue the conversation naturally",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -555,19 +642,23 @@
 		"steps": [
 			{
 				"text": "Wait for a pause in the conversation",
-				"emoji": "⏳"
+				"emoji": "⏳",
+				"image": null
 			},
 			{
 				"text": "Say \"Anyway, I should get back to [task]\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Or: \"It was nice chatting with you\"",
-				"emoji": "😊"
+				"emoji": "😊",
+				"image": null
 			},
 			{
 				"text": "Say \"See you around!\" and move away",
-				"emoji": "🚶"
+				"emoji": "🚶",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -582,23 +673,28 @@
 		"steps": [
 			{
 				"text": "Find a moment when you're not mid-sentence",
-				"emoji": "⏳"
+				"emoji": "⏳",
+				"image": null
 			},
 			{
 				"text": "Say \"I'll leave you all to it\"",
-				"emoji": "🚶"
+				"emoji": "🚶",
+				"image": null
 			},
 			{
 				"text": "Or: \"I need to go take care of something\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Give a small wave and walk away",
-				"emoji": "👋"
+				"emoji": "👋",
+				"image": null
 			},
 			{
 				"text": "You don't need to explain further",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -613,23 +709,28 @@
 		"steps": [
 			{
 				"text": "It's okay to end a conversation; you're not being rude",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Look for a pause, then say \"I should really head off\"",
-				"emoji": "⏳"
+				"emoji": "⏳",
+				"image": null
 			},
 			{
 				"text": "If they keep talking, say \"I'll let you go; catch you later\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Stand up or start moving to signal you're leaving",
-				"emoji": "🧍"
+				"emoji": "🧍",
+				"image": null
 			},
 			{
 				"text": "Say goodbye and walk away; it's completely okay",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -644,23 +745,28 @@
 		"steps": [
 			{
 				"text": "Find an employee: look for a uniform or name tag",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Approach and say \"Excuse me\"",
-				"emoji": "🙋"
+				"emoji": "🙋",
+				"image": null
 			},
 			{
 				"text": "Wait for them to look at you",
-				"emoji": "⏳"
+				"emoji": "⏳",
+				"image": null
 			},
 			{
 				"text": "Ask \"Could you help me find [item]?\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "Say \"Thank you\" when they help",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -675,23 +781,28 @@
 		"steps": [
 			{
 				"text": "Approach an employee calmly",
-				"emoji": "🚶"
+				"emoji": "🚶",
+				"image": null
 			},
 			{
 				"text": "Say \"Excuse me, do you have [item] in stock?\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "Or show them a picture on your phone if easier",
-				"emoji": "📱"
+				"emoji": "📱",
+				"image": null
 			},
 			{
 				"text": "Listen to their answer",
-				"emoji": "👂"
+				"emoji": "👂",
+				"image": null
 			},
 			{
 				"text": "Say \"Thanks\" and move on",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -706,23 +817,28 @@
 		"steps": [
 			{
 				"text": "Find an employee or the customer service desk",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Say \"Excuse me, how much is this?\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "Show them the item or point to it",
-				"emoji": "👆"
+				"emoji": "👆",
+				"image": null
 			},
 			{
 				"text": "Wait while they check",
-				"emoji": "⏳"
+				"emoji": "⏳",
+				"image": null
 			},
 			{
 				"text": "Say \"Thank you\" and decide whether to buy it",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -737,23 +853,28 @@
 		"steps": [
 			{
 				"text": "Wait for an appropriate moment (not while they're teaching)",
-				"emoji": "⏳"
+				"emoji": "⏳",
+				"image": null
 			},
 			{
 				"text": "Raise your hand or approach after class",
-				"emoji": "✋"
+				"emoji": "✋",
+				"image": null
 			},
 			{
 				"text": "Say \"Excuse me, could I ask a question?\"",
-				"emoji": "🙋"
+				"emoji": "🙋",
+				"image": null
 			},
 			{
 				"text": "Explain what you need help with clearly",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Thank them for their time",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -768,23 +889,28 @@
 		"steps": [
 			{
 				"text": "Check if they look free or not in the middle of something",
-				"emoji": "👀"
+				"emoji": "👀",
+				"image": null
 			},
 			{
 				"text": "Say \"Hey, do you have a moment?\"",
-				"emoji": "🙋"
+				"emoji": "🙋",
+				"image": null
 			},
 			{
 				"text": "Wait for their signal before asking",
-				"emoji": "⏳"
+				"emoji": "⏳",
+				"image": null
 			},
 			{
 				"text": "Explain briefly: \"I'm not sure how to [task]; can you show me?\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "Thank them and let them get back to work",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -799,23 +925,28 @@
 		"steps": [
 			{
 				"text": "Approach someone who looks approachable and not in a hurry",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Say \"Excuse me, could you help me? I'm looking for [place]\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "Listen carefully; you can ask them to repeat if needed",
-				"emoji": "👂"
+				"emoji": "👂",
+				"image": null
 			},
 			{
 				"text": "Say \"Could you say that again, please?\" if confused",
-				"emoji": "🔄"
+				"emoji": "🔄",
+				"image": null
 			},
 			{
 				"text": "Thank them and follow the directions",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -830,23 +961,28 @@
 		"steps": [
 			{
 				"text": "Open your maps app before you start walking",
-				"emoji": "📱"
+				"emoji": "📱",
+				"image": null
 			},
 			{
 				"text": "Type in the exact address or place name",
-				"emoji": "⌨️"
+				"emoji": "⌨️",
+				"image": null
 			},
 			{
 				"text": "Choose walking, transit, or driving mode",
-				"emoji": "🚶"
+				"emoji": "🚶",
+				"image": null
 			},
 			{
 				"text": "Follow the turn-by-turn voice or visual directions",
-				"emoji": "🗺️"
+				"emoji": "🗺️",
+				"image": null
 			},
 			{
 				"text": "If lost, stop and re-check the map before continuing",
-				"emoji": "⏸️"
+				"emoji": "⏸️",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -861,23 +997,28 @@
 		"steps": [
 			{
 				"text": "It's okay; this happens to everyone",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Say \"Sorry, could you say that again?\"",
-				"emoji": "🔄"
+				"emoji": "🔄",
+				"image": null
 			},
 			{
 				"text": "Or: \"I didn't quite catch that\"",
-				"emoji": "👂"
+				"emoji": "👂",
+				"image": null
 			},
 			{
 				"text": "Listen again carefully",
-				"emoji": "👂"
+				"emoji": "👂",
+				"image": null
 			},
 			{
 				"text": "If still confused, say \"I'm not sure I understand; could you explain differently?\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -892,23 +1033,28 @@
 		"steps": [
 			{
 				"text": "Write down what you do understand first",
-				"emoji": "📝"
+				"emoji": "📝",
+				"image": null
 			},
 			{
 				"text": "Identify the specific part that's unclear",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Say \"I want to make sure I do this right; can I ask a question?\"",
-				"emoji": "🙋"
+				"emoji": "🙋",
+				"image": null
 			},
 			{
 				"text": "Ask: \"When you said [X], did you mean [Y]?\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "Repeat their clarification back to confirm",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -923,23 +1069,28 @@
 		"steps": [
 			{
 				"text": "Don't panic; it's okay to ask",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Say \"Sorry, I think I might have missed something there\"",
-				"emoji": "😅"
+				"emoji": "😅",
+				"image": null
 			},
 			{
 				"text": "Ask \"What did you mean by that?\" or \"How are you feeling about it?\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "Listen and don't overthink their answer",
-				"emoji": "👂"
+				"emoji": "👂",
+				"image": null
 			},
 			{
 				"text": "Carry on; most people don't mind being asked",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -954,23 +1105,28 @@
 		"steps": [
 			{
 				"text": "Listen to the full invitation first",
-				"emoji": "👂"
+				"emoji": "👂",
+				"image": null
 			},
 			{
 				"text": "Say \"Thanks for inviting me\"",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			},
 			{
 				"text": "Say \"I can't make it this time\"",
-				"emoji": "😔"
+				"emoji": "😔",
+				"image": null
 			},
 			{
 				"text": "You don't need to give a reason",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Optionally say \"Maybe next time?\" if you mean it",
-				"emoji": "🙂"
+				"emoji": "🙂",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -985,23 +1141,28 @@
 		"steps": [
 			{
 				"text": "Take a breath; you don't have to say yes",
-				"emoji": "🫁"
+				"emoji": "🫁",
+				"image": null
 			},
 			{
 				"text": "Say \"I appreciate you thinking of me, but I can't do that today\"",
-				"emoji": "✋"
+				"emoji": "✋",
+				"image": null
 			},
 			{
 				"text": "If they push, say \"It doesn't work for me right now\"",
-				"emoji": "🛡️"
+				"emoji": "🛡️",
+				"image": null
 			},
 			{
 				"text": "You don't owe a detailed explanation",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Stay kind but firm",
-				"emoji": "💪"
+				"emoji": "💪",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -1016,23 +1177,28 @@
 		"steps": [
 			{
 				"text": "Take a breath before speaking",
-				"emoji": "🫁"
+				"emoji": "🫁",
+				"image": null
 			},
 			{
 				"text": "Say \"I'm not comfortable with that\"",
-				"emoji": "✋"
+				"emoji": "✋",
+				"image": null
 			},
 			{
 				"text": "You can say \"I need some space right now\"",
-				"emoji": "🛡️"
+				"emoji": "🛡️",
+				"image": null
 			},
 			{
 				"text": "Stay calm; your boundary is valid",
-				"emoji": "💪"
+				"emoji": "💪",
+				"image": null
 			},
 			{
 				"text": "Walk away if needed; that's okay",
-				"emoji": "🚶"
+				"emoji": "🚶",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -1047,23 +1213,28 @@
 		"steps": [
 			{
 				"text": "Approach the person calmly",
-				"emoji": "🚶"
+				"emoji": "🚶",
+				"image": null
 			},
 			{
 				"text": "Say \"Excuse me, would it be okay to lower the volume a bit?\"",
-				"emoji": "🔇"
+				"emoji": "🔇",
+				"image": null
 			},
 			{
 				"text": "Or: \"I'm finding it hard to focus with the noise; could we adjust?\"",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			},
 			{
 				"text": "If they say no, use headphones or move spaces if possible",
-				"emoji": "🎧"
+				"emoji": "🎧",
+				"image": null
 			},
 			{
 				"text": "It's okay to protect your senses",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -1078,19 +1249,23 @@
 		"steps": [
 			{
 				"text": "You are allowed to need more personal space",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Say \"Could you give me a little more space? Thanks.\"",
-				"emoji": "🤚"
+				"emoji": "🤚",
+				"image": null
 			},
 			{
 				"text": "Or step back yourself to create distance",
-				"emoji": "🚶"
+				"emoji": "🚶",
+				"image": null
 			},
 			{
 				"text": "You don't need to explain why",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -1105,23 +1280,28 @@
 		"steps": [
 			{
 				"text": "Take a breath; saying no twice is still saying no",
-				"emoji": "🫁"
+				"emoji": "🫁",
+				"image": null
 			},
 			{
 				"text": "Repeat your answer: \"Like I said, I'm not able to\"",
-				"emoji": "✋"
+				"emoji": "✋",
+				"image": null
 			},
 			{
 				"text": "If they persist: \"My answer isn't going to change\"",
-				"emoji": "💪"
+				"emoji": "💪",
+				"image": null
 			},
 			{
 				"text": "It's okay to say \"I don't want to discuss it further\"",
-				"emoji": "🛑"
+				"emoji": "🛑",
+				"image": null
 			},
 			{
 				"text": "End the interaction if needed",
-				"emoji": "🚶"
+				"emoji": "🚶",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -1136,19 +1316,23 @@
 		"steps": [
 			{
 				"text": "Trust your gut; discomfort is a signal",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Say \"That's not something I want to do\"",
-				"emoji": "✋"
+				"emoji": "✋",
+				"image": null
 			},
 			{
 				"text": "If they keep pushing: \"I said no, and that's final\"",
-				"emoji": "💪"
+				"emoji": "💪",
+				"image": null
 			},
 			{
 				"text": "If you feel unsafe, move away and tell a trusted person",
-				"emoji": "🆘"
+				"emoji": "🆘",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -1163,19 +1347,23 @@
 		"steps": [
 			{
 				"text": "You never have to hug anyone if you don't want to",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Step back slightly or hold out your hand for a handshake",
-				"emoji": "🤝"
+				"emoji": "🤝",
+				"image": null
 			},
 			{
 				"text": "Say \"I'm not really a hugger, but it's great to see you\"",
-				"emoji": "🙂"
+				"emoji": "🙂",
+				"image": null
 			},
 			{
 				"text": "If they seem surprised, that's okay; your body is yours",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -1190,19 +1378,23 @@
 		"steps": [
 			{
 				"text": "You have every right to speak up",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Say clearly: \"Please don't touch me\"",
-				"emoji": "✋"
+				"emoji": "✋",
+				"image": null
 			},
 			{
 				"text": "Move away to create distance",
-				"emoji": "🚶"
+				"emoji": "🚶",
+				"image": null
 			},
 			{
 				"text": "If it keeps happening, tell a trusted adult, staff member, or authority",
-				"emoji": "🆘"
+				"emoji": "🆘",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -1217,27 +1409,33 @@
 		"steps": [
 			{
 				"text": "Write down your name, date of birth, and reason for visit first",
-				"emoji": "📝"
+				"emoji": "📝",
+				"image": null
 			},
 			{
 				"text": "Dial the number and wait",
-				"emoji": "📞"
+				"emoji": "📞",
+				"image": null
 			},
 			{
 				"text": "Say \"Hi, I'd like to book an appointment with Dr. [name]\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Give your details when asked",
-				"emoji": "🗓️"
+				"emoji": "🗓️",
+				"image": null
 			},
 			{
 				"text": "Write down the date, time, and location they give you",
-				"emoji": "✏️"
+				"emoji": "✏️",
+				"image": null
 			},
 			{
 				"text": "Say \"Thank you, goodbye\"",
-				"emoji": "👋"
+				"emoji": "👋",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -1252,23 +1450,28 @@
 		"steps": [
 			{
 				"text": "Call as early as possible, at least 24 hours ahead",
-				"emoji": "⏰"
+				"emoji": "⏰",
+				"image": null
 			},
 			{
 				"text": "Say \"Hi, I have an appointment on [date/time] and need to [cancel/reschedule]\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Give your name and date of birth if asked",
-				"emoji": "🗓️"
+				"emoji": "🗓️",
+				"image": null
 			},
 			{
 				"text": "If rescheduling, have some alternative dates ready",
-				"emoji": "📅"
+				"emoji": "📅",
+				"image": null
 			},
 			{
 				"text": "Confirm the new details and thank them",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -1283,23 +1486,28 @@
 		"steps": [
 			{
 				"text": "Decide your order before calling",
-				"emoji": "📝"
+				"emoji": "📝",
+				"image": null
 			},
 			{
 				"text": "Call and say \"Hi, I'd like to place an order for delivery\"",
-				"emoji": "📞"
+				"emoji": "📞",
+				"image": null
 			},
 			{
 				"text": "State your items clearly, one by one",
-				"emoji": "🍕"
+				"emoji": "🍕",
+				"image": null
 			},
 			{
 				"text": "Give your address and phone number when asked",
-				"emoji": "🏠"
+				"emoji": "🏠",
+				"image": null
 			},
 			{
 				"text": "Confirm the total and wait time, then say \"Thank you\"",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -1314,27 +1522,33 @@
 		"steps": [
 			{
 				"text": "Prepare what to say before calling",
-				"emoji": "📝"
+				"emoji": "📝",
+				"image": null
 			},
 			{
 				"text": "When the beep sounds, start speaking clearly",
-				"emoji": "🔔"
+				"emoji": "🔔",
+				"image": null
 			},
 			{
 				"text": "Say: \"Hi, this is [your name] calling for [person/department]\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "State your reason in one or two sentences",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Leave your callback number, speaking slowly",
-				"emoji": "📞"
+				"emoji": "📞",
+				"image": null
 			},
 			{
 				"text": "Say \"Thank you, goodbye\" and hang up",
-				"emoji": "👋"
+				"emoji": "👋",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -1349,19 +1563,23 @@
 		"steps": [
 			{
 				"text": "After the beep: \"Hi, it's [your name]; just calling back\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Say the best time to reach you",
-				"emoji": "🕐"
+				"emoji": "🕐",
+				"image": null
 			},
 			{
 				"text": "Leave your number clearly and slowly",
-				"emoji": "📞"
+				"emoji": "📞",
+				"image": null
 			},
 			{
 				"text": "Say \"Thanks, bye\"",
-				"emoji": "👋"
+				"emoji": "👋",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -1376,31 +1594,38 @@
 		"steps": [
 			{
 				"text": "Write down your order number, account info, or issue before calling",
-				"emoji": "📝"
+				"emoji": "📝",
+				"image": null
 			},
 			{
 				"text": "Navigate the automated menu: press the option closest to your issue",
-				"emoji": "⌨️"
+				"emoji": "⌨️",
+				"image": null
 			},
 			{
 				"text": "When connected: \"Hi, I'm calling about [issue]\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Explain the problem in two to three sentences",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Ask \"Can you help me with that?\" or \"What are my options?\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "Take notes on what they say",
-				"emoji": "📝"
+				"emoji": "📝",
+				"image": null
 			},
 			{
 				"text": "Ask for a reference number before you hang up",
-				"emoji": "🔢"
+				"emoji": "🔢",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -1415,23 +1640,28 @@
 		"steps": [
 			{
 				"text": "Try to resolve the issue with the first person first",
-				"emoji": "🤝"
+				"emoji": "🤝",
+				"image": null
 			},
 			{
 				"text": "If they can't help, say \"I understand. Could I speak to a manager, please?\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Stay calm and polite; don't raise your voice",
-				"emoji": "🫁"
+				"emoji": "🫁",
+				"image": null
 			},
 			{
 				"text": "Repeat your issue clearly to the manager",
-				"emoji": "🔄"
+				"emoji": "🔄",
+				"image": null
 			},
 			{
 				"text": "Ask what they can do to resolve it",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -1446,23 +1676,28 @@
 		"steps": [
 			{
 				"text": "Approach the reception desk",
-				"emoji": "🚶"
+				"emoji": "🚶",
+				"image": "hlth-doc-1_1.jpg"
 			},
 			{
 				"text": "Say \"Hi, I have an appointment. My name is [your name]\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": "hlth-doc-1_2.jpg"
 			},
 			{
 				"text": "Give your date of birth if asked",
-				"emoji": "🎂"
+				"emoji": "🎂",
+				"image": "hlth-doc-1_3.jpg"
 			},
 			{
 				"text": "Take any forms they give you and fill them in",
-				"emoji": "📋"
+				"emoji": "📋",
+				"image": "hlth-doc-1_4.jpg"
 			},
 			{
 				"text": "Find a seat and wait to be called",
-				"emoji": "🪑"
+				"emoji": "🪑",
+				"image": "hlth-doc-1_5.jpg"
 			}
 		],
 		"isCustom": false
@@ -1477,23 +1712,28 @@
 		"steps": [
 			{
 				"text": "Write down your main concerns beforehand",
-				"emoji": "📝"
+				"emoji": "📝",
+				"image": null
 			},
 			{
 				"text": "When the doctor asks, say your most important concern first",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Describe symptoms: where, how long, and how severe (1–10)",
-				"emoji": "🤒"
+				"emoji": "🤒",
+				"image": null
 			},
 			{
 				"text": "Ask questions if something isn't clear",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "Ask \"What happens next?\" before you leave",
-				"emoji": "🗓️"
+				"emoji": "🗓️",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -1508,23 +1748,28 @@
 		"steps": [
 			{
 				"text": "Prepare what you want to ask before your appointment",
-				"emoji": "📝"
+				"emoji": "📝",
+				"image": null
 			},
 			{
 				"text": "Say \"I'd like to ask about getting a referral to [specialist]\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Explain why: \"I've been having [symptom] for [time]\"",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "If they say no, ask \"Can you explain why?\"; you can advocate for yourself",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "Write down any next steps before leaving",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -1539,23 +1784,28 @@
 		"steps": [
 			{
 				"text": "Tell the receptionist if it's your first visit",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "You can tell them you're nervous; they're used to this",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "In the chair, raise your hand if you need a break",
-				"emoji": "✋"
+				"emoji": "✋",
+				"image": null
 			},
 			{
 				"text": "You are allowed to ask \"What are you doing now?\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "After: ask what to do next and when to come back",
-				"emoji": "🗓️"
+				"emoji": "🗓️",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -1570,23 +1820,28 @@
 		"steps": [
 			{
 				"text": "Raise your hand during the exam to signal a pause",
-				"emoji": "✋"
+				"emoji": "✋",
+				"image": null
 			},
 			{
 				"text": "Say \"That area is hurting; is that normal?\"",
-				"emoji": "🤒"
+				"emoji": "🤒",
+				"image": null
 			},
 			{
 				"text": "Point to the exact tooth or area if you can",
-				"emoji": "👆"
+				"emoji": "👆",
+				"image": null
 			},
 			{
 				"text": "Ask \"Can you be gentler there?\"; that's totally okay",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			},
 			{
 				"text": "Ask about numbing options if the pain is too much",
-				"emoji": "💊"
+				"emoji": "💊",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -1601,23 +1856,28 @@
 		"steps": [
 			{
 				"text": "Go to the pharmacy counter (not the regular checkout)",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Say \"I'm here to pick up a prescription for [your name]\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Give your date of birth if asked",
-				"emoji": "🎂"
+				"emoji": "🎂",
+				"image": null
 			},
 			{
 				"text": "Pay if required and take the bag",
-				"emoji": "💳"
+				"emoji": "💳",
+				"image": null
 			},
 			{
 				"text": "Ask \"Are there any special instructions?\" if unsure",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -1632,23 +1892,28 @@
 		"steps": [
 			{
 				"text": "Wait for a free moment at the counter",
-				"emoji": "⏳"
+				"emoji": "⏳",
+				"image": null
 			},
 			{
 				"text": "Say \"Excuse me, I have a question about a medication\"",
-				"emoji": "💊"
+				"emoji": "💊",
+				"image": null
 			},
 			{
 				"text": "Show the packet or name the medication",
-				"emoji": "📦"
+				"emoji": "📦",
+				"image": null
 			},
 			{
 				"text": "Ask your question clearly: \"Is it okay to take this with [other medication]?\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "Listen and ask for it to be repeated if needed",
-				"emoji": "👂"
+				"emoji": "👂",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -1663,23 +1928,28 @@
 		"steps": [
 			{
 				"text": "Use a scale: \"My pain is about a [number] out of 10\"",
-				"emoji": "🔢"
+				"emoji": "🔢",
+				"image": null
 			},
 			{
 				"text": "Say where it is: \"It's in my [body part]\"",
-				"emoji": "📍"
+				"emoji": "📍",
+				"image": null
 			},
 			{
 				"text": "Describe it: \"It feels sharp / dull / burning / throbbing\"",
-				"emoji": "🤒"
+				"emoji": "🤒",
+				"image": null
 			},
 			{
 				"text": "Say when it started and if anything makes it better or worse",
-				"emoji": "⏰"
+				"emoji": "⏰",
+				"image": null
 			},
 			{
 				"text": "Show them the affected area if you can",
-				"emoji": "👆"
+				"emoji": "👆",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -1694,23 +1964,28 @@
 		"steps": [
 			{
 				"text": "You don't have to share more than you're comfortable with",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Describe what you're experiencing: \"I've been feeling [anxious/low/overwhelmed] for [time]\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Say how it affects daily life: \"It's making it hard to [sleep/work/go out]\"",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Ask: \"What are my options for support?\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "Take your time; the doctor is there to help",
-				"emoji": "🤝"
+				"emoji": "🤝",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -1725,23 +2000,28 @@
 		"steps": [
 			{
 				"text": "It's okay to feel nervous at first",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "The therapist may ask \"What brings you here today?\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "You can say \"I'm not sure where to start\"; that's fine",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Share one main thing you want help with",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "You can ask \"Is this confidential?\" if you're unsure",
-				"emoji": "🔒"
+				"emoji": "🔒",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -1756,23 +2036,28 @@
 		"steps": [
 			{
 				"text": "Your feedback makes therapy more useful; speak up",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Say \"I've been thinking, and I don't think [technique] is helping me\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Explain why if you can",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Ask \"Is there something else we could try?\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "A good therapist will welcome this",
-				"emoji": "🤝"
+				"emoji": "🤝",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -1787,23 +2072,28 @@
 		"steps": [
 			{
 				"text": "Go to the triage desk and say \"I need to be seen\"",
-				"emoji": "🆘"
+				"emoji": "🆘",
+				"image": null
 			},
 			{
 				"text": "Describe your most urgent symptom in one sentence",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Give your name and date of birth",
-				"emoji": "📋"
+				"emoji": "📋",
+				"image": null
 			},
 			{
 				"text": "Tell them about any allergies or current medications",
-				"emoji": "💊"
+				"emoji": "💊",
+				"image": null
 			},
 			{
 				"text": "Wait in the waiting area until called; stay seated if possible",
-				"emoji": "🪑"
+				"emoji": "🪑",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -1818,23 +2108,28 @@
 		"steps": [
 			{
 				"text": "Write a list before you go, organised by section",
-				"emoji": "📝"
+				"emoji": "📝",
+				"image": null
 			},
 			{
 				"text": "Get a basket or trolley when you enter",
-				"emoji": "🛒"
+				"emoji": "🛒",
+				"image": null
 			},
 			{
 				"text": "Work through your list section by section",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			},
 			{
 				"text": "If you can't find something, use the shelf labels or ask staff",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Choose a shorter queue; self-checkout is fine if it's easier",
-				"emoji": "🧾"
+				"emoji": "🧾",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -1849,19 +2144,23 @@
 		"steps": [
 			{
 				"text": "Place items on the belt when the person ahead is almost done",
-				"emoji": "🛒"
+				"emoji": "🛒",
+				"image": null
 			},
 			{
 				"text": "When asked \"Did you find everything?\", say \"Yes, thanks\" or mention anything you couldn't find",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Have your payment method ready",
-				"emoji": "💳"
+				"emoji": "💳",
+				"image": null
 			},
 			{
 				"text": "Say \"Thanks\" and take your bags",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -1876,23 +2175,28 @@
 		"steps": [
 			{
 				"text": "Read the menu before the server comes if possible",
-				"emoji": "📋"
+				"emoji": "📋",
+				"image": null
 			},
 			{
 				"text": "When they arrive: \"Hi, I'd like [item], please\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "If you have dietary needs, say them now: \"Does that have [allergen]?\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "Order drinks and food at the same time if you can",
-				"emoji": "🍹"
+				"emoji": "🍹",
+				"image": null
 			},
 			{
 				"text": "Say \"Thank you\" when they take the order",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -1907,23 +2211,28 @@
 		"steps": [
 			{
 				"text": "Step up to the counter when it's your turn",
-				"emoji": "🚶"
+				"emoji": "🚶",
+				"image": null
 			},
 			{
 				"text": "Say your order clearly: \"Can I get a [drink size and type] please?\"",
-				"emoji": "☕"
+				"emoji": "☕",
+				"image": null
 			},
 			{
 				"text": "If they ask your name, tell them",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Pay and step to the side to wait",
-				"emoji": "💳"
+				"emoji": "💳",
+				"image": null
 			},
 			{
 				"text": "When called, take your drink and say \"Thanks\"",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -1938,23 +2247,28 @@
 		"steps": [
 			{
 				"text": "You don't have to eat something wrong or that isn't safe",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Catch the server's attention with a small wave",
-				"emoji": "🙋"
+				"emoji": "🙋",
+				"image": null
 			},
 			{
 				"text": "Say \"Excuse me, I think there's been a mistake with my order\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Explain briefly: \"I ordered [X] but this seems to be [Y]\"",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Stay calm; mistakes happen and they will fix it",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -1969,27 +2283,33 @@
 		"steps": [
 			{
 				"text": "Bring the item, receipt, and original packaging if possible",
-				"emoji": "📦"
+				"emoji": "📦",
+				"image": null
 			},
 			{
 				"text": "Go to the customer service desk or returns counter",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Say \"Hi, I'd like to return this, please\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Explain briefly: \"It's damaged\" or \"It's not what I expected\"",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Ask \"Can I get a refund or exchange?\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "Follow their process and keep any reference numbers",
-				"emoji": "🔢"
+				"emoji": "🔢",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -2004,23 +2324,28 @@
 		"steps": [
 			{
 				"text": "Bring a photo of the style you want; it's totally normal",
-				"emoji": "📱"
+				"emoji": "📱",
+				"image": null
 			},
 			{
 				"text": "When asked, show the photo or describe: \"A little shorter on the sides\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "If they ask \"How much off?\", you can say \"Just a trim\" or show with fingers",
-				"emoji": "✂️"
+				"emoji": "✂️",
+				"image": null
 			},
 			{
 				"text": "During the cut: you don't have to talk; silence is fine",
-				"emoji": "😌"
+				"emoji": "😌",
+				"image": null
 			},
 			{
 				"text": "When done, check the mirror and say \"Looks great, thank you\"",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -2035,19 +2360,23 @@
 		"steps": [
 			{
 				"text": "It's okay to mention this before they start",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Say \"I just wanted to let you know I'm sensitive to touch around my head\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Ask: \"Could you please be gentle and let me know what you're doing?\"",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			},
 			{
 				"text": "They will appreciate knowing",
-				"emoji": "🤝"
+				"emoji": "🤝",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -2062,27 +2391,33 @@
 		"steps": [
 			{
 				"text": "Check the bus number matches your route",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Wait for people to get off before boarding",
-				"emoji": "⏳"
+				"emoji": "⏳",
+				"image": null
 			},
 			{
 				"text": "Tap your card or show your ticket as you board",
-				"emoji": "💳"
+				"emoji": "💳",
+				"image": null
 			},
 			{
 				"text": "Find a seat or hold a rail if standing",
-				"emoji": "🚌"
+				"emoji": "🚌",
+				"image": null
 			},
 			{
 				"text": "Press the stop button before your stop",
-				"emoji": "🔴"
+				"emoji": "🔴",
+				"image": null
 			},
 			{
 				"text": "Exit through the doors and let others out first",
-				"emoji": "🚪"
+				"emoji": "🚪",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -2097,19 +2432,23 @@
 		"steps": [
 			{
 				"text": "You can ask a fellow passenger or a staff member",
-				"emoji": "🙋"
+				"emoji": "🙋",
+				"image": null
 			},
 			{
 				"text": "Say \"Excuse me, does this bus/train go to [destination]?\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "Or: \"Can you tell me when we get to [stop]?\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Thank them when they respond",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -2124,23 +2463,28 @@
 		"steps": [
 			{
 				"text": "Research the company before the day, focusing on one or two key facts",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Prepare a brief answer to \"Tell me about yourself\" (30–60 seconds)",
-				"emoji": "📝"
+				"emoji": "📝",
+				"image": null
 			},
 			{
 				"text": "Practise 2–3 examples of your strengths with evidence",
-				"emoji": "💪"
+				"emoji": "💪",
+				"image": null
 			},
 			{
 				"text": "Prepare one question to ask them",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "Arrive 5–10 minutes early and let reception know you're there",
-				"emoji": "⏰"
+				"emoji": "⏰",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -2155,23 +2499,28 @@
 		"steps": [
 			{
 				"text": "Start with your background: \"I've been working in [field] for [X] years\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Mention one or two key skills relevant to the role",
-				"emoji": "💪"
+				"emoji": "💪",
+				"image": null
 			},
 			{
 				"text": "Say why you're applying: \"I'm interested in this role because...\"",
-				"emoji": "🎯"
+				"emoji": "🎯",
+				"image": null
 			},
 			{
 				"text": "Keep it to about 60 seconds",
-				"emoji": "⏱️"
+				"emoji": "⏱️",
+				"image": null
 			},
 			{
 				"text": "End by inviting them to ask more: \"Happy to go into more detail\"",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -2186,23 +2535,28 @@
 		"steps": [
 			{
 				"text": "Disclosure is your choice; you are not obligated to disclose",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "If you choose to disclose, frame it positively: \"I'm autistic, which means I...\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Highlight your strengths: attention to detail, focus, reliability",
-				"emoji": "💪"
+				"emoji": "💪",
+				"image": null
 			},
 			{
 				"text": "If you need accommodations, ask: \"I work best when [X]; is that possible here?\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "This shows self-awareness, which is a professional asset",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -2217,23 +2571,28 @@
 		"steps": [
 			{
 				"text": "It's always better to check than guess",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": "work-day-1_1.svg"
 			},
 			{
 				"text": "Say \"I want to make sure I'm on the right track; can I check something?\"",
-				"emoji": "🙋"
+				"emoji": "🙋",
+				"image": "work-day-1_2.svg"
 			},
 			{
 				"text": "Ask: \"When you said [X], did you mean I should [Y]?\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": "work-day-1_3.svg"
 			},
 			{
 				"text": "Take notes on the answer",
-				"emoji": "📝"
+				"emoji": "📝",
+				"image": "work-day-1_4.svg"
 			},
 			{
 				"text": "Say \"Got it. Thank you for clarifying.\"",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": "work-day-1_5.svg"
 			}
 		],
 		"isCustom": false
@@ -2248,19 +2607,23 @@
 		"steps": [
 			{
 				"text": "You don't have to stop what you're doing immediately",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Say \"I'm in the middle of something right now; can I come back to you in [X] minutes?\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Or: \"I'm a bit tied up; can we talk after [time]?\"",
-				"emoji": "⏰"
+				"emoji": "⏰",
+				"image": null
 			},
 			{
 				"text": "Follow up when you said you would",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -2275,23 +2638,28 @@
 		"steps": [
 			{
 				"text": "Contact your manager before your shift starts: by text or call",
-				"emoji": "📞"
+				"emoji": "📞",
+				"image": null
 			},
 			{
 				"text": "Say: \"Hi, I'm not feeling well today and won't be able to come in\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "You don't need to explain your illness in detail",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Ask: \"Is there anything urgent I should hand over?\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "Say when you expect to be back if you know",
-				"emoji": "📅"
+				"emoji": "📅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -2306,27 +2674,33 @@
 		"steps": [
 			{
 				"text": "Take a breath and don't respond immediately",
-				"emoji": "🫁"
+				"emoji": "🫁",
+				"image": null
 			},
 			{
 				"text": "Listen to the whole feedback before speaking",
-				"emoji": "👂"
+				"emoji": "👂",
+				"image": null
 			},
 			{
 				"text": "Say \"Thank you for letting me know,\" even if it stings",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			},
 			{
 				"text": "Ask \"Can you give me an example?\" to understand better",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "Ask \"What would you like me to do differently?\"",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Take notes and reflect on it later; not everything is an attack",
-				"emoji": "📝"
+				"emoji": "📝",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -2341,23 +2715,28 @@
 		"steps": [
 			{
 				"text": "Wait until they've finished; don't interrupt",
-				"emoji": "⏳"
+				"emoji": "⏳",
+				"image": null
 			},
 			{
 				"text": "Say \"I appreciate the feedback. Could I share my perspective?\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Use facts: \"My understanding was [X] because [reason]\"",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Avoid emotional language; stay calm and specific",
-				"emoji": "🫁"
+				"emoji": "🫁",
+				"image": null
 			},
 			{
 				"text": "End with: \"I want to find the best way forward for the team\"",
-				"emoji": "🤝"
+				"emoji": "🤝",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -2372,23 +2751,28 @@
 		"steps": [
 			{
 				"text": "Prepare one or two points to share beforehand",
-				"emoji": "📝"
+				"emoji": "📝",
+				"image": null
 			},
 			{
 				"text": "Wait for a pause before speaking",
-				"emoji": "⏳"
+				"emoji": "⏳",
+				"image": null
 			},
 			{
 				"text": "Say \"I'd like to add something, if that's okay\"",
-				"emoji": "🙋"
+				"emoji": "🙋",
+				"image": null
 			},
 			{
 				"text": "State your point clearly and briefly",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Stop after your point; you don't need to fill silence",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -2403,23 +2787,28 @@
 		"steps": [
 			{
 				"text": "Write down your question so you don't forget it",
-				"emoji": "📝"
+				"emoji": "📝",
+				"image": null
 			},
 			{
 				"text": "Wait for a natural pause or raise your hand",
-				"emoji": "✋"
+				"emoji": "✋",
+				"image": null
 			},
 			{
 				"text": "Say \"Can I ask a question about [topic]?\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "Ask your question concisely",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Thank them for the answer",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -2434,23 +2823,28 @@
 		"steps": [
 			{
 				"text": "Write your question down so you remember it",
-				"emoji": "📝"
+				"emoji": "📝",
+				"image": "work-cls-1_1.svg"
 			},
 			{
 				"text": "Raise your hand and wait to be called on",
-				"emoji": "✋"
+				"emoji": "✋",
+				"image": "work-cls-1_2.svg"
 			},
 			{
 				"text": "Ask your question clearly and briefly",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": "work-cls-1_3.svg"
 			},
 			{
 				"text": "Listen to the answer fully",
-				"emoji": "👂"
+				"emoji": "👂",
+				"image": "work-cls-1_4.svg"
 			},
 			{
 				"text": "Say \"Thank you\" or nod to acknowledge the answer",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": "work-cls-1_5.svg"
 			}
 		],
 		"isCustom": false
@@ -2465,23 +2859,28 @@
 		"steps": [
 			{
 				"text": "Find out what each person is doing at the start",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Say \"I'm happy to take on [specific task]; does that work?\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Do your part and update the group if you hit a problem",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			},
 			{
 				"text": "If there's disagreement, say \"Can we hear both ideas?\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "You don't have to socialize beyond the task; that's okay",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -2496,27 +2895,33 @@
 		"steps": [
 			{
 				"text": "Choose someone you trust and a private moment",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Say \"There's something I'd like to share with you\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "\"I'm autistic. It means [one or two things that affect you]\"",
-				"emoji": "🧠"
+				"emoji": "🧠",
+				"image": null
 			},
 			{
 				"text": "You can say \"I just thought you should know in case...\"",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Give them time to respond; it might take them a moment",
-				"emoji": "⏳"
+				"emoji": "⏳",
+				"image": null
 			},
 			{
 				"text": "You always control when and how much to share",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -2531,27 +2936,33 @@
 		"steps": [
 			{
 				"text": "You are not legally required to disclose, but it may help you get support",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Request a private meeting with HR or your manager",
-				"emoji": "🗓️"
+				"emoji": "🗓️",
+				"image": null
 			},
 			{
 				"text": "Say \"I wanted to let you know I'm autistic and may need some adjustments\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Come prepared with 2–3 specific adjustments that would help",
-				"emoji": "📝"
+				"emoji": "📝",
+				"image": null
 			},
 			{
 				"text": "Ask about their process for implementing reasonable adjustments",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "Follow up in writing (email) so there's a record",
-				"emoji": "✉️"
+				"emoji": "✉️",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -2566,23 +2977,28 @@
 		"steps": [
 			{
 				"text": "Say early in the appointment: \"I'm autistic, just so you're aware\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "If helpful, add: \"I prefer very direct communication and written instructions\"",
-				"emoji": "📝"
+				"emoji": "📝",
+				"image": null
 			},
 			{
 				"text": "Tell them if bright lights, loud sounds or touch are difficult for you",
-				"emoji": "🔇"
+				"emoji": "🔇",
+				"image": null
 			},
 			{
 				"text": "Ask \"Can you explain that without medical jargon?\" if needed",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "You can bring a support person; that's always an option",
-				"emoji": "🤝"
+				"emoji": "🤝",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -2597,23 +3013,28 @@
 		"steps": [
 			{
 				"text": "Notice the signs you need a break: tension, difficulty concentrating",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Raise your hand or use a break card if your class has one",
-				"emoji": "✋"
+				"emoji": "✋",
+				"image": null
 			},
 			{
 				"text": "Say quietly: \"Excuse me, I need to take a short break\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Use the break to regulate: walk, breathe, or use your sensory tools",
-				"emoji": "🫁"
+				"emoji": "🫁",
+				"image": null
 			},
 			{
 				"text": "Return when you feel ready",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -2628,23 +3049,28 @@
 		"steps": [
 			{
 				"text": "Notice when your focus or energy is dropping",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Say to a manager or colleague: \"I'm going to step away for 5 minutes\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Take the break in a quiet area: outside, the kitchen, or the bathroom",
-				"emoji": "🚶"
+				"emoji": "🚶",
+				"image": null
 			},
 			{
 				"text": "Short breaks actually improve productivity; you're not being lazy",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Return and let them know if needed: \"I'm back, ready to continue\"",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -2659,23 +3085,28 @@
 		"steps": [
 			{
 				"text": "When you feel yourself reaching your limit, act early; don't wait",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Find a quiet spot: outside, a corner, a corridor, or bathroom",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Put on headphones, close your eyes, and breathe slowly",
-				"emoji": "🎧"
+				"emoji": "🎧",
+				"image": null
 			},
 			{
 				"text": "Give yourself as much time as you need",
-				"emoji": "⏳"
+				"emoji": "⏳",
+				"image": null
 			},
 			{
 				"text": "Return when you feel ready, or leave entirely if that's what you need",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -2690,23 +3121,28 @@
 		"steps": [
 			{
 				"text": "Ask as early as possible, not at the last minute",
-				"emoji": "⏰"
+				"emoji": "⏰",
+				"image": null
 			},
 			{
 				"text": "Say \"I want to make sure I do this properly; could I have until [new deadline]?\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "If relevant: \"I work better with a bit more processing time\"",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "You don't need to over-explain or apologise excessively",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "When they agree, say \"Thank you; I'll have it ready by then\"",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -2721,27 +3157,33 @@
 		"steps": [
 			{
 				"text": "Write down which accommodations would help you most",
-				"emoji": "📝"
+				"emoji": "📝",
+				"image": null
 			},
 			{
 				"text": "Request a private meeting with your manager or HR",
-				"emoji": "🗓️"
+				"emoji": "🗓️",
+				"image": null
 			},
 			{
 				"text": "Say \"I'd like to discuss some adjustments that would help me do my best work\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Be specific: \"Working with headphones\", \"Written instructions\", \"Flexible start time\"",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Ask \"Is that something we can explore?\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "Follow up in writing after the meeting",
-				"emoji": "✉️"
+				"emoji": "✉️",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -2756,23 +3198,28 @@
 		"steps": [
 			{
 				"text": "Contact the school or university's disability or access office",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Say \"I'm autistic and would like to apply for exam accommodations\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Ask what documentation they need",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "Provide any diagnosis letters or assessments they require",
-				"emoji": "📋"
+				"emoji": "📋",
+				"image": null
 			},
 			{
 				"text": "Ask about the timeline so you can plan ahead",
-				"emoji": "⏰"
+				"emoji": "⏰",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -2787,23 +3234,28 @@
 		"steps": [
 			{
 				"text": "Pick a calm moment to ask your teacher or manager",
-				"emoji": "⏳"
+				"emoji": "⏳",
+				"image": null
 			},
 			{
 				"text": "Say \"I focus much better with headphones. Would that be allowed?\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "If they ask why, you can say \"Background noise is distracting for me\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "You don't have to over-explain your neurology",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Thank them for considering it",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -2818,23 +3270,28 @@
 		"steps": [
 			{
 				"text": "Notice your signals early; don't push past your limit",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Say \"I need to step out for a moment\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Go to a quiet space: the bathroom, outside, or a quiet corner",
-				"emoji": "🚶"
+				"emoji": "🚶",
+				"image": null
 			},
 			{
 				"text": "Do something regulating: deep breaths, music, grounding exercise",
-				"emoji": "🫁"
+				"emoji": "🫁",
+				"image": null
 			},
 			{
 				"text": "Return when you're ready; there's no rush",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -2849,23 +3306,28 @@
 		"steps": [
 			{
 				"text": "Your wellbeing comes first; it's okay to leave",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Find the host or a friend and say \"I'm not feeling great, I'm going to head off\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "You don't owe a detailed explanation",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			},
 			{
 				"text": "Have an exit plan ready before you go to difficult events",
-				"emoji": "📝"
+				"emoji": "📝",
+				"image": null
 			},
 			{
 				"text": "If driving: text someone you're leaving safely",
-				"emoji": "📱"
+				"emoji": "📱",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -2880,23 +3342,28 @@
 		"steps": [
 			{
 				"text": "Identify what's bothering you: lights, noise, touch, smell, crowds",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Say \"This environment is a bit much for me; would it be okay to [adjust]?\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "For example: \"Could we move to a quieter table?\" or \"Could we turn down the lights?\"",
-				"emoji": "🔇"
+				"emoji": "🔇",
+				"image": null
 			},
 			{
 				"text": "If they can't adjust, it's okay to use your own tools: headphones or sunglasses",
-				"emoji": "🎧"
+				"emoji": "🎧",
+				"image": null
 			},
 			{
 				"text": "Your sensory needs are valid",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -2911,23 +3378,28 @@
 		"steps": [
 			{
 				"text": "Choose a calm moment, not the middle of a conflict",
-				"emoji": "⏳"
+				"emoji": "⏳",
+				"image": null
 			},
 			{
 				"text": "Say \"I want to tell you something: I've been feeling [upset/hurt]\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Use \"I\" statements: \"I felt [X] when [Y happened]\"",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Don't accuse; describe your experience",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Give them a chance to respond",
-				"emoji": "⏳"
+				"emoji": "⏳",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -2942,23 +3414,28 @@
 		"steps": [
 			{
 				"text": "It's okay to not respond immediately to emotional situations",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Say \"I need a little time to think about this\"",
-				"emoji": "⏳"
+				"emoji": "⏳",
+				"image": null
 			},
 			{
 				"text": "Or: \"Can we come back to this later? I want to give it proper thought\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Set a rough time: \"Can we talk tomorrow?\"",
-				"emoji": "🗓️"
+				"emoji": "🗓️",
+				"image": null
 			},
 			{
 				"text": "This is not avoidance; it's healthy self-management",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -2973,19 +3450,23 @@
 		"steps": [
 			{
 				"text": "You don't have to show emotions the \"expected\" way",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "You can say \"I'm really happy about this\"",
-				"emoji": "😊"
+				"emoji": "😊",
+				"image": null
 			},
 			{
 				"text": "Or describe what it means to you: \"This really matters to me\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Sharing positive feelings strengthens relationships",
-				"emoji": "💚"
+				"emoji": "💚",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -3000,23 +3481,28 @@
 		"steps": [
 			{
 				"text": "Check your interpretation before reacting: \"Did they mean that literally?\"",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Ask: \"I want to check: when you said [X], did you mean [Y]?\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "Listen to their answer without interrupting",
-				"emoji": "👂"
+				"emoji": "👂",
+				"image": null
 			},
 			{
 				"text": "If it was a misunderstanding: \"Okay, that makes sense; thanks for clarifying\"",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			},
 			{
 				"text": "If you still disagree, express it calmly",
-				"emoji": "🫁"
+				"emoji": "🫁",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -3031,23 +3517,28 @@
 		"steps": [
 			{
 				"text": "Wait until you're calm enough to speak",
-				"emoji": "🫁"
+				"emoji": "🫁",
+				"image": null
 			},
 			{
 				"text": "Say \"I wanted to talk about something; is now a good time?\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Use the formula: \"When [X happened], I felt [Y]\"",
-				"emoji": "📝"
+				"emoji": "📝",
+				"image": null
 			},
 			{
 				"text": "Avoid words like \"always\" or \"never\"; they tend to escalate",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Ask \"Can we work out how to avoid this happening again?\"",
-				"emoji": "🤝"
+				"emoji": "🤝",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -3062,23 +3553,28 @@
 		"steps": [
 			{
 				"text": "It's smart to leave before it escalates further",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Say \"I'm too worked up right now; I need to take a break\"",
-				"emoji": "🚶"
+				"emoji": "🚶",
+				"image": null
 			},
 			{
 				"text": "Leave the room or space",
-				"emoji": "🚪"
+				"emoji": "🚪",
+				"image": null
 			},
 			{
 				"text": "Do something regulating: walk, breathe, move",
-				"emoji": "🫁"
+				"emoji": "🫁",
+				"image": null
 			},
 			{
 				"text": "Return to the conversation later when you're both calm",
-				"emoji": "🕐"
+				"emoji": "🕐",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -3093,27 +3589,33 @@
 		"steps": [
 			{
 				"text": "Stay as calm as you can; you can do this",
-				"emoji": "🫁"
+				"emoji": "🫁",
+				"image": null
 			},
 			{
 				"text": "Dial 911 (or your local emergency number)",
-				"emoji": "📞"
+				"emoji": "📞",
+				"image": null
 			},
 			{
 				"text": "Say \"I need help\" and describe the emergency in one sentence",
-				"emoji": "🆘"
+				"emoji": "🆘",
+				"image": null
 			},
 			{
 				"text": "Give your exact location: an address, a landmark, or what you can see",
-				"emoji": "📍"
+				"emoji": "📍",
+				"image": null
 			},
 			{
 				"text": "Answer their questions one at a time",
-				"emoji": "👂"
+				"emoji": "👂",
+				"image": null
 			},
 			{
 				"text": "Do not hang up until they say it's okay",
-				"emoji": "📞"
+				"emoji": "📞",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -3128,23 +3630,28 @@
 		"steps": [
 			{
 				"text": "Dial 911 and stay on the line even if you can't speak",
-				"emoji": "📞"
+				"emoji": "📞",
+				"image": null
 			},
 			{
 				"text": "Many services will send help when there is an open line",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "If asked \"Press 1 for emergency\", do so",
-				"emoji": "1️⃣"
+				"emoji": "1️⃣",
+				"image": null
 			},
 			{
 				"text": "Send your location via text to your local emergency text number if available",
-				"emoji": "📱"
+				"emoji": "📱",
+				"image": null
 			},
 			{
 				"text": "Stay on the line or keep texting",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -3159,23 +3666,28 @@
 		"steps": [
 			{
 				"text": "Find a trusted person nearby",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Approach them and say \"I need help\"",
-				"emoji": "🙋"
+				"emoji": "🙋",
+				"image": null
 			},
 			{
 				"text": "Say \"I don't feel safe right now\"",
-				"emoji": "😟"
+				"emoji": "😟",
+				"image": null
 			},
 			{
 				"text": "Let them guide next steps",
-				"emoji": "🤝"
+				"emoji": "🤝",
+				"image": null
 			},
 			{
 				"text": "Stay with them until you feel safer",
-				"emoji": "💚"
+				"emoji": "💚",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -3190,23 +3702,28 @@
 		"steps": [
 			{
 				"text": "You deserve to feel safe; speak up",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Tell a trusted adult, teacher, or manager: \"Someone is treating me badly and I need help\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Write down what happened, when, and who was involved",
-				"emoji": "📝"
+				"emoji": "📝",
+				"image": null
 			},
 			{
 				"text": "If it continues, escalate to the next level of authority",
-				"emoji": "🔺"
+				"emoji": "🔺",
+				"image": null
 			},
 			{
 				"text": "You are not causing trouble by reporting this",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -3221,31 +3738,38 @@
 		"steps": [
 			{
 				"text": "Move away from the source of overload if you can",
-				"emoji": "🚶"
+				"emoji": "🚶",
+				"image": null
 			},
 			{
 				"text": "Find a wall, corner, or quiet exit",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Sit or crouch down if standing feels like too much",
-				"emoji": "🧎"
+				"emoji": "🧎",
+				"image": null
 			},
 			{
 				"text": "Cover your ears or put on headphones",
-				"emoji": "🎧"
+				"emoji": "🎧",
+				"image": null
 			},
 			{
 				"text": "Focus on slowing your breathing: breathe in 4 counts, out 6",
-				"emoji": "🫁"
+				"emoji": "🫁",
+				"image": null
 			},
 			{
 				"text": "Text a trusted person your location if you need support",
-				"emoji": "📱"
+				"emoji": "📱",
+				"image": null
 			},
 			{
 				"text": "Wait until you feel ready to move; there's no timeline",
-				"emoji": "⏳"
+				"emoji": "⏳",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -3260,23 +3784,28 @@
 		"steps": [
 			{
 				"text": "You are allowed to ask for help; it's brave, not weak",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Approach someone calm-looking and say \"Excuse me, I'm not feeling well\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Say \"Can you help me get somewhere quieter?\"",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			},
 			{
 				"text": "Or show them a card or phone message explaining you're autistic and overwhelmed",
-				"emoji": "📱"
+				"emoji": "📱",
+				"image": null
 			},
 			{
 				"text": "They can assist you or help find staff",
-				"emoji": "🤝"
+				"emoji": "🤝",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -3291,23 +3820,28 @@
 		"steps": [
 			{
 				"text": "Stop and stay where you are; don't keep wandering",
-				"emoji": "🛑"
+				"emoji": "🛑",
+				"image": null
 			},
 			{
 				"text": "Check your phone map for your current location",
-				"emoji": "📱"
+				"emoji": "📱",
+				"image": null
 			},
 			{
 				"text": "Call or text someone who knows where you were meant to be",
-				"emoji": "📞"
+				"emoji": "📞",
+				"image": null
 			},
 			{
 				"text": "If you need immediate help, approach a shop employee or security guard",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Say \"I'm lost and I need help getting to [destination]\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -3322,23 +3856,28 @@
 		"steps": [
 			{
 				"text": "Look for a directory map or signs on the walls",
-				"emoji": "🗺️"
+				"emoji": "🗺️",
+				"image": null
 			},
 			{
 				"text": "Head toward reception, information desk, or security",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Say \"I'm looking for [room/floor/exit]; could you point me in the right direction?\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Follow signage step by step, not all at once",
-				"emoji": "🚶"
+				"emoji": "🚶",
+				"image": null
 			},
 			{
 				"text": "It's okay to ask twice if you forget",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -3353,23 +3892,28 @@
 		"steps": [
 			{
 				"text": "It's completely normal to ask; don't feel embarrassed",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Wait for a natural pause in conversation",
-				"emoji": "⏳"
+				"emoji": "⏳",
+				"image": null
 			},
 			{
 				"text": "Ask politely: \"Could I use your bathroom please?\"",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			},
 			{
 				"text": "Follow their directions to find it",
-				"emoji": "🚶"
+				"emoji": "🚶",
+				"image": null
 			},
 			{
 				"text": "When you return, you don't need to comment on it; just rejoin the conversation",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -3384,19 +3928,23 @@
 		"steps": [
 			{
 				"text": "Find a member of staff",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Say \"Excuse me, where is the bathroom please?\"",
-				"emoji": "🙋"
+				"emoji": "🙋",
+				"image": null
 			},
 			{
 				"text": "Follow their directions",
-				"emoji": "🚶"
+				"emoji": "🚶",
+				"image": null
 			},
 			{
 				"text": "In some cafés you may need a code for the lock; ask for that too",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -3411,19 +3959,23 @@
 		"steps": [
 			{
 				"text": "Wait for a natural pause if you can",
-				"emoji": "⏳"
+				"emoji": "⏳",
+				"image": null
 			},
 			{
 				"text": "Raise your hand or catch the teacher's/host's attention",
-				"emoji": "✋"
+				"emoji": "✋",
+				"image": null
 			},
 			{
 				"text": "Say quietly: \"Could I please be excused for a moment?\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Leave and return as quickly as you can",
-				"emoji": "🚶"
+				"emoji": "🚶",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -3438,23 +3990,28 @@
 		"steps": [
 			{
 				"text": "Never take something without asking first",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Ask the owner directly: \"Is it okay if I borrow your [item]?\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "If they say yes, take good care of it",
-				"emoji": "🤲"
+				"emoji": "🤲",
+				"image": null
 			},
 			{
 				"text": "Return it when you said you would, or earlier",
-				"emoji": "⏰"
+				"emoji": "⏰",
+				"image": null
 			},
 			{
 				"text": "Say \"Thank you\" when you give it back",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -3469,23 +4026,28 @@
 		"steps": [
 			{
 				"text": "Choose a calm moment when the adult isn't busy",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Say \"Can I please ask you something?\"",
-				"emoji": "🙋"
+				"emoji": "🙋",
+				"image": null
 			},
 			{
 				"text": "Make your request clearly: \"Is it okay if I [do/go/have]...?\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "Wait for their answer without talking over them",
-				"emoji": "⏳"
+				"emoji": "⏳",
+				"image": null
 			},
 			{
 				"text": "If the answer is no, accept it calmly; you can ask why if needed",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -3500,19 +4062,23 @@
 		"steps": [
 			{
 				"text": "Other people's personal details belong to them",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Before sharing their info, contact, or photo, ask: \"Is it okay if I share your [information] with [person]?\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "Only share it if they say yes",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			},
 			{
 				"text": "This applies to addresses, phone numbers, photos, and personal news",
-				"emoji": "🔒"
+				"emoji": "🔒",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -3527,23 +4093,28 @@
 		"steps": [
 			{
 				"text": "Pause when something in the text reminds you of something",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Ask yourself: \"Does this connect to my own life, another book, or the world?\"",
-				"emoji": "🌐"
+				"emoji": "🌐",
+				"image": null
 			},
 			{
 				"text": "Write your connection in the margin or a notebook",
-				"emoji": "✏️"
+				"emoji": "✏️",
+				"image": null
 			},
 			{
 				"text": "Example: \"This reminds me of [thing] because [reason]\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Connections help you remember and understand the text",
-				"emoji": "📖"
+				"emoji": "📖",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -3558,23 +4129,28 @@
 		"steps": [
 			{
 				"text": "Before you read, look at the title and any pictures; what do you think it will be about?",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "As you read, pause and ask \"What do I think will happen next?\"",
-				"emoji": "🤔"
+				"emoji": "🤔",
+				"image": null
 			},
 			{
 				"text": "Write your prediction down",
-				"emoji": "✏️"
+				"emoji": "✏️",
+				"image": null
 			},
 			{
 				"text": "Keep reading to see if you were right",
-				"emoji": "📖"
+				"emoji": "📖",
+				"image": null
 			},
 			{
 				"text": "It doesn't matter if your prediction is wrong; the thinking is what helps",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -3589,23 +4165,28 @@
 		"steps": [
 			{
 				"text": "Good readers ask questions as they go",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "When something is confusing, write \"I wonder...\" in the margin",
-				"emoji": "✏️"
+				"emoji": "✏️",
+				"image": null
 			},
 			{
 				"text": "Example: \"I wonder why the character did that\"",
-				"emoji": "🤔"
+				"emoji": "🤔",
+				"image": null
 			},
 			{
 				"text": "Keep reading to see if the text answers your question",
-				"emoji": "📖"
+				"emoji": "📖",
+				"image": null
 			},
 			{
 				"text": "If not, look it up or ask your teacher",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -3620,27 +4201,33 @@
 		"steps": [
 			{
 				"text": "Start with a clear subject line: \"Question about [topic]\"",
-				"emoji": "📧"
+				"emoji": "📧",
+				"image": null
 			},
 			{
 				"text": "Open with \"Dear [name],\" or \"Hi [name],\"",
-				"emoji": "✉️"
+				"emoji": "✉️",
+				"image": null
 			},
 			{
 				"text": "State your purpose in the first sentence",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Keep it brief; 3–5 sentences is usually enough",
-				"emoji": "📝"
+				"emoji": "📝",
+				"image": null
 			},
 			{
 				"text": "End with \"Kind regards,\" or \"Thanks,\" followed by your name",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			},
 			{
 				"text": "Read it once before sending to check for errors",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -3655,23 +4242,28 @@
 		"steps": [
 			{
 				"text": "Read the message fully before replying",
-				"emoji": "👀"
+				"emoji": "👀",
+				"image": null
 			},
 			{
 				"text": "Answer the actual question they asked; don't avoid it",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Keep it clear and direct",
-				"emoji": "📝"
+				"emoji": "📝",
+				"image": null
 			},
 			{
 				"text": "If you need more time, reply: \"Thanks; I'll come back to you on this by [date]\"",
-				"emoji": "⏰"
+				"emoji": "⏰",
+				"image": null
 			},
 			{
 				"text": "Proofread before sending",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -3686,23 +4278,28 @@
 		"steps": [
 			{
 				"text": "Step away from the screen before reacting",
-				"emoji": "📵"
+				"emoji": "📵",
+				"image": null
 			},
 			{
 				"text": "Don't reply while you're still upset; it often escalates things",
-				"emoji": "🛑"
+				"emoji": "🛑",
+				"image": null
 			},
 			{
 				"text": "Screenshot or save the message if it could be needed as evidence",
-				"emoji": "📱"
+				"emoji": "📱",
+				"image": null
 			},
 			{
 				"text": "Block, mute, or report if it's harassment",
-				"emoji": "🔒"
+				"emoji": "🔒",
+				"image": null
 			},
 			{
 				"text": "Talk to a trusted person before deciding what to do next",
-				"emoji": "🤝"
+				"emoji": "🤝",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -3717,19 +4314,23 @@
 		"steps": [
 			{
 				"text": "Before opening, check who it is: look through a peephole or window",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Open the door and say \"Hi, can I help you?\" if it's an unfamiliar person",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "For someone you know: \"Hey, come in!\" and step aside",
-				"emoji": "🚪"
+				"emoji": "🚪",
+				"image": null
 			},
 			{
 				"text": "If it's an unexpected salesperson: \"No thank you\" and close the door; that's fine",
-				"emoji": "✋"
+				"emoji": "✋",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -3744,23 +4345,28 @@
 		"steps": [
 			{
 				"text": "It may feel awkward; that's completely normal",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Say \"It's so good to see you!\" or \"Wow, it's been a while!\"",
-				"emoji": "😊"
+				"emoji": "😊",
+				"image": null
 			},
 			{
 				"text": "A hug or handshake is optional; follow their lead",
-				"emoji": "🤝"
+				"emoji": "🤝",
+				"image": null
 			},
 			{
 				"text": "Ask something simple: \"How have you been?\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "Listen and let the conversation warm up naturally",
-				"emoji": "👂"
+				"emoji": "👂",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -3775,23 +4381,28 @@
 		"steps": [
 			{
 				"text": "Approach before class or during an appropriate moment",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Say \"Hi, I'm [your name]; this is my first time in your class\"",
-				"emoji": "👋"
+				"emoji": "👋",
+				"image": null
 			},
 			{
 				"text": "Mention one relevant thing if helpful: \"I learn better with written instructions\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Thank them for their time",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			},
 			{
 				"text": "Keep it brief; you can ask more questions as the course progresses",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -3806,23 +4417,28 @@
 		"steps": [
 			{
 				"text": "Wait for a natural moment, such as when you first see them or during a lull",
-				"emoji": "⏳"
+				"emoji": "⏳",
+				"image": null
 			},
 			{
 				"text": "Ask \"How was your day?\" and mean it",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Listen to their answer; don't scroll your phone",
-				"emoji": "👂"
+				"emoji": "👂",
+				"image": null
 			},
 			{
 				"text": "React briefly: \"That sounds tough\" or \"That's great!\"",
-				"emoji": "😊"
+				"emoji": "😊",
+				"image": null
 			},
 			{
 				"text": "They will likely ask you back; share one highlight or lowlight",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -3837,23 +4453,28 @@
 		"steps": [
 			{
 				"text": "On Friday or Monday, this is a very common thing to ask",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Say \"Any plans this weekend?\" or \"How was your weekend?\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Listen to their answer and show interest",
-				"emoji": "👂"
+				"emoji": "👂",
+				"image": null
 			},
 			{
 				"text": "Share something brief about your own weekend if asked",
-				"emoji": "🗓️"
+				"emoji": "🗓️",
+				"image": null
 			},
 			{
 				"text": "Keep it light; this kind of small talk keeps relationships warm",
-				"emoji": "😊"
+				"emoji": "😊",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -3868,19 +4489,23 @@
 		"steps": [
 			{
 				"text": "Silences happen; they're less awkward than they feel",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Try a light topic: \"Have you been watching anything good lately?\"",
-				"emoji": "📺"
+				"emoji": "📺",
+				"image": null
 			},
 			{
 				"text": "Or mention something in your environment: \"I've been meaning to try this place\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "If nothing works, it's fine to say \"I should get going; good talking to you\"",
-				"emoji": "🚶"
+				"emoji": "🚶",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -3895,23 +4520,28 @@
 		"steps": [
 			{
 				"text": "Tell the teacher before the deadline, not after",
-				"emoji": "⏰"
+				"emoji": "⏰",
+				"image": null
 			},
 			{
 				"text": "Say \"I'm sorry, I haven't finished my work; could I have more time?\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Give a brief, honest reason if you have one",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Accept whatever they decide calmly",
-				"emoji": "🫁"
+				"emoji": "🫁",
+				"image": null
 			},
 			{
 				"text": "Complete it as soon as you can and don't leave it again",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -3926,23 +4556,28 @@
 		"steps": [
 			{
 				"text": "Wait until they've finished speaking",
-				"emoji": "⏳"
+				"emoji": "⏳",
+				"image": null
 			},
 			{
 				"text": "Say \"I see it a bit differently; can I share my view?\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Use \"I think...\" rather than \"You're wrong\"",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Explain your reasoning briefly",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "It's okay if you don't agree in the end; both views can exist",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -3957,23 +4592,28 @@
 		"steps": [
 			{
 				"text": "Take a breath when you hear about the change",
-				"emoji": "🫁"
+				"emoji": "🫁",
+				"image": null
 			},
 			{
 				"text": "Don't react out loud straight away; write down your initial reaction if needed",
-				"emoji": "✏️"
+				"emoji": "✏️",
+				"image": null
 			},
 			{
 				"text": "Ask for the information you need: \"What does this mean for my role day-to-day?\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "Focus on what you can control",
-				"emoji": "💪"
+				"emoji": "💪",
+				"image": null
 			},
 			{
 				"text": "Talk to a trusted person about how it's affecting you",
-				"emoji": "🤝"
+				"emoji": "🤝",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -3988,23 +4628,28 @@
 		"steps": [
 			{
 				"text": "Alarms are loud and sudden; try to stay calm",
-				"emoji": "🫁"
+				"emoji": "🫁",
+				"image": null
 			},
 			{
 				"text": "Stop what you're doing and follow other people out",
-				"emoji": "🚶"
+				"emoji": "🚶",
+				"image": null
 			},
 			{
 				"text": "Use the nearest fire exit; do not use the lift",
-				"emoji": "🚪"
+				"emoji": "🚪",
+				"image": null
 			},
 			{
 				"text": "Go to the assembly point and stay with your group",
-				"emoji": "📍"
+				"emoji": "📍",
+				"image": null
 			},
 			{
 				"text": "Wait for the all-clear before returning inside",
-				"emoji": "⏳"
+				"emoji": "⏳",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -4019,23 +4664,28 @@
 		"steps": [
 			{
 				"text": "Choose the right moment, not when things are rushed or tense",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Say \"I want to let you know how I communicate best\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Share what helps: \"I prefer direct language\" or \"I need a moment to process before I respond\"",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "You can add: \"I'm not being rude; this is just how I work best\"",
-				"emoji": "🙂"
+				"emoji": "🙂",
+				"image": null
 			},
 			{
 				"text": "Thank them for listening: \"I really appreciate you knowing this\"",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -4050,23 +4700,28 @@
 		"steps": [
 			{
 				"text": "You have every right to ask for communication that works for you",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Say \"Could you slow down a little? I want to make sure I understand\"",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			},
 			{
 				"text": "Or: \"Could you say that again more slowly?\"",
-				"emoji": "🔄"
+				"emoji": "🔄",
+				"image": null
 			},
 			{
 				"text": "If they speak too quietly: \"Sorry, could you speak up a bit?\"",
-				"emoji": "🔊"
+				"emoji": "🔊",
+				"image": null
 			},
 			{
 				"text": "Most people won't mind; it shows you're listening carefully",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -4081,27 +4736,33 @@
 		"steps": [
 			{
 				"text": "Unexpected changes can feel very difficult; that reaction is valid",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Take a slow breath before reacting",
-				"emoji": "🫁"
+				"emoji": "🫁",
+				"image": null
 			},
 			{
 				"text": "Say \"I need a moment to adjust to this\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Write down the new plan to make it concrete",
-				"emoji": "📝"
+				"emoji": "📝",
+				"image": null
 			},
 			{
 				"text": "Identify one thing that's still the same as before",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "With time, the new plan will feel more familiar",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -4116,23 +4777,28 @@
 		"steps": [
 			{
 				"text": "Everyone makes social mistakes, autistic or not",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Don't replay it obsessively; notice the thought and let it pass",
-				"emoji": "🫁"
+				"emoji": "🫁",
+				"image": null
 			},
 			{
 				"text": "If it affected someone, a brief apology is often enough: \"I'm sorry if that came out wrong\"",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			},
 			{
 				"text": "Remember: most people think about themselves, not your mistake, five minutes later",
-				"emoji": "😊"
+				"emoji": "😊",
+				"image": null
 			},
 			{
 				"text": "Ask yourself: \"What would I tell a friend in this situation?\" Then say it to yourself.",
-				"emoji": "❤️"
+				"emoji": "❤️",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -4147,23 +4813,28 @@
 		"steps": [
 			{
 				"text": "Bring the items you want to the fitting room area",
-				"emoji": "👗"
+				"emoji": "👗",
+				"image": null
 			},
 			{
 				"text": "Ask the attendant \"Can I use a changing room, please?\"",
-				"emoji": "🙋"
+				"emoji": "🙋",
+				"image": null
 			},
 			{
 				"text": "They may count your items and give you a tag",
-				"emoji": "🔢"
+				"emoji": "🔢",
+				"image": null
 			},
 			{
 				"text": "Try the items and keep everything else on a hanger",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			},
 			{
 				"text": "Return unwanted items to the attendant; don't leave them in the room",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -4178,19 +4849,23 @@
 		"steps": [
 			{
 				"text": "They'll often say \"Can I help you find anything?\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "If you want help: \"Yes, I'm looking for [item]\"",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			},
 			{
 				"text": "If you're just browsing, say \"No thanks, just looking\"; that's fine",
-				"emoji": "✋"
+				"emoji": "✋",
+				"image": null
 			},
 			{
 				"text": "You don't need to explain yourself further",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -4205,23 +4880,28 @@
 		"steps": [
 			{
 				"text": "Keep your receipt; it's your proof of purchase",
-				"emoji": "🧾"
+				"emoji": "🧾",
+				"image": null
 			},
 			{
 				"text": "Return to the store and explain calmly: \"I bought this [X] days ago and it's already stopped working\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Ask \"Am I entitled to a replacement or refund?\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "In most countries, consumer law protects you for faulty goods",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "If they refuse, ask to speak to a manager or contact consumer advice",
-				"emoji": "🔺"
+				"emoji": "🔺",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -4236,23 +4916,28 @@
 		"steps": [
 			{
 				"text": "Write down your symptoms, concerns, and any questions in advance",
-				"emoji": "📝"
+				"emoji": "📝",
+				"image": null
 			},
 			{
 				"text": "You can bring a support person or ask them to join by phone",
-				"emoji": "🤝"
+				"emoji": "🤝",
+				"image": null
 			},
 			{
 				"text": "Tell the doctor at the start: \"I'm autistic; I may need information repeated or written down\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Don't minimise symptoms; describe them as clearly as you can",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Ask for a written summary of the appointment or next steps",
-				"emoji": "📋"
+				"emoji": "📋",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -4267,23 +4952,28 @@
 		"steps": [
 			{
 				"text": "Find the appropriate aisle, or ask staff to point you to it",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Read labels carefully for dosage and age suitability",
-				"emoji": "💊"
+				"emoji": "💊",
+				"image": null
 			},
 			{
 				"text": "If unsure, ask the pharmacist: \"Is this appropriate for [condition]?\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "Tell them of any other medications you take: \"I also take [medication]; is this safe?\"",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Take only the recommended amount",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -4298,23 +4988,28 @@
 		"steps": [
 			{
 				"text": "Masking (hiding autistic traits) is exhausting and valid to talk about",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Say \"I want to tell you about something called masking\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Explain: \"I often hide how I'm actually feeling or what I need to fit in\"",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Tell them the impact: \"It leaves me exhausted and I'm not always honest about my difficulties\"",
-				"emoji": "🌊"
+				"emoji": "🌊",
+				"image": null
 			},
 			{
 				"text": "Ask: \"Can we work on strategies so I don't have to do this as much?\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -4329,19 +5024,23 @@
 		"steps": [
 			{
 				"text": "It's always okay to decline food or drink",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Say \"No thank you; I'm fine for now\"",
-				"emoji": "✋"
+				"emoji": "✋",
+				"image": null
 			},
 			{
 				"text": "If they ask why, you don't need to give a detailed reason: \"I'm just not hungry, thanks\"",
-				"emoji": "🙂"
+				"emoji": "🙂",
+				"image": null
 			},
 			{
 				"text": "Don't feel pressured to eat or drink to be polite; your body is yours",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -4356,23 +5055,28 @@
 		"steps": [
 			{
 				"text": "Notice the signs: someone making you feel bad for having a boundary",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Stay calm and don't be drawn into justifying yourself",
-				"emoji": "🫁"
+				"emoji": "🫁",
+				"image": null
 			},
 			{
 				"text": "Say \"I hear that you're upset, but my answer is still no\"",
-				"emoji": "✋"
+				"emoji": "✋",
+				"image": null
 			},
 			{
 				"text": "You don't owe anyone an explanation for a decision about your own life",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Walk away if the pressure continues",
-				"emoji": "🚶"
+				"emoji": "🚶",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -4387,23 +5091,28 @@
 		"steps": [
 			{
 				"text": "Write down your early warning signs: what does overwhelm feel like for you?",
-				"emoji": "📝"
+				"emoji": "📝",
+				"image": null
 			},
 			{
 				"text": "List 3 things that help you regulate: headphones, walking, breathing, cold water",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Identify 2 safe people you can contact when struggling",
-				"emoji": "🤝"
+				"emoji": "🤝",
+				"image": null
 			},
 			{
 				"text": "Write down your go-to exit strategies for different places",
-				"emoji": "🚪"
+				"emoji": "🚪",
+				"image": null
 			},
 			{
 				"text": "Keep this plan somewhere accessible: your phone, wallet, or bag",
-				"emoji": "📱"
+				"emoji": "📱",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -4418,23 +5127,28 @@
 		"steps": [
 			{
 				"text": "Find someone in a uniform or with an ID badge",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Say \"Excuse me; I need to report something\"",
-				"emoji": "🙋"
+				"emoji": "🙋",
+				"image": null
 			},
 			{
 				"text": "Describe the problem clearly: what happened, where, and when",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Give as much detail as you can without adding opinion",
-				"emoji": "📝"
+				"emoji": "📝",
+				"image": null
 			},
 			{
 				"text": "Ask \"What happens next?\" so you know what to expect",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -4449,23 +5163,28 @@
 		"steps": [
 			{
 				"text": "Wait until other students have left or there's a quiet moment",
-				"emoji": "⏳"
+				"emoji": "⏳",
+				"image": null
 			},
 			{
 				"text": "Say \"Excuse me, do you have a moment? I had a question about [topic]\"",
-				"emoji": "🙋"
+				"emoji": "🙋",
+				"image": null
 			},
 			{
 				"text": "Explain specifically what you don't understand",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "Listen carefully and take notes",
-				"emoji": "📝"
+				"emoji": "📝",
+				"image": null
 			},
 			{
 				"text": "Thank them: \"That makes a lot more sense now; thank you\"",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -4480,23 +5199,28 @@
 		"steps": [
 			{
 				"text": "It's okay to ask; not everyone understands every type of humour",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Say \"Sorry, were you joking there, or do you mean that literally?\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "Or: \"I'm not sure if I got that; can you explain?\"",
-				"emoji": "😅"
+				"emoji": "😅",
+				"image": null
 			},
 			{
 				"text": "Most people find this endearing rather than awkward",
-				"emoji": "🙂"
+				"emoji": "🙂",
+				"image": null
 			},
 			{
 				"text": "Once you know, you can decide how to respond",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -4511,23 +5235,28 @@
 		"steps": [
 			{
 				"text": "New places can feel uncertain; take it slowly",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Find one familiar or predictable thing to anchor to",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Breathe slowly and move at your own pace",
-				"emoji": "🫁"
+				"emoji": "🫁",
+				"image": null
 			},
 			{
 				"text": "Give yourself permission to leave if you need to",
-				"emoji": "🚪"
+				"emoji": "🚪",
+				"image": null
 			},
 			{
 				"text": "Each time you return, it will feel more familiar",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -4542,23 +5271,28 @@
 		"steps": [
 			{
 				"text": "You don't have to say \"fine\" if you're not",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "You can say \"Not really, but I'm managing\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Or: \"I'm having a bit of a hard time at the moment\"",
-				"emoji": "🌊"
+				"emoji": "🌊",
+				"image": null
 			},
 			{
 				"text": "If you want to talk: \"Would you have a moment to listen?\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "If not: \"I'd rather not get into it right now, but thanks for asking\"",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -4573,23 +5307,28 @@
 		"steps": [
 			{
 				"text": "Look for someone who has space next to them",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Approach and ask \"Is anyone sitting here?\"",
-				"emoji": "🙋"
+				"emoji": "🙋",
+				"image": null
 			},
 			{
 				"text": "If they say yes: \"Do you mind if I sit here?\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Sit down and you don't have to talk; eating quietly next to someone is fine",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "If they start talking, respond briefly and warmly",
-				"emoji": "😊"
+				"emoji": "😊",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -4604,23 +5343,28 @@
 		"steps": [
 			{
 				"text": "If you notice they seem upset or the conversation went quiet, check in",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Say \"I'm sorry; I think what I said might have come across badly\"",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			},
 			{
 				"text": "Clarify what you meant: \"I didn't mean it that way; I meant [X]\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Listen to how they took it without getting defensive",
-				"emoji": "👂"
+				"emoji": "👂",
+				"image": null
 			},
 			{
 				"text": "Thank them for telling you: \"I'm glad I know; I'll be more careful\"",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -4635,23 +5379,28 @@
 		"steps": [
 			{
 				"text": "Give yourself time to adjust; it's completely normal to find change hard",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Explore the area in small steps: the nearest shop, park, transport stop",
-				"emoji": "🗺️"
+				"emoji": "🗺️",
+				"image": null
 			},
 			{
 				"text": "Find the routines that anchor you: a regular coffee spot, a walking route",
-				"emoji": "☕"
+				"emoji": "☕",
+				"image": null
 			},
 			{
 				"text": "Introduce yourself to immediate neighbours when you're ready: \"Hi, I've just moved in next door\"",
-				"emoji": "👋"
+				"emoji": "👋",
+				"image": null
 			},
 			{
 				"text": "Look for a local group or club connected to your interests",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -4666,23 +5415,28 @@
 		"steps": [
 			{
 				"text": "Research what to expect and any dress code in advance",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Arrive a few minutes early and find a seat near an exit if that helps",
-				"emoji": "⏰"
+				"emoji": "⏰",
+				"image": null
 			},
 			{
 				"text": "Follow the lead of others: stand, sit, and move when they do",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "If you're unsure of something, it's fine to stay seated quietly",
-				"emoji": "🪑"
+				"emoji": "🪑",
+				"image": null
 			},
 			{
 				"text": "At the end, a simple \"Thank you\" to a greeter is always appreciated",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -4697,23 +5451,28 @@
 		"steps": [
 			{
 				"text": "Send a brief message a day or two beforehand",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Say \"Just a reminder about [event] on [day] at [time]\"",
-				"emoji": "🗓️"
+				"emoji": "🗓️",
+				"image": null
 			},
 			{
 				"text": "Include the location if helpful",
-				"emoji": "📍"
+				"emoji": "📍",
+				"image": null
 			},
 			{
 				"text": "Ask \"Does that still work for you?\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "A short, friendly reminder is helpful, not annoying",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -4728,23 +5487,28 @@
 		"steps": [
 			{
 				"text": "Sometimes a written apology is easier to express clearly",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Start with \"I wanted to apologise for [what happened]\"",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			},
 			{
 				"text": "Keep it brief and genuine; don't over-explain",
-				"emoji": "📝"
+				"emoji": "📝",
+				"image": null
 			},
 			{
 				"text": "Don't add \"but\"; it undoes the apology",
-				"emoji": "🛑"
+				"emoji": "🛑",
+				"image": null
 			},
 			{
 				"text": "End with \"I hope we're okay\" or \"Let me know if you want to talk\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -4759,23 +5523,28 @@
 		"steps": [
 			{
 				"text": "You have the right to know about what you're taking",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Ask the pharmacist or doctor: \"What side effects should I know about?\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "Ask: \"When should I be concerned and contact you?\"",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Write down the answers or ask for a leaflet",
-				"emoji": "📝"
+				"emoji": "📝",
+				"image": null
 			},
 			{
 				"text": "If you notice something unusual, report it; don't just stop the medication",
-				"emoji": "⚠️"
+				"emoji": "⚠️",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -4790,23 +5559,28 @@
 		"steps": [
 			{
 				"text": "You always have the right to seek a second medical opinion",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Ask your current doctor: \"Is it possible to get a second opinion on this?\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "Or contact another clinic and say \"I'd like a second opinion on [condition]\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Request copies of your records and test results",
-				"emoji": "📋"
+				"emoji": "📋",
+				"image": null
 			},
 			{
 				"text": "This isn't disrespectful; it's a normal part of healthcare",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -4821,23 +5595,28 @@
 		"steps": [
 			{
 				"text": "Some topics are private and you don't have to discuss them",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Say \"That's a bit personal; I'd rather not get into it\"",
-				"emoji": "✋"
+				"emoji": "✋",
+				"image": null
 			},
 			{
 				"text": "Or: \"I prefer to keep that private\"",
-				"emoji": "🛡️"
+				"emoji": "🛡️",
+				"image": null
 			},
 			{
 				"text": "You don't need to apologise for having privacy",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			},
 			{
 				"text": "Change the subject: \"Anyway, how about you? What's new with you?\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -4852,23 +5631,28 @@
 		"steps": [
 			{
 				"text": "Your sensory needs are valid and worth communicating",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Pick a calm moment, not in the middle of a social situation",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Say \"I want to let you know that I'm sensitive to [loud sounds / touch / smells, etc.]\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Tell them what helps: \"If [thing] is happening, I may need to step away\"",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Thank them for understanding: \"I appreciate you knowing this about me\"",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -4883,23 +5667,28 @@
 		"steps": [
 			{
 				"text": "Wait at least a week after the deadline before following up",
-				"emoji": "⏳"
+				"emoji": "⏳",
+				"image": null
 			},
 			{
 				"text": "Send a brief email: \"Hi, I'm writing to follow up on my application for [role]\"",
-				"emoji": "📧"
+				"emoji": "📧",
+				"image": null
 			},
 			{
 				"text": "Say \"I remain very interested and wanted to check on the timeline\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Keep it short; 3–4 sentences maximum",
-				"emoji": "📝"
+				"emoji": "📝",
+				"image": null
 			},
 			{
 				"text": "Sign off professionally: \"Thank you for your time, [your name]\"",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -4914,19 +5703,23 @@
 		"steps": [
 			{
 				"text": "Regular feedback helps you know you're on track",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Say \"I work best when I have regular feedback; could we schedule a brief weekly check-in?\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Suggest a format: \"Even 10 minutes would help me stay aligned with priorities\"",
-				"emoji": "📅"
+				"emoji": "📅",
+				"image": null
 			},
 			{
 				"text": "Most good managers will welcome this; it shows initiative",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -4941,19 +5734,23 @@
 		"steps": [
 			{
 				"text": "Many people process written information better; you're not alone",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Say \"Could I have those instructions in writing too? It helps me make sure I get everything right\"",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			},
 			{
 				"text": "Or: \"Could you email that to me so I can refer back to it?\"",
-				"emoji": "📧"
+				"emoji": "📧",
+				"image": null
 			},
 			{
 				"text": "This is a reasonable request and most teachers and managers will agree",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -4968,27 +5765,33 @@
 		"steps": [
 			{
 				"text": "Disclosure is your choice; there's no right or wrong time",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Choose someone you feel comfortable with and a calm setting",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Say \"There's something I'd like to share: I'm autistic\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "You can explain what that means for you: \"For me it means [X]\"",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Answer any questions honestly and calmly",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "A good friend will appreciate your trust and want to understand",
-				"emoji": "❤️"
+				"emoji": "❤️",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -5003,23 +5806,28 @@
 		"steps": [
 			{
 				"text": "Stimming is a natural and valid way to self-regulate",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "If someone comments, say calmly: \"This is something I do to help manage my senses\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Or: \"It helps me focus and stay calm\"",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "You don't owe anyone a detailed explanation",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			},
 			{
 				"text": "If they're respectful and curious, you can share more if you choose",
-				"emoji": "🙂"
+				"emoji": "🙂",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -5034,23 +5842,28 @@
 		"steps": [
 			{
 				"text": "Social rules can feel confusing and exhausting; that's valid",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Remind yourself: you don't have to do everything perfectly",
-				"emoji": "🫁"
+				"emoji": "🫁",
+				"image": null
 			},
 			{
 				"text": "Focus on one interaction at a time, not all the rules at once",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Give yourself recovery time after intense social events; it's not weakness",
-				"emoji": "❤️"
+				"emoji": "❤️",
+				"image": null
 			},
 			{
 				"text": "Talk to a therapist or trusted person about what's hardest",
-				"emoji": "🤝"
+				"emoji": "🤝",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -5065,23 +5878,28 @@
 		"steps": [
 			{
 				"text": "Personal space is an arm's length around each person",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "When talking to someone, stay at a comfortable distance, about arm's length",
-				"emoji": "↔️"
+				"emoji": "↔️",
+				"image": null
 			},
 			{
 				"text": "If they step back, don't step closer",
-				"emoji": "🚶"
+				"emoji": "🚶",
+				"image": null
 			},
 			{
 				"text": "If someone is too close to you, step back or say \"Could you give me a little more space?\"",
-				"emoji": "🤚"
+				"emoji": "🤚",
+				"image": null
 			},
 			{
 				"text": "Online: personal space means not messaging someone repeatedly before they reply",
-				"emoji": "📱"
+				"emoji": "📱",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -5096,23 +5914,28 @@
 		"steps": [
 			{
 				"text": "If something belongs to everyone, take turns using it",
-				"emoji": "🔄"
+				"emoji": "🔄",
+				"image": null
 			},
 			{
 				"text": "Ask before picking something up that belongs to another person",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "If someone asks to use yours, you can share or say \"I'm using it right now; you can have a go when I'm done\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Sharing doesn't mean giving something away forever",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Return borrowed things in good condition",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -5127,23 +5950,28 @@
 		"steps": [
 			{
 				"text": "Use the cubicle for privacy; lock the door",
-				"emoji": "🔒"
+				"emoji": "🔒",
+				"image": null
 			},
 			{
 				"text": "Flush when done",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			},
 			{
 				"text": "Wash your hands with soap for at least 20 seconds",
-				"emoji": "🧼"
+				"emoji": "🧼",
+				"image": null
 			},
 			{
 				"text": "Dry your hands and dispose of paper towels in the bin",
-				"emoji": "🗑️"
+				"emoji": "🗑️",
+				"image": null
 			},
 			{
 				"text": "Leave the space as you found it for the next person",
-				"emoji": "🚻"
+				"emoji": "🚻",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -5158,23 +5986,28 @@
 		"steps": [
 			{
 				"text": "In a shop or restaurant: look for signs or ask staff",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "In a library, museum or cinema: look for signs near the entrance",
-				"emoji": "📋"
+				"emoji": "📋",
+				"image": null
 			},
 			{
 				"text": "On a bus or train: ask the driver/guard",
-				"emoji": "🚌"
+				"emoji": "🚌",
+				"image": null
 			},
 			{
 				"text": "In an airport: they are very well signed throughout",
-				"emoji": "🛫"
+				"emoji": "🛫",
+				"image": null
 			},
 			{
 				"text": "It's okay to ask; everyone needs the bathroom",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -5189,23 +6022,28 @@
 		"steps": [
 			{
 				"text": "One clear apology is usually enough; repeating it can make things more awkward",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Say \"I'm sorry for [specific thing]\" once and clearly",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			},
 			{
 				"text": "Don't say \"I'm so, so sorry, I'm terrible\"; it shifts the focus to you",
-				"emoji": "🛑"
+				"emoji": "🛑",
+				"image": null
 			},
 			{
 				"text": "After apologising, move forward; don't keep bringing it up",
-				"emoji": "🚶"
+				"emoji": "🚶",
+				"image": null
 			},
 			{
 				"text": "Showing change through your actions is more powerful than repeated words",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -5220,23 +6058,28 @@
 		"steps": [
 			{
 				"text": "Book the ride in the app; confirm the destination before requesting",
-				"emoji": "📱"
+				"emoji": "📱",
+				"image": null
 			},
 			{
 				"text": "Wait at the pickup spot shown in the app",
-				"emoji": "📍"
+				"emoji": "📍",
+				"image": null
 			},
 			{
 				"text": "Check the driver's name, car, and plate number match the app",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Greet briefly: \"Hi\" is enough; you don't have to chat",
-				"emoji": "👋"
+				"emoji": "👋",
+				"image": null
 			},
 			{
 				"text": "Rate the driver after the trip if prompted",
-				"emoji": "⭐"
+				"emoji": "⭐",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -5251,23 +6094,28 @@
 		"steps": [
 			{
 				"text": "Arrive a few minutes early and sign in if required",
-				"emoji": "⏰"
+				"emoji": "⏰",
+				"image": null
 			},
 			{
 				"text": "Say a brief \"Good morning\" to your team",
-				"emoji": "☀️"
+				"emoji": "☀️",
+				"image": null
 			},
 			{
 				"text": "Check for any messages or updates before starting your tasks",
-				"emoji": "📋"
+				"emoji": "📋",
+				"image": null
 			},
 			{
 				"text": "At the end of your shift, complete any handover and log out",
-				"emoji": "🖥️"
+				"emoji": "🖥️",
+				"image": null
 			},
 			{
 				"text": "Say \"See you tomorrow\" or \"Goodbye\" to those nearby",
-				"emoji": "👋"
+				"emoji": "👋",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -5282,27 +6130,33 @@
 		"steps": [
 			{
 				"text": "Think about what you did that hurt them",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Choose a calm moment, not when you're still upset",
-				"emoji": "🫁"
+				"emoji": "🫁",
+				"image": null
 			},
 			{
 				"text": "Say \"I'm sorry for [what you did]\"",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			},
 			{
 				"text": "Don't add \"but\"; a real apology doesn't have conditions",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Ask \"Are you okay?\" and listen to what they say",
-				"emoji": "👂"
+				"emoji": "👂",
+				"image": null
 			},
 			{
 				"text": "Give them space if they need time",
-				"emoji": "❤️"
+				"emoji": "❤️",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -5317,23 +6171,28 @@
 		"steps": [
 			{
 				"text": "Even accidents can hurt feelings; apologizing still matters",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Say \"I'm sorry; I didn't mean to do that\"",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			},
 			{
 				"text": "Ask \"Are you okay?\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "Listen to their answer and don't rush to defend yourself",
-				"emoji": "👂"
+				"emoji": "👂",
+				"image": null
 			},
 			{
 				"text": "Offer to help if you can fix the situation",
-				"emoji": "🤝"
+				"emoji": "🤝",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -5348,23 +6207,28 @@
 		"steps": [
 			{
 				"text": "Everyone makes mistakes; they don't make you a bad person",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Take a breath and notice what went wrong",
-				"emoji": "🫁"
+				"emoji": "🫁",
+				"image": null
 			},
 			{
 				"text": "Say \"I made a mistake. I need to fix it.\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Do what you can to put it right",
-				"emoji": "🔧"
+				"emoji": "🔧",
+				"image": null
 			},
 			{
 				"text": "Learn from it and let it go; you don't have to dwell on it",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -5379,23 +6243,28 @@
 		"steps": [
 			{
 				"text": "Tell them as soon as possible; the longer you wait, the harder it gets",
-				"emoji": "⏰"
+				"emoji": "⏰",
+				"image": null
 			},
 			{
 				"text": "Say \"I'm really sorry; I broke/lost your [item]\"",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			},
 			{
 				"text": "Be honest about what happened",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Offer to replace or repair it if you can",
-				"emoji": "🔧"
+				"emoji": "🔧",
+				"image": null
 			},
 			{
 				"text": "Accept their feelings; they may be upset and that's fair",
-				"emoji": "❤️"
+				"emoji": "❤️",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -5410,23 +6279,28 @@
 		"steps": [
 			{
 				"text": "Take a moment before you respond",
-				"emoji": "⏳"
+				"emoji": "⏳",
+				"image": null
 			},
 			{
 				"text": "If you're ready to forgive, say \"Thank you for apologizing\" or \"It's okay\"",
-				"emoji": "🙂"
+				"emoji": "🙂",
+				"image": null
 			},
 			{
 				"text": "If you're not ready, it's okay to say \"I need a bit more time\"",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "You don't have to pretend the hurt didn't happen",
-				"emoji": "❤️"
+				"emoji": "❤️",
+				"image": null
 			},
 			{
 				"text": "Forgiveness is a process; it doesn't have to be immediate",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -5441,23 +6315,28 @@
 		"steps": [
 			{
 				"text": "Find a private or quiet moment to apologize",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Say \"I want to apologize for [what happened]\"",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			},
 			{
 				"text": "Be specific and brief; don't over-explain",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Say \"It won't happen again\"",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			},
 			{
 				"text": "If appropriate: \"What can I do to make it right?\"",
-				"emoji": "🤝"
+				"emoji": "🤝",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -5472,23 +6351,28 @@
 		"steps": [
 			{
 				"text": "Losing feels hard; that's normal, it's okay to feel it",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Take a slow breath before you react",
-				"emoji": "🫁"
+				"emoji": "🫁",
+				"image": null
 			},
 			{
 				"text": "Say \"Good game\" or \"Well played\" to the winner",
-				"emoji": "👍"
+				"emoji": "👍",
+				"image": null
 			},
 			{
 				"text": "Try not to talk about what went wrong right away",
-				"emoji": "🛑"
+				"emoji": "🛑",
+				"image": null
 			},
 			{
 				"text": "If you want a rematch, ask calmly: \"Want to play again?\"",
-				"emoji": "😊"
+				"emoji": "😊",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -5503,23 +6387,28 @@
 		"steps": [
 			{
 				"text": "Winning feels good; it's fine to be happy inside",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Say \"Good game\" instead of announcing you won loudly",
-				"emoji": "🤝"
+				"emoji": "🤝",
+				"image": null
 			},
 			{
 				"text": "Don't replay winning moments or explain how the other person lost",
-				"emoji": "🛑"
+				"emoji": "🛑",
+				"image": null
 			},
 			{
 				"text": "Ask if they want to play again",
-				"emoji": "🎮"
+				"emoji": "🎮",
+				"image": null
 			},
 			{
 				"text": "Being a fair winner makes people want to play with you again",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -5534,23 +6423,28 @@
 		"steps": [
 			{
 				"text": "Look around to see who else is there and what they're doing",
-				"emoji": "👀"
+				"emoji": "👀",
+				"image": null
 			},
 			{
 				"text": "Wait your turn for equipment; others are there too",
-				"emoji": "⏳"
+				"emoji": "⏳",
+				"image": null
 			},
 			{
 				"text": "If you want to join a game, ask: \"Can I play too?\"",
-				"emoji": "🙋"
+				"emoji": "🙋",
+				"image": null
 			},
 			{
 				"text": "Be gentle and don't push; everyone has the right to feel safe",
-				"emoji": "🤚"
+				"emoji": "🤚",
+				"image": null
 			},
 			{
 				"text": "If someone is being unkind, walk away and tell an adult",
-				"emoji": "🆘"
+				"emoji": "🆘",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -5565,23 +6459,28 @@
 		"steps": [
 			{
 				"text": "Watch the game for a moment to understand the rules",
-				"emoji": "👀"
+				"emoji": "👀",
+				"image": null
 			},
 			{
 				"text": "Wait for a natural pause in the action",
-				"emoji": "⏳"
+				"emoji": "⏳",
+				"image": null
 			},
 			{
 				"text": "Say \"That looks fun; can I join in?\"",
-				"emoji": "😊"
+				"emoji": "😊",
+				"image": null
 			},
 			{
 				"text": "Accept the answer; if it's no, that's okay. Try again another time.",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "If yes, ask about any rules you're not sure about",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -5596,19 +6495,23 @@
 		"steps": [
 			{
 				"text": "Wait for the other person to finish their turn",
-				"emoji": "⏳"
+				"emoji": "⏳",
+				"image": null
 			},
 			{
 				"text": "Keep track of whose turn it is; you can say it out loud: \"My turn, then yours\"",
-				"emoji": "🔄"
+				"emoji": "🔄",
+				"image": null
 			},
 			{
 				"text": "If you forget, ask calmly: \"Whose turn is it?\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "Cheer for the other player sometimes; it feels good for both of you",
-				"emoji": "👏"
+				"emoji": "👏",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -5623,23 +6526,28 @@
 		"steps": [
 			{
 				"text": "Notice the feeling in your body; is it getting too intense?",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Take a deep breath and pause for a moment",
-				"emoji": "🫁"
+				"emoji": "🫁",
+				"image": null
 			},
 			{
 				"text": "You can say \"I need a second\"; short breaks are okay",
-				"emoji": "⏸️"
+				"emoji": "⏸️",
+				"image": null
 			},
 			{
 				"text": "Ask yourself: \"Is it worth staying upset?\" Usually the answer is no.",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "If you need to stop playing, say \"I want to take a break from this game\"",
-				"emoji": "🚶"
+				"emoji": "🚶",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -5654,23 +6562,28 @@
 		"steps": [
 			{
 				"text": "Stay calm; getting angry usually makes things worse",
-				"emoji": "🫁"
+				"emoji": "🫁",
+				"image": null
 			},
 			{
 				"text": "Say \"I think the rule is [X]; can we check?\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Suggest looking up the rules together if you're unsure",
-				"emoji": "📖"
+				"emoji": "📖",
+				"image": null
 			},
 			{
 				"text": "If they keep bending rules, you can say \"It's not as fun when rules aren't followed\"",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "You can choose not to play; it's okay to stop a game",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -5685,23 +6598,28 @@
 		"steps": [
 			{
 				"text": "Sit down at the table when it's time to eat",
-				"emoji": "🪑"
+				"emoji": "🪑",
+				"image": null
 			},
 			{
 				"text": "Wait until everyone is served before starting if that's the custom",
-				"emoji": "⏳"
+				"emoji": "⏳",
+				"image": null
 			},
 			{
 				"text": "Chew with your mouth closed and don't talk while swallowing",
-				"emoji": "🤐"
+				"emoji": "🤐",
+				"image": null
 			},
 			{
 				"text": "Say \"Please\" when asking for something and \"Thank you\" when you receive it",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			},
 			{
 				"text": "If you don't like something, you can say \"No thank you\"",
-				"emoji": "✋"
+				"emoji": "✋",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -5716,27 +6634,33 @@
 		"steps": [
 			{
 				"text": "Use an indoor voice; restaurants are shared spaces",
-				"emoji": "🔇"
+				"emoji": "🔇",
+				"image": null
 			},
 			{
 				"text": "Keep your phone down unless needed",
-				"emoji": "📵"
+				"emoji": "📵",
+				"image": null
 			},
 			{
 				"text": "Use utensils rather than fingers when expected",
-				"emoji": "🍴"
+				"emoji": "🍴",
+				"image": null
 			},
 			{
 				"text": "Say \"Excuse me\" to get a waiter's attention; don't click or shout",
-				"emoji": "🙋"
+				"emoji": "🙋",
+				"image": null
 			},
 			{
 				"text": "Wait for everyone to be served before eating, if you can",
-				"emoji": "⏳"
+				"emoji": "⏳",
+				"image": null
 			},
 			{
 				"text": "Say \"Thank you\" when plates are cleared or drinks are refilled",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -5751,23 +6675,28 @@
 		"steps": [
 			{
 				"text": "Cover your mouth and nose with your elbow or a tissue",
-				"emoji": "🤧"
+				"emoji": "🤧",
+				"image": null
 			},
 			{
 				"text": "Turn away from people if you can",
-				"emoji": "🔄"
+				"emoji": "🔄",
+				"image": null
 			},
 			{
 				"text": "Say \"Excuse me\" after you sneeze or cough",
-				"emoji": "🙂"
+				"emoji": "🙂",
+				"image": null
 			},
 			{
 				"text": "Dispose of the tissue and wash or sanitise your hands",
-				"emoji": "🧼"
+				"emoji": "🧼",
+				"image": null
 			},
 			{
 				"text": "If you're unwell, wear a mask or give people extra space",
-				"emoji": "😷"
+				"emoji": "😷",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -5782,19 +6711,23 @@
 		"steps": [
 			{
 				"text": "Bodies sometimes make noises; it happens to everyone",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Say \"Excuse me\" quietly",
-				"emoji": "🙂"
+				"emoji": "🙂",
+				"image": null
 			},
 			{
 				"text": "Don't bring a lot of attention to it",
-				"emoji": "🤐"
+				"emoji": "🤐",
+				"image": null
 			},
 			{
 				"text": "If someone makes a big deal about it, you can say \"It happens to everyone\"",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -5809,23 +6742,28 @@
 		"steps": [
 			{
 				"text": "Find the back of the line and join there",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Keep a body-width of space between you and the person ahead",
-				"emoji": "↔️"
+				"emoji": "↔️",
+				"image": null
 			},
 			{
 				"text": "Wait patiently; everyone is waiting too",
-				"emoji": "⏳"
+				"emoji": "⏳",
+				"image": null
 			},
 			{
 				"text": "If someone cuts in front, you can say \"Excuse me, I was next\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Be ready when it's your turn so the queue moves faster for everyone",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -5840,19 +6778,23 @@
 		"steps": [
 			{
 				"text": "If someone is close behind you at a door, hold it open briefly",
-				"emoji": "🚪"
+				"emoji": "🚪",
+				"image": null
 			},
 			{
 				"text": "You don't have to hold it for very long; just enough so it doesn't close on them",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "They will usually say \"Thank you\"",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			},
 			{
 				"text": "Nod or say \"No problem\" or just smile",
-				"emoji": "🙂"
+				"emoji": "🙂",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -5867,23 +6809,28 @@
 		"steps": [
 			{
 				"text": "Take off your shoes at the door unless told otherwise",
-				"emoji": "👟"
+				"emoji": "👟",
+				"image": null
 			},
 			{
 				"text": "Say \"Thank you for having me\" when you arrive",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			},
 			{
 				"text": "Ask before touching or using things that aren't yours",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "Help tidy up after meals if you can",
-				"emoji": "🍽️"
+				"emoji": "🍽️",
+				"image": null
 			},
 			{
 				"text": "Before you leave, say \"Thank you; I had a really nice time\"",
-				"emoji": "😊"
+				"emoji": "😊",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -5898,23 +6845,28 @@
 		"steps": [
 			{
 				"text": "The person put effort into thinking of you; that matters",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Smile and say \"Thank you, that's really kind of you\"",
-				"emoji": "🙂"
+				"emoji": "🙂",
+				"image": null
 			},
 			{
 				"text": "Find something true and positive to say: \"I love the colour\" or \"That was thoughtful\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "You don't have to lie about loving it, but you don't need to say you dislike it either",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			},
 			{
 				"text": "Keep your reaction brief, then move the conversation on",
-				"emoji": "🚶"
+				"emoji": "🚶",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -5929,19 +6881,23 @@
 		"steps": [
 			{
 				"text": "It's wonderful to show genuine excitement!",
-				"emoji": "🎉"
+				"emoji": "🎉",
+				"image": null
 			},
 			{
 				"text": "Say \"Thank you so much! I love this!\"",
-				"emoji": "🎁"
+				"emoji": "🎁",
+				"image": null
 			},
 			{
 				"text": "Tell them specifically why you like it if you can",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Giving a hug or high-five is optional; go with whatever feels natural for you",
-				"emoji": "🤗"
+				"emoji": "🤗",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -5956,19 +6912,23 @@
 		"steps": [
 			{
 				"text": "Hand the gift over and say \"This is for you\"",
-				"emoji": "🎁"
+				"emoji": "🎁",
+				"image": null
 			},
 			{
 				"text": "You can add \"I thought you might like it\" or \"Happy birthday!\"",
-				"emoji": "🎂"
+				"emoji": "🎂",
+				"image": null
 			},
 			{
 				"text": "Wait while they open it; watch their reaction without staring",
-				"emoji": "👀"
+				"emoji": "👀",
+				"image": null
 			},
 			{
 				"text": "If they thank you, say \"I'm glad you like it\" or \"You're welcome\"",
-				"emoji": "🙂"
+				"emoji": "🙂",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -5983,27 +6943,33 @@
 		"steps": [
 			{
 				"text": "Go with a trusted adult or group; safety first",
-				"emoji": "🛡️"
+				"emoji": "🛡️",
+				"image": null
 			},
 			{
 				"text": "Knock or ring the doorbell and wait",
-				"emoji": "🔔"
+				"emoji": "🔔",
+				"image": null
 			},
 			{
 				"text": "When the door opens, say \"Trick or treat!\"",
-				"emoji": "🎃"
+				"emoji": "🎃",
+				"image": null
 			},
 			{
 				"text": "Hold out your bag or bucket when they offer sweets",
-				"emoji": "🍬"
+				"emoji": "🍬",
+				"image": null
 			},
 			{
 				"text": "Say \"Thank you!\" and move on; don't linger or ask for more",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			},
 			{
 				"text": "If no one answers, that's fine; just go to the next house",
-				"emoji": "🚶"
+				"emoji": "🚶",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -6018,27 +6984,33 @@
 		"steps": [
 			{
 				"text": "Arrive close to the start time, not too early or very late",
-				"emoji": "⏰"
+				"emoji": "⏰",
+				"image": null
 			},
 			{
 				"text": "Say \"Happy birthday!\" to the birthday person when you see them",
-				"emoji": "🎂"
+				"emoji": "🎂",
+				"image": null
 			},
 			{
 				"text": "Give the gift and let them open it in their own time",
-				"emoji": "🎁"
+				"emoji": "🎁",
+				"image": null
 			},
 			{
 				"text": "Try to join in at least one activity; even briefly is okay",
-				"emoji": "🎉"
+				"emoji": "🎉",
+				"image": null
 			},
 			{
 				"text": "If it feels overwhelming, it's okay to take a quiet break",
-				"emoji": "🫁"
+				"emoji": "🫁",
+				"image": null
 			},
 			{
 				"text": "Before you leave, thank the host: \"Thanks for inviting me\"",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -6053,23 +7025,28 @@
 		"steps": [
 			{
 				"text": "Big gatherings can be loud and unpredictable; plan for it",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Find a quiet spot to retreat to if you need a break",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "It's okay to say \"I'm going to get some air\" and step outside briefly",
-				"emoji": "🚶"
+				"emoji": "🚶",
+				"image": null
 			},
 			{
 				"text": "Have a signal with a trusted person if you need to leave early",
-				"emoji": "🤝"
+				"emoji": "🤝",
+				"image": null
 			},
 			{
 				"text": "You don't have to stay the whole time",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -6084,23 +7061,28 @@
 		"steps": [
 			{
 				"text": "Find someone you've talked to a few times or have things in common with",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Ask \"Do you want to hang out sometime?\"",
-				"emoji": "🙋"
+				"emoji": "🙋",
+				"image": null
 			},
 			{
 				"text": "Suggest something specific: \"We could play [game] or walk to [place]\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "If they say yes, great! Make a plan",
-				"emoji": "🎉"
+				"emoji": "🎉",
+				"image": null
 			},
 			{
 				"text": "If they say no or seem unsure, that's okay; not everyone will connect with you, and that's normal",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -6115,23 +7097,28 @@
 		"steps": [
 			{
 				"text": "Think of an activity you'd both enjoy",
-				"emoji": "🤔"
+				"emoji": "🤔",
+				"image": null
 			},
 			{
 				"text": "Say \"I was thinking of [activity]; would you want to come?\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Give them a specific time: \"Maybe Saturday afternoon?\"",
-				"emoji": "📅"
+				"emoji": "📅",
+				"image": null
 			},
 			{
 				"text": "Accept their answer without pressure",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			},
 			{
 				"text": "If they say yes, confirm the details before the day",
-				"emoji": "📝"
+				"emoji": "📝",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -6146,23 +7133,28 @@
 		"steps": [
 			{
 				"text": "Notice the difference: friendly teasing vs. mean teasing",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "If it bothers you, say calmly: \"I don't like being teased about that\"",
-				"emoji": "✋"
+				"emoji": "✋",
+				"image": null
 			},
 			{
 				"text": "If they continue, walk away; you don't have to stay",
-				"emoji": "🚶"
+				"emoji": "🚶",
+				"image": null
 			},
 			{
 				"text": "Tell a trusted adult or friend if it keeps happening",
-				"emoji": "🆘"
+				"emoji": "🆘",
+				"image": null
 			},
 			{
 				"text": "Teasing that upsets you regularly is bullying and you deserve help",
-				"emoji": "💪"
+				"emoji": "💪",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -6177,23 +7169,28 @@
 		"steps": [
 			{
 				"text": "Don't join in or ignore it; both make things worse",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "If it's safe: stand next to the person being bullied",
-				"emoji": "🤝"
+				"emoji": "🤝",
+				"image": null
 			},
 			{
 				"text": "Say to the bully: \"That's not cool; stop it\"",
-				"emoji": "✋"
+				"emoji": "✋",
+				"image": null
 			},
 			{
 				"text": "Tell a trusted adult what happened",
-				"emoji": "🆘"
+				"emoji": "🆘",
+				"image": null
 			},
 			{
 				"text": "Later, check in with the person: \"Are you okay? I saw what happened\"",
-				"emoji": "❤️"
+				"emoji": "❤️",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -6208,27 +7205,33 @@
 		"steps": [
 			{
 				"text": "Notice when a friend seems sad, quiet, or different than usual",
-				"emoji": "👀"
+				"emoji": "👀",
+				"image": null
 			},
 			{
 				"text": "Ask gently: \"Are you okay? You seem a bit quiet today\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Listen without trying to fix it or give advice straight away",
-				"emoji": "👂"
+				"emoji": "👂",
+				"image": null
 			},
 			{
 				"text": "You can say \"That sounds really hard. I'm here for you\"",
-				"emoji": "❤️"
+				"emoji": "❤️",
+				"image": null
 			},
 			{
 				"text": "Ask \"Is there anything I can do to help?\"",
-				"emoji": "🤝"
+				"emoji": "🤝",
+				"image": null
 			},
 			{
 				"text": "If you're worried about their safety, tell a trusted adult",
-				"emoji": "🆘"
+				"emoji": "🆘",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -6243,23 +7246,28 @@
 		"steps": [
 			{
 				"text": "If you always make the effort and they don't, notice that pattern",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Find a calm moment and say \"I feel like I'm always the one reaching out\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Ask \"Is everything okay between us?\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "Listen to their response; they might not have realised",
-				"emoji": "👂"
+				"emoji": "👂",
+				"image": null
 			},
 			{
 				"text": "Good friendships work both ways; it's okay to say that",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -6274,23 +7282,28 @@
 		"steps": [
 			{
 				"text": "You have the right to say no to anything that makes you uncomfortable",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Say \"No thanks, that's not for me\"",
-				"emoji": "✋"
+				"emoji": "✋",
+				"image": null
 			},
 			{
 				"text": "If they push back, say \"I said no; please respect that\"",
-				"emoji": "💪"
+				"emoji": "💪",
+				"image": null
 			},
 			{
 				"text": "Real friends won't pressure you",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Walk away and, if needed, tell a trusted person what happened",
-				"emoji": "🚶"
+				"emoji": "🚶",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -6305,23 +7318,28 @@
 		"steps": [
 			{
 				"text": "Don't respond right away; step away from the screen first",
-				"emoji": "📵"
+				"emoji": "📵",
+				"image": null
 			},
 			{
 				"text": "Screenshot or save the message as evidence",
-				"emoji": "📱"
+				"emoji": "📱",
+				"image": null
 			},
 			{
 				"text": "Block or mute the person if you need to",
-				"emoji": "🛑"
+				"emoji": "🛑",
+				"image": null
 			},
 			{
 				"text": "Tell a trusted adult; online unkindness is still real unkindness",
-				"emoji": "🆘"
+				"emoji": "🆘",
+				"image": null
 			},
 			{
 				"text": "You don't have to figure this out alone",
-				"emoji": "🤝"
+				"emoji": "🤝",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -6336,23 +7354,28 @@
 		"steps": [
 			{
 				"text": "Notice the feeling in your body: a tight chest, hot face, or clenched hands",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Take a slow breath in for 4 counts, out for 6",
-				"emoji": "🫁"
+				"emoji": "🫁",
+				"image": null
 			},
 			{
 				"text": "Walk away from the situation if you can",
-				"emoji": "🚶"
+				"emoji": "🚶",
+				"image": null
 			},
 			{
 				"text": "Do something physical: walk, jump, or squeeze something",
-				"emoji": "💪"
+				"emoji": "💪",
+				"image": null
 			},
 			{
 				"text": "When calmer, think about what happened and how to handle it",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -6367,23 +7390,28 @@
 		"steps": [
 			{
 				"text": "Feeling nervous is normal; your brain is trying to prepare you",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Breathe slowly: in through the nose, out through the mouth",
-				"emoji": "🫁"
+				"emoji": "🫁",
+				"image": null
 			},
 			{
 				"text": "Think of one thing you're looking forward to, even something small",
-				"emoji": "🌟"
+				"emoji": "🌟",
+				"image": null
 			},
 			{
 				"text": "Remember: you have managed difficult situations before",
-				"emoji": "💪"
+				"emoji": "💪",
+				"image": null
 			},
 			{
 				"text": "If it helps, tell someone you trust: \"I'm feeling nervous about [event]\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -6398,19 +7426,23 @@
 		"steps": [
 			{
 				"text": "It's okay not to like something; you don't have to pretend",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "In a public or group setting, stay quiet if possible; not every opinion needs to be shared aloud",
-				"emoji": "🤐"
+				"emoji": "🤐",
+				"image": null
 			},
 			{
 				"text": "If asked, you can say \"It's not really my thing, but I can see why others enjoy it\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "If it's something that directly affects you, it's okay to speak up politely",
-				"emoji": "✋"
+				"emoji": "✋",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -6425,23 +7457,28 @@
 		"steps": [
 			{
 				"text": "It's wonderful to share things you're passionate about",
-				"emoji": "🌟"
+				"emoji": "🌟",
+				"image": null
 			},
 			{
 				"text": "Share the most interesting part first, not the full background",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Watch their reactions: are they engaged or looking away?",
-				"emoji": "👀"
+				"emoji": "👀",
+				"image": null
 			},
 			{
 				"text": "Ask them a question about it to invite them in",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "If they're not interested, that's okay; not everyone shares our interests",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -6456,23 +7493,28 @@
 		"steps": [
 			{
 				"text": "It's painful to feel left out; that feeling is valid",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Take a moment before reacting; don't assume it was intentional",
-				"emoji": "🫁"
+				"emoji": "🫁",
+				"image": null
 			},
 			{
 				"text": "You can ask calmly: \"I noticed I wasn't included; was there a reason?\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "If it keeps happening, talk to a trusted person about how you feel",
-				"emoji": "❤️"
+				"emoji": "❤️",
+				"image": null
 			},
 			{
 				"text": "Remember: one group isn't the only source of connection",
-				"emoji": "🌟"
+				"emoji": "🌟",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -6487,23 +7529,28 @@
 		"steps": [
 			{
 				"text": "Disappointment means you cared; that's not a weakness",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Take a breath and name the feeling: \"I'm disappointed because [X]\"",
-				"emoji": "🫁"
+				"emoji": "🫁",
+				"image": null
 			},
 			{
 				"text": "Don't make big decisions while feeling it strongly",
-				"emoji": "⏸️"
+				"emoji": "⏸️",
+				"image": null
 			},
 			{
 				"text": "Talk to someone you trust about how you feel",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "With time, a different path or opportunity will appear",
-				"emoji": "🌟"
+				"emoji": "🌟",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -6518,27 +7565,33 @@
 		"steps": [
 			{
 				"text": "Stop what you're doing; you need a pause",
-				"emoji": "🛑"
+				"emoji": "🛑",
+				"image": null
 			},
 			{
 				"text": "Find a quiet, safe place if you can",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Breathe slowly and deeply until your heart rate settles",
-				"emoji": "🫁"
+				"emoji": "🫁",
+				"image": null
 			},
 			{
 				"text": "Do something grounding: name 5 things you can see, 4 you can touch",
-				"emoji": "🌿"
+				"emoji": "🌿",
+				"image": null
 			},
 			{
 				"text": "When ready, decide on ONE small next step, just one",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			},
 			{
 				"text": "Talk to someone you trust about how you're feeling",
-				"emoji": "❤️"
+				"emoji": "❤️",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -6553,23 +7606,28 @@
 		"steps": [
 			{
 				"text": "Take a breath before reacting",
-				"emoji": "🫁"
+				"emoji": "🫁",
+				"image": null
 			},
 			{
 				"text": "Say \"I don't think I explained myself clearly; can I try again?\"",
-				"emoji": "🔄"
+				"emoji": "🔄",
+				"image": null
 			},
 			{
 				"text": "Use different words or an example to explain what you meant",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Check: \"Does that make more sense?\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "If they still don't understand, it's okay to say \"That's okay; maybe we can talk about it more another time\"",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -6584,23 +7642,28 @@
 		"steps": [
 			{
 				"text": "Use a quiet, indoor voice; this is a quiet shared space",
-				"emoji": "🔇"
+				"emoji": "🔇",
+				"image": null
 			},
 			{
 				"text": "Books are organised by genre or author; ask staff if you're unsure",
-				"emoji": "📚"
+				"emoji": "📚",
+				"image": null
 			},
 			{
 				"text": "Handle books carefully and return them to where you got them",
-				"emoji": "🤲"
+				"emoji": "🤲",
+				"image": null
 			},
 			{
 				"text": "If you want to borrow a book, take it to the self-serve machine or desk",
-				"emoji": "🖥️"
+				"emoji": "🖥️",
+				"image": null
 			},
 			{
 				"text": "Keep your library card with you",
-				"emoji": "💳"
+				"emoji": "💳",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -6615,19 +7678,23 @@
 		"steps": [
 			{
 				"text": "Find a librarian; they're usually at the desk or shelving books",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Say \"Excuse me, could you help me find something?\"",
-				"emoji": "🙋"
+				"emoji": "🙋",
+				"image": null
 			},
 			{
 				"text": "Describe what you're looking for: title, author, or topic",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Thank them and follow their directions",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -6642,19 +7709,23 @@
 		"steps": [
 			{
 				"text": "Check the due date; returning on time avoids fines",
-				"emoji": "📅"
+				"emoji": "📅",
+				"image": null
 			},
 			{
 				"text": "Use the book return slot or bring it to the desk",
-				"emoji": "📬"
+				"emoji": "📬",
+				"image": null
 			},
 			{
 				"text": "If you have a fine, pay it calmly at the desk: \"I have an overdue fine; can I pay it?\"",
-				"emoji": "💳"
+				"emoji": "💳",
+				"image": null
 			},
 			{
 				"text": "Ask for a receipt if you want proof the book was returned",
-				"emoji": "🧾"
+				"emoji": "🧾",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -6669,23 +7740,28 @@
 		"steps": [
 			{
 				"text": "Check if you need to book the computer or if it's walk-in",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Log in with your library card number if prompted",
-				"emoji": "💳"
+				"emoji": "💳",
+				"image": null
 			},
 			{
 				"text": "Keep your volume down; headphones are best for audio",
-				"emoji": "🎧"
+				"emoji": "🎧",
+				"image": null
 			},
 			{
 				"text": "Log out and clear the session when you're done",
-				"emoji": "🖥️"
+				"emoji": "🖥️",
+				"image": null
 			},
 			{
 				"text": "Leave the area tidy for the next person",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -6700,23 +7776,28 @@
 		"steps": [
 			{
 				"text": "Have the date, time, and number of people ready before you call",
-				"emoji": "📝"
+				"emoji": "📝",
+				"image": null
 			},
 			{
 				"text": "Say \"Hi, I'd like to make a reservation for [number] people on [date] at [time]\"",
-				"emoji": "📞"
+				"emoji": "📞",
+				"image": null
 			},
 			{
 				"text": "If you have dietary needs, mention them now: \"One person is vegetarian\"",
-				"emoji": "🥗"
+				"emoji": "🥗",
+				"image": null
 			},
 			{
 				"text": "Give your name and phone number",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Confirm the booking details before hanging up",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -6731,19 +7812,23 @@
 		"steps": [
 			{
 				"text": "Wait at the entrance for a staff member to greet you",
-				"emoji": "⏳"
+				"emoji": "⏳",
+				"image": null
 			},
 			{
 				"text": "Say \"Hi, I have a reservation under [your name]\" or \"Table for [number], please\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Follow them to your table",
-				"emoji": "🚶"
+				"emoji": "🚶",
+				"image": null
 			},
 			{
 				"text": "If the table isn't comfortable (too loud, cold, etc.) it's okay to ask: \"Is it possible to sit somewhere quieter?\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -6758,23 +7843,28 @@
 		"steps": [
 			{
 				"text": "Mention your allergy or dietary need clearly and calmly",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Say \"I have a [allergy/dietary need]; can you tell me which dishes are suitable?\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Ask \"Is this dish prepared near [allergen]?\" if needed",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "Confirm with the server before ordering: \"You've noted the [allergy], right?\"",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			},
 			{
 				"text": "Don't feel embarrassed; your safety is the priority",
-				"emoji": "💪"
+				"emoji": "💪",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -6789,23 +7879,28 @@
 		"steps": [
 			{
 				"text": "When ready to pay, catch the server's eye or say \"Excuse me; could we get the bill?\"",
-				"emoji": "🙋"
+				"emoji": "🙋",
+				"image": null
 			},
 			{
 				"text": "Check the bill matches what you ordered",
-				"emoji": "🧾"
+				"emoji": "🧾",
+				"image": null
 			},
 			{
 				"text": "If something is wrong, say \"I think there's an error; I didn't order [X]\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "Pay by card or cash; tap or insert when prompted",
-				"emoji": "💳"
+				"emoji": "💳",
+				"image": null
 			},
 			{
 				"text": "A tip of 10–15% is customary in many places, but always optional",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -6820,23 +7915,28 @@
 		"steps": [
 			{
 				"text": "Give it a reasonable time; kitchens can be busy",
-				"emoji": "⏳"
+				"emoji": "⏳",
+				"image": null
 			},
 			{
 				"text": "After 20–30 minutes, catch the server's attention with a wave or \"Excuse me\"",
-				"emoji": "🙋"
+				"emoji": "🙋",
+				"image": null
 			},
 			{
 				"text": "Say \"We've been waiting a while; could you check on our order?\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Stay calm and polite; making a scene rarely helps",
-				"emoji": "🫁"
+				"emoji": "🫁",
+				"image": null
 			},
 			{
 				"text": "They will usually apologise and give you an update",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -6851,23 +7951,28 @@
 		"steps": [
 			{
 				"text": "Decide before ordering whether you're splitting equally or paying for your own",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "When the bill arrives, divide the total by the number of people if splitting equally",
-				"emoji": "🔢"
+				"emoji": "🔢",
+				"image": null
 			},
 			{
 				"text": "Or add up what you personally ordered",
-				"emoji": "📱"
+				"emoji": "📱",
+				"image": null
 			},
 			{
 				"text": "Pay your share and include a portion of any tip",
-				"emoji": "💳"
+				"emoji": "💳",
+				"image": null
 			},
 			{
 				"text": "If anyone is short, cover them quietly and sort it out later",
-				"emoji": "🤝"
+				"emoji": "🤝",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -6882,23 +7987,28 @@
 		"steps": [
 			{
 				"text": "Choose restaurants in advance; look up the menu and noise level online",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Book a table in a quieter area if possible, e.g. \"away from the kitchen\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "It's okay to bring ear defenders or sensory tools",
-				"emoji": "🎧"
+				"emoji": "🎧",
+				"image": null
 			},
 			{
 				"text": "You can ask the server: \"Could you bring [dish] without [ingredient]?\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "Have a plan: know where the exit is and where you can take a quiet break",
-				"emoji": "🚪"
+				"emoji": "🚪",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -6913,23 +8023,28 @@
 		"steps": [
 			{
 				"text": "Use Google Maps, Citymapper or a local app to plan your route",
-				"emoji": "📱"
+				"emoji": "📱",
+				"image": null
 			},
 			{
 				"text": "Check the departure time and leave early enough",
-				"emoji": "⏰"
+				"emoji": "⏰",
+				"image": null
 			},
 			{
 				"text": "Know your destination stop and the number of stops if helpful",
-				"emoji": "📍"
+				"emoji": "📍",
+				"image": null
 			},
 			{
 				"text": "Charge your phone and download the route offline if you might lose signal",
-				"emoji": "🔋"
+				"emoji": "🔋",
+				"image": null
 			},
 			{
 				"text": "Have a backup plan: who to call if something goes wrong",
-				"emoji": "📞"
+				"emoji": "📞",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -6944,23 +8059,28 @@
 		"steps": [
 			{
 				"text": "Find the ticket machine or buy online before you go",
-				"emoji": "🖥️"
+				"emoji": "🖥️",
+				"image": null
 			},
 			{
 				"text": "Select your destination, journey type, and number of tickets",
-				"emoji": "🎫"
+				"emoji": "🎫",
+				"image": null
 			},
 			{
 				"text": "Pay by card or cash",
-				"emoji": "💳"
+				"emoji": "💳",
+				"image": null
 			},
 			{
 				"text": "Keep the ticket until you exit; some systems check on the way out too",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			},
 			{
 				"text": "If confused at the machine, ask a staff member nearby",
-				"emoji": "🙋"
+				"emoji": "🙋",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -6975,23 +8095,28 @@
 		"steps": [
 			{
 				"text": "Find the departures board; it shows platform numbers and times",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Head to your platform with plenty of time",
-				"emoji": "🚶"
+				"emoji": "🚶",
+				"image": null
 			},
 			{
 				"text": "Check the sign on the train confirms your destination",
-				"emoji": "📋"
+				"emoji": "📋",
+				"image": null
 			},
 			{
 				"text": "Board when the doors open and find a seat",
-				"emoji": "🚆"
+				"emoji": "🚆",
+				"image": null
 			},
 			{
 				"text": "If unsure, ask a guard or fellow passenger: \"Is this the train to [city]?\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -7006,23 +8131,28 @@
 		"steps": [
 			{
 				"text": "Check the app or departures board for an update",
-				"emoji": "📱"
+				"emoji": "📱",
+				"image": null
 			},
 			{
 				"text": "Wait in a safe, comfortable spot",
-				"emoji": "🪑"
+				"emoji": "🪑",
+				"image": null
 			},
 			{
 				"text": "If you're meeting someone, text them: \"My train is delayed; I'll be [time] late\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "If the delay is very long, ask staff about alternatives",
-				"emoji": "🙋"
+				"emoji": "🙋",
+				"image": null
 			},
 			{
 				"text": "Stay calm; delays are frustrating but usually resolve",
-				"emoji": "🫁"
+				"emoji": "🫁",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -7037,27 +8167,33 @@
 		"steps": [
 			{
 				"text": "Arrive at the airport at least 2 hours before departure",
-				"emoji": "⏰"
+				"emoji": "⏰",
+				"image": null
 			},
 			{
 				"text": "Check in online in advance to save time",
-				"emoji": "📱"
+				"emoji": "📱",
+				"image": null
 			},
 			{
 				"text": "Follow the security signs: remove shoes, put liquids in a bag",
-				"emoji": "🧳"
+				"emoji": "🧳",
+				"image": null
 			},
 			{
 				"text": "Find your departure gate from the screens",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Board when your zone or row is called",
-				"emoji": "🛫"
+				"emoji": "🛫",
+				"image": null
 			},
 			{
 				"text": "Follow crew instructions and let them know if you need any support",
-				"emoji": "🙋"
+				"emoji": "🙋",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -7072,23 +8208,28 @@
 		"steps": [
 			{
 				"text": "Parks are shared spaces; be mindful of others",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Pick up after yourself and your dog if you have one",
-				"emoji": "🐶"
+				"emoji": "🐶",
+				"image": null
 			},
 			{
 				"text": "Give people space; sit at a distance from others unless the park is full",
-				"emoji": "↔️"
+				"emoji": "↔️",
+				"image": null
 			},
 			{
 				"text": "If you want to use a bench someone is near, it's fine to sit; a nod is enough",
-				"emoji": "🙂"
+				"emoji": "🙂",
+				"image": null
 			},
 			{
 				"text": "Enjoy the outdoors at your own pace",
-				"emoji": "🌿"
+				"emoji": "🌿",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -7103,23 +8244,28 @@
 		"steps": [
 			{
 				"text": "Arrive 5 minutes early to set up and let the instructor know you're new",
-				"emoji": "⏰"
+				"emoji": "⏰",
+				"image": null
 			},
 			{
 				"text": "Say \"Hi, it's my first time; any advice?\"",
-				"emoji": "🙋"
+				"emoji": "🙋",
+				"image": null
 			},
 			{
 				"text": "Pick a spot where you can see the instructor clearly",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "It's okay to go at your own pace and modify moves",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "You don't need to chat to others; focus on the class",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -7134,23 +8280,28 @@
 		"steps": [
 			{
 				"text": "Ask for an induction when you join; most gyms offer one",
-				"emoji": "🙋"
+				"emoji": "🙋",
+				"image": null
 			},
 			{
 				"text": "Wipe down equipment after use with the provided spray and cloth",
-				"emoji": "🧼"
+				"emoji": "🧼",
+				"image": null
 			},
 			{
 				"text": "Put weights back where you found them",
-				"emoji": "🏋️"
+				"emoji": "🏋️",
+				"image": null
 			},
 			{
 				"text": "Don't use equipment you haven't been shown; ask staff first",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Headphones make it easier to exercise without small talk",
-				"emoji": "🎧"
+				"emoji": "🎧",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -7165,23 +8316,28 @@
 		"steps": [
 			{
 				"text": "Book your ticket in advance to choose your seat",
-				"emoji": "🎟️"
+				"emoji": "🎟️",
+				"image": null
 			},
 			{
 				"text": "Arrive a few minutes early; ads play before the film",
-				"emoji": "⏰"
+				"emoji": "⏰",
+				"image": null
 			},
 			{
 				"text": "Turn your phone on silent before the film starts",
-				"emoji": "📵"
+				"emoji": "📵",
+				"image": null
 			},
 			{
 				"text": "Eat quietly and avoid loud crunching during quiet scenes if possible",
-				"emoji": "🍿"
+				"emoji": "🍿",
+				"image": null
 			},
 			{
 				"text": "Stay seated until the credits end if you want to avoid the crowd",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -7196,23 +8352,28 @@
 		"steps": [
 			{
 				"text": "Many museums are free; check online before you go",
-				"emoji": "📱"
+				"emoji": "📱",
+				"image": null
 			},
 			{
 				"text": "Use an indoor voice and don't touch exhibits unless signs say you can",
-				"emoji": "🤫"
+				"emoji": "🤫",
+				"image": null
 			},
 			{
 				"text": "Take a map at the entrance to plan your route",
-				"emoji": "🗺️"
+				"emoji": "🗺️",
+				"image": null
 			},
 			{
 				"text": "Take breaks; it's fine to sit down or step outside",
-				"emoji": "🪑"
+				"emoji": "🪑",
+				"image": null
 			},
 			{
 				"text": "If it gets overwhelming, you can always leave and come back another day",
-				"emoji": "🚪"
+				"emoji": "🚪",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -7227,23 +8388,28 @@
 		"steps": [
 			{
 				"text": "Look up the event in advance: what's there, how loud, how crowded",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Bring ear defenders, sunglasses, or anything that helps your senses",
-				"emoji": "🎧"
+				"emoji": "🎧",
+				"image": null
 			},
 			{
 				"text": "Have a plan: know where the exits and quiet areas are",
-				"emoji": "🗺️"
+				"emoji": "🗺️",
+				"image": null
 			},
 			{
 				"text": "Go with someone you trust if possible",
-				"emoji": "🤝"
+				"emoji": "🤝",
+				"image": null
 			},
 			{
 				"text": "It's always okay to leave early",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -7258,23 +8424,28 @@
 		"steps": [
 			{
 				"text": "Use an ATM in a well-lit, public place",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Insert your card chip-first and enter your PIN (shield the keypad)",
-				"emoji": "🔒"
+				"emoji": "🔒",
+				"image": null
 			},
 			{
 				"text": "Select \"Withdraw cash\" and choose the amount",
-				"emoji": "💵"
+				"emoji": "💵",
+				"image": null
 			},
 			{
 				"text": "Take your card first, then the cash and receipt",
-				"emoji": "💳"
+				"emoji": "💳",
+				"image": null
 			},
 			{
 				"text": "Put everything away before walking away",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -7289,27 +8460,33 @@
 		"steps": [
 			{
 				"text": "Bring ID and any relevant documents",
-				"emoji": "📋"
+				"emoji": "📋",
+				"image": null
 			},
 			{
 				"text": "Take a number ticket if there's a queue system",
-				"emoji": "🔢"
+				"emoji": "🔢",
+				"image": null
 			},
 			{
 				"text": "When called, go to the counter and say \"I'd like to [task]\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Answer their security questions clearly",
-				"emoji": "🔒"
+				"emoji": "🔒",
+				"image": null
 			},
 			{
 				"text": "Ask for clarification if you don't understand something",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "Take any paperwork or receipts they give you",
-				"emoji": "📄"
+				"emoji": "📄",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -7324,23 +8501,28 @@
 		"steps": [
 			{
 				"text": "Pack and seal your item before you arrive",
-				"emoji": "📦"
+				"emoji": "📦",
+				"image": null
 			},
 			{
 				"text": "Write the address clearly on the outside or use a printed label",
-				"emoji": "✏️"
+				"emoji": "✏️",
+				"image": null
 			},
 			{
 				"text": "At the counter, say \"I'd like to send this please\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Choose standard, tracked, or express; staff can advise",
-				"emoji": "📬"
+				"emoji": "📬",
+				"image": null
 			},
 			{
 				"text": "Pay and keep your tracking receipt",
-				"emoji": "🧾"
+				"emoji": "🧾",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -7355,19 +8537,23 @@
 		"steps": [
 			{
 				"text": "Bring your collection card or notification and photo ID",
-				"emoji": "📋"
+				"emoji": "📋",
+				"image": null
 			},
 			{
 				"text": "Go to the counter and say \"I'm here to collect a parcel\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Show your ID and sign if asked",
-				"emoji": "✏️"
+				"emoji": "✏️",
+				"image": null
 			},
 			{
 				"text": "Check the parcel is undamaged before you leave",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -7382,23 +8568,28 @@
 		"steps": [
 			{
 				"text": "Scan the menu before stepping up to the counter",
-				"emoji": "📋"
+				"emoji": "📋",
+				"image": "comm-caf-1_1.png"
 			},
 			{
 				"text": "When it's your turn, say your order clearly: \"Can I have a [drink] and [food] please?\"",
-				"emoji": "☕"
+				"emoji": "☕",
+				"image": "comm-caf-1_2.png"
 			},
 			{
 				"text": "Mention customisations: \"Oat milk, please\" or \"No ice\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": "comm-caf-1_3.png"
 			},
 			{
 				"text": "Give your name if asked and move aside to wait",
-				"emoji": "⏳"
+				"emoji": "⏳",
+				"image": "comm-caf-1_4.png"
 			},
 			{
 				"text": "Collect your order when your name is called and say \"Thank you\"",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": "comm-caf-1_5.png"
 			}
 		],
 		"isCustom": false
@@ -7413,19 +8604,23 @@
 		"steps": [
 			{
 				"text": "You have the right to ask about ingredients; don't hesitate",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Say \"I have a [allergy]; could you check if [item] contains it?\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "If they're unsure, ask \"Is there someone who would know?\"",
-				"emoji": "🙋"
+				"emoji": "🙋",
+				"image": null
 			},
 			{
 				"text": "If they can't confirm it's safe, choose something else",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -7440,23 +8635,28 @@
 		"steps": [
 			{
 				"text": "Buy something when you sit down; it's polite if you're staying long",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Use headphones and keep your voice down if on calls",
-				"emoji": "🎧"
+				"emoji": "🎧",
+				"image": null
 			},
 			{
 				"text": "Don't spread across multiple seats during busy periods",
-				"emoji": "🪑"
+				"emoji": "🪑",
+				"image": null
 			},
 			{
 				"text": "Buy another item if you plan to stay more than an hour",
-				"emoji": "☕"
+				"emoji": "☕",
+				"image": null
 			},
 			{
 				"text": "Tidy your space when you leave",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -7471,23 +8671,28 @@
 		"steps": [
 			{
 				"text": "Go back to the counter calmly",
-				"emoji": "🚶"
+				"emoji": "🚶",
+				"image": null
 			},
 			{
 				"text": "Say \"Excuse me, I think my order might be wrong\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "Describe what you got vs what you ordered",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "They will usually fix it without fuss",
-				"emoji": "😊"
+				"emoji": "😊",
+				"image": null
 			},
 			{
 				"text": "Say \"Thank you\" when they bring the correct order",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -7502,23 +8707,28 @@
 		"steps": [
 			{
 				"text": "Wait for a free machine and go when it's clear",
-				"emoji": "⏳"
+				"emoji": "⏳",
+				"image": null
 			},
 			{
 				"text": "Scan each item; place it in the bag after scanning",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "If an item doesn't scan, try again or call for assistance",
-				"emoji": "🙋"
+				"emoji": "🙋",
+				"image": null
 			},
 			{
 				"text": "Select \"Finish & Pay\" when done and pay by card or cash",
-				"emoji": "💳"
+				"emoji": "💳",
+				"image": null
 			},
 			{
 				"text": "Take your receipt and bags",
-				"emoji": "🛍️"
+				"emoji": "🛍️",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -7533,23 +8743,28 @@
 		"steps": [
 			{
 				"text": "Shop at quieter times if possible: early morning or late evening",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Use a list so you can move through quickly",
-				"emoji": "📝"
+				"emoji": "📝",
+				"image": null
 			},
 			{
 				"text": "Breathe slowly if you start to feel overwhelmed",
-				"emoji": "🫁"
+				"emoji": "🫁",
+				"image": null
 			},
 			{
 				"text": "If it's too much, leave your basket and step outside for fresh air",
-				"emoji": "🚪"
+				"emoji": "🚪",
+				"image": null
 			},
 			{
 				"text": "You can always come back later; you don't have to push through",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -7564,23 +8779,28 @@
 		"steps": [
 			{
 				"text": "Wait to be served; take a number if there's a system",
-				"emoji": "🔢"
+				"emoji": "🔢",
+				"image": null
 			},
 			{
 				"text": "Say what you'd like clearly: \"Could I have 200g of [item] please?\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "If you're unsure about quantities, it's fine to say \"About this much\" and show with your hands",
-				"emoji": "🤲"
+				"emoji": "🤲",
+				"image": null
 			},
 			{
 				"text": "Check the amount when they show you, before they wrap it",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			},
 			{
 				"text": "Say \"Thank you\" when they hand it over",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -7595,23 +8815,28 @@
 		"steps": [
 			{
 				"text": "Stay calm; pricing errors do happen",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Say to the cashier \"I think this item was priced differently on the shelf\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "They may need to call a colleague to check",
-				"emoji": "⏳"
+				"emoji": "⏳",
+				"image": null
 			},
 			{
 				"text": "Show the shelf photo or describe where you found it",
-				"emoji": "📱"
+				"emoji": "📱",
+				"image": null
 			},
 			{
 				"text": "In most places, the shelf price is the one they'll honour",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -7626,23 +8851,28 @@
 		"steps": [
 			{
 				"text": "Pay at reception and show your membership if you have one",
-				"emoji": "💳"
+				"emoji": "💳",
+				"image": null
 			},
 			{
 				"text": "Find the changing rooms; there are usually separate rooms or mixed family changing",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Use a locker for your belongings and take the key with you",
-				"emoji": "🔑"
+				"emoji": "🔑",
+				"image": null
 			},
 			{
 				"text": "Shower briefly before entering the pool; it's usually required",
-				"emoji": "🚿"
+				"emoji": "🚿",
+				"image": null
 			},
 			{
 				"text": "Read any lane signs: \"slow\", \"medium\", \"fast\"; pick the right one",
-				"emoji": "🏊"
+				"emoji": "🏊",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -7657,23 +8887,28 @@
 		"steps": [
 			{
 				"text": "No running on the poolside; the floor is slippery",
-				"emoji": "🚫"
+				"emoji": "🚫",
+				"image": null
 			},
 			{
 				"text": "Swim on the left side of your lane; let faster swimmers pass",
-				"emoji": "🔄"
+				"emoji": "🔄",
+				"image": null
 			},
 			{
 				"text": "Wait at the end of the lane if someone is doing a tumble turn",
-				"emoji": "⏳"
+				"emoji": "⏳",
+				"image": null
 			},
 			{
 				"text": "Don't splash others deliberately",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Follow the lifeguard's instructions immediately",
-				"emoji": "🆘"
+				"emoji": "🆘",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -7688,19 +8923,23 @@
 		"steps": [
 			{
 				"text": "Use a private cubicle if available and that feels more comfortable",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Keep your belongings in your locker or bag; don't spread out",
-				"emoji": "🎒"
+				"emoji": "🎒",
+				"image": null
 			},
 			{
 				"text": "Allow space for others; don't block sinks or exits",
-				"emoji": "↔️"
+				"emoji": "↔️",
+				"image": null
 			},
 			{
 				"text": "Leave the space tidy and free of wet towels on the floor",
-				"emoji": "✅"
+				"emoji": "✅",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -7715,23 +8954,28 @@
 		"steps": [
 			{
 				"text": "Arrive at the agreed time, not too early",
-				"emoji": "⏰"
+				"emoji": "⏰",
+				"image": null
 			},
 			{
 				"text": "Say \"Thanks for inviting me\" when you arrive",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			},
 			{
 				"text": "Follow their lead; remove shoes if they do, sit where offered",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Ask before exploring or using things: \"Is it okay if I use the bathroom?\"",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "When you leave, say \"I really enjoyed this; thanks for having me\"",
-				"emoji": "😊"
+				"emoji": "😊",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -7746,27 +8990,33 @@
 		"steps": [
 			{
 				"text": "Check the dress code and plan your outfit in advance",
-				"emoji": "👔"
+				"emoji": "👔",
+				"image": null
 			},
 			{
 				"text": "Arrive on time; formal events often run to a strict schedule",
-				"emoji": "⏰"
+				"emoji": "⏰",
+				"image": null
 			},
 			{
 				"text": "Turn your phone fully silent",
-				"emoji": "📵"
+				"emoji": "📵",
+				"image": null
 			},
 			{
 				"text": "Follow the schedule: sit where directed, stand when others do",
-				"emoji": "🙍"
+				"emoji": "🙍",
+				"image": null
 			},
 			{
 				"text": "At a reception, you don't need to talk to everyone; small interactions are enough",
-				"emoji": "💡"
+				"emoji": "💡",
+				"image": null
 			},
 			{
 				"text": "Before leaving, congratulate the main people: \"Congratulations; it was beautiful\"",
-				"emoji": "🙏"
+				"emoji": "🙏",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -7781,27 +9031,33 @@
 		"steps": [
 			{
 				"text": "Arrive on time and go to the reception or main entrance",
-				"emoji": "⏰"
+				"emoji": "⏰",
+				"image": null
 			},
 			{
 				"text": "Say \"Hi, I'm [your name]; it's my first day\"",
-				"emoji": "👋"
+				"emoji": "👋",
+				"image": null
 			},
 			{
 				"text": "Observe and listen more than you speak on the first day",
-				"emoji": "👀"
+				"emoji": "👀",
+				"image": null
 			},
 			{
 				"text": "Write down names, processes, and important information",
-				"emoji": "📝"
+				"emoji": "📝",
+				"image": null
 			},
 			{
 				"text": "Ask one or two questions, not too many at once",
-				"emoji": "❓"
+				"emoji": "❓",
+				"image": null
 			},
 			{
 				"text": "At the end, say \"Thanks everyone; I'm looking forward to getting started\"",
-				"emoji": "😊"
+				"emoji": "😊",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -7816,23 +9072,28 @@
 		"steps": [
 			{
 				"text": "Find someone who looks friendly and is also standing alone",
-				"emoji": "🔍"
+				"emoji": "🔍",
+				"image": null
 			},
 			{
 				"text": "Approach and say \"Hi, I'm [your name]; how do you know [host]?\"",
-				"emoji": "👋"
+				"emoji": "👋",
+				"image": null
 			},
 			{
 				"text": "Listen to their answer and ask a follow-up question",
-				"emoji": "👂"
+				"emoji": "👂",
+				"image": null
 			},
 			{
 				"text": "Share a little about yourself too",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "If it goes quiet, it's okay to say \"I'll go grab a drink; nice to meet you\"",
-				"emoji": "🚶"
+				"emoji": "🚶",
+				"image": null
 			}
 		],
 		"isCustom": false
@@ -7847,15 +9108,18 @@
 		"steps": [
 			{
 				"text": "When the bill comes, say \"Shall we split it?\" or \"Can we have separate bills?\"",
-				"emoji": "💬"
+				"emoji": "💬",
+				"image": null
 			},
 			{
 				"text": "If splitting, divide the total by the number of people or by what you ordered",
-				"emoji": "➗"
+				"emoji": "➗",
+				"image": null
 			},
 			{
 				"text": "Pay your share by card or cash",
-				"emoji": "💳"
+				"emoji": "💳",
+				"image": null
 			}
 		],
 		"isCustom": false

@@ -85,6 +85,7 @@ Objects are identified by `id`. Relationships are by string reference: a subcate
 |-------|------|-------------|
 | `text` | string | Instruction or line shown for this step. |
 | `emoji` | string | Emoji associated with the step (optional in principle; present on all bundled steps today). |
+| `image` | string \| null | Optional image filename for the step. 
 
 **Example:**
 
@@ -99,7 +100,8 @@ Objects are identified by `id`. Relationships are by string reference: a subcate
   "steps": [
     {
       "text": "Look at their face or nose area",
-      "emoji": "👀"
+      "emoji": "👀",
+      "image": "greet-cas-1_1.png"
     }
   ],
   "isCustom": false
