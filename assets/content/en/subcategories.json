@@ -74,6 +74,5 @@
   { "id": "comm-cafe",       "categoryId": "community",  "title": "Cafés & Coffee Shops",          "icon": "☕", "sortOrder": 6 },
   { "id": "comm-supermarket","categoryId": "community",  "title": "Supermarket & Shops",           "icon": "🛒", "sortOrder": 7 },
   { "id": "comm-pool",       "categoryId": "community",  "title": "Swimming Pool & Leisure Centre","icon": "🏊", "sortOrder": 8 },
-  { "id": "comm-events",     "categoryId": "community",  "title": "Events & Gatherings",           "icon": "🎉", "sortOrder": 9 },
-  { "id": "comm-test",       "categoryId": "community",  "title": "Test Subcategory",              "icon": "🎉", "sortOrder": 10 }
+  { "id": "comm-events",     "categoryId": "community",  "title": "Events & Gatherings",           "icon": "🎉", "sortOrder": 9 }
 ]
