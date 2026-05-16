@@ -5067,7 +5067,7 @@
 	},
 	{
 		"id": "hlth-thr-3",
-		"title": "Bir Uzmana Maskeleme(Otistik Özellikleri Gizleme) Hakkında Konuşmak",
+		"title": "Bir Uzmanla Maskeleme(Otistik Özellikleri Gizleme) Hakkında Konuşmak",
 		"category": "healthcare",
 		"subcategoryId": "health-therapy",
 		"difficulty": 3,
@@ -7094,7 +7094,7 @@
 	},
 	{
 		"id": "soc-peer-1",
-		"title": "Birinden Arkadaş Olmak İstemek",
+		"title": "Birine Arkadaşlık Teklif Etmek",
 		"category": "social",
 		"subcategoryId": "social-peer",
 		"difficulty": 2,
