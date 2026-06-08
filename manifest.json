@@ -1,6 +1,6 @@
 {
   "manifestVersion": 1,
-  "lastUpdated": "2026-06-08T12:07:11.614223Z",
+  "lastUpdated": "2026-06-08T20:31:19.063930Z",
   "content": {
     "config": {
       "premium": {
@@ -32,9 +32,9 @@
         },
         "situations": {
           "path": "assets/content/tr/situations.json",
-          "version": 1,
-          "hash": "01d7a3260bbebe276c7d6548756c65036ff8b811de3af4b05d58b537ce264535",
-          "size": 448767
+          "version": 2,
+          "hash": "e2c198bb5495188cb17484ad8909ddaaa9861f44cafa1d60e08e18e96da3b8cc",
+          "size": 448549
         }
       },
       "en": {
