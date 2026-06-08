@@ -1,138 +1,138 @@
 [
   {
-    "id": "sit-greet-cas-1-001",
-    "title": "Doğum günü partisi, yanındaki boş sandalye",
-    "text": "Bir arkadaşının doğum günü partisinesin. Daha önce hiç tanışmadığın biri yanına oturuyor. Gülümsüyor ve birinin önce merhaba demesini bekliyor gibi görünüyor.",
-    "correctScriptId": "greet-cas-1",
-    "distractorPrimary": "greet-for-1",
-    "distractorSecondary": "talk-weath-1",
-    "explanation": "Bu, rahat bir sosyal ortamda gerçekleşen ilk karşılaşma. Kısa ve samimi bir öz tanıtım tam olarak doğru yaklaşım; 'Yeni Biriyle Tanışmak' senaryosu her adımı kapsıyor."
+		"id": "sit-greet-cas-1-001",
+		"title": "Doğum günü partisi, yanında boş bir sandalye var",
+		"text": "Bir arkadaşının doğum günü partisindesin. Daha önce hiç tanışmadığın biri yanına oturuyor. Gülümsüyor ve senin merhaba demeni bekliyor gibi görünüyor.",
+		"correctScriptId": "greet-cas-1",
+		"distractorPrimary": "greet-for-1",
+		"distractorSecondary": "talk-weath-1",
+		"explanation": "Bu, rahat bir sosyal ortamda gerçekleşen ilk karşılaşma. Kısa ve samimi bir şekilde kendini tanıtmak doğru yaklaşım olacaktır; 'Yeni Biriyle Tanışmak' senaryosu her adımı kapsıyor."
   },
   {
-    "id": "sit-greet-cas-1-002",
-    "title": "Kampüs tanıtım günü, yaklaşan öğrenci temsilcisi",
-    "text": "Katılmayı düşündüğün bir üniversitenin tanıtım günündesin. Bir öğrenci temsilcisi sana doğru yürüyüp gülümsüyor. Daha önce hiç konuşmadınız.",
-    "correctScriptId": "greet-cas-1",
-    "distractorPrimary": "greet-for-2",
-    "distractorSecondary": "talk-plans-1",
-    "explanation": "Kampüs ortamında bile bu, resmi bir kayıt değil; yeni biriyle gerçekleşen rahat bir ilk konuşma. 'Yeni Biriyle Tanışmak' senaryosu doğru açılışı sunuyor."
+		"id": "sit-greet-cas-1-002",
+		"title": "Kampüs tanıtım günü, yaklaşan öğrenci temsilcisi",
+		"text": "Okumayı düşündüğün bir üniversitenin tanıtım günündesin. Bir öğrenci temsilcisi sana doğru yürüyüp gülümsüyor. Daha önce hiç konuşmadınız.",
+		"correctScriptId": "greet-cas-1",
+		"distractorPrimary": "greet-for-2",
+		"distractorSecondary": "talk-plans-1",
+		"explanation": "Kampüs ortamında yeni biriyle gerçekleşen rahat bir ilk konuşma bu. Resmi bir kayıt görüşmesi değil; 'Yeni Biriyle Tanışmak' senaryosu doğru açılışı sunuyor."
   },
   {
-    "id": "sit-greet-cas-1-003",
-    "title": "Konferans masası, oturum öncesi bekleme",
-    "text": "Profesyonel bir konferansa katılıyorsun. Sabah oturumuna gelip bir masaya oturuyorsun; masada zaten oturan biri var. Konuşmacı başlamadan önce uzun bir bekleme süresi oluşuyor.",
-    "correctScriptId": "greet-cas-1",
-    "distractorPrimary": "greet-for-3",
-    "distractorSecondary": "comm-evt-4",
-    "explanation": "Ortam resmi ama bu an, yabancıyla bire bir yaşanan rahat bir açılış; yapılandırılmış bir tanışma turu değil. 'Yeni Biriyle Tanışmak' senaryosu bu bekleme sürecine tam uyuyor."
+		"id": "sit-greet-cas-1-003",
+		"title": "Konferans masası, oturum öncesi bekleme",
+		"text": "Profesyonel bir konferansa katılıyorsun. Sabah oturumuna gelip bir masaya oturuyorsun; masada zaten oturan biri var. Konuşmacı başlamadan önce bir süre beklemeniz gerekiyor.",
+		"correctScriptId": "greet-cas-1",
+		"distractorPrimary": "greet-for-3",
+		"distractorSecondary": "comm-evt-4",
+		"explanation": "Ortam resmi ama bu an, yabancıyla bire bir yaşanan rahat bir karşılaşma; yapılandırılmış bir tanışma turu değil. 'Yeni Biriyle Tanışmak' senaryosu bu bekleme sürecine tam uyuyor."
   },
   {
-    "id": "sit-greet-cas-2-001",
-    "title": "Yeni sokak, kaldırımdaki çöp kutuları",
-    "text": "Az önce yan komşunun bulunduğu eve taşındın. Dışarı çıktığında, bitişikteki komşunun çöplerini kaldırıma bıraktığını görüyorsun. Seni fark ediyor ve gözleriniz kısaca buluşuyor.",
-    "correctScriptId": "greet-cas-2",
-    "distractorPrimary": "greet-bye-2",
-    "distractorSecondary": "talk-weath-1",
-    "explanation": "Bu, uzun bir sohbet gerektirmeyen, kısa ve komşuca bir an. Küçük bir el sallama ve hızlı bir selam tam olarak doğru. 'Komşuyu Selamlamak' senaryosu bunu kapsıyor."
+		"id": "sit-greet-cas-2-001",
+		"title": "Yeni sokağa taşındın, komşunun çöp atmaya çıkıyor",
+		"text": "Başka evlerin de bulunduğu bir sokağa taşındın. Dışarı çıktığında, bitişikteki komşunun çöplerini atmak için çıktığını görüyorsun. Seni fark ediyor ve gözleriniz kısaca buluşuyor.",
+		"correctScriptId": "greet-cas-2",
+		"distractorPrimary": "greet-bye-2",
+		"distractorSecondary": "talk-weath-1",
+		"explanation": "Bu, uzun bir sohbet gerektirmeyen, kısa ve samimi bir an. Küçük bir el sallama ve hızlı bir selam tam ihtiyacın olan davranış. 'Komşuyu Selamlamak' senaryosu bunu kapsıyor."
   },
   {
-    "id": "sit-greet-cas-2-002",
-    "title": "Köpek yürüyüşü, karşı kaldırımdan el sallama",
-    "text": "Köpeğini gezdiriyorsun. Karşı kaldırımdaki komşun da dışarıda. Önce o el sallıyor.",
-    "correctScriptId": "greet-cas-2",
-    "distractorPrimary": "greet-for-1",
-    "distractorSecondary": "help-store-1",
-    "explanation": "Selamlaşmayı zaten karşı taraf başlattı; geri el sallamak ve kısa bir merhaba demek, fazla uzatmadan dostane bir iletişim kuruyor. 'Komşuyu Selamlamak' tam bu durum."
+		"id": "sit-greet-cas-2-002",
+		"title": "Köpek gezdirme, karşı kaldırımdan el sallayan komşu",
+		"text": "Köpeğini gezdiriyorsun. Karşı kaldırımdaki komşun da dışarıda. Önce o el sallıyor.",
+		"correctScriptId": "greet-cas-2",
+		"distractorPrimary": "greet-for-1",
+		"distractorSecondary": "help-store-1",
+		"explanation": "Selamlaşmayı zaten karşı taraf başlattı; geri el sallamak ve kısa bir merhaba demek, fazla uzatmadan dostane bir iletişim kurulabilir. 'Komşuyu Selamlamak' senaryosu tam bu durum için."
   },
   {
-    "id": "sit-greet-cas-2-003",
-    "title": "Garaj önü, sabah yürüyüşünde karşılaşma",
-    "text": "Sabah yürüyüşü yapıyorsun. Tam komşunun önünden geçerken arabası yola giriyor. Komşun arabadan inip seni görüyor.",
-    "correctScriptId": "greet-cas-2",
-    "distractorPrimary": "greet-online-1",
-    "distractorSecondary": "shop-groc-1",
-    "explanation": "Yakın çevrede yaşayan insanlar arasındaki kısa bir selamlama; önceden planlamadın, uzatmana da gerek yok. 'Komşuyu Selamlamak' senaryosu bunu kolay ve uygun kılıyor."
+		"id": "sit-greet-cas-2-003",
+		"title": "Garaj önü, sabah yürüyüşünde karşılaşma",
+		"text": "Sabah yürüyüşü yapıyorsun. Tam evinin önünden geçerken komşun arabası ile geliyor. Arabadan inerken seni görüyor.",
+		"correctScriptId": "greet-cas-2",
+		"distractorPrimary": "greet-online-1",
+		"distractorSecondary": "shop-groc-1",
+		"explanation": "Yakın çevrede yaşayan insanlar arasındaki kısa bir selamlaşma. Uzun uzun konuşmaya gerek yok. 'Komşuyu Selamlamak' senaryosu bunu kolaylaştırır."
   },
   {
-    "id": "sit-greet-cas-3-001",
-    "title": "Asansör lobisi, pazartesi sabahı geçişi",
-    "text": "Pazartesi sabahı işe geliyorsun ve asansörden çıkıyorsun. Ekibinden bir iş arkadaşın önünden geçiyor; telefonundan başını kaldırıp seni görüyor.",
-    "correctScriptId": "greet-cas-3",
-    "distractorPrimary": "greet-for-3",
-    "distractorSecondary": "work-day-2",
-    "explanation": "Birlikte çalıştığın biriyle yapılan kısa ve sade bir sabah selamlaşması tam olarak 'Bir İş Arkadaşını Selamlamak' senaryosu için tasarlandı. Uzun bir sohbet gerekmiyor."
+		"id": "sit-greet-cas-3-001",
+		"title": "İş yerinde pazartesi sabahı",
+		"text": "Pazartesi sabahı işe geliyorsun ve asansörden çıkıyorsun. Ekibinden bir iş arkadaşın önünden geçiyor; telefonundan başını kaldırıp seni görüyor.",
+		"correctScriptId": "greet-cas-3",
+		"distractorPrimary": "greet-for-3",
+		"distractorSecondary": "work-day-2",
+		"explanation": "Birlikte çalıştığın biriyle yapılan kısa ve sade bir sabah selamlaşması tam olarak 'Bir İş Arkadaşını Selamlamak' senaryosu için tasarlandı. Uzun bir sohbet gerekmiyor."
   },
   {
-    "id": "sit-greet-cas-3-002",
-    "title": "Ofis mutfağı, kahve makinesinde bekleme",
-    "text": "Ofis mutfağında kahve yapıyorsun. Ekibinden bir iş arkadaşın arkandan içeri giriyor. Henüz bir şey söylemedi.",
-    "correctScriptId": "greet-cas-3",
-    "distractorPrimary": "greet-bye-3",
-    "distractorSecondary": "work-day-1",
-    "explanation": "Tanıdık bir iş arkadaşıyla yapılan kısa ve sade bir sabah selamlaşması tam olarak 'Bir İş Arkadaşını Selamlamak' senaryosu için oluşturuldu. Uzun bir konuşma gerekmiyor; samimi bir selam yeterli."
+		"id": "sit-greet-cas-3-002",
+		"title": "Ofis mutfağında kahve sırası",
+		"text": "Ofis mutfağında kahve yapıyorsun. Ekibinden bir iş arkadaşın arkandan içeri giriyor. Henüz bir şey söylemedi.",
+		"correctScriptId": "greet-cas-3",
+		"distractorPrimary": "greet-bye-3",
+		"distractorSecondary": "work-day-1",
+		"explanation": "Tanıdık bir iş arkadaşıyla yapılan kısa ve sade bir sabah selamlaşması tam olarak 'Bir İş Arkadaşını Selamlamak' senaryosunun konusu. Uzun bir konuşma gerekmiyor; samimi bir selam yeterli."
   },
   {
-    "id": "sit-greet-cas-3-003",
-    "title": "Çalışma masaları, bir kulaklık çıkarma",
-    "text": "Uzun bir hafta sonunun ardından pazartesi işe geliyorsun. Her gün gördüğün bir iş arkadaşın kulaklıkla masasında oturuyordu; seni fark edince bir kulaklığını çıkarıyor.",
-    "correctScriptId": "greet-cas-3",
-    "distractorPrimary": "greet-for-1",
-    "distractorSecondary": "talk-end-1",
-    "explanation": "Burada kısa ve rahat bir selam tam uygun; iş arkadaşın çalışıyor, dikkatini çok dağıtmak istemiyorsun. 'Bir İş Arkadaşını Selamlamak' senaryosu bunu kısa ve doğal tutuyor."
+		"id": "sit-greet-cas-3-003",
+		"title": "İş yerinde yeni hafta başı",
+		"text": "Uzun bir hafta sonunun ardından pazartesi işe geliyorsun. Her gün gördüğün bir iş arkadaşın kulaklıkla masasında oturuyor; seni fark edince bir kulaklığını çıkarıyor.",
+		"correctScriptId": "greet-cas-3",
+		"distractorPrimary": "greet-for-1",
+		"distractorSecondary": "talk-end-1",
+		"explanation": "Kısa ve rahat bir selamlamanın tam zamanı; iş arkadaşın çalışıyor, dikkatini çok dağıtmak istemiyorsun. 'Bir İş Arkadaşını Selamlamak' senaryosu bunu kısa ve doğal şekilde hallediyor."
   },
   {
-    "id": "sit-greet-cas-4-001",
-    "title": "Kitapçı koridoru, raf arası karşılaşma",
-    "text": "Bir kitapçıda geziniyorsun. Ortak bir arkadaşının evinde bir-iki kez karşılaştığın birini tanıyorsun. Aynı koridorda yürüyorlar ve seni fark ettiklerine benziyor.",
-    "correctScriptId": "greet-cas-4",
-    "distractorPrimary": "greet-for-1",
-    "distractorSecondary": "talk-weath-1",
-    "explanation": "Bu kişiyi biraz tanıyorsun ama yakın değilsiniz. Yanına gelirse bir baş sallama ya da kısa bir selam, gerekirse doğal bir ayrılış yeterli. 'Kamuya Açık Bir Yerde Tanıdıkla Karşılaşmak' doğru senaryo."
+		"id": "sit-greet-cas-4-001",
+		"title": "Kitapçı koridorunda bir tanıdık",
+		"text": "Bir kitapçıda geziniyorsun. Ortak bir arkadaşının evinde bir-iki kez karşılaştığın birini görüyorsun. Aynı koridorda yürüyorsunuz ve seni görgdüğünü fark ediyorsun.",
+		"correctScriptId": "greet-cas-4",
+		"distractorPrimary": "greet-for-1",
+		"distractorSecondary": "talk-weath-1",
+		"explanation": "Bu kişiyi biraz tanıyorsun ama yakın değilsiniz. Yanına gelirse bir baş sallama ya da kısa bir selam yeterli. 'Kamuya Açık Bir Yerde Tanıdıkla Karşılaşmak' doğru senaryo."
   },
   {
-    "id": "sit-greet-cas-4-002",
-    "title": "Okul çıkışı, otopark karşısından el sallama",
-    "text": "Çocuğunu okuldan alıyorsun. Birkaç kez sohbet ettiğin bir veli, otoparkın karşısından sana el sallıyor.",
-    "correctScriptId": "greet-cas-4",
-    "distractorPrimary": "greet-bye-2",
-    "distractorSecondary": "talk-plans-1",
-    "explanation": "Bu kişiyi biraz tanıyorsun ama yakın değilsiniz. Geri el sallamak, yanına gelirse kısa bir selam ve doğal bir ayrılış yeterli. 'Kamuya Açık Bir Yerde Tanıdıkla Karşılaşmak' tam olarak doğru."
+		"id": "sit-greet-cas-4-002",
+		"title": "Okul çıkışı otoparkta karşılaşma",
+		"text": "Çocuğunu okuldan alıyorsun. Birkaç kez sohbet ettiğin bir veli, otoparkın karşısından sana el sallıyor.",
+		"correctScriptId": "greet-cas-4",
+		"distractorPrimary": "greet-bye-2",
+		"distractorSecondary": "talk-plans-1",
+		"explanation": "Bu kişiyi biraz tanıyorsun ama yakın değilsiniz. El sallayarak karşılık vermek, yanına gelirse kısa bir selam ve doğal bir ayrılış yeterli. 'Kamuya Açık Bir Yerde Tanıdıkla Karşılaşmak' doğru senaryo."
   },
   {
-    "id": "sit-greet-cas-4-003",
-    "title": "Ana cadde, kısa göz teması",
-    "text": "Bir işin için dışarı çıktın. Yürürken yıllar önce yanında oturduğun eski komşunun önünden geçiyorsun. O seni görüyor ve yüzü aydınlanıyor.",
-    "correctScriptId": "greet-cas-4",
-    "distractorPrimary": "greet-for-1",
-    "distractorSecondary": "help-dir-1",
-    "explanation": "Tanıyorsun ama uzun süredir görüşmediniz; yine de burası tam bir hasret giderme ortamı değil. 'Kamuya Açık Bir Yerde Tanıdıkla Karşılaşmak' senaryosu kısa ve samimi bir duruş için uygun."
+		"id": "sit-greet-cas-4-003",
+		"title": "Caddede kısa karşılaşma",
+		"text": "Bir iş için dışarı çıkmışsın, yıllar önce komşun olan biriyle karşılaşıyorsun. Seni görünce yüzü aydınlanıveriyor.",
+		"correctScriptId": "greet-cas-4",
+		"distractorPrimary": "greet-for-1",
+		"distractorSecondary": "help-dir-1",
+		"explanation": "Tanıyorsun ama uzun süredir görüşmediniz; yine de burası tam bir hasret giderme ortamı değil. 'Kamuya Açık Bir Yerde Tanıdıkla Karşılaşmak' senaryosu kısa ve samimi bir karşılaşma için uygun."
   },
   {
-    "id": "sit-greet-cas-5-001",
-    "title": "Kapı önü, paketli kurye",
-    "text": "Evdesin ve kapı zili çalıyor. Pencereden bakınca teslimat üniforması giyen birinin elinde paket tuttuğunu görüyorsun.",
-    "correctScriptId": "greet-cas-5",
-    "distractorPrimary": "greet-for-1",
-    "distractorSecondary": "help-store-2",
-    "explanation": "Güvenli bir şekilde kapıyı açman, kısa bir selam vermen ve teslimatı halletmen gerekiyor; uzun bir ziyaret söz konusu değil. 'Kapıyı Açmak' senaryosu önce kimin olduğunu kontrol etmeyi ve söylenecekleri kapsıyor."
+		"id": "sit-greet-cas-5-001",
+		"title": "Kapı önünde elinde paketle bekleyen kurye",
+		"text": "Evdesin ve kapı zili çalıyor. Pencereden bakınca kargo firması üniforması giyen birinin elinde paket tuttuğunu görüyorsun.",
+		"correctScriptId": "greet-cas-5",
+		"distractorPrimary": "greet-for-1",
+		"distractorSecondary": "help-store-2",
+		"explanation": "Güvenli bir şekilde kapıyı açman, kısa bir selam vermen ve kargoyu teslim alman gerekiyor; uzun bir ziyaret söz konusu değil. 'Kapıyı Açmak' senaryosu önce kimin olduğunu kontrol etmeyi ve söylenecekleri kapsıyor."
   },
   {
-    "id": "sit-greet-cas-5-002",
-    "title": "Kapı önü, beklenen misafir",
-    "text": "Davet ettiğin bir arkadaşın kapı zilini çalıyor. Camdan çanta tutan ve gülen yüzünü görüyorsun.",
-    "correctScriptId": "greet-cas-5",
-    "distractorPrimary": "greet-for-1",
-    "distractorSecondary": "talk-day-1",
-    "explanation": "Tanıdığın biri kapıda; sıcak bir selamla içeri al ve yol ver. 'Kapıyı Açmak' senaryosu hem tanıdık ziyaretçileri hem de kısa karşılaşmaları kapsıyor."
+		"id": "sit-greet-cas-5-002",
+		"title": "Kapı önü, beklenen misafir",
+		"text": "Davet ettiğin bir arkadaşın kapı zilini çalıyor. Camdan onu görüyorsun; elinde bir çanta tutuyor ve gülümsüyor.",
+		"correctScriptId": "greet-cas-5",
+		"distractorPrimary": "greet-for-1",
+		"distractorSecondary": "talk-day-1",
+		"explanation": "Tanıdığın biri kapıda; sıcak bir selamla karşıla ve içeri al. 'Kapıyı Açmak' senaryosu hem tanıdık ziyaretçileri hem de kısa karşılaşmaları kapsıyor."
   },
   {
-    "id": "sit-greet-cas-5-003",
-    "title": "Gözetleme deliğinden bakış, pano ve yaka kartı",
-    "text": "Akşam yemeği yaparken kapı zili çalıyor. Gözetleme deliğinden baktığında elinde pano ve tanımadığın bir yaka kartı olan birini görüyorsun.",
-    "correctScriptId": "greet-cas-5",
-    "distractorPrimary": "greet-bye-1",
-    "distractorSecondary": "sayno-inv-1",
-    "explanation": "Kapıda beklenmedik biri varsa önce kim olduğunu öğrenmeli, ardından kısa bir yanıt vermelisin; gerekirse nazikçe 'hayır' diyebilmelisin. 'Kapıyı Açmak' senaryosu bu adımları içeriyor."
+		"id": "sit-greet-cas-5-003",
+		"title": "Kapıda tanımadığın bir kişi",
+		"text": "Akşam yemeği yaparken kapı zili çalıyor. Gözetleme deliğinden baktığında elinde pano ve ne olduğunu bilmediğin bir yaka kartı olan birini görüyorsun.",
+		"correctScriptId": "greet-cas-5",
+		"distractorPrimary": "greet-bye-1",
+		"distractorSecondary": "sayno-inv-1",
+		"explanation": "Kapıda beklenmedik biri varsa önce kim olduğunu öğrenmeli, ardından kısa bir yanıt vermelisin; gerekirse nazikçe 'hayır' diyebilmelisin. 'Kapıyı Açmak' senaryosu bu adımları içeriyor."
   },
   {
     "id": "sit-greet-cas-6-001",
