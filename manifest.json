@@ -1,6 +1,6 @@
 {
   "manifestVersion": 1,
-  "lastUpdated": "2026-06-08T11:35:32.809259Z",
+  "lastUpdated": "2026-06-08T11:37:35.605078Z",
   "content": {
     "config": {
       "premium": {
@@ -11,32 +11,6 @@
       }
     },
     "locales": {
-      "en": {
-        "categories": {
-          "path": "assets/content/en/categories.json",
-          "version": 2,
-          "hash": "5c4071aa808d659b56e4d3cd8343f47436710dc4fd5400c3bb58d5c0f2654bdf",
-          "size": 1479
-        },
-        "subcategories": {
-          "path": "assets/content/en/subcategories.json",
-          "version": 4,
-          "hash": "a6cd1441ce2990c9fa0be46baac3082969003cf37bbf6a1f063bf21159c706d7",
-          "size": 8698
-        },
-        "scripts": {
-          "path": "assets/content/en/scripts.json",
-          "version": 7,
-          "hash": "40acc61093f714787406e3fbdd3b388f45f4fe8ab271731035b607a59ac185be",
-          "size": 204534
-        },
-        "situations": {
-          "path": "assets/content/en/situations.json",
-          "version": 1,
-          "hash": "b532435a6c44ee1e425e3a414fee29a992f18e50aae67b7734c0a517572abc1f",
-          "size": 438988
-        }
-      },
       "tr": {
         "categories": {
           "path": "assets/content/tr/categories.json",
@@ -62,42 +36,304 @@
           "hash": "01d7a3260bbebe276c7d6548756c65036ff8b811de3af4b05d58b537ce264535",
           "size": 448767
         }
+      },
+      "en": {
+        "categories": {
+          "path": "assets/content/en/categories.json",
+          "version": 2,
+          "hash": "5c4071aa808d659b56e4d3cd8343f47436710dc4fd5400c3bb58d5c0f2654bdf",
+          "size": 1479
+        },
+        "subcategories": {
+          "path": "assets/content/en/subcategories.json",
+          "version": 4,
+          "hash": "a6cd1441ce2990c9fa0be46baac3082969003cf37bbf6a1f063bf21159c706d7",
+          "size": 8698
+        },
+        "scripts": {
+          "path": "assets/content/en/scripts.json",
+          "version": 7,
+          "hash": "40acc61093f714787406e3fbdd3b388f45f4fe8ab271731035b607a59ac185be",
+          "size": 204534
+        },
+        "situations": {
+          "path": "assets/content/en/situations.json",
+          "version": 1,
+          "hash": "b532435a6c44ee1e425e3a414fee29a992f18e50aae67b7734c0a517572abc1f",
+          "size": 438988
+        }
       }
     }
   },
   "images": {
+    "scriptimages": {
+      "basePath": "assets/images/script_images/",
+      "version": 6,
+      "files": {
+        "comm-caf-1_4.png": {
+          "hash": "22226e3579111ff0f8c55ce9469b0c0f07efe635c8b6c15a9de164f4eb2906e8",
+          "size": 391428,
+          "version": 1
+        },
+        "work-cls-2_2.jpg": {
+          "hash": "a428a0344d645a526c479ee32b58e752aaee31e4bfa7762ad71749358edc31e6",
+          "size": 25601,
+          "version": 1
+        },
+        "hlth-doc-1_3.jpg": {
+          "hash": "0acf10de5e8eea15351b5f72ef6c13c811190dfdba7123d2618bb2145c712b2a",
+          "size": 622882,
+          "version": 1
+        },
+        "work-day-1_1.svg": {
+          "hash": "ed4022f5be6536dcab2609c74085789e4a5de9cbda29d4dfd2f4bca7affa6677",
+          "size": 39408,
+          "version": 1
+        },
+        "comm-caf-1_2.png": {
+          "hash": "58e3cb2c110d8bfce54c8b07ff25cca7f1ce1dc835519771cbe60744721890c3",
+          "size": 337145,
+          "version": 1
+        },
+        "work-day-1_2.svg": {
+          "hash": "0e0249ed8550aeb084b331347d96a2adc4802e842e6ffeb862c0052bd03c0f7e",
+          "size": 139255,
+          "version": 1
+        },
+        "work-cls-2_3.jpg": {
+          "hash": "3594669b09273554a7d7861c726c39c9eb55ef7289799d108962c479c0bbe191",
+          "size": 17884,
+          "version": 1
+        },
+        "work-cls-2_4.jpg": {
+          "hash": "834905ffecb43ed1e4a9d3dfb2b80de34f11f067d3de73b2c8fdd9a422ed3fe2",
+          "size": 20785,
+          "version": 1
+        },
+        "comm-caf-1_1.png": {
+          "hash": "3b5da88175aef6f19a53e72578d4cea3c651647ad86e04658d945167160cc51e",
+          "size": 362420,
+          "version": 1
+        },
+        "work-cls-1_1.svg": {
+          "hash": "8e53c6287fcea7ad52c0b02e63b273b36f58e5abd75f132aaf75892843dea117",
+          "size": 57934,
+          "version": 1
+        },
+        "work-cls-1_5.svg": {
+          "hash": "3244179294a54b632de47ee70fd0f22cc725da718de50d39db40311a0ddd0996",
+          "size": 76934,
+          "version": 2
+        },
+        "work-day-1_4.svg": {
+          "hash": "1e9a990949449434d6df56196f394a082fdf1c2ad594b214132021a70e292b0e",
+          "size": 74897,
+          "version": 1
+        },
+        "work-day-1_3.svg": {
+          "hash": "d7948564c17633f293c23eb3e1f71316ef8c15115810e2e3317c115c839de493",
+          "size": 101374,
+          "version": 1
+        },
+        "hlth-doc-1_1.jpg": {
+          "hash": "fe218a5ab715b633533ff1b388e90056627c169abdf7aab98d26c77089fa9004",
+          "size": 3381245,
+          "version": 1
+        },
+        "hlth-doc-1_5.jpg": {
+          "hash": "acd94059453317f5dc1f54707fb034af347e4124043f7deea78724619fd1234c",
+          "size": 3704720,
+          "version": 1
+        },
+        "work-cls-1_4.svg": {
+          "hash": "081a4a1767b1dd0d7cc9d97c8d916d3e278083a07e66d1d20314967750e9b3f6",
+          "size": 582609,
+          "version": 2
+        },
+        "hlth-doc-1_4.jpg": {
+          "hash": "c4ed5a8a2e0f02be93f8b4529ee4bdb506d23dbed7f2333340f31beafff6498c",
+          "size": 2744389,
+          "version": 1
+        },
+        "work-cls-1_2.svg": {
+          "hash": "4b0647a149a18e194fc238af4373c394d85527fd901aee569d3b21f46e644d8a",
+          "size": 73950,
+          "version": 2
+        },
+        "work-cls-2_1.jpg": {
+          "hash": "accdbf85ef90c3b977f328ed76bb5828e2c5ef8fbd4ddfa9b2606f57b355cd45",
+          "size": 14258,
+          "version": 1
+        },
+        "work-cls-1_3.svg": {
+          "hash": "7c0bfaf79ea63e255c293b563ee9f3dd528b1ad16e7b40c0e537afe32f4c6eba",
+          "size": 59261,
+          "version": 2
+        },
+        "work-cls-2_5.jpg": {
+          "hash": "2be094ff65fda14ed8404c4710a7e4f7683ff8311316b26375c9ad299bf8646a",
+          "size": 18319,
+          "version": 1
+        },
+        "work-day-1_5.svg": {
+          "hash": "161d2a14b216c31d8bd82022d91b647bf546e41296c0fe61eea78cf7dc20e9d7",
+          "size": 136710,
+          "version": 1
+        },
+        "hlth-doc-1_2.jpg": {
+          "hash": "a5b3c33958d6f65374541e13e0d9c7f17de3ecba9828f17a82dec262efb33b40",
+          "size": 3866348,
+          "version": 1
+        },
+        "comm-caf-1_3.png": {
+          "hash": "736983337a401d9ed339dc45384a168f21bb34ae2947c26ae4759467185fccad",
+          "size": 413229,
+          "version": 1
+        },
+        "comm-caf-1_5.png": {
+          "hash": "05f49a5362a89631c67c00307d6509973731705ef5a5f0e2cfb48e9d895114f9",
+          "size": 337187,
+          "version": 1
+        }
+      }
+    },
     "categoryimages": {
       "basePath": "assets/images/category_images/",
       "version": 5,
       "files": {
-        "greet-goodbye.svg": {
-          "hash": "e6f3d0a25f014f687addfc33c6bca53fc6f602f18c78048660f6814933d962b7",
-          "size": 8337,
+        "comm-supermarket.svg": {
+          "hash": "df51fe0448ac0f3349e8291f7490c2a530b85bf4fa44174bfd71643c858e01e1",
+          "size": 34989,
           "version": 1
         },
-        "comm-transport.svg": {
-          "hash": "7ea264c4dfd13a75638adb237da5db53d89e1265df5b403c372b8133e1a75f30",
-          "size": 9783,
+        "health-pharmacy.svg": {
+          "hash": "cfcbddeac162a1e094490789dd8cbf60fd3593ada4cbb50e4f43c7f95dc35cda",
+          "size": 54122,
           "version": 1
         },
-        "work-reading.svg": {
-          "hash": "cebecc10e75cbfb4916bec671a4511e6360df2bc77183112b8b4ab560cbfafd5",
-          "size": 26942,
+        "help-confused.svg": {
+          "hash": "7b99f6081a3a3973e4c0d4110be5deb48b6584b42d8a6d2dedb26e74afd265c9",
+          "size": 11367,
           "version": 1
         },
-        "emergency.svg": {
-          "hash": "962d4977d97a2cd63e5490322551b6ac8268a55879697ed31f36397ad15f5950",
-          "size": 6055,
+        "emerg-unsafe.svg": {
+          "hash": "803e6fe9d6f29f097e489456afa7537be052147de85cfcce1f9f51b4a60b4e55",
+          "size": 6829,
           "version": 1
         },
-        "tr_dini_bayramlar.svg": {
-          "hash": "d097982b307ec972fa691b3fb44b30e74c085020c282de594472e284cfb2eada",
-          "size": 8456,
+        "shop-haircut.svg": {
+          "hash": "6df3ed7525a7f22fc91320b60482025284c59e10131a843cc5d20dca33c63f5d",
+          "size": 17073,
           "version": 1
         },
-        "sayno.svg": {
-          "hash": "0f7ccfd1f69cf787595fb3eeb7ce2c2d68785a98ce936b4f12e50cb0a2f8cbf5",
-          "size": 13766,
+        "phone-customer.svg": {
+          "hash": "cc2955d07fd2f7e982b529d840f3ec6188c57787ee8070c3c1054be195a247c6",
+          "size": 12129,
+          "version": 1
+        },
+        "community.svg": {
+          "hash": "c5fc83e1ac686f3a37a32fad2be1122f8e7b669ff620658901f07750f10fd33b",
+          "size": 14944,
+          "version": 1
+        },
+        "self-conflict.svg": {
+          "hash": "9018ab1ce15869958edbae1ebcb29a589031a0648edc5673a7a9099281964f75",
+          "size": 15481,
+          "version": 1
+        },
+        "sayno-invites.svg": {
+          "hash": "b02b1221e57ff5682239035162080228d286dd874e0ac2519f61aa3715a901de",
+          "size": 6349,
+          "version": 1
+        },
+        "shop-grocery.svg": {
+          "hash": "07451fb772744acb4aefd821f3f6b597a5feb692c9ed0de189481c8d74a2ed93",
+          "size": 33715,
+          "version": 1
+        },
+        "help-permission.svg": {
+          "hash": "ca6e321f9cb149dd73abc3b06592ad25ee0820059f930a1ac22ffc294e9f3642",
+          "size": 6868,
+          "version": 1
+        },
+        "sayno-pressure.svg": {
+          "hash": "f38d670c317eb7a5ad0e326f38d880d2f34a8f1aeb2eef073a14667e49b439c0",
+          "size": 27745,
+          "version": 1
+        },
+        "talk-end.svg": {
+          "hash": "7cd96ec4ae57a4bf53d7e8a84d81e518c88bdbc6ac854b9d30058b708b7e26bf",
+          "size": 15678,
+          "version": 1
+        },
+        "work-daily.svg": {
+          "hash": "493ec2c41c43ea2ca8c1cf09d06db213e2a0467db69db4c3b6f812d7eaa2084d",
+          "size": 41651,
+          "version": 1
+        },
+        "self-overwhelm.svg": {
+          "hash": "4afe2edcfe1c928c252960f2c349c3e23a43e7b7561b7f330c19c60752ca1482",
+          "size": 11976,
+          "version": 1
+        },
+        "greet-formal.svg": {
+          "hash": "49a7adeb64bca0d3cd6b07359dc0957790044dea222ecff9e34ecccd421ffb4c",
+          "size": 8586,
+          "version": 2
+        },
+        "comm-events.svg": {
+          "hash": "1dc17fc395d09b73351822c1795bb20c3ee8ab98e5b72f008b643eb5797bc028",
+          "size": 12927,
+          "version": 1
+        },
+        "workschool.svg": {
+          "hash": "3719eededf63784c0ae48fe006889cd7d8fe14c8b565b0939dc193316950c117",
+          "size": 8273,
+          "version": 1
+        },
+        "self-disclose.svg": {
+          "hash": "18d66436a953b5035459dae7d3aa17d968aae421d78d79715a1b022740c9728d",
+          "size": 7795,
+          "version": 1
+        },
+        "shop-restaurant.svg": {
+          "hash": "e34f1020653ae1b9ae9cbdec77f85d56d1c407f86f2a76735c8a09cc79cecdb0",
+          "size": 17979,
+          "version": 1
+        },
+        "social-manners.svg": {
+          "hash": "53a920b3e85a0ea279368305b7e80e833f9aa2b94053671a2e0350caa0fc056d",
+          "size": 16426,
+          "version": 1
+        },
+        "work-interview.svg": {
+          "hash": "80f14953ce31225cc06a22b737a19265daa1a5e431d56c2be41d8d8e8f063428",
+          "size": 32045,
+          "version": 1
+        },
+        "help-stores.svg": {
+          "hash": "26d9afd37062c9cfad2fdad09ca812fb94b218adb5e641ad76a8dbf38ec816b6",
+          "size": 5655,
+          "version": 1
+        },
+        "self-accomm.svg": {
+          "hash": "9740e6b6d4c54fdeddb15548f25cd748d2e4ca1804e849d8308c7c42d181f413",
+          "size": 16248,
+          "version": 1
+        },
+        "phone-email.svg": {
+          "hash": "e8dde01ddf43e48ac05ee6060e6c3c2895c47d9a2f1e40024d9576268572e563",
+          "size": 7081,
+          "version": 1
+        },
+        "self-feelings.svg": {
+          "hash": "0a7586d27e18e314aec5ecc88b75a75a31c8632b4e773311e0d983287c9ceb8c",
+          "size": 22430,
+          "version": 1
+        },
+        "comm-restaurant.svg": {
+          "hash": "1ed38091d035c32d894b68365c174a5568a91c1eedd194761c29716f414d25c7",
+          "size": 15275,
           "version": 1
         },
         "greet-online.svg": {
@@ -105,14 +341,254 @@
           "size": 17791,
           "version": 1
         },
+        "emerg-lost.svg": {
+          "hash": "e0ced619561d6b53efcad5761d4410b8a066785f907cbd110ac383a50a080ce1",
+          "size": 2998,
+          "version": 2
+        },
+        "sayno-boundaries.svg": {
+          "hash": "c795571f924753cd649fd4b2446bdf47e52c26f8e6d001b00ce2dcc6755390d9",
+          "size": 7774,
+          "version": 1
+        },
+        "sayno-touch.svg": {
+          "hash": "0d0a447c845ac4091479a4cb6562d7b43ee094a5cd44662f65a7f8b1f7dc946c",
+          "size": 6843,
+          "version": 1
+        },
+        "greet-goodbye.svg": {
+          "hash": "e6f3d0a25f014f687addfc33c6bca53fc6f602f18c78048660f6814933d962b7",
+          "size": 8337,
+          "version": 1
+        },
+        "shop-returns.svg": {
+          "hash": "850e39cbdd3e4f3eee037d15ac99950cf67a5ba737e6eaa4b899009c943f266c",
+          "size": 5171,
+          "version": 1
+        },
         "emerg-sensory.svg": {
           "hash": "feae693672cdee712b8a6c3b6d3f8c39838cb018d015116c0ee6d7d15a74eccc",
           "size": 4846,
           "version": 1
         },
+        "shop-transport.svg": {
+          "hash": "a1d53948001eb7254f19cd61ce1a420b2d0730d5ca5bff90c191932f1ccca3c2",
+          "size": 17110,
+          "version": 2
+        },
+        "work-feedback.svg": {
+          "hash": "4b3d58209b435bd5eb32650ff4c417823231119d230df1ee4aa655d44f0044db",
+          "size": 14031,
+          "version": 1
+        },
+        "selfadvoc.svg": {
+          "hash": "df80f36694c6d6cb95dce1ffa659b3867bf7a0346d308c95d0861b6dc73354d1",
+          "size": 26719,
+          "version": 1
+        },
+        "comm-transport.svg": {
+          "hash": "7ea264c4dfd13a75638adb237da5db53d89e1265df5b403c372b8133e1a75f30",
+          "size": 9783,
+          "version": 1
+        },
+        "phone-orders.svg": {
+          "hash": "84c4ebc689ab166b126bc135440d75d646a6a902c3ff3de47130f072321ecf33",
+          "size": 5980,
+          "version": 1
+        },
+        "social.svg": {
+          "hash": "39306f0e61f96c5f64301cfc296a730a8a53bf1b2ee8fa967ad55ccf2148e6c8",
+          "size": 7096,
+          "version": 1
+        },
+        "comm-library.svg": {
+          "hash": "cfb42f682a84afc085ea60de90b2d9b274d6a0851350c072dd3b7feffdd18f5a",
+          "size": 13028,
+          "version": 1
+        },
+        "emerg-911.svg": {
+          "hash": "db382153097a4cd89c80403919a218affa03a7c1ab87e87a73377c03fbd5ee8c",
+          "size": 9113,
+          "version": 1
+        },
+        "health-symptoms.svg": {
+          "hash": "6f285329d137ffad953c3a271d3bd2d1eb4ceb0faf0c30fa357b90f195c3aaef",
+          "size": 10269,
+          "version": 1
+        },
+        "greeting.svg": {
+          "hash": "e6f3d0a25f014f687addfc33c6bca53fc6f602f18c78048660f6814933d962b7",
+          "size": 8337,
+          "version": 1
+        },
+        "work-reading.svg": {
+          "hash": "cebecc10e75cbfb4916bec671a4511e6360df2bc77183112b8b4ab560cbfafd5",
+          "size": 26942,
+          "version": 1
+        },
+        "help-directions.svg": {
+          "hash": "7a4b096eb63772661c629d5e86e308cfd1511ffa8cc1b559e80c86b49442563f",
+          "size": 14358,
+          "version": 1
+        },
+        "talk-weather.svg": {
+          "hash": "15bb137ec267eb7c084cd787fa8379bb2e0b02f37874b9b20192ed452f773711",
+          "size": 11643,
+          "version": 1
+        },
+        "social-peer.svg": {
+          "hash": "d24a41d565f265ba214007e9e995c902108374cb93ee8987c263b4bd091b710b",
+          "size": 9756,
+          "version": 1
+        },
+        "comm-services.svg": {
+          "hash": "80db738518ac2102634a2d827f14a86937de5ae204f39b8d6367e08b0d9a9b10",
+          "size": 13885,
+          "version": 1
+        },
+        "help.svg": {
+          "hash": "deee3be88f713bf4bf169e0b40739e8bb91eb65fcf201223de7029606060df6b",
+          "size": 26695,
+          "version": 1
+        },
+        "social-gifts.svg": {
+          "hash": "992953adb9a088a841f56572ce3bb6285448072193b32c008028eec7d78bcbec",
+          "size": 11075,
+          "version": 1
+        },
         "tr_yaslilara_saygi.svg": {
           "hash": "797eb90c403c93856f37f27adb803093e28af0e76226f62877080c61fbbba1a3",
           "size": 10114,
+          "version": 1
+        },
+        "shopping.svg": {
+          "hash": "53430a4a0eb072b9f7ca2ee7e576b25c45485aa653146b7c6a537faf6d0e193e",
+          "size": 9207,
+          "version": 2
+        },
+        "phone-voicemail.svg": {
+          "hash": "4a0ae43883d3ce55b589b07302e24167863afc965ff15aac61beb716f85b26cb",
+          "size": 13999,
+          "version": 1
+        },
+        "health-therapy.svg": {
+          "hash": "f5ac14febe2296a9da2d199dc429b36f1ff8acfd8bbb74f238ab4f4425b70cdb",
+          "size": 15766,
+          "version": 1
+        },
+        "work-meetings.svg": {
+          "hash": "edcc5ffcef7aa9fe9d1554ada6275dd14d5d8c80e3e7fffb96fc960c5c61c426",
+          "size": 40699,
+          "version": 1
+        },
+        "health-er.svg": {
+          "hash": "98fd7835daadc2f780a8bf90e4415fef2f21c3117bc90fad36f05682492fd41e",
+          "size": 17076,
+          "version": 1
+        },
+        "comm-pool.svg": {
+          "hash": "6ae300b35c0bc13a6c395b0e3eaf58d45451ad3d9248d0df93230b6f7ecd762f",
+          "size": 14589,
+          "version": 1
+        },
+        "self-break.svg": {
+          "hash": "86c4c4ec48b2d046f81924a523d0b7e8a74a04b5ee9ebc4b02187b4f15a29acf",
+          "size": 3888,
+          "version": 1
+        },
+        "help-bathroom.svg": {
+          "hash": "3082d8ad6a27ca7051b3e92e0d8cdb0498a6fca2465b70613e1252d332b8fd7b",
+          "size": 9996,
+          "version": 1
+        },
+        "talk-compliment.svg": {
+          "hash": "15a738c0ca4a990ad3832642f2aa0fd4a0af70ddc350b64cdeb61989a493cb41",
+          "size": 5645,
+          "version": 1
+        },
+        "emergency.svg": {
+          "hash": "962d4977d97a2cd63e5490322551b6ac8268a55879697ed31f36397ad15f5950",
+          "size": 6055,
+          "version": 1
+        },
+        "social-feelings.svg": {
+          "hash": "0a7586d27e18e314aec5ecc88b75a75a31c8632b4e773311e0d983287c9ceb8c",
+          "size": 22430,
+          "version": 1
+        },
+        "phone-appt.svg": {
+          "hash": "b1e9ca746691c6d19ee68c3a2a634da217d3677546ff26ed07983e917c5de6f8",
+          "size": 29052,
+          "version": 1
+        },
+        "tr_milli_bayramlar.svg": {
+          "hash": "f8cab342b6cbcffe1c33fe2e5292b51980fc6c5e2e8de74b349e55c816b8f3bd",
+          "size": 30342,
+          "version": 1
+        },
+        "talk-plans.svg": {
+          "hash": "8fa270f880d75cc0a56c2c9328eb53406f7d89cf327d0d795392c9bc36db9109",
+          "size": 17351,
+          "version": 1
+        },
+        "tr_dini_bayramlar.svg": {
+          "hash": "d097982b307ec972fa691b3fb44b30e74c085020c282de594472e284cfb2eada",
+          "size": 8456,
+          "version": 1
+        },
+        "smalltalk.svg": {
+          "hash": "966a686f3900585db5bf7d8b793b1b4ff67843660f81d936d1d6b8805d7b0b80",
+          "size": 13912,
+          "version": 1
+        },
+        "sayno.svg": {
+          "hash": "0f7ccfd1f69cf787595fb3eeb7ce2c2d68785a98ce936b4f12e50cb0a2f8cbf5",
+          "size": 13766,
+          "version": 1
+        },
+        "comm-cafe.svg": {
+          "hash": "7912e7380815ffeb3f27fdd0733662c8203b87f456e1e34919d4c86739ab4448",
+          "size": 16252,
+          "version": 1
+        },
+        "comm-leisure.svg": {
+          "hash": "c57ddb786f23544a2f0c7d9199616690a72db191c88481853378142befa8f3af",
+          "size": 23791,
+          "version": 1
+        },
+        "local_traditions.svg": {
+          "hash": "342867c206fd90707dd3222d67c9816ccf54ab218eb35c8f4fce245054565c79",
+          "size": 2811,
+          "version": 1
+        },
+        "phone.svg": {
+          "hash": "302c0d44f643898f7e463455b2d29b83b402554c6159b20b3792931d135db628",
+          "size": 10453,
+          "version": 1
+        },
+        "social-apology.svg": {
+          "hash": "e3954c5deb79608d23b01377ee096fd91bee6320479073b8660259608156af4a",
+          "size": 5621,
+          "version": 1
+        },
+        "health-dental.svg": {
+          "hash": "83a3766930065a2c025d4ca83608abe0f7ae6ed03fb175a46ea176916b67260a",
+          "size": 26715,
+          "version": 1
+        },
+        "health-doctor.svg": {
+          "hash": "42d443a570e05171b456225ac1bd4ffddd14d2515f055b60adf437b3fdb050e6",
+          "size": 17410,
+          "version": 1
+        },
+        "social-games.svg": {
+          "hash": "146a4195bed26f01cbfb913a7982692db157993ae2fe33a0a939e97d0ffe7834",
+          "size": 9926,
+          "version": 1
+        },
+        "help-school.svg": {
+          "hash": "3719eededf63784c0ae48fe006889cd7d8fe14c8b565b0939dc193316950c117",
+          "size": 8273,
           "version": 1
         },
         "healthcare.svg": {
@@ -125,495 +601,9 @@
           "size": 5930,
           "version": 1
         },
-        "selfadvoc.svg": {
-          "hash": "df80f36694c6d6cb95dce1ffa659b3867bf7a0346d308c95d0861b6dc73354d1",
-          "size": 26719,
-          "version": 1
-        },
-        "shopping.svg": {
-          "hash": "53430a4a0eb072b9f7ca2ee7e576b25c45485aa653146b7c6a537faf6d0e193e",
-          "size": 9207,
-          "version": 2
-        },
-        ".DS_Store": {
-          "hash": "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3",
-          "size": 6148,
-          "version": 1
-        },
-        "phone-appt.svg": {
-          "hash": "b1e9ca746691c6d19ee68c3a2a634da217d3677546ff26ed07983e917c5de6f8",
-          "size": 29052,
-          "version": 1
-        },
-        "community.svg": {
-          "hash": "c5fc83e1ac686f3a37a32fad2be1122f8e7b669ff620658901f07750f10fd33b",
-          "size": 14944,
-          "version": 1
-        },
-        "shop-restaurant.svg": {
-          "hash": "e34f1020653ae1b9ae9cbdec77f85d56d1c407f86f2a76735c8a09cc79cecdb0",
-          "size": 17979,
-          "version": 1
-        },
-        "local_traditions.svg": {
-          "hash": "342867c206fd90707dd3222d67c9816ccf54ab218eb35c8f4fce245054565c79",
-          "size": 2811,
-          "version": 1
-        },
-        "social-games.svg": {
-          "hash": "146a4195bed26f01cbfb913a7982692db157993ae2fe33a0a939e97d0ffe7834",
-          "size": 9926,
-          "version": 1
-        },
-        "comm-library.svg": {
-          "hash": "cfb42f682a84afc085ea60de90b2d9b274d6a0851350c072dd3b7feffdd18f5a",
-          "size": 13028,
-          "version": 1
-        },
-        "emerg-lost.svg": {
-          "hash": "e0ced619561d6b53efcad5761d4410b8a066785f907cbd110ac383a50a080ce1",
-          "size": 2998,
-          "version": 2
-        },
-        "phone-voicemail.svg": {
-          "hash": "4a0ae43883d3ce55b589b07302e24167863afc965ff15aac61beb716f85b26cb",
-          "size": 13999,
-          "version": 1
-        },
-        "comm-events.svg": {
-          "hash": "1dc17fc395d09b73351822c1795bb20c3ee8ab98e5b72f008b643eb5797bc028",
-          "size": 12927,
-          "version": 1
-        },
-        "shop-grocery.svg": {
-          "hash": "07451fb772744acb4aefd821f3f6b597a5feb692c9ed0de189481c8d74a2ed93",
-          "size": 33715,
-          "version": 1
-        },
         "greet-casual.svg": {
           "hash": "46acbf314cc81ea50c136ba96a6b6e1851b90e574e1bce6977b7ed1845d239e4",
           "size": 9398,
-          "version": 1
-        },
-        "comm-services.svg": {
-          "hash": "80db738518ac2102634a2d827f14a86937de5ae204f39b8d6367e08b0d9a9b10",
-          "size": 13885,
-          "version": 1
-        },
-        "social-gifts.svg": {
-          "hash": "992953adb9a088a841f56572ce3bb6285448072193b32c008028eec7d78bcbec",
-          "size": 11075,
-          "version": 1
-        },
-        "self-disclose.svg": {
-          "hash": "18d66436a953b5035459dae7d3aa17d968aae421d78d79715a1b022740c9728d",
-          "size": 7795,
-          "version": 1
-        },
-        "help-directions.svg": {
-          "hash": "7a4b096eb63772661c629d5e86e308cfd1511ffa8cc1b559e80c86b49442563f",
-          "size": 14358,
-          "version": 1
-        },
-        "phone-email.svg": {
-          "hash": "e8dde01ddf43e48ac05ee6060e6c3c2895c47d9a2f1e40024d9576268572e563",
-          "size": 7081,
-          "version": 1
-        },
-        "social-apology.svg": {
-          "hash": "e3954c5deb79608d23b01377ee096fd91bee6320479073b8660259608156af4a",
-          "size": 5621,
-          "version": 1
-        },
-        "workschool.svg": {
-          "hash": "3719eededf63784c0ae48fe006889cd7d8fe14c8b565b0939dc193316950c117",
-          "size": 8273,
-          "version": 1
-        },
-        "talk-compliment.svg": {
-          "hash": "15a738c0ca4a990ad3832642f2aa0fd4a0af70ddc350b64cdeb61989a493cb41",
-          "size": 5645,
-          "version": 1
-        },
-        "health-doctor.svg": {
-          "hash": "42d443a570e05171b456225ac1bd4ffddd14d2515f055b60adf437b3fdb050e6",
-          "size": 17410,
-          "version": 1
-        },
-        "work-interview.svg": {
-          "hash": "80f14953ce31225cc06a22b737a19265daa1a5e431d56c2be41d8d8e8f063428",
-          "size": 32045,
-          "version": 1
-        },
-        "phone-customer.svg": {
-          "hash": "cc2955d07fd2f7e982b529d840f3ec6188c57787ee8070c3c1054be195a247c6",
-          "size": 12129,
-          "version": 1
-        },
-        "comm-restaurant.svg": {
-          "hash": "1ed38091d035c32d894b68365c174a5568a91c1eedd194761c29716f414d25c7",
-          "size": 15275,
-          "version": 1
-        },
-        "smalltalk.svg": {
-          "hash": "966a686f3900585db5bf7d8b793b1b4ff67843660f81d936d1d6b8805d7b0b80",
-          "size": 13912,
-          "version": 1
-        },
-        "shop-haircut.svg": {
-          "hash": "6df3ed7525a7f22fc91320b60482025284c59e10131a843cc5d20dca33c63f5d",
-          "size": 17073,
-          "version": 1
-        },
-        "social-peer.svg": {
-          "hash": "d24a41d565f265ba214007e9e995c902108374cb93ee8987c263b4bd091b710b",
-          "size": 9756,
-          "version": 1
-        },
-        "emerg-911.svg": {
-          "hash": "db382153097a4cd89c80403919a218affa03a7c1ab87e87a73377c03fbd5ee8c",
-          "size": 9113,
-          "version": 1
-        },
-        "sayno-boundaries.svg": {
-          "hash": "c795571f924753cd649fd4b2446bdf47e52c26f8e6d001b00ce2dcc6755390d9",
-          "size": 7774,
-          "version": 1
-        },
-        "health-therapy.svg": {
-          "hash": "f5ac14febe2296a9da2d199dc429b36f1ff8acfd8bbb74f238ab4f4425b70cdb",
-          "size": 15766,
-          "version": 1
-        },
-        "social.svg": {
-          "hash": "39306f0e61f96c5f64301cfc296a730a8a53bf1b2ee8fa967ad55ccf2148e6c8",
-          "size": 7096,
-          "version": 1
-        },
-        "sayno-pressure.svg": {
-          "hash": "f38d670c317eb7a5ad0e326f38d880d2f34a8f1aeb2eef073a14667e49b439c0",
-          "size": 27745,
-          "version": 1
-        },
-        "sayno-touch.svg": {
-          "hash": "0d0a447c845ac4091479a4cb6562d7b43ee094a5cd44662f65a7f8b1f7dc946c",
-          "size": 6843,
-          "version": 1
-        },
-        "talk-end.svg": {
-          "hash": "7cd96ec4ae57a4bf53d7e8a84d81e518c88bdbc6ac854b9d30058b708b7e26bf",
-          "size": 15678,
-          "version": 1
-        },
-        "health-pharmacy.svg": {
-          "hash": "cfcbddeac162a1e094490789dd8cbf60fd3593ada4cbb50e4f43c7f95dc35cda",
-          "size": 54122,
-          "version": 1
-        },
-        "help-bathroom.svg": {
-          "hash": "3082d8ad6a27ca7051b3e92e0d8cdb0498a6fca2465b70613e1252d332b8fd7b",
-          "size": 9996,
-          "version": 1
-        },
-        "social-feelings.svg": {
-          "hash": "0a7586d27e18e314aec5ecc88b75a75a31c8632b4e773311e0d983287c9ceb8c",
-          "size": 22430,
-          "version": 1
-        },
-        "comm-pool.svg": {
-          "hash": "6ae300b35c0bc13a6c395b0e3eaf58d45451ad3d9248d0df93230b6f7ecd762f",
-          "size": 14589,
-          "version": 1
-        },
-        "health-dental.svg": {
-          "hash": "83a3766930065a2c025d4ca83608abe0f7ae6ed03fb175a46ea176916b67260a",
-          "size": 26715,
-          "version": 1
-        },
-        "greeting.svg": {
-          "hash": "e6f3d0a25f014f687addfc33c6bca53fc6f602f18c78048660f6814933d962b7",
-          "size": 8337,
-          "version": 1
-        },
-        "help-confused.svg": {
-          "hash": "7b99f6081a3a3973e4c0d4110be5deb48b6584b42d8a6d2dedb26e74afd265c9",
-          "size": 11367,
-          "version": 1
-        },
-        "talk-plans.svg": {
-          "hash": "8fa270f880d75cc0a56c2c9328eb53406f7d89cf327d0d795392c9bc36db9109",
-          "size": 17351,
-          "version": 1
-        },
-        "talk-weather.svg": {
-          "hash": "15bb137ec267eb7c084cd787fa8379bb2e0b02f37874b9b20192ed452f773711",
-          "size": 11643,
-          "version": 1
-        },
-        "help-school.svg": {
-          "hash": "3719eededf63784c0ae48fe006889cd7d8fe14c8b565b0939dc193316950c117",
-          "size": 8273,
-          "version": 1
-        },
-        "sayno-invites.svg": {
-          "hash": "b02b1221e57ff5682239035162080228d286dd874e0ac2519f61aa3715a901de",
-          "size": 6349,
-          "version": 1
-        },
-        "help-stores.svg": {
-          "hash": "26d9afd37062c9cfad2fdad09ca812fb94b218adb5e641ad76a8dbf38ec816b6",
-          "size": 5655,
-          "version": 1
-        },
-        "health-symptoms.svg": {
-          "hash": "6f285329d137ffad953c3a271d3bd2d1eb4ceb0faf0c30fa357b90f195c3aaef",
-          "size": 10269,
-          "version": 1
-        },
-        "self-accomm.svg": {
-          "hash": "9740e6b6d4c54fdeddb15548f25cd748d2e4ca1804e849d8308c7c42d181f413",
-          "size": 16248,
-          "version": 1
-        },
-        "help-permission.svg": {
-          "hash": "ca6e321f9cb149dd73abc3b06592ad25ee0820059f930a1ac22ffc294e9f3642",
-          "size": 6868,
-          "version": 1
-        },
-        "work-feedback.svg": {
-          "hash": "4b3d58209b435bd5eb32650ff4c417823231119d230df1ee4aa655d44f0044db",
-          "size": 14031,
-          "version": 1
-        },
-        "phone.svg": {
-          "hash": "302c0d44f643898f7e463455b2d29b83b402554c6159b20b3792931d135db628",
-          "size": 10453,
-          "version": 1
-        },
-        "greet-formal.svg": {
-          "hash": "49a7adeb64bca0d3cd6b07359dc0957790044dea222ecff9e34ecccd421ffb4c",
-          "size": 8586,
-          "version": 2
-        },
-        "self-overwhelm.svg": {
-          "hash": "4afe2edcfe1c928c252960f2c349c3e23a43e7b7561b7f330c19c60752ca1482",
-          "size": 11976,
-          "version": 1
-        },
-        "comm-leisure.svg": {
-          "hash": "c57ddb786f23544a2f0c7d9199616690a72db191c88481853378142befa8f3af",
-          "size": 23791,
-          "version": 1
-        },
-        "shop-transport.svg": {
-          "hash": "a1d53948001eb7254f19cd61ce1a420b2d0730d5ca5bff90c191932f1ccca3c2",
-          "size": 17110,
-          "version": 2
-        },
-        "tr_milli_bayramlar.svg": {
-          "hash": "f8cab342b6cbcffe1c33fe2e5292b51980fc6c5e2e8de74b349e55c816b8f3bd",
-          "size": 30342,
-          "version": 1
-        },
-        "self-break.svg": {
-          "hash": "86c4c4ec48b2d046f81924a523d0b7e8a74a04b5ee9ebc4b02187b4f15a29acf",
-          "size": 3888,
-          "version": 1
-        },
-        "self-conflict.svg": {
-          "hash": "9018ab1ce15869958edbae1ebcb29a589031a0648edc5673a7a9099281964f75",
-          "size": 15481,
-          "version": 1
-        },
-        "emerg-unsafe.svg": {
-          "hash": "803e6fe9d6f29f097e489456afa7537be052147de85cfcce1f9f51b4a60b4e55",
-          "size": 6829,
-          "version": 1
-        },
-        "work-daily.svg": {
-          "hash": "493ec2c41c43ea2ca8c1cf09d06db213e2a0467db69db4c3b6f812d7eaa2084d",
-          "size": 41651,
-          "version": 1
-        },
-        "help.svg": {
-          "hash": "deee3be88f713bf4bf169e0b40739e8bb91eb65fcf201223de7029606060df6b",
-          "size": 26695,
-          "version": 1
-        },
-        "phone-orders.svg": {
-          "hash": "84c4ebc689ab166b126bc135440d75d646a6a902c3ff3de47130f072321ecf33",
-          "size": 5980,
-          "version": 1
-        },
-        "self-feelings.svg": {
-          "hash": "0a7586d27e18e314aec5ecc88b75a75a31c8632b4e773311e0d983287c9ceb8c",
-          "size": 22430,
-          "version": 1
-        },
-        "health-er.svg": {
-          "hash": "98fd7835daadc2f780a8bf90e4415fef2f21c3117bc90fad36f05682492fd41e",
-          "size": 17076,
-          "version": 1
-        },
-        "social-manners.svg": {
-          "hash": "53a920b3e85a0ea279368305b7e80e833f9aa2b94053671a2e0350caa0fc056d",
-          "size": 16426,
-          "version": 1
-        },
-        "comm-cafe.svg": {
-          "hash": "7912e7380815ffeb3f27fdd0733662c8203b87f456e1e34919d4c86739ab4448",
-          "size": 16252,
-          "version": 1
-        },
-        "work-meetings.svg": {
-          "hash": "edcc5ffcef7aa9fe9d1554ada6275dd14d5d8c80e3e7fffb96fc960c5c61c426",
-          "size": 40699,
-          "version": 1
-        },
-        "shop-returns.svg": {
-          "hash": "850e39cbdd3e4f3eee037d15ac99950cf67a5ba737e6eaa4b899009c943f266c",
-          "size": 5171,
-          "version": 1
-        },
-        "comm-supermarket.svg": {
-          "hash": "df51fe0448ac0f3349e8291f7490c2a530b85bf4fa44174bfd71643c858e01e1",
-          "size": 34989,
-          "version": 1
-        }
-      }
-    },
-    "scriptimages": {
-      "basePath": "assets/images/script_images/",
-      "version": 6,
-      "files": {
-        "work-cls-2_2.jpg": {
-          "hash": "a428a0344d645a526c479ee32b58e752aaee31e4bfa7762ad71749358edc31e6",
-          "size": 25601,
-          "version": 1
-        },
-        "work-cls-2_3.jpg": {
-          "hash": "3594669b09273554a7d7861c726c39c9eb55ef7289799d108962c479c0bbe191",
-          "size": 17884,
-          "version": 1
-        },
-        "work-cls-2_1.jpg": {
-          "hash": "accdbf85ef90c3b977f328ed76bb5828e2c5ef8fbd4ddfa9b2606f57b355cd45",
-          "size": 14258,
-          "version": 1
-        },
-        "work-cls-1_4.svg": {
-          "hash": "081a4a1767b1dd0d7cc9d97c8d916d3e278083a07e66d1d20314967750e9b3f6",
-          "size": 582609,
-          "version": 2
-        },
-        "work-cls-1_5.svg": {
-          "hash": "3244179294a54b632de47ee70fd0f22cc725da718de50d39db40311a0ddd0996",
-          "size": 76934,
-          "version": 2
-        },
-        "work-cls-2_4.jpg": {
-          "hash": "834905ffecb43ed1e4a9d3dfb2b80de34f11f067d3de73b2c8fdd9a422ed3fe2",
-          "size": 20785,
-          "version": 1
-        },
-        ".DS_Store": {
-          "hash": "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3",
-          "size": 6148,
-          "version": 1
-        },
-        "work-cls-1_1.svg": {
-          "hash": "8e53c6287fcea7ad52c0b02e63b273b36f58e5abd75f132aaf75892843dea117",
-          "size": 57934,
-          "version": 1
-        },
-        "work-cls-2_5.jpg": {
-          "hash": "2be094ff65fda14ed8404c4710a7e4f7683ff8311316b26375c9ad299bf8646a",
-          "size": 18319,
-          "version": 1
-        },
-        "work-cls-1_2.svg": {
-          "hash": "4b0647a149a18e194fc238af4373c394d85527fd901aee569d3b21f46e644d8a",
-          "size": 73950,
-          "version": 2
-        },
-        "work-cls-1_3.svg": {
-          "hash": "7c0bfaf79ea63e255c293b563ee9f3dd528b1ad16e7b40c0e537afe32f4c6eba",
-          "size": 59261,
-          "version": 2
-        },
-        "work-day-1_5.svg": {
-          "hash": "161d2a14b216c31d8bd82022d91b647bf546e41296c0fe61eea78cf7dc20e9d7",
-          "size": 136710,
-          "version": 1
-        },
-        "work-day-1_4.svg": {
-          "hash": "1e9a990949449434d6df56196f394a082fdf1c2ad594b214132021a70e292b0e",
-          "size": 74897,
-          "version": 1
-        },
-        "work-day-1_3.svg": {
-          "hash": "d7948564c17633f293c23eb3e1f71316ef8c15115810e2e3317c115c839de493",
-          "size": 101374,
-          "version": 1
-        },
-        "work-day-1_2.svg": {
-          "hash": "0e0249ed8550aeb084b331347d96a2adc4802e842e6ffeb862c0052bd03c0f7e",
-          "size": 139255,
-          "version": 1
-        },
-        "work-day-1_1.svg": {
-          "hash": "ed4022f5be6536dcab2609c74085789e4a5de9cbda29d4dfd2f4bca7affa6677",
-          "size": 39408,
-          "version": 1
-        },
-        "comm-caf-1_1.png": {
-          "hash": "3b5da88175aef6f19a53e72578d4cea3c651647ad86e04658d945167160cc51e",
-          "size": 362420,
-          "version": 1
-        },
-        "hlth-doc-1_5.jpg": {
-          "hash": "acd94059453317f5dc1f54707fb034af347e4124043f7deea78724619fd1234c",
-          "size": 3704720,
-          "version": 1
-        },
-        "comm-caf-1_2.png": {
-          "hash": "58e3cb2c110d8bfce54c8b07ff25cca7f1ce1dc835519771cbe60744721890c3",
-          "size": 337145,
-          "version": 1
-        },
-        "comm-caf-1_3.png": {
-          "hash": "736983337a401d9ed339dc45384a168f21bb34ae2947c26ae4759467185fccad",
-          "size": 413229,
-          "version": 1
-        },
-        "hlth-doc-1_4.jpg": {
-          "hash": "c4ed5a8a2e0f02be93f8b4529ee4bdb506d23dbed7f2333340f31beafff6498c",
-          "size": 2744389,
-          "version": 1
-        },
-        "hlth-doc-1_1.jpg": {
-          "hash": "fe218a5ab715b633533ff1b388e90056627c169abdf7aab98d26c77089fa9004",
-          "size": 3381245,
-          "version": 1
-        },
-        "hlth-doc-1_3.jpg": {
-          "hash": "0acf10de5e8eea15351b5f72ef6c13c811190dfdba7123d2618bb2145c712b2a",
-          "size": 622882,
-          "version": 1
-        },
-        "comm-caf-1_4.png": {
-          "hash": "22226e3579111ff0f8c55ce9469b0c0f07efe635c8b6c15a9de164f4eb2906e8",
-          "size": 391428,
-          "version": 1
-        },
-        "comm-caf-1_5.png": {
-          "hash": "05f49a5362a89631c67c00307d6509973731705ef5a5f0e2cfb48e9d895114f9",
-          "size": 337187,
-          "version": 1
-        },
-        "hlth-doc-1_2.jpg": {
-          "hash": "a5b3c33958d6f65374541e13e0d9c7f17de3ecba9828f17a82dec262efb33b40",
-          "size": 3866348,
           "version": 1
         }
       }
