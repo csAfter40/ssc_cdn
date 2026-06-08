@@ -102,7 +102,12 @@ def build_manifest():
 
         manifest["content"]["locales"][locale] = {}
 
-        for filename in ["categories.json", "subcategories.json", "scripts.json"]:
+        for filename in [
+            "categories.json",
+            "subcategories.json",
+            "scripts.json",
+            "situations.json",
+        ]:
             filepath = os.path.join(locale_path, filename)
 
             if not os.path.exists(filepath):

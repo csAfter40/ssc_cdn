@@ -5067,7 +5067,7 @@
 	},
 	{
 		"id": "hlth-thr-3",
-		"title": "Bir Uzmanla Maskeleme(Otistik Özellikleri Gizleme) Hakkında Konuşmak",
+		"title": "Bir Uzmana Maskeleme(Otistik Özellikleri Gizleme) Hakkında Konuşmak",
 		"category": "healthcare",
 		"subcategoryId": "health-therapy",
 		"difficulty": 3,
@@ -7094,7 +7094,7 @@
 	},
 	{
 		"id": "soc-peer-1",
-		"title": "Birine Arkadaşlık Teklif Etmek",
+		"title": "Birinden Arkadaş Olmak İstemek",
 		"category": "social",
 		"subcategoryId": "social-peer",
 		"difficulty": 2,
@@ -8740,7 +8740,7 @@
 	},
 	{
 		"id": "comm-sup-2",
-		"title": "MArket Çok Kalabalık Olduğunda",
+		"title": "Market Çok Kalabalık Olduğunda",
 		"category": "community",
 		"subcategoryId": "comm-supermarket",
 		"difficulty": 2,

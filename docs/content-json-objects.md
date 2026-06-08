@@ -1,14 +1,15 @@
 # Content JSON object shapes
 
-Locale-specific copy lives under `assets/content/<locale>/` (for example `en` and `tr`). Each locale has three top-level JSON **arrays** of objects:
+Locale-specific copy lives under `assets/content/<locale>/` (for example `en` and `tr`). Each locale has four top-level JSON **arrays** of objects:
 
 | File | Array of |
 |------|----------|
 | `categories.json` | Category |
 | `subcategories.json` | Subcategory |
 | `scripts.json` | Script |
+| `situations.json` | Situation |
 
-Objects are identified by `id`. Relationships are by string reference: a subcategory’s `categoryId` must match a category’s `id`; a script’s `subcategoryId` must match a subcategory’s `id`, and its `category` must match that subcategory’s parent category `id`.
+Objects are identified by `id`. Relationships are by string reference: a subcategory’s `categoryId` must match a category’s `id`; a script’s `subcategoryId` must match a subcategory’s `id`, and its `category` must match that subcategory’s parent category `id`; a situation’s `correctScriptId`, `distractorPrimary`, and `distractorSecondary` must each match a **Script** `id` in the same locale.
 
 ---
 
@@ -110,9 +111,40 @@ Objects are identified by `id`. Relationships are by string reference: a subcate
 
 ---
 
+## Situation
+
+**File:** `situations.json`
+
+| Field | Type | Description |
+|-------|------|-------------|
+| `id` | string | Stable identifier (e.g. `sit-greet-cas-1-001`). |
+| `title` | string | Short label for the scenario. |
+| `text` | string | The scenario description shown to the learner. |
+| `correctScriptId` | string | Script that best fits the situation; must equal a **Script** `id`. |
+| `distractorPrimary` | string | Plausible wrong answer; must equal a **Script** `id`. |
+| `distractorSecondary` | string | Second plausible wrong answer; must equal a **Script** `id`. |
+| `explanation` | string | Feedback explaining why the correct script fits. |
+
+**Example:**
+
+```json
+{
+  "id": "sit-greet-cas-1-001",
+  "title": "Birthday party, empty seat beside you",
+  "text": "You're at a friend's birthday party and someone you've never met sits down next to you. They smile and seem to be waiting for someone to say hello first.",
+  "correctScriptId": "greet-cas-1",
+  "distractorPrimary": "greet-for-1",
+  "distractorSecondary": "talk-weath-1",
+  "explanation": "This is a casual first meeting in a relaxed social setting. A brief, friendly self-introduction is exactly right, and \"Meeting Someone New\" covers each step."
+}
+```
+
+---
+
 ## Consistency checks in this repo
 
-- **`tests/test_content_ids.py`** — Within each JSON file, every top-level object’s `id` must be unique.
+- **`tests/test_content_ids.py`** — Within each JSON file, every top-level object’s `id` must be unique (categories, subcategories, scripts).
 - **`tests/test_content_lengths.py`** — Enforced upper bounds for bundled content strings and step counts: script `title` (70), each step `text` (150), at most 12 steps per script; category `title` (40).
+- **`tests/test_situations.py`** — Within each `situations.json`, every situation `id` must be unique; `correctScriptId`, `distractorPrimary`, and `distractorSecondary` must reference script ids present in that locale’s `scripts.json`.
 
 When adding locales, keep the same object shapes and `id` values so the app can match records across languages; only localized strings (such as `title` and step `text`) should differ by locale.
