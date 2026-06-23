@@ -271,7 +271,7 @@
   },
   {
     "id": "sit-greet-bye-1-001",
-    "title": "Family barbecue, host between chats",
+    "title": "Family barbecue, time to leave",
     "text": "You've been at a family barbecue for a couple of hours and you're ready to leave. Your aunt (the host) is nearby chatting. There's a gap in her conversation.",
     "correctScriptId": "greet-bye-1",
     "distractorPrimary": "greet-cas-4",

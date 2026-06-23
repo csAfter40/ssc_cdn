@@ -141,7 +141,7 @@
     "correctScriptId": "greet-cas-6",
     "distractorPrimary": "greet-for-1",
     "distractorSecondary": "talk-plans-2",
-    "explanation": "Bu, uzun süredir görmediğin, iyi tanıdığın biri. Sıcak bir selam, ne kadar zaman geçtiğine dair kısa bir yorum ve basit bir soru doğru başlangıç. 'Uzun Süre Sonra Biriyle Yeniden Karşılaşmak' uygun senaryo."
+    "explanation": "Bu, uzun süredir görmediğin ve iyi tanıdığın biri. Sıcak bir selam, ne kadar zaman geçtiğine dair kısa bir yorum ve basit bir soru doğru başlangıç olurdu. 'Uzun Süre Sonra Biriyle Yeniden Karşılaşmak' uygun senaryo."
   },
   {
     "id": "sit-greet-cas-6-002",
@@ -150,7 +150,7 @@
     "correctScriptId": "greet-cas-6",
     "distractorPrimary": "greet-for-1",
     "distractorSecondary": "talk-day-1",
-    "explanation": "Uzun bir ayrılığın ardından aileyle yeniden bir araya gelmek garip hissettirebilir. Sıcak bir selam ve nasıl olduklarını sormak doğru başlangıç. 'Uzun Süre Sonra Biriyle Yeniden Karşılaşmak' senaryosu bunu kapsıyor."
+    "explanation": "Uzun bir ayrılığın ardından bazı aile üyeleriyle yeniden bir araya gelmek garip hissettirebilir. Sıcak bir selam ve nasıl olduklarını sormak doğru bir başlanggıç olur. 'Uzun Süre Sonra Biriyle Yeniden Karşılaşmak' senaryosu bunu kapsıyor."
   },
   {
     "id": "sit-greet-cas-6-003",
@@ -159,7 +159,7 @@
     "correctScriptId": "greet-cas-6",
     "distractorPrimary": "greet-for-3",
     "distractorSecondary": "work-day-1",
-    "explanation": "Birlikte çalıştığın ama uzun süredir görmediğin biriyle karşılaşmak, resmi bir tanışma turu değil; sıcak bir yeniden bağlantı kurmayı gerektiriyor. 'Uzun Süre Sonra Biriyle Yeniden Karşılaşmak' doğru senaryo."
+    "explanation": "Birlikte çalıştığın ama uzun süredir görmediğin biriyle karşılaşmak, resmi bir tanışma durumu değildir ve samimi bir karşılaşma doğru başlangıç olur. 'Uzun Süre Sonra Biriyle Yeniden Karşılaşmak' doğru senaryo."
   },
   {
     "id": "sit-greet-for-1-001",
@@ -168,20 +168,20 @@
     "correctScriptId": "greet-for-1",
     "distractorPrimary": "greet-cas-1",
     "distractorSecondary": "work-int-2",
-    "explanation": "Bu, profesyonel ve resmi bir ilk karşılaşma. Ayağa kalkmak, tokalaşmak ve adını net söylemek gerekir. 'Resmi Tanışma' senaryosu bu adımların tamamını içerir."
+    "explanation": "Bu, profesyonel ve resmi bir ilk karşılaşma. Ayağa kalkmak, tokalaşmak ve net bir şekilde adını söylemek gerekir. 'Resmi Tanışma' senaryosu bu adımların tamamını içerir."
   },
   {
     "id": "sit-greet-for-1-002",
-    "title": "Ekip masaları, ilk karşılaşma anı",
+    "title": "Ofisteki ilk karşılaşma anı",
     "text": "İşe geldiğinde ekibine bugün yeni birinin başladığını görüyorsun. Yöneticin onu senin masana getirip tanıştırıyor.",
     "correctScriptId": "greet-for-1",
     "distractorPrimary": "greet-cas-3",
     "distractorSecondary": "work-day-1",
-    "explanation": "Profesyonel ortamda yeni bir çalışma arkadaşıyla tanışırken kısa, düzenli ve saygılı bir giriş gerekir. 'Resmi Tanışma' burada en uygun çerçevedir."
+    "explanation": "Profesyonel ortamda yeni bir çalışma arkadaşıyla tanışırken kısa bir tokalaşma ve saygılı bir giriş uygun olur. 'Resmi Tanışma' burada en uygun çerçevedir."
   },
   {
     "id": "sit-greet-for-1-003",
-    "title": "Konferans ağı, yaka kartına göz atma",
+    "title": "Konferans tanışma oturumu",
     "text": "Bir konferansta tanışma oturumundasın. Yaka kartında seninle aynı alanda çalıştığı yazan birini fark ediyorsun. Kişi tek başına duruyor.",
     "correctScriptId": "greet-for-1",
     "distractorPrimary": "greet-cas-1",
@@ -190,7 +190,7 @@
   },
   {
     "id": "sit-greet-for-2-001",
-    "title": "İlk gün, karşında danışma masası",
+    "title": "Üniversitede ilk gün, karşında danışma masası",
     "text": "Daha önce hiç eğitim almadığın bir yerde ilk günün. Ana kapıdan girince karşılama masasının arkasında oturan bir görevli görüyorsun.",
     "correctScriptId": "greet-for-2",
     "distractorPrimary": "greet-cas-1",
@@ -208,7 +208,7 @@
   },
   {
     "id": "sit-greet-for-2-003",
-    "title": "Oryantasyon koridoru, sıra yavaşça ilerliyor",
+    "title": "Okuyl oryantasyonu, sıra yavaşça ilerliyor",
     "text": "Yeni okulun oryantasyon günü. Koridorda diğer yeni öğrencilerle sıradasın ve bir görevli herkesi sırayla öne çağırıyor.",
     "correctScriptId": "greet-for-2",
     "distractorPrimary": "greet-bye-1",
@@ -217,7 +217,7 @@
   },
   {
     "id": "sit-greet-for-3-001",
-    "title": "Yeni ekip çemberi, sıradaki kişi sensin",
+    "title": "Yeni ekip toplantısı, sıradaki kişi sensin",
     "text": "İş yerinde yeni bir ekibe katıldın. İlk grup toplantında yönetici, \"Hızlıca sırayla kendimizi tanıtalım\" diyor.",
     "correctScriptId": "greet-for-3",
     "distractorPrimary": "greet-cas-3",
@@ -226,8 +226,8 @@
   },
   {
     "id": "sit-greet-for-3-002",
-    "title": "Gönüllü grubu çemberi, sıra sana yaklaşıyor",
-    "text": "Bir gönüllü grup toplantısındasın ve kolaylaştırıcı herkesten adını ve neden katıldığını kısaca söylemesini istiyor. Neredeyse sıra sana geliyor.",
+    "title": "Gönüllü grubu toplantısı, sıra sana yaklaşıyor",
+    "text": "Bir gönüllü grup toplantısındasın ve toplantıyı yöneten kişi herkesten adını ve neden katıldığını kısaca söylemesini istiyor. Neredeyse sıra sana geliyor.",
     "correctScriptId": "greet-for-3",
     "distractorPrimary": "greet-cas-1",
     "distractorSecondary": "talk-end-2",
@@ -235,16 +235,16 @@
   },
   {
     "id": "sit-greet-for-3-003",
-    "title": "Destek grubu çemberi, tek kelimelik durum turu",
-    "text": "Toplum ruh sağlığı destek grubunun ilk oturumuna katılıyorsun. Kolaylaştırıcı herkesten adını ve o an nasıl hissettiğini bir kelimeyle paylaşmasını istiyor.",
+    "title": "Destek grubu toplantısı, tek kelimelik durum turu",
+    "text": "Toplum ruh sağlığı destek grubunun ilk oturumuna katılıyorsun. Toplantıyı yöneten kişi herkesten adını ve o an nasıl hissettiğini bir kelimeyle paylaşmasını istiyor.",
     "correctScriptId": "greet-for-3",
     "distractorPrimary": "greet-cas-1",
     "distractorSecondary": "hlth-thr-1",
-    "explanation": "Destekleyici bir ortam olsa da bu bölüm sırayla yapılan yapılandırılmış tanıtımdır. 'Bir Toplantıda Kendini Tanıtmak' sıranı bekleyip kısa konuşman için uygun çerçeveyi sunar."
+    "explanation": "Bu samimi bir grup olsa da konuşmalar sırayla yapılır ve herkes kendini kısaca tanıtır. 'Bir Toplantıda Kendini Tanıtmak' sıranı bekleyip kısa konuşman için uygun çerçeveyi sunar."
   },
   {
     "id": "sit-greet-for-4-001",
-    "title": "Akşam dersi sınıfı, erken varış",
+    "title": "Akşam dersi sınıfı, sınıfa erken geldin",
     "text": "Yeni bir akşam dersinin ilk haftasındasın. Erken geldin; öndeki kişi sınıfı hazırlıyor. Sınıfta henüz senden başka kimse yok.",
     "correctScriptId": "greet-for-4",
     "distractorPrimary": "greet-cas-1",
@@ -253,8 +253,8 @@
   },
   {
     "id": "sit-greet-for-4-002",
-    "title": "Amfi kapısı, ön tarafta kısa duraklama",
-    "text": "Bir sorunun olduğu için üniversite dersinden sonra kaldın. Öndeki kişi kapı yanında çantasını toplarken sana bakıyor.",
+    "title": "Amfi kapısı, soru sormak için bekledin",
+    "text": "Bir soru sormak için üniversite dersinden sonra sınıfta bekledin. Eğitmen kapı yanında çantasını toplarken sana bakıyor.",
     "correctScriptId": "greet-for-4",
     "distractorPrimary": "greet-cas-3",
     "distractorSecondary": "work-cls-1",
@@ -263,7 +263,7 @@
   {
     "id": "sit-greet-for-4-003",
     "title": "Atölye önü, yeni gelenler öne çağrılıyor",
-    "text": "Bir atölyeye kaydoldun ve kolaylaştırıcı oturum başlamadan önce yeni gelenleri kısa bir selam için öne çağırıyor.",
+    "text": "Bir atölyeye kaydoldun ve eğitmen oturum başlamadan önce yeni gelenleri kısa bir selamlama için öne çağırıyor.",
     "correctScriptId": "greet-for-4",
     "distractorPrimary": "greet-cas-1",
     "distractorSecondary": "self-acc-1",
@@ -272,20 +272,20 @@
   {
     "id": "sit-greet-bye-1-001",
     "title": "Aile mangalı, ev sahibi sohbete ara vermişken",
-    "text": "Bir süredir aile mangalındasın ve artık ayrılmaya hazırsın. Ev sahibi olan halan yakında sohbet ediyor. Konuşmada kısa bir boşluk oluşuyor.",
+    "text": "Bir süredir aile mangalındasın ve artık ayrılma vakti geldi. Ev sahibi olan halan yakınında sohbet ediyor. Konuşmada kısa bir boşluk oluşuyor.",
     "correctScriptId": "greet-bye-1",
     "distractorPrimary": "greet-cas-4",
     "distractorSecondary": "talk-end-1",
-    "explanation": "Ayrılacağını belirtip ev sahibine teşekkür ederek vedalaşman gerekiyor; uzayan bir çıkışa dönmemesi önemli. 'Sosyal Bir Etkinlikten Ayrılmak' bunu adım adım anlatır."
+    "explanation": "Ayrılacağını belirtip ev sahibine teşekkür ederek vedalaşman gerekiyor; uzayan bir muhabbete dönmemesi önemli. 'Sosyal Bir Etkinlikten Ayrılmak' bunu adım adım anlatır."
   },
   {
     "id": "sit-greet-bye-1-002",
-    "title": "Mesai sonrası buluşma, çıkışta bekleyen ekip",
+    "title": "Mesai sonrası buluşma, çıkışta bekleyen iş arkadaşların",
     "text": "İş sonrası sosyal bir buluşmadasın. Gün uzundu ve eve dönmek istiyorsun ama çıkışın yanında hâlâ sohbet eden birkaç iş arkadaşın var.",
     "correctScriptId": "greet-bye-1",
     "distractorPrimary": "greet-for-3",
     "distractorSecondary": "work-day-2",
-    "explanation": "İş arkadaşların olsa da bağlam sosyal etkinliktir; kısa bir veda turu ve zarif bir çıkış uygundur. 'Sosyal Bir Etkinlikten Ayrılmak' doğru adımları verir."
+    "explanation": "İş arkadaşların olsa da bağlam sosyal etkinliktir; kısa bir veda turu ile zarif bir çıkış yapabilirsin. 'Sosyal Bir Etkinlikten Ayrılmak' senaryosu doğru adımları verir."
   },
   {
     "id": "sit-greet-bye-1-003",
@@ -294,11 +294,11 @@
     "correctScriptId": "greet-bye-1",
     "distractorPrimary": "greet-online-1",
     "distractorSecondary": "talk-end-2",
-    "explanation": "Burada en uygun yaklaşım, gruba kısa bir veda etmek, ev sahibine teşekkür etmek ve uzatmadan ayrılmaktır. 'Sosyal Bir Etkinlikten Ayrılmak' tam bu durumdur."
+    "explanation": "Burada en uygun yaklaşım, gruba kısa bir veda etmek, ev sahibine teşekkür etmek ve uzatmadan ayrılmaktır. 'Sosyal Bir Etkinlikten Ayrılmak' tam bu durum için."
   },
   {
     "id": "sit-greet-bye-2-001",
-    "title": "Sokak ayrımı, yollarınız farklı",
+    "title": "Sokakta sohbet, yollarınız ayrılıyor",
     "text": "Bir süredir arkadaşınla yürüyüp sohbet ediyorsunuz. Eve dönmek için ayrılman gereken sokağa geldin; arkadaşın ise diğer yöne gidecek.",
     "correctScriptId": "greet-bye-2",
     "distractorPrimary": "greet-cas-4",
@@ -308,7 +308,7 @@
   {
     "id": "sit-greet-bye-2-002",
     "title": "Telefon görüşmesi, vedadan önce duraksama",
-    "text": "Bir arkadaşınla telefon konuşmanı bitirdin ve ikiniz de vedalaşmadan önce kısa, tuhaf bir sessizlik oldu.",
+    "text": "Bir arkadaşınla telefon konuşmanı bitirdin ve ikinizin arasında vedalaşmadan önce kısa, tuhaf bir sessizlik oldu.",
     "correctScriptId": "greet-bye-2",
     "distractorPrimary": "greet-online-2",
     "distractorSecondary": "phone-vm-1",
@@ -330,12 +330,12 @@
     "correctScriptId": "greet-bye-3",
     "distractorPrimary": "greet-cas-3",
     "distractorSecondary": "work-day-2",
-    "explanation": "Toparlanırken kısa bir el sallama ya da \"Yarın görüşürüz\" demek burada yeterlidir. 'Günün Sonunda İşyerinden Ayrılma' bu anı kolaylaştırır."
+    "explanation": "Toparlanırken kısa bir el sallama ya da \"Yarın görüşürüz\" demek burada yeterlidir. 'Günün Sonunda İşyerinden Ayrılma' tam bu an için."
   },
   {
     "id": "sit-greet-bye-3-002",
-    "title": "Uzaktan çalışma kapanışı, laptop kapanıyor",
-    "text": "Uzaktan çalışma seansını bitiriyorsun ve laptopu kapatırken veda ediyorsun. Ekipten birkaç kişi konuşmaya devam ediyor.",
+    "title": "Uzaktan çalışma kapanışı, oturumdan çıkıyorsun",
+    "text": "Uzaktan toplu çalışma seansını bitiriyorsun ve toplantı oturumundan çıkarken veda ediyorsun. Ekipten birkaç kişi konuşmaya devam ediyor.",
     "correctScriptId": "greet-bye-3",
     "distractorPrimary": "greet-online-1",
     "distractorSecondary": "ph-eml-2",
@@ -361,7 +361,7 @@
   },
   {
     "id": "sit-greet-online-1-002",
-    "title": "Aile ekranı, herkes çoktan görünür durumda",
+    "title": "Aile ile görüntülü görüşme, herkes çoktan katılmış",
     "text": "Aile grubunun görüntülü görüşmesi başlıyor. Bağlantıya dokununca bir anda herkesin yüzü ekrana geliyor. Bağlandığında hepsi sana bakıyor.",
     "correctScriptId": "greet-online-1",
     "distractorPrimary": "greet-cas-1",
@@ -393,11 +393,11 @@
     "correctScriptId": "greet-online-2",
     "distractorPrimary": "greet-cas-3",
     "distractorSecondary": "work-day-2",
-    "explanation": "İş mesajında kısa bir açılış ve net talep gerekir; görüntülü görüşme selamı gibi başlamaz. 'Mesajlaşmayı Başlatmak' net ve uygun bir giriş sağlar."
+    "explanation": "İş mesajında kısa bir açılış yapmak ve ne istediğini net bir şekilde belirtmek gerekir; görüntülü görüşme selamı gibi başlamaz. 'Mesajlaşmayı Başlatmak' net ve uygun bir giriş sağlar."
   },
   {
     "id": "sit-greet-online-2-003",
-    "title": "Kulüp sohbeti, sessiz sabah akışı",
+    "title": "Kulüp sohbet odası, sessiz bir sabah",
     "text": "Bir kulüp projesinin grup sohbetindesin ve herkesin nerede buluşmak istediğini sorman gerekiyor. Sohbet sabah boyunca sessizdi.",
     "correctScriptId": "greet-online-2",
     "distractorPrimary": "greet-for-3",
@@ -406,12 +406,12 @@
   },
   {
     "id": "sit-talk-weath-1-001",
-    "title": "Asansör yolculuğu, camdan güçlü güneş",
-    "text": "Komşunla birlikte asansörde katına çıkıyorsun. Camdan parlak güneş vuruyor ve ikiniz de henüz konuşmadınız.",
+    "title": "Apartman girişinde karşılaşma",
+    "text": "Apartman girişinde komşunla karşılaşıyorsun. Dışarıdan yeni gelmişsiniz, hava oldukça sıcak ve camdan güneş ışığı vuruyor.",
     "correctScriptId": "talk-weath-1",
     "distractorPrimary": "talk-plans-1",
     "distractorSecondary": "greet-cas-2",
-    "explanation": "Dışarıda görünen hava hakkında kısa bir yorum burada güvenli ve dostça bir başlangıç olur. 'Hava Durumu Sohbeti' basit açılış ve yanıt cümleleri sunar."
+    "explanation": "O anda hissedilen hava hakkında kısa bir yorum yapmak sohbet başlatmanın kolay ve doğal bir yoludur. 'Hava Durumu Sohbeti' uygun açılış ve yanıt örnekleri sunar."
   },
   {
     "id": "sit-talk-weath-1-002",
@@ -420,7 +420,7 @@
     "correctScriptId": "talk-weath-1",
     "distractorPrimary": "talk-end-4",
     "distractorSecondary": "help-store-1",
-    "explanation": "Gökyüzündeki duruma dair kısa bir yorum düşük baskılı bir sohbet başlatır. 'Hava Durumu Sohbeti' bu an için, sessizliği yönetmekten ya da yardım istemekten daha uygundur."
+    "explanation": "Gökyüzündeki duruma dair kısa bir yorum düşük stresli bir sohbet başlatır. 'Hava Durumu Sohbeti' bu an için, sessizliği yönetmekten ya da yardım istemekten daha uygundur."
   },
   {
     "id": "sit-talk-weath-1-003",
@@ -460,26 +460,26 @@
   },
   {
     "id": "sit-talk-plans-1-001",
-    "title": "Perşembe masası, yaklaşan tatil günleri",
+    "title": "Perşembe öğleden sonra, yaklaşan tatil günleri",
     "text": "İş yerinde perşembe öğleden sonra. Ekip arkadaşın masasında çantasını yavaşça topluyor. Haftanın temposu düşmüş ve daha rahat görünüyor.",
     "correctScriptId": "talk-plans-1",
     "distractorPrimary": "talk-weath-1",
     "distractorSecondary": "greet-cas-3",
-    "explanation": "Bu an, önümüzdeki birkaç boş günde ne yapacağını sormak için doğaldır. 'Hafta Sonu Planları' sorma, dinleme ve hafif tutma adımlarını içerir."
+    "explanation": "Bu an, önümüzdeki birkaç boş günde ne yapacağını sormak için uygun bir andır. 'Hafta Sonu Planları' sorma, dinleme ve hafif tutma adımlarını içerir."
   },
   {
     "id": "sit-talk-plans-1-002",
-    "title": "Cuma sınıfı, çantalar kapanırken",
+    "title": "Cuma son ders, çantalar kapanırken",
     "text": "Cuma gününün son dersi bitti. Yakında oturan sınıf arkadaşın yanında çantasını kapatıyor. İkiniz de çıkmadan önce kısa bir vaktiniz var.",
     "correctScriptId": "talk-plans-1",
     "distractorPrimary": "talk-comp-2",
     "distractorSecondary": "work-cls-1",
-    "explanation": "Dersten çıkış arasındaki bu kısa boşlukta gelecek gün planlarını sormak uygundur. 'Hafta Sonu Planları', iltifat etmekten ya da ders görevi konuşmaktan daha doğru bir seçimdir."
+    "explanation": "Dersten çıkış arasındaki bu kısa boşlukta gelecek gün planlarını sormak uygundur. 'Hafta Sonu Planları', iltifat etmekten ya da dersle ilgili soru sormaktan daha doğru bir seçimdir."
   },
   {
     "id": "sit-talk-plans-1-003",
-    "title": "Ön bahçe, çöp kutularını geri alma anı",
-    "text": "Cuma akşamı çöp kutularını içeri alıyorsun. Komşun da ön bahçedeki bitkileri suluyor. El sallıyor ve kısa bir sohbet etmeye istekli görünüyor.",
+    "title": "Asansör kapısı, kısa bekleme anı",
+    "text": "Cuma akşamı komşunla asansör bekliyorsun. Birlikte birkaç dakika beklemeniz gerekiyor ve komşun sohbet etmeye istekli görünüyor.",
     "correctScriptId": "talk-plans-1",
     "distractorPrimary": "talk-end-1",
     "distractorSecondary": "greet-cas-2",
@@ -487,7 +487,7 @@
   },
   {
     "id": "sit-talk-plans-2-001",
-    "title": "Öğle masası, ilgi alanı sorusu",
+    "title": "Öğle yemeği masası, ilgi alanı sorusu",
     "text": "Yeni bir ekip arkadaşınla öğle yemeğindesin. Sana iş dışında neler yapmaktan hoşlandığını soruyor. Gerçekten merak ediyor gibi öne eğiliyor.",
     "correctScriptId": "talk-plans-2",
     "distractorPrimary": "talk-weath-2",
@@ -496,8 +496,8 @@
   },
   {
     "id": "sit-talk-plans-2-002",
-    "title": "Kafe masası, ev sahibi ilgi alanlarını soruyor",
-    "text": "İlk kez bir kutu oyun kafesindesin. Masadaki ev sahibi, genelde hangi tür oyunları sevdiğini soruyor. Diğerleri cevabını bekliyor.",
+    "title": "Kafe masası, arkadaşın ilgi alanlarını soruyor",
+    "text": "İlk kez bir kutu oyun kafesindesin. Oyunu organize eden arkadaşın, genelde hangi tür oyunları sevdiğini soruyor. Diğerleri cevabını bekliyor.",
     "correctScriptId": "talk-plans-2",
     "distractorPrimary": "talk-weath-2",
     "distractorSecondary": "soc-gm-4",
